@@ -3146,24 +3146,31 @@ rtmp://183.238.77.4:1935/dvr/30184.stream
 
 #EXTINF:0,group-title="战旗 ",[COLOR green][B]----------战旗频道-------[/B][/COLOR]
 http://?
+
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 神仙姐姐影院
+rtmp://112.29.147.54/dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 林正英陪你过
+http://dlhls.cdn.zhanqi.tv/zqlive/54770_1aw2J.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 男人必看
+http://dlhls.cdn.zhanqi.tv/zqlive/91997_Uf9mr.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 模★
-http://strtmp.cdn.zhanqi.tv/zqlive/zqlive/93774_g0UdM
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/93774_g0UdM
 #EXTINF:-1 $ExtFilter="战旗",战旗 - ★DeepHouse★
-http://strtmp.cdn.zhanqi.tv/zqlive/zqlive/38498_51io6
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/38498_51io6
 #EXTINF:-1 $ExtFilter="战旗",战旗 - ★66放映室
-http://strtmp.cdn.zhanqi.tv/zqlive/zqlive/96881_CiPMo
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/96881_CiPMo
 #EXTINF:-1 $ExtFilter="战旗",战旗 - ★AKB48
-http://strtmp.cdn.zhanqi.tv/zqlive/zqlive/39651_PM6Dz
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/39651_PM6Dz
 #EXTINF:-1 $ExtFilter="战旗",战旗 - ★逗你的
-http://strtmp.cdn.zhanqi.tv/zqlive/zqlive/106611_cQko1
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/106611_cQko1
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国SBS人气女团HD
-http://strtmp.cdn.zhanqi.tv/zqlive/zqlive/19969_TnDT2
+http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国SBS中字综艺
-http://strtmp.cdn.zhanqi.tv/zqlive/zqlive/284_zMohT
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/284_zMohT
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国少女MV
-http://strtmp.cdn.zhanqi.tv/zqlive/zqlive/1285_Zloy4
+http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国星卫娱乐少女时代
-http://strtmp.cdn.zhanqi.tv/zqlive/zqlive/1285_Zloy4
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/1285_Zloy4
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国娱乐KMTV
 http://210.200.79.26:1935/live/ukmtv.sdp/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 印度mtv频道
