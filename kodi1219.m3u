@@ -1,4 +1,123 @@
 #EXTM3U
+#EXTINF:0,group-title="app",[COLOR green][B]----------app-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="app",app - 陕西卫视HD
+http://app.008.cn:8080/live/1000223.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西卫视HD
+http://app.008.cn:8080/live/1000222.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西1套
+http://app.008.cn:8080/live/1000221.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西1套
+http://app.008.cn:8080/live/1000220.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西2套
+http://app.008.cn:8080/live/1000196.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西2套
+http://app.008.cn:8080/live/1000197.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西3套
+http://app.008.cn:8080/live/1000195.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西3套
+http://app.008.cn:8080/live/1000194.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西5套
+http://app.008.cn:8080/live/1000193.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西5套
+http://app.008.cn:8080/live/1000192.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西7套
+http://app.008.cn:8080/live/1000249.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西7套
+http://app.008.cn:8080/live/1000248.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西8套
+http://app.008.cn:8080/live/1000189.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 陕西8套
+http://app.008.cn:8080/live/1000188.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-1
+http://app.008.cn:8080/live/1000242.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-1
+http://app.008.cn:8080/live/1000243.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-2
+http://app.008.cn:8080/live/1000218.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-2
+http://app.008.cn:8080/live/1000219.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-3
+http://app.008.cn:8080/live/1000235.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-3
+http://app.008.cn:8080/live/1000234.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-4
+http://app.008.cn:8080/live/1000250.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-4
+http://app.008.cn:8080/live/1000251.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-5
+http://app.008.cn:8080/live/1000241.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-5
+http://app.008.cn:8080/live/1000240.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-6
+http://app.008.cn:8080/live/1000215.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-6
+http://app.008.cn:8080/live/1000214.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-7
+http://app.008.cn:8080/live/1000213.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-7
+http://app.008.cn:8080/live/1000212.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-8
+http://app.008.cn:8080/live/1000236.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-8
+http://app.008.cn:8080/live/1000237.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-9
+http://app.008.cn:8080/live/1000211.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-9
+http://app.008.cn:8080/live/1000210.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-10
+http://app.008.cn:8080/live/1000208.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-10
+http://app.008.cn:8080/live/1000209.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-11
+http://app.008.cn:8080/live/1000207.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-11
+http://app.008.cn:8080/live/1000206.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-12
+http://app.008.cn:8080/live/1000205.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-12
+http://app.008.cn:8080/live/1000204.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-13
+http://app.008.cn:8080/live/1000202.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-13
+http://app.008.cn:8080/live/1000203.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-14
+http://app.008.cn:8080/live/1000198.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-14
+http://app.008.cn:8080/live/1000199.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-15
+http://app.008.cn:8080/live/1000200.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-15
+http://app.008.cn:8080/live/1000201.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-5+
+http://app.008.cn:8080/live/1000238.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - CCTV-5+
+http://app.008.cn:8080/live/1000239.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 湖南卫视
+http://app.008.cn:8080/live/1000226.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 湖南卫视
+http://app.008.cn:8080/live/1000227.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 北京卫视
+http://app.008.cn:8080/live/1000229.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 北京卫视
+http://app.008.cn:8080/live/1000228.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 东方卫视
+http://app.008.cn:8080/live/1000186.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 东方卫视
+http://app.008.cn:8080/live/1000187.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 上海卫视
+http://app.008.cn:8080/live/1000231.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 上海卫视
+http://app.008.cn:8080/live/1000230.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 江苏卫视
+http://app.008.cn:8080/live/1000233.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 江苏卫视
+http://app.008.cn:8080/live/1000232.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 浙江卫视
+http://app.008.cn:8080/live/1000224.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="app",app - 浙江卫视
+http://app.008.cn:8080/live/1000225.stream/playlist.m3u8
 
 #EXTINF:0,group-title="新疆",[COLOR green][B]----------新疆-------[/B][/COLOR]
 http://?
