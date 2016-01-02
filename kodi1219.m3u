@@ -1,4 +1,91 @@
 #EXTM3U
+#EXTINF:0,group-title="乐视国内直播",[COLOR green][B]----------乐视国内直播-------[/B][/COLOR]
+http://?
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - CCTV13-新闻
+http://jyzx8.com/tv/m3u8/ipad.php/cctvnew.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 湖南卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/ws_hunanwsHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/bjwsHD_1800.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/shenzhenHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 湖北卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/hubeiHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 广东卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/guangdongHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 江苏卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/jiangsuHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 东方卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/dongfangHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 山东卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/shandongHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 天津卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/tianjinHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 黑龙江卫视HD
+http://jyzx8.com/tv/m3u8/ipad.php/heilongjiangHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 甘肃卫视
+http://jyzx8.com/tv/m3u8/ipad.php/gansu.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 陕西卫视
+http://jyzx8.com/tv/m3u8/ipad.php/shanxi1.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 山西卫视
+http://jyzx8.com/tv/m3u8/ipad.php/shanxi.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 吉林卫视
+http://jyzx8.com/tv/m3u8/ipad.php/jilin.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 四川卫视
+http://jyzx8.com/tv/m3u8/ipad.php/sichuan.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京文艺HD
+http://jyzx8.com/tv/m3u8/ipad.php/bjwyHD_1800.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京纪实HD
+http://jyzx8.com/tv/m3u8/ipad.php/bjjsHD_1800.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京体育HD
+http://jyzx8.com/tv/m3u8/ipad.php/btv6_1800.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京科教
+http://jyzx8.com/tv/m3u8/ipad.php/bjkj.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京影视
+http://jyzx8.com/tv/m3u8/ipad.php/bjys.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京财经
+http://jyzx8.com/tv/m3u8/ipad.php/bjcj.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京生活
+http://jyzx8.com/tv/m3u8/ipad.php/bjsh.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京青年
+http://jyzx8.com/tv/m3u8/ipad.php/bjqn.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 北京新闻
+http://jyzx8.com/tv/m3u8/ipad.php/bjxw.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 上海新闻HD
+http://jyzx8.com/tv/m3u8/ipad.php/ws_shxw_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 广东珠江
+http://jyzx8.com/tv/m3u8/ipad.php/ws_gdzj_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 广东新闻
+http://jyzx8.com/tv/m3u8/ipad.php/ws_gdxw_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳都市
+http://jyzx8.com/tv/m3u8/ipad.php/ws_szds_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳电视剧
+http://jyzx8.com/tv/m3u8/ipad.php/ws_szdsj_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳体育健康
+http://jyzx8.com/tv/m3u8/ipad.php/ws_sztyjk_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳财经
+http://jyzx8.com/tv/m3u8/ipad.php/ws_szcj_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳娱乐
+http://jyzx8.com/tv/m3u8/ipad.php/ws_szyl_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 深圳少儿
+http://jyzx8.com/tv/m3u8/ipad.php/ws_szse_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 南方经济科教
+http://jyzx8.com/tv/m3u8/ipad.php/ws_nfjj_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 南方影视
+http://jyzx8.com/tv/m3u8/ipad.php/ws_nfys_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 南方少儿
+http://jyzx8.com/tv/m3u8/ipad.php/ws_nfse_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 南方综艺
+http://jyzx8.com/tv/m3u8/ipad.php/ws_nfzy_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 江苏城市
+http://jyzx8.com/tv/m3u8/ipad.php/ws_jscs_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 江苏综艺
+http://jyzx8.com/tv/m3u8/ipad.php/ws_jszy_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 江苏影视
+http://jyzx8.com/tv/m3u8/ipad.php/ws_jsys_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视国内直播",乐视国内直播 - 江苏体育休闲
+http://jyzx8.com/tv/m3u8/ipad.php/ws_jstyxx_1300.m3u8
+
 #EXTINF:0,group-title="app",[COLOR green][B]----------app-------[/B][/COLOR]
 http://?
 
@@ -343,7 +430,7 @@ http://pczhibo.imgo.tv/117s14fm
 http://pczhibo.imgo.tv/121s11fm
 #EXTINF:-1 $ExtFilter="湖南频道",★湖南频道★ - CCTV高尔夫网球
 http://pczhibo.imgo.tv/111s35fm
-#EXTINF:0,group-title="搜狐华数",[COLOR green][B]----------搜狐华数-------[/B][/COLOR]
+#EXTINF:0,group-title="搜狐华数",[COLOR green][B]----------搜狐华数(慢)-------[/B][/COLOR]
 http://?
 
 #EXTINF:-1 $ExtFilter="搜狐华数",搜狐华数 - CCTV-1
@@ -655,122 +742,6 @@ http://evansgs.xinxingkm.com/mgtv.php?liveId=mgty
 http://pczhibo.imgo.tv/119s41fm
 #EXTINF:-1 $ExtFilter="mgtv",芒果电视 - 先锋记录
 http://pczhibo.imgo.tv/119s31fm
-#EXTINF:0,group-title="搜狐移动",[COLOR green][B]----------搜狐移动-------[/B][/COLOR]
-http://?
-
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-1
-http://sohudn.duapp.com/dop/ycmv.php/cctv1.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-1HD
-http://sohudn.duapp.com/dop/ycmv.php/cctv1hd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-2
-http://sohudn.duapp.com/dop/ycmv.php/cctv2.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-3
-http://sohudn.duapp.com/dop/ycmv.php/cctv3.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-4(亚)
-http://sohudn.duapp.com/dop/ycmv.php/cctv4.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-5
-http://sohudn.duapp.com/dop/ycmv.php/cctv5.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-5HD
-http://sohudn.duapp.com/dop/ycmv.php/cctv5hd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-6
-http://sohudn.duapp.com/dop/ycmv.php/cctv6.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-7
-http://sohudn.duapp.com/dop/ycmv.php/cctv7.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-8
-http://sohudn.duapp.com/dop/ycmv.php/cctv8.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-9
-http://sohudn.duapp.com/dop/ycmv.php/cctv9.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-10
-http://sohudn.duapp.com/dop/ycmv.php/cctv10.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-11
-http://sohudn.duapp.com/dop/ycmv.php/cctv11.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-12
-http://sohudn.duapp.com/dop/ycmv.php/cctv12.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-13
-http://sohudn.duapp.com/dop/ycmv.php/cctv13.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-14
-http://sohudn.duapp.com/dop/ycmv.php/cctv14.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-15
-http://sohudn.duapp.com/dop/ycmv.php/cctv15.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CCTV-NEWS
-http://sohudn.duapp.com/dop/ycmv.php/cctvnews.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 新华中文
-http://112.124.12.126/lolbbs/tvzb/letv3.php?id=hz_xhs2_800
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 新华英文
-http://112.124.12.126/lolbbs/tvzb/letv3.php?id=hz_xhs1_800
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - CETV1中国教育
-http://sohudn.duapp.com/dop/ycmv.php/cetv1.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 湖南卫视
-http://sohudn.duapp.com/dop/ycmv.php/hnws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 湖南卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/hnwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 浙江卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/zjwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 东方卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/dfwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 深圳卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/szwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/bjwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 江苏卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/jswshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 山东卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/sdwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 天津卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/tjwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 广东卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/gdwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 黑龙江卫视HD
-http://sohudn.duapp.com/dop/ycmv.php/hljwshd.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 重庆卫视
-http://sohudn.duapp.com/dop/ycmv.php/cqws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 云南卫视
-http://sohudn.duapp.com/dop/ycmv.php/ynws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 新疆卫视
-http://sohudn.duapp.com/dop/ycmv.php/xjws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 甘肃卫视
-http://sohudn.duapp.com/dop/ycmv.php/gsws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 山西卫视
-http://sohudn.duapp.com/dop/ycmv.php/sxws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 西藏卫视
-http://sohudn.duapp.com/dop/ycmv.php/xzws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 青海卫视
-http://sohudn.duapp.com/dop/ycmv.php/qhws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 宁夏卫视
-http://sohudn.duapp.com/dop/ycmv.php/nxws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 旅游卫视
-http://sohudn.duapp.com/dop/ycmv.php/lyws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 辽宁卫视
-http://sohudn.duapp.com/dop/ycmv.php/lnws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 康巴卫视
-http://sohudn.duapp.com/dop/ycmv.php/kbws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 贵州卫视
-http://sohudn.duapp.com/dop/ycmv.php/gzws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 湖北卫视
-http://sohudn.duapp.com/dop/ycmv.php/hbws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 河南卫视
-http://sohudn.duapp.com/dop/ycmv.php/hnws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 吉林卫视
-http://sohudn.duapp.com/dop/ycmv.php/jlws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 广西卫视
-http://sohudn.duapp.com/dop/ycmv.php/gxws.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京科教
-http://sohudn.duapp.com/dop/ycmv.php/btv3.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京文艺
-http://sohudn.duapp.com/dop/ycmv.php/btv2.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京新闻
-http://sohudn.duapp.com/dop/ycmv.php/btv9.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京影视
-http://sohudn.duapp.com/dop/ycmv.php/btv4.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京青少
-http://sohudn.duapp.com/dop/ycmv.php/btv8.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京体育
-http://sohudn.duapp.com/dop/ycmv.php/btv6.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京生活
-http://sohudn.duapp.com/dop/ycmv.php/btv7.m3u8
-#EXTINF:-1 $ExtFilter="搜狐移动",搜狐移动 - 北京财经,
-http://sohudn.duapp.com/dop/ycmv.php/btv5.m3u8
-
 #EXTINF:0,group-title="江苏移动",[COLOR green][B]----------江苏移动-------[/B][/COLOR]
 http://?
 
