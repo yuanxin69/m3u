@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:0,group-title="pczhibo",[COLOR green][B]----------pczhibo-------[/B][/COLOR]
+http://?
+
+
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 卫视国际频道
+http://pczhibo.imgo.tv/117s21fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 金鹰卡通
+http://pczhibo.imgo.tv/107s25fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 青海卫视
+http://pczhibo.imgo.tv/117s41fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 湖南经视
+http://pczhibo.imgo.tv/123s31fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 湖南都市
+http://pczhibo.imgo.tv/123s17fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 湖南娱乐
+http://pczhibo.imgo.tv/111s41fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 电视剧
+http://pczhibo.imgo.tv/119s11fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 快乐购
+http://pczhibo.imgo.tv/117s31fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 金鹰卡通
+http://pczhibo.imgo.tv/107s25fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 金鹰纪实
+http://pczhibo.imgo.tv/115s12fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 湖南公共
+http://pczhibo.imgo.tv/119s21fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 长沙政法频道
+http://pczhibo.imgo.tv/111s12fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 长沙新闻频道
+http://pczhibo.imgo.tv/109s31fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 长沙女性频道
+http://pczhibo.imgo.tv/115s31fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 茶频道
+http://pczhibo.imgo.tv/119s31fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 天元围棋
+http://pczhibo.imgo.tv/125s21fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 先锋乒羽
+http://pczhibo.imgo.tv/119s41fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 先锋记录
+http://pczhibo.imgo.tv/119s31fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 快乐垂钓
+http://pczhibo.imgo.tv/111s26fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 四海钓鱼
+http://pczhibo.imgo.tv/117s14fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - 江苏靓妆
+http://pczhibo.imgo.tv/121s11fm
+#EXTINF:-1 $ExtFilter="pczhibo",pczhibo - CCTV高尔夫网球
+http://pczhibo.imgo.tv/111s35fm
 
 #EXTINF:0,group-title="乐视国内直播",[COLOR green][B]----------乐视国内直播-------[/B][/COLOR]
 http://?
@@ -594,12 +642,6 @@ http://222.246.232.154/live01.cache.m.wasu.com/yazhouyy/z.m3u8
 http://222.246.232.154/live01.cache.m.wasu.com/oumeiyy/z.m3u8
 #EXTINF:-1 $ExtFilter="华数222",华数222 - 亚洲影院心月
 http://124.160.124.24/bd_yzyy/z.m3u8
-#EXTINF:-1 $ExtFilter="华数222",华数222 - 凤凰中文HD
-http://111.20.115.242/live/stream5.m3u8
-#EXTINF:-1 $ExtFilter="华数222",华数222 - 凤凰资讯HD
-http://111.20.115.242/live/stream7.m3u8
-#EXTINF:-1 $ExtFilter="华数222",华数222 - 凤凰香港台
-http://111.20.115.242/live/stream1.m3u8
 
 
 
@@ -1302,119 +1344,6 @@ http://117.144.248.55:5580/yst.live.ahmobile.com/120.210.216.73:8085/ysten-busin
 http://121.9.222.53/live01.cache.m.wasu.com/dongzuody/z.m3u8
 #EXTINF:-1 $ExtFilter="117",117 - CHC家庭影院
 http://121.9.222.53/live01.cache.m.wasu.com/jiatingyy/z.m3u8
-
-#EXTINF:0,group-title="农业大学",[COLOR green][B]----------农业大学-------[/B][/COLOR]
-http://?
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 凤凰中文
-http://202.205.93.230:280/fengcn/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 凤凰资讯
-http://202.205.93.230:280/fenginfo/playlist.m3u8 
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 国家地理
-http://202.205.93.230:280/ngchd/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 国家地理野生
-http://202.205.93.230:280/ngwhd/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 探索頻道
-http://202.205.93.230:280/dshdw/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 探索发现
-http://202.205.93.230:280/dsc/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 福克斯新闻
-http://202.205.93.230:280/FoxNews/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-1
-http://202.205.93.230:280/cctv1/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-2
-http://202.205.93.230:280/cctv2/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-3
-http://202.205.93.230:280/cctv3/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-4
-http://202.205.93.230:280/cctv4/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-5
-http://202.205.93.230:280/cctv5/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-6
-http://202.205.93.230:280/cctv6/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-7
-http://202.205.93.230:280/cctv7/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-8
-http://202.205.93.230:280/cctv8/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-9
-http://202.205.93.230:280/cctv9/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-10
-http://202.205.93.230:280/cctv10/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-11
-http://202.205.93.230:280/cctv11/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-12
-http://202.205.93.230:280/cctv12/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-13
-http://202.205.93.230:280/cctv13/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-14
-http://202.205.93.230:280/cctv14/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - CCTV-15
-http://202.205.93.230:280/cctv15/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 中国教育1
-http://202.205.93.230:280/zj1/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 中国教育3
-http://202.205.93.230:280/zj3/playlist.m3u8 
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 东方卫视
-http://202.205.93.230:280/dftv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 天津卫视
-http://202.205.93.230:280/tjtv/playlist.m3u8 
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 重庆卫视
-http://202.205.93.230:280/cqtv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 黑龙江卫视
-http://202.205.93.230:280/hljtv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 吉林卫视
-http://202.205.93.230:280/jilin/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 辽宁卫视
-http://202.205.93.230:280/lntv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 内蒙古卫视
-http://202.205.93.230:280/nmtv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 宁夏卫视
-http://202.205.93.230:280/nxtv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 甘肃卫视
-http://202.205.93.230:280/gstv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 青海卫视
-http://202.205.93.230:280/qhtv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 陕西卫视
-http://202.205.93.230:280/shan3xi/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 河北卫视
-http://202.205.93.230:280/hebtv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 山西卫视
-http://202.205.93.230:280/s1xtv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 安徽卫视
-http://202.205.93.230:280/anhui/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 山东卫视
-http://202.205.93.230:280/shandong/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 河南卫视
-http://202.205.93.230:280/henan/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 湖北卫视
-http://202.205.93.230:280/hubei/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 湖南卫视
-http://202.205.93.230:280/huntv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 江西卫视
-http://202.205.93.230:280/jxtv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 江苏卫视
-http://202.205.93.230:280/jstv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 浙江卫视
-http://202.205.93.230:280/zhejiang/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 东南卫视
-http://202.205.93.230:280/fjtv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 厦门卫视
-http://202.205.93.230:280/xmtv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 广东卫视
-http://202.205.93.230:280/guangdong/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 广西卫视
-http://202.205.93.230:280/guangxi/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 云南卫视
-http://202.205.93.230:280/yntv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 贵州卫视
-http://202.205.93.230:280/gztv/playlist.m3u8 
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 四川卫视
-http://202.205.93.230:280/sctv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 新疆卫视
-http://202.205.93.230:280/xjtv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 西藏卫视
-http://202.205.93.230:280/xztv/playlist.m3u8
-#EXTINF:-1 $ExtFilter="农业大学",农业大学 - 旅游卫视
-http://202.205.93.230:280/lytv/playlist.m3u8
 
 #EXTINF:0,group-title="210",[COLOR green][B]----------210-------[/B][/COLOR]
 http://?
@@ -3084,7 +3013,12 @@ http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_nzsjb_1300.m3u8
 
 #EXTINF:0,group-title="港澳", [COLOR green][B]----------港澳-------[/B][/COLOR]
 http://?
-
+#EXTINF:-1 $ExtFilter="港澳",港澳 - 凤凰中文HD
+http://111.20.115.242/live/stream5.m3u8
+#EXTINF:-1 $ExtFilter="港澳",港澳 - 凤凰资讯HD
+http://111.20.115.242/live/stream7.m3u8
+#EXTINF:-1 $ExtFilter="港澳",港澳 - 凤凰香港台
+http://111.20.115.242/live/stream1.m3u8
 #EXTINF:-1 $ExtFilter="港澳",港澳 - 星空电视
 rtmp://flash.supersky.ch/live/supersky/livestream
 #EXTINF:-1 $ExtFilter="港澳",港澳 - 香港卫视
