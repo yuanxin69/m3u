@@ -1,4 +1,226 @@
 #EXTM3U
+#EXTINF:0,group-title="黄冈联通",[COLOR green][B]----------黄冈联通-------[/B][/COLOR]
+http://?
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - CCTV1
+http://58.19.210.49:18083/live/hls/1.m3u8
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - CCTV2
+http://58.19.210.49:18083/live/hls/2.m3u8
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - CCTV3
+http://58.19.210.49:18083/live/hls/3.m3u8
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - CCTV6
+http://58.19.210.49:18083/live/hls/5.m3u8
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - 湖南卫视
+http://58.19.210.49:18083/live/hls/9.m3u8
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - 新闻综合
+http://58.19.210.49:18083/live/hls/10.m3u8
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - 深圳卫视
+http://58.19.210.49:18083/live/hls/18.m3u8
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - 深圳卫视
+http://58.19.210.49:18082/live/hls/13.m3u8
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - 广东卫视
+http://58.19.210.49:18082/live/hls/30.m3u8
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - 天津卫视
+http://58.19.210.49:18082/live/hls/22.m3u8
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - 山东卫视
+http://58.19.210.49:18082/live/hls/12.m3u8
+#EXTINF:-1 $ExtFilter="黄冈联通",黄冈联通 - 湖北卫视
+http://58.19.210.49:18083/live/hls/24.m3u8
+
+
+#EXTINF:0,group-title="bobuc",[COLOR green][B]----------bobuc-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-1综合
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000072.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 四川卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000078.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-2财经
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000073.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-7农业
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000082.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-9纪录
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000086.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-10科教
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000087.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-12社会与法
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000091.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-14少儿
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000096.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 辽宁卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000122.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 黑龙江卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000085.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 湖南卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000095.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 安徽卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000107.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 湖北卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000100.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 山东卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000136.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 广东卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000141.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 深圳卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000139.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 北京纪实
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000173.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 北京卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000092.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-1综合
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000244.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-2财经
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000245.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-4国际
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000079.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-7农业
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000246.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-10科教
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000247.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-11戏曲
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000089.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-12社会与法
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000248.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-13新闻
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000094.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-14少儿
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000249.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-15音乐
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000098.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 辽宁卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000250.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 辽宁都市
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000128.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 辽宁影视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000133.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 辽宁体育
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000137.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 辽宁生活
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000074.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 辽宁教育
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000077.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 辽宁北方
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000080.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 中国教育1
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000264.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 黑龙江卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000255.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 吉林卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000155.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 北京卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000262.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 湖南卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000256.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 湖北卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000258.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 江西卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000104.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 安徽卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000257.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 江苏卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000109.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 浙江卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000111.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 东南卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000116.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 东方卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000119.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 河北卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000123.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 河南卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000127.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 山西卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000132.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 山东卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000259.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 深圳卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000261.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 广东卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000260.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 广西卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000144.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 重庆卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000146.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 云南卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000148.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 贵州卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000075.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 四川卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000078.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 宁夏卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000081.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 青海卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000084.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 旅游卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000090.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 陕西卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000106.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 内蒙古卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000110.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 新疆卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000113.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 甘肃卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000125.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 金鹰卡通
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000147.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 炫动卡通
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000149.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 卡酷动画
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000150.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 优漫卡通
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000151.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 游戏竞技
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000154.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 电子体育
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000071.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 家庭影院1
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000093.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 家庭影院2
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000097.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 家庭影院3
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000099.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 老电影
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000102.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 家庭剧场1
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000103.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 家庭剧场2
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000114.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 家庭剧场3
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000117.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 刑侦剧场
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000121.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 海外剧场
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000124.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 卡通剧场
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000126.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 纪录片
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000129.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 网络棋牌
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000076.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-英语
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000105.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV纪录国际
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000129.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-法语
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000108.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-西班牙语
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000112.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-阿拉伯语
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000115.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-俄语
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000120.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 西藏卫视
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000130.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 新动漫频道
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000153.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-1
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000244.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - CCTV-9纪录
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000086.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 纪录片
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000129.m3u8
+#EXTINF:-1 $ExtFilter="bobuc",bobuc - 地理杂志
+http://liveapi.bobuc.net/lntvch/01000000000000000000000000000134.m3u8
+
 #EXTINF:0,group-title="pczhibo",[COLOR green][B]----------pczhibo-------[/B][/COLOR]
 http://?
 
