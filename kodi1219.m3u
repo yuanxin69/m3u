@@ -1,5 +1,306 @@
 #EXTM3U
 
+#EXTINF:0,group-title="乐视备用",[COLOR red][B]--------乐视备用------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 江苏卫视高清
+http://icntv.xyz/letv/jiangsuHD_1800.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 北京卫视高清
+http://icntv.xyz/letv/bjwsHD_1800.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 湖南卫视高清
+http://icntv.xyz/letv/ws_hunanwsHD_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视综合
+http://icntv.xyz/letv/lb_zonghe_1000.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 北京卫视
+http://icntv.xyz/letv/bjws.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 安徽卫视
+http://icntv.xyz/letv/anhui.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 天津卫视
+http://icntv.xyz/letv/tianjin.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 江苏卫视
+http://icntv.xyz/letv/jiangsu.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 山西卫视
+http://icntv.xyz/letv/shanxi_350.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 甘肃卫视
+http://icntv.xyz/letv/gansu.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 东南卫视
+http://icntv.xyz/letv/dongnan.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 湖北卫视
+http://icntv.xyz/letv/hubei.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 云南卫视
+http://icntv.xyz/letv/yunnan.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 黑龙江卫视
+http://icntv.xyz/letv/heilongjiang.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 贵州卫视
+http://icntv.xyz/letv/guizhou.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 广西卫视
+http://icntv.xyz/letv/guangxi.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 河南卫视
+http://icntv.xyz/letv/henan.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 旅游卫视
+http://icntv.xyz/letv/lvyou.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 深圳卫视
+http://icntv.xyz/letv/shenzhen.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 内蒙古卫视
+http://icntv.xyz/letv/neimenggu_350.m3u8  
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 新疆卫视
+http://icntv.xyz/letv/xinjiang_350.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 陕西卫视
+http://icntv.xyz/letv/shanxi1.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 重庆卫视
+http://icntv.xyz/letv/chongqing.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 吉林卫视
+http://icntv.xyz/letv/jilin.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 辽宁卫视
+http://icntv.xyz/letv/liaoning.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 江西卫视
+http://icntv.xyz/letv/jiangxi.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 青海卫视
+http://icntv.xyz/letv/qinghai.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 炫动卡通
+http://icntv.xyz/letv/xdkt.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 四川卫视
+http://icntv.xyz/letv/sichuan.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视电影
+http://icntv.xyz/letv/lb_movie_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视1080P
+http://icntv.xyz/letv/lb_1080P_1080p3m.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视音乐
+http://icntv.xyz/letv/lb_music_350.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视电视剧
+http://icntv.xyz/letv/lb_tv_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视动漫
+http://icntv.xyz/letv/lb_comic_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视体育
+http://icntv.xyz/letv/lb_sports_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 科教.纪录片
+http://icntv.xyz/letv/lb_jilu_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 电影片花
+http://icntv.xyz/letv/lb_trailer_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视综艺
+http://icntv.xyz/letv/lb_ent_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视自制剧
+http://icntv.xyz/letv/lb_make_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视韩剧
+http://icntv.xyz/letv/lb_koreatv_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视高尔夫
+http://icntv.xyz/letv/lb_golf_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视网球
+http://icntv.xyz/letv/lb_wangqiu_1000.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视甄嬛传
+http://icntv.xyz/letv/lb_zhenhuan_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视亲子
+http://icntv.xyz/letv/lb_qinzi_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视足球
+http://icntv.xyz/letv/lb_zuqiu_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视演唱会
+http://icntv.xyz/letv/lb_concert_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视篮球
+http://icntv.xyz/letv/lb_lanqiu_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视娱乐
+http://icntv.xyz/letv/lb_yule_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视MV
+http://icntv.xyz/letv/lb_mv_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视风尚
+http://icntv.xyz/letv/lb_fengshang_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 古典音乐
+http://icntv.xyz/letv/lb_classical_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视戏曲
+http://icntv.xyz/letv/lb_xiqu_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 我是歌手NEW
+http://icntv.xyz/letv/lb_imsinger_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视垫播
+http://icntv.xyz/letv/lb_lssd_350.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视盛典
+http://icntv.xyz/letv/lb_lssd_1300.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 乐视儿歌
+http://icntv.xyz/letv/lb_erge_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 动作电影
+http://icntv.xyz/letv/lb_dzdy_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 电影
+http://icntv.xyz/letv/lb_zpw_720p.m3u8
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 国际时装周
+http://icntv.xyz/letv/lb_shizhuang_720p.m3u8
+
+#EXTINF:0,group-title="183",[COLOR red][B]--------183------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-1综合
+http://183.59.157.36:30001/PLTV/88888905/224/3221227255/10000100000000060000000001066420_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-2财经
+http://183.59.157.36:30001/PLTV/88888905/224/3221227316/10000100000000060000000001066428_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-3综艺
+http://183.59.157.36:30001/PLTV/88888905/224/3221227046/10000100000000060000000000657994_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-4中文国际
+http://183.59.157.36:30001/PLTV/88888905/224/3221227284/10000100000000060000000001066429_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV5＋体育
+http://183.59.157.36:30001/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-5体育
+http://183.59.157.36:30001/PLTV/88888905/224/3221227038/10000100000000060000000000657995_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-6电影
+http://183.59.157.36:30001/PLTV/88888905/224/3221226991/10000100000000060000000000657996_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-7军事农业
+http://183.59.157.36:30001/PLTV/88888905/224/3221227290/10000100000000060000000001066434_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-8电视剧
+http://183.59.157.36:30001/PLTV/88888905/224/3221227041/10000100000000060000000000657998_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-9纪录
+http://183.59.157.36:30001/PLTV/88888905/224/3221227272/10000100000000060000000001030757_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-10科教
+http://183.59.157.36:30001/PLTV/88888905/224/3221227287/10000100000000060000000001066432_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-11戏曲
+http://183.59.157.36:30001/PLTV/88888905/224/3221227319/10000100000000060000000001066511_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-12社会与法
+http://183.59.157.36:30001/PLTV/88888905/224/3221227313/10000100000000060000000001066425_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-13新闻
+http://183.59.157.36:30001/PLTV/88888905/224/3221227258/10000100000000060000000001066424_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-14少儿
+http://183.59.157.36:30001/PLTV/88888905/224/3221227278/10000100000000060000000001066421_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-15音乐
+http://183.59.157.36:30001/PLTV/88888905/224/3221227281/10000100000000060000000001066427_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - CCTV-1高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 江苏卫视高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227027/10000100000000060000000000698853_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 湖南卫视高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227325/10000100000000060000000001141345_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 湖北卫视高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227322/10000100000000060000000001141333_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 浙江卫视高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227296/10000100000000060000000001141335_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 深圳卫视高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227267/10000100000000060000000001141334_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 天津卫视高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227346/10000100000000060000000003100521_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 山东卫视高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227215/10000100000000060000000000988473_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 黑龙江卫视高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227302/10000100000000060000000001141347_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东卫视高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227218/10000100000000060000000000988525_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 东方卫视高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227299/10000100000000060000000001141344_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东体育高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东经济科教高清
+http://183.59.157.36:30001/PLTV/88888905/224/3221227238/10000100000000060000000000987130_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 湖南卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227108/10000100000000060000000000937811_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 天津卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227142/10000100000000060000000000937745_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 深圳卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227078/10000100000000060000000000937713_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 山东卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227136/10000100000000060000000000937739_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 江苏卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227160/10000100000000060000000000937810_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 浙江卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227137/10000100000000060000000000937809_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 安徽卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227154/10000100000000060000000000937801_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 北京卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227105/10000100000000060000000000937805_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广西卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227148/10000100000000060000000000937768_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 贵州卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227125/10000100000000060000000000937773_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 河北卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227128/10000100000000060000000000937776_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 河南卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227093/10000100000000060000000000937769_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 黑龙江卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227099/10000100000000060000000000937799_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 内蒙古卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227133/10000100000000060000000000937736_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 湖北卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227087/10000100000000060000000000937743_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 东方卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227131/10000100000000060000000000937800_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 东南卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227096/10000100000000060000000000937772_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 吉林卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227116/10000100000000060000000000937747_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 辽宁卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227102/10000100000000060000000000937802_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 江西卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227134/10000100000000060000000000937803_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 甘肃卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227139/10000100000000060000000000937742_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 山西卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227110/10000100000000060000000000937735_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 宁夏卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227151/10000100000000060000000000937771_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 厦门卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227312/10000100000000060000000003100522_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 陕西卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227090/10000100000000060000000000937749_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 四川卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227157/10000100000000060000000000937804_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 西藏卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227081/10000100000000060000000000937734_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 新疆卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227084/10000100000000060000000000937737_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 青海卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227113/10000100000000060000000000937738_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 云南卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227140/10000100000000060000000000937812_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 重庆卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227122/10000100000000060000000000937770_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 南方卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221226975/00000100000000060000000000554907_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 旅游卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227119/10000100000000060000000000937750_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 兵团卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227241/10000100000000060000000000987142_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 健康卫视
+http://183.59.157.36:30001/PLTV/88888905/224/3221227187/10000100000000060000000000937844_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 金鹰卡通
+http://183.59.157.36:30001/PLTV/88888905/224/3221227163/10000100000000060000000000937813_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 卡酷动画
+http://183.59.157.36:30001/PLTV/88888905/224/3221227111/10000100000000060000000000937814_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 炫动卡通
+http://183.59.157.36:30001/PLTV/88888905/224/3221227212/10000100000000060000000000987175_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 嘉佳卡通
+http://183.59.157.36:30001/PLTV/88888905/224/3221226972/00000100000000060000000000554906_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东少儿
+http://183.59.157.36:30001/PLTV/88888905/224/3221226989/00000100000000060000000000554886_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东公共
+http://183.59.157.36:30001/PLTV/88888905/224/3221226931/00000100000000060000000000554902_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东国际
+http://183.59.157.36:30001/PLTV/88888905/224/3221227230/10000100000000060000000000990032_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东体育
+http://183.59.157.36:30001/PLTV/88888905/224/3221226934/00000100000000060000000000554903_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东新闻
+http://183.59.157.36:30001/PLTV/88888905/224/3221226969/00000100000000060000000000554905_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东影视
+http://183.59.157.36:30001/PLTV/88888905/224/3221226937/00000100000000060000000000554910_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东珠江
+http://183.59.157.36:30001/PLTV/88888905/224/3221227004/00000100000000060000000000554900_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东综艺
+http://183.59.157.36:30001/PLTV/88888905/224/3221226940/00000100000000060000000000554911_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东经济科教
+http://183.59.157.36:30001/PLTV/88888905/224/3221227007/00000100000000060000000000554908_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 广东南方购物
+http://183.59.157.36:30001/PLTV/88888905/224/3221227200/10000100000000060000000000987154_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 房产频道
+http://183.59.157.36:30001/PLTV/88888905/224/3221227216/10000100000000060000000000990028_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 会展频道
+http://183.59.157.36:30001/PLTV/88888905/224/3221227224/10000100000000060000000000990026_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 快乐宠物
+http://183.59.157.36:30001/PLTV/88888905/224/3221227219/10000100000000060000000000990031_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 岭南戏曲
+http://183.59.157.36:30001/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 山东教育
+http://183.59.157.36:30001/PLTV/88888905/224/3221227244/10000100000000060000000000987144_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 移动频道
+http://183.59.157.36:30001/PLTV/88888905/224/3221227209/10000100000000060000000000987164_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 英语辅导
+http://183.59.157.36:30001/PLTV/88888905/224/3221227236/10000100000000060000000000990116_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 现代教育
+http://183.59.157.36:30001/PLTV/88888905/224/3221227233/10000100000000060000000000990060_0.smil
+#EXTINF:-1 $ExtFilter="183",183 - 欧洲足球
+http://183.59.157.36:30001/PLTV/88888905/224/3221227271/10000100000000060000000000990027_0.smil
+
+
 #EXTINF:0,group-title="山东113",[COLOR green][B]----------山东113-------[/B][/COLOR]
 http://?
 #EXTINF:-1 $ExtFilter="山东113",山东113 - CCTV-1
@@ -744,7 +1045,7 @@ http://218.202.219.245:1935/live/guangxi.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="新疆",新疆 - 兵团卫视
 http://218.202.219.246:1935/live/Bingtuanweishi-500K.stream/playlist.m3u8
 
-#EXTINF:0,group-title="121",[COLOR red][B]----------121-------[/B][/COLOR]
+#EXTINF:0,group-title="121",[COLOR red][B]--------广西121------[/B][/COLOR]
 http://?
 
 #EXTINF:-1 $ExtFilter="121",121 - CCTV1
