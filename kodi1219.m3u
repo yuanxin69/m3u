@@ -3,7 +3,7 @@
 #EXTINF:0,group-title="乐视备用",[COLOR red][B]--------乐视备用------[/B][/COLOR]
 http://?
 
-#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 江苏卫视高清
+#EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 江苏卫视高清1
 http://icntv.xyz/letv/jiangsuHD_1800.m3u8
 #EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 北京卫视高清
 http://icntv.xyz/letv/bjwsHD_1800.m3u8
