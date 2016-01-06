@@ -2326,7 +2326,20 @@ http://tv02.tsytv.com.cn:1935/live/UTV-6.stream/playlist.m3u8?DVR
 
 #EXTINF:0,group-title="台湾",[COLOR green][B]----------台湾频道-------[/B][/COLOR]
 http://?
-
+#EXTINF:-1 $ExtFilter="台湾",台湾 - BBCWORLDHD
+http://220.228.38.7/live/fet001/chunklist_wlive.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 民视新闻台HD
+http://220.228.38.7/live/fet002/chunklist_wlive.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 东森新闻 HD
+http://220.228.38.7/live/fet003/chunklist_wlive.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 东森财经新闻
+http://220.228.38.7/live/fet004/chunklist_wlive.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - TVBS新闻台HD
+http://220.228.49.7/live/fet005/chunklist_wlive.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 中天新闻台HD
+http://220.228.38.7/live/fet006/chunklist_wlive.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 远传Friday影视
+http://220.228.38.7/live/fet007/chunklist_wlive.m3u8
 #EXTINF:-1 $ExtFilter="台湾",台湾 - 壹电视新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="台湾",台湾 - 台视
@@ -2862,13 +2875,13 @@ rtmp://110.164.48.237:1935/tcctv_ch002/tcctv02.stream_live1
 http://mid.sngdxsn.com/channels/tvie/hdpd/flv:500k/live
 #EXTINF:-1 $ExtFilter="中国直播",中国直播 - 椰子相声
 rtmp://121.17.123.227/dlrtmp.cdn.zhanqi.tv/zqlive/13393_Raq4m
-#EXTINF:-1 $ExtFilter="中国直播",中国直播 - 动画
+#EXTINF:-1 $ExtFilter="中国直播",中国直播 - 动画★
 http://114.112.91.199:9009/live/chid=603
-#EXTINF:-1 $ExtFilter="中国直播",中国直播 - 综艺
+#EXTINF:-1 $ExtFilter="中国直播",中国直播 - 综艺★
 http://114.112.91.199:9009/live/chid=604
-#EXTINF:-1 $ExtFilter="中国直播",中国直播 - 电视剧场1
+#EXTINF:-1 $ExtFilter="中国直播",中国直播 - 电视剧场1★
 http://114.112.91.199:9009/live/chid=605
-#EXTINF:-1 $ExtFilter="中国直播",中国直播 - 电视剧场2
+#EXTINF:-1 $ExtFilter="中国直播",中国直播 - 电视剧场2★
 http://114.112.91.199:9009/live/chid=606
 #EXTINF:-1 $ExtFilter="中国直播",中国直播 - 麒麟时尚
 http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
@@ -3908,6 +3921,18 @@ rtmp://183.238.77.4:1935/dvr/30184.stream
 #EXTINF:0,group-title="战旗 ",[COLOR green][B]----------战旗频道-------[/B][/COLOR]
 http://?
 
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 24小时影业
+http://dlhls.cdn.zhanqi.tv/zqlive/71720_arek4.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 拉风豆豆
+http://dlhls.cdn.zhanqi.tv/zqlive/53706_ocHOH.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 波妞
+http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 咖啡小妖
+http://dlhls.cdn.zhanqi.tv/zqlive/69178_YHRUs.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - lyingman
+http://dlhls.cdn.zhanqi.tv/zqlive/36596_HD3eX.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 月山习
+http://dlhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 神仙姐姐影院
 rtmp://112.29.147.54/dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 林正英陪你过
@@ -4140,65 +4165,6 @@ http://dlhls.cdn.zhanqi.tv/zqlive/53706_ocHOH.m3u8
 http://dlhls.cdn.zhanqi.tv/zqlive/54109_H9eMV.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - TV59
 http://dlhls.cdn.zhanqi.tv/zqlive/101497_uqd0M.m3u8
-
-#EXTINF:0,group-title="电影flv",[COLOR green][B]----------电影flv-------[/B][/COLOR]
-http://?
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 电影1港片
-rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 电影2恐怖洋片
-rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/7032_0s2qn
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 幂诗影院
-rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 咬唇影吧
-http://wshdl.load.cdn.zhanqi.tv/zqlive/30647_JIjP2.flv
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 名城影院
-http://61.188.191.44/wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv?wshc_tag=1&wsiphost=ipdbm
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 美英电影港片
-rtmp://14.152.91.39/dlrtmp.cdn.zhanqi.tv/zqlive/34466_1Is4F
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 洋片
-rtmp://lxrtmp.load.cdn.zhanqi.tv/zqlive/35180_KUDhx
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 柚子影视林正英
-http://wshdl.load.cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 华山影院洋片
-http://182.140.142.31/wshdl.load.cdn.zhanqi.tv/zqlive/37047_KWOM9.flv
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 中国剧集爆笑1
-http://wshdl.load.cdn.zhanqi.tv/zqlive/34338_PVMT5.flv
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 中国剧集爆笑2
-http://wshdl.load.cdn.zhanqi.tv/zqlive/35969_3B9Mk.flv
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 24小时影视
-http://wshdl.load.cdn.zhanqi.tv/zqlive/66516_Hc3XO.flv
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 24小时影业
-http://dlhls.cdn.zhanqi.tv/zqlive/71720_arek4.m3u8
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 蓝蓝港片
-http://wshdl.load.cdn.zhanqi.tv/zqlive/45188_oT6Ed.flv
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - V字影院
-http://wshdl.load.cdn.zhanqi.tv/zqlive/45338_MRc2N.flv
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 素包子
-http://wshdl.load.cdn.zhanqi.tv/zqlive/61362_mZejk.flv
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 拉风豆豆
-http://dlhls.cdn.zhanqi.tv/zqlive/53706_ocHOH.m3u8
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 伟哥影院
-http://183.131.210.55/wshdl.load.cdn.zhanqi.tv/zqlive/7032_0s2qn.flv
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 可珂viv
-http://dlhls.cdn.zhanqi.tv/zqlive/88083_wPwZx.m3u8
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 波妞
-http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 倾城沫
-http://dlhls.cdn.zhanqi.tv/zqlive/30647_JIjP2.m3u8
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 咖啡小妖
-http://dlhls.cdn.zhanqi.tv/zqlive/69178_YHRUs.m3u8
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - lyingman
-http://dlhls.cdn.zhanqi.tv/zqlive/36596_HD3eX.m3u8
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 小时候儿可凶啦
-http://dlhls.cdn.zhanqi.tv/zqlive/49135_hjUaK.m3u8
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 月山习
-http://dlhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 武林外传
-http://wshdl.load.cdn.zhanqi.tv/zqlive/33765_6qakZ.flv
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 鱼儿影院
-rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/6500_S9pw2
-#EXTINF:-1 $ExtFilter="电影flv",电影flv - 废柴联盟美剧
-http://wshdl.load.cdn.zhanqi.tv/zqlive/12260_BG1BI.flv
 
 #EXTINF:0,group-title="CIBN",[COLOR green][B]----------CIBN频道-------[/B][/COLOR]
 http://?
