@@ -2498,6 +2498,39 @@ http://210.200.79.26:1935/live/Di_sp.sdp/chunklist.m3u8
 http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
 #EXTINF:-1 $ExtFilter="台湾",台湾 - 宏观卫视
 http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/as/live/mactv_4.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",台视新闻台
+http://210.200.79.26:1935/live/tcch07/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",台视财经
+http://210.200.79.26:1935/live/ttv_fin.sdp/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",中视新闻
+http://59.120.43.180:17838
+#EXTINF:-1 $ExtFilter="台湾新闻",华视新闻资讯
+http://210.200.79.26:1935/live/cts_news.sdp/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",民视新闻
+http://210.200.79.26:1935/live/ftvn_sp.sdp/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",东森亚洲新闻
+http://59.120.43.180:17499
+#EXTINF:-1 $ExtFilter="台湾新闻",东森新闻HD
+http://210.200.79.26:1935/live/swente/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",东森美洲新闻台
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",东森财经新闻
+rtmp://kv3.ts33.net/sat/tv572
+#EXTINF:-1 $ExtFilter="台湾新闻",TVBS新闻
+http://210.200.79.26:1935/live/tvbsnhd/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",TVBS创富新闻
+http://210.200.79.26:1935/live/tvbs_sp.sdp/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",中天新闻
+http://59.120.43.180:17824
+#EXTINF:-1 $ExtFilter="台湾新闻",年代新闻
+http://streamup.global.ssl.fastly.net/app/wjj-eras-channel/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",三立新闻台
+http://streamup.global.ssl.fastly.net/app/mirror582sts-channel/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",非凡商业
+http://210.200.79.26:1935/live/ustvc_sp.sdp/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾新闻",非凡新闻
+http://210.200.79.26:1935/live/ustvn_sp.sdp/chunklist.m3u8
+
 #EXTINF:0,group-title="直播台",[COLOR green][B]----------直播台-------[/B][/COLOR]
 http://?
 #EXTINF:-1 $ExtFilter="直播台",直播台 - 壹电视新闻HD
@@ -2576,147 +2609,252 @@ http://streamup.global.ssl.fastly.net/app/richard-marios-stream/chunklist.m3u8
 http://streamup.global.ssl.fastly.net/app/vibees-channel/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="直播台",直播台 - 欧美成人
 http://streamup.global.ssl.fastly.net/app/bazzersporntvs-stream/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",壹电视新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",台视新闻台
-http://210.200.79.26:1935/live/tcch07/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",台视财经
-http://210.200.79.26:1935/live/ttv_fin.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",中视新闻
-http://59.120.43.180:17838
-#EXTINF:-1 $ExtFilter="台湾新闻",华视新闻资讯
-http://210.200.79.26:1935/live/cts_news.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",民视新闻
-http://210.200.79.26:1935/live/ftvn_sp.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",东森亚洲新闻
-http://59.120.43.180:17499
-#EXTINF:-1 $ExtFilter="台湾新闻",东森新闻HD
-http://210.200.79.26:1935/live/swente/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",东森美洲新闻台
-http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",东森财经新闻
-rtmp://kv3.ts33.net/sat/tv572
-#EXTINF:-1 $ExtFilter="台湾新闻",TVBS新闻
-http://210.200.79.26:1935/live/tvbsnhd/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",TVBS创富新闻
-http://210.200.79.26:1935/live/tvbs_sp.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",中天新闻
-http://59.120.43.180:17824
-#EXTINF:-1 $ExtFilter="台湾新闻",年代新闻
-http://streamup.global.ssl.fastly.net/app/wjj-eras-channel/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",三立新闻台
-http://streamup.global.ssl.fastly.net/app/mirror582sts-channel/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",非凡商业
-http://210.200.79.26:1935/live/ustvc_sp.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",非凡新闻
-http://210.200.79.26:1935/live/ustvn_sp.sdp/chunklist.m3u8
+
+
 #EXTINF:0,group-title="各省频道 ",[COLOR green][B]----------各省频道-------[/B][/COLOR]
 http://?
 
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 北京文艺
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 北京文艺
 http://jyzx8.com/tv/m3u8/ipad.php/bjwyHD_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 北京纪实
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 北京纪实
 http://jyzx8.com/tv/m3u8/ipad.php/bjjsHD_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 北京科教
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 北京科教
 http://jyzx8.com/tv/m3u8/ipad.php/bjkj.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 北京影视
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 北京影视
 http://jyzx8.com/tv/m3u8/ipad.php/bjys.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 北京体育
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 北京体育
 http://jyzx8.com/tv/m3u8/ipad.php/btv6_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 北京生活
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 北京生活
 http://jyzx8.com/tv/m3u8/ipad.php/bjsh.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 北京青年
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 北京青年
 http://jyzx8.com/tv/m3u8/ipad.php/bjqn.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 北京新闻
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 北京新闻
 http://jyzx8.com/tv/m3u8/ipad.php/bjxw.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 北京纪实
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 北京纪实
 http://jyzx8.com/tv/m3u8/ipad.php/bjjsHD_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 北京财经
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 北京财经
 http://jyzx8.com/tv/m3u8/ipad.php/bjcj.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 凤凰中文
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 凤凰中文
 http://jyzx8.com/tv/m3u8/ipad.php/fenghuang.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 凤凰资讯
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 凤凰资讯
 http://jyzx8.com/tv/m3u8/ipad.php/ws_fenghuangzx_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 河南民生
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 河南民生
 http://jyzx8.com/tv/m3u8/ipad.php/ws_hnms_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 河南政法
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 河南政法
 http://jyzx8.com/tv/m3u8/ipad.php/ws_hnzf_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 河南国际
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 河南国际
 http://jyzx8.com/tv/m3u8/ipad.php/ws_hngj_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 上海星尚
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 上海星尚
 http://jyzx8.com/tv/m3u8/ipad.php/ws_shxs_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 上海新娱乐
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 上海新娱乐
 http://jyzx8.com/tv/m3u8/ipad.php/ws_shxyl_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 上海新闻
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 上海新闻
 http://jyzx8.com/tv/m3u8/ipad.php/ws_shxw_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 江西都市
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 江西都市
 http://jyzx8.com/tv/m3u8/ipad.php/ws_jxds_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 江西经济
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 江西经济
 http://jyzx8.com/tv/m3u8/ipad.php/ws_jxjj_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 江西影视
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 江西影视
 http://jyzx8.com/tv/m3u8/ipad.php/ws_jxys_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 江西少儿
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 江西少儿
 http://jyzx8.com/tv/m3u8/ipad.php/ws_jxse_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 江西红色经典
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 江西红色经典
 http://jyzx8.com/tv/m3u8/ipad.php/ws_jxhsjd_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 广东珠江
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 广东珠江
 http://jyzx8.com/tv/m3u8/ipad.php/ws_gdzj_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 广东新闻
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 广东新闻
 http://jyzx8.com/tv/m3u8/ipad.php/ws_gdxw_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 嘉佳卡通
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 嘉佳卡通
 http://jyzx8.com/tv/m3u8/ipad.php/ws_jjkt_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 南方经济
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 南方经济
 http://jyzx8.com/tv/m3u8/ipad.php/ws_nfjj_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 南方卫视
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 南方卫视
 http://jyzx8.com/tv/m3u8/ipad.php/ws_nanfang_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 南方影视
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 南方影视
 http://jyzx8.com/tv/m3u8/ipad.php/ws_nfys_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 南方少儿
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 南方少儿
 http://jyzx8.com/tv/m3u8/ipad.php/ws_nfse_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 南方综艺
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 南方综艺
 http://jyzx8.com/tv/m3u8/ipad.php/ws_nfzy_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 江苏城市
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 江苏城市
 http://jyzx8.com/tv/m3u8/ipad.php/ws_jscs_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 江苏综艺
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 江苏综艺
 http://jyzx8.com/tv/m3u8/ipad.php/ws_jszy_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 江苏影视
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 江苏影视
 http://jyzx8.com/tv/m3u8/ipad.php/ws_jsys_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 江苏体育休闲
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 江苏体育休闲
 http://jyzx8.com/tv/m3u8/ipad.php/ws_jstyxx_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 江苏国际
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 江苏国际
 http://jyzx8.com/tv/m3u8/ipad.php/ws_jsgu_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 深圳财经
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 深圳财经
 http://jyzx8.com/tv/m3u8/ipad.php/ws_szcj_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 深圳电视剧
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 深圳电视剧
 http://jyzx8.com/tv/m3u8/ipad.php/ws_szdsj_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 深圳都市
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 深圳都市
 http://jyzx8.com/tv/m3u8/ipad.php/ws_szds_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 合肥生活
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 合肥生活
 http://jyzx8.com/tv/m3u8/ipad.php/ws_hfsh_350.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 深圳少儿
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 深圳少儿
 http://jyzx8.com/tv/m3u8/ipad.php/ws_szse_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 合肥财经
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 合肥财经
 http://jyzx8.com/tv/m3u8/ipad.php/ws_hfcj_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 深圳娱乐
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 深圳娱乐
 http://jyzx8.com/tv/m3u8/ipad.php/ws_szyl_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 深圳体育健康
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 深圳体育健康
 http://jyzx8.com/tv/m3u8/ipad.php/ws_sztyjk_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 合肥法制
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 合肥法制
 http://jyzx8.com/tv/m3u8/ipad.php/ws_hffz_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 合肥文体
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 合肥文体
 http://jyzx8.com/tv/m3u8/ipad.php/ws_hfwt_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 郑州法制
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 郑州法制
 http://jyzx8.com/tv/m3u8/ipad.php/ws_zzfz_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 郑州文体
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 郑州文体
 http://jyzx8.com/tv/m3u8/ipad.php/ws_zzwt_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 郑州综合
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 郑州综合
 http://jyzx8.com/tv/m3u8/ipad.php/ws_zzzh_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 郑州时尚
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 郑州时尚
 http://jyzx8.com/tv/m3u8/ipad.php/ws_zzss_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 郑州电视剧
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 郑州电视剧
 http://jyzx8.com/tv/m3u8/ipad.php/ws_zzdsj_1300.m3u8
-#EXTINF:-1 $ExtFilter="中国直播",各省频道 - 北京傲客
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 北京傲客
 http://jyzx8.com/tv/m3u8/ipad.php/lb_bjak_1300.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 上海新聞
+http://hls.live.kksmg.com/live/smgnews/playlist.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 厦视一套
+http://fms.cntv.lxdns.com/live/flv/channel79.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 厦视二套
+http://fms.cntv.lxdns.com/live/flv/channel80.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 厦视三套
+http://fms.cntv.lxdns.com/live/flv/channel81.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 厦视四套
+http://fms.cntv.lxdns.com/live/flv/channel78.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 厦门移动频道
+http://fms.cntv.lxdns.com/live/flv/channel8.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 天津滨海一台
+http://fms.cntv.lxdns.com/live/flv/channel6.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 天津滨海二台
+http://fms.cntv.lxdns.com/live/flv/channel39.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 重庆涪陵频道
+http://liveful.sobeycache.com/live/FL01.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 成都新闻综合
+http://fms.cntv.lxdns.com/live/flv/channel87.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 成都公共频道
+http://fms.cntv.lxdns.com/live/flv/channel88.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 湖北垄上频道
+http://fms.cntv.lxdns.com/live/flv/channel86.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 湖北荆州频道
+http://fms.cntv.lxdns.com/live/flv/channel85.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 湖北综合频道
+http://live9.hbtv.com.cn/channels/zbk/hbtv/m3u8:sd
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 湖北公共新闻
+http://live9.hbtv.com.cn/channels/zbk/hbgg/m3u8:sd
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 湖北影视频道
+http://live9.hbtv.com.cn/channels/zbk/hbys/m3u8:sd
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 湖北经视频道
+http://live9.hbtv.com.cn/channels/zbk/jingshi2/m3u8:sd
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 荆门公共旅游
+http://live.jmtv.com.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 荆门鄂中经视
+http://live.jmtv.com.cn/jcys/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 日照新闻综合
+http://vlive.rzw.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 日照公共频道
+http://vlive.rzw.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 日照科教频道
+http://vlive.rzw.com.cn/kzpd/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 日照图文频道
+http://vlive.rzw.com.cn/fcpd/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 温州新闻综合
+http://hls.dhtv.cn:8080/live/v1_15.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 温州经济科教
+http://hls.dhtv.cn:8080/live/v2_12.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 温州都市生活
+http://hls.dhtv.cn:8080/live/v3_13.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 温州公共民生
+http://hls.dhtv.cn:8080/live/v4_14.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 舟山群岛旅游
+http://61.175.103.117:8080/live/zst003/playlist.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 舟山就业服务
+http://61.175.103.117:8080/live/zst004/playlist.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 湖州新闻综合
+http://61.175.232.157/tslslive/zyys888/hls/live_sd.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 湖州文化娱乐
+http://61.175.232.157/tslslive/rk8Z088/hls/live_sd.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 湖州公共民生
+http://61.175.232.157/tslslive/z6NexHK/hls/live_sd.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 舟山新闻综合
+http://live.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 舟山公共生活
+http://live.wifizs.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 绍兴新闻综合
+http://live.yun.ruanjianhome.com/xwzh/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 绍兴文化影视
+http://live.yun.ruanjianhome.com/yspd/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 绍兴公共频道
+http://live.yun.ruanjianhome.com/ggpd/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 苏州文化生活
+http://livetv.2500city.com/live/livesztv33-1024/index.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 苏州生活资讯
+http://livetv.2500city.com/live/livesztv53-1024/index.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 榆林一台
+http://61.150.114.78:8089/hls-live/livepkgr/_definst_/liveevent/ylwltv1.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 榆林二台
+http://61.150.114.78:8089/hls-live/livepkgr/_definst_/liveevent/ylwltv2.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 榆林三台
+http://61.150.114.78:8089/hls-live/livepkgr/_definst_/liveevent/ylwltv3.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 贵阳三台
+http://58.42.231.170/tslslive/GYBTV-3/hls/live_sd.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 丽江公共频道
+http://hls.lijiangtv.com/live2/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 达州新闻综合
+http://118.122.16.15:88/tslslive/HvxAiQt/hls/live_sd.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 达州公共频道
+http://118.122.16.15:88/tslslive/hHToifM/hls/live_sd.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 达州城市公众
+http://118.122.16.15:88/tslslive/rk8Z088/hls/live_sd.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 达州通川频道
+http://118.122.16.15:88/tslslive/8iZQvhD/hls/live_sd.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 广元综合频道
+http://3g.dzsm.com/streamer/gy03/gy03-500.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 广元影视频道
+http://3g.dzsm.com/streamer/gy02/gy02-500.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 广元公共频道
+http://3g.dzsm.com/streamer/gy04.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 广元公共频道
+http://3g.dzsm.com/streamer/gy04/gy04-500.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 雅安新闻综合
+http://yatv.tv/tvstm/yaan01.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 雅安公共频道
+http://yatv.tv/tvstm/yaan06.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 雅安雨城频道
+http://yatv.tv/tvstm/tv/live/yaan04/yaan04-192.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 韶关新闻综合
+http://live.sgmsw.cn:8134/hls-live/livepkgr/_definst_/liveevent/livestream4.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 韶关经济生活
+http://applive.sgmsw.cn/jjsh/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 清远公共频道
+http://live1.0763f.com/qygg/sd/live.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - CCTV-13新聞
+http://zv.3gv.ifeng.com/live/CCTV13.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - CCTV-新科動漫
+http://fms.cntv.lxdns.com/live/flv/channel50.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - CCTV-新科動漫
+http://fms.cntv.lxdns.com/live/flv/channel179.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 兵团衛視HD
+http://fms.cntv.lxdns.com/live/flv/channel38.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 青海衛視HD
+http://flv.ws.live.cntv.cn/live/flv/channel53.flv
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 鳯凰中文
+http://zv.3gv.ifeng.com/zhongwen800k.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 鳯凰资訊
+http://zv.3gv.ifeng.com/zixun800k.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 菏泽影视频道
+http://video.hznet.tv:1935/live/live3/tzwj_video.m3u8
+#EXTINF:-1 $ExtFilter="各省频道",各省频道 - 中國電影頻道
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+
+
+
 #EXTINF:0,group-title="卫视 ",[COLOR green][B]----------卫视频道-------[/B][/COLOR]
 http://?
 
