@@ -2326,7 +2326,7 @@ http://tv02.tsytv.com.cn:1935/live/UTV-6.stream/playlist.m3u8?DVR
 
 #EXTINF:0,group-title="台湾",[COLOR green][B]----------台湾频道-------[/B][/COLOR]
 http://?
-#EXTINF:-1 $ExtFilter="台湾",台湾 - BBCWORLDHD
+#EXTINF:-1 $ExtFilter="台湾",台湾 - BBC WORLDHD
 http://220.228.38.7/live/fet001/chunklist_wlive.m3u8
 #EXTINF:-1 $ExtFilter="台湾",台湾 - 民视新闻台HD
 http://220.228.38.7/live/fet002/chunklist_wlive.m3u8
