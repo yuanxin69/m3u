@@ -3,7 +3,7 @@
 #EXTINF:0,group-title="61 129",[COLOR green][B]----------61 129-------[/B][/COLOR]
 http://?
 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 1-综合1HD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 1-综合HD
 http://61.129.131.55/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 1-综合
 http://61.129.131.55/live.aishang.ctlcdn.com/00000110240001_1/encoder/0/playlist.m3u8
