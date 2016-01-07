@@ -1,5 +1,120 @@
 #EXTM3U
 
+#EXTINF:0,group-title="61 129",[COLOR green][B]----------61 129-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 1-综合HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 1-综合
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240001_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 2-财经HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 2-财经
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240002_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 3-综艺HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 3-综艺
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240259_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 4-中文国际
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240005_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 4-中文国际
+http://121.31.20.137:8112/itv/cctv4a?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8XoZTsS3jAfuUFWIIHtjmy1kojGaHZAaJJtUPTwL52B7
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 5-体育HD
+http://121.31.20.137:8112/itv/cctv5HD?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8SD%2F%2F6USgzwmT8jjNAqQFSRJUvvWdWGQBzeLTwcxi0hP
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 5-体育
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240260_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 5-体育+HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 5-体育+
+http://121.31.20.137:8112/itv/cctvtyss?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8UdYeulHygFONLg8K5zEfXqZi4My017VRfOd%2FKE1KBxp
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 6-电影HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 6-电影
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240261_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 7-军事农业HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240248_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 7-军事农业
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240009_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 8-电视剧HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 8-电视剧
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240262_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 9-记录HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 9-记录
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240014_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 10-科教HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 10-科教
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240015_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 11-戏曲
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240016_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 11-戏曲
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240016_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 12-社会与法HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 12-社会与法
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240017_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 13-新闻
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240126_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 13-新闻
+http://121.31.20.137:8112/itv/cctv13?AuthInfo=kFL1sK4MQtkyxE%2Bemq6g8VfjibJoQX6Mq9zcDysge35kojGaHZAaJJtUPTwL52B7
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 14-少儿HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 14-少儿
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240085_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 15-音乐
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240086_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", CCTV 15-音乐
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240086_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 湖南卫视HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 湖南卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240008_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 北京卫视HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 北京卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240026_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 江苏卫视HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240133_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 江苏卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240048_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 浙江卫视HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 浙江卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240013_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 深圳卫视HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240132_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 深圳卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240004_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 山东卫视HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240254_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 山东卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240064_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 东方卫视HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240242_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 东方卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240011_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 安徽卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240256_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 湖北卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240043_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 广东卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240036_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 黑龙江卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240042_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 辽宁卫视HD
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240057_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 河北卫视HD
+http://live01.hebtv.com/channels/hebtv/video_channel_04/m3u8:2000k/live
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 天津卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240072_1/encoder/0/playlist.m3u8
+http://gslb.tv.sohu.com/live?cid=222611&type=hls
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 旅游卫视
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240059_1/encoder/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="61 129", 兵团卫视
+http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
+
 #EXTINF:0,group-title="i-LN直播",[COLOR green][B]----------i-LN直播-------[/B][/COLOR]
 http://?
 
