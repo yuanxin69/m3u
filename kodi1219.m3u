@@ -1,5 +1,545 @@
 #EXTM3U
 
+#EXTINF:0,group-title="i-LN直播",[COLOR green][B]----------i-LN直播-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - CCTV-1HD
+http://221.180.150.33/live101/index_128k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - CCTV-5HD
+http://221.180.150.33/live105/index_128k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - CCTV-5+HD
+http://221.180.150.33/live125/index_128k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - CCTV-9
+http://221.180.150.33/live111/index_512k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - CCTV-13
+http://221.180.150.33/live113/index_128k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - CCTV-NEWS
+http://221.180.150.33/live109/index_512k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 凤凰中文
+http://221.180.150.33/live129/index_128k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 凤凰资讯
+http://221.180.150.33/live130/index_128k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 湖南卫视
+http://221.180.150.33/live131/index_128k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 浙江卫视
+http://221.180.150.33/live347/index_512k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 江苏卫视
+http://221.180.150.33/live317/index_512k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 东方卫视
+http://221.180.150.33/live330/index_512k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 辽宁卫视
+http://221.180.150.33/live320/index_512k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 安徽卫视
+http://221.180.150.33/live302/index_512k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - CIBN电影
+http://221.180.150.33/cibn7/index_512k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - CIBN综艺
+http://221.180.150.33/cibn6/index_512k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - CIBN热播
+http://221.180.150.33/cibn8/index_512k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - CIBN动漫
+http://221.180.150.33/cibn5/index_512k.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 台视HD
+http://streamup.global.ssl.fastly.net/app/aiamor-lis-channel/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 华视HD
+http://streamup.global.ssl.fastly.net/app/tw-ctss-stream/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 民视HD
+http://streamup.global.ssl.fastly.net/app/tw-vms-channel/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="i-LN直播",i-LN直播 - 公视HD
+http://streamup.global.ssl.fastly.net/app/tvb8s-stream/chunklist.m3u8
+
+#EXTINF:0,group-title="芒果183",[COLOR green][B]----------芒果183-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV1
+http://183.224.43.169:5000/nn_live.ts?id=CCTV1
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV2
+http://183.224.43.169:5000/nn_live.ts?id=CCTV2
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV3
+http://183.224.43.169:5000/nn_live.ts?id=CCTV3
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV4
+http://183.224.43.169:5000/nn_live.ts?id=CCTV4
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV5
+http://183.224.43.169:5000/nn_live.ts?id=CCTV5
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV6
+http://183.224.43.169:5000/nn_live.ts?id=CCTV6
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV7
+http://183.224.43.169:5000/nn_live.ts?id=CCTV7
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV8
+http://183.224.43.169:5000/nn_live.ts?id=CCTV8
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV9
+http://183.224.43.169:5000/nn_live.ts?id=CCTV9
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV10
+http://183.224.43.169:5000/nn_live.ts?id=CCTV10
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV12
+http://183.224.43.169:5000/nn_live.ts?id=CCTV12
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV13
+http://183.224.43.169:5000/nn_live.ts?id=CCTV13
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - CCTV14
+http://183.224.43.169:5000/nn_live.ts?id=CCTV14
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 湖南卫视
+http://183.224.43.169:5000/nn_live.ts?id=HNWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 湖南国际
+http://183.224.43.169:5000/nn_live.ts?id=GJPD
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 北京卫视
+http://183.224.43.169:5000/nn_live.ts?id=BJWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 深圳卫视
+http://183.224.43.169:5000/nn_live.ts?id=SZWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 云南卫视
+http://183.224.43.169:5000/nn_live.ts?id=YNWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 四川卫视
+http://183.224.43.169:5000/nn_live.ts?id=SCWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 旅游卫视
+http://183.224.43.169:5000/nn_live.ts?id=LYWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 东方卫视
+http://183.224.43.169:5000/nn_live.ts?id=DFWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 黑龙江卫视
+http://183.224.43.169:5000/nn_live.ts?id=HLJWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 浙江卫视
+http://183.224.43.169:5000/nn_live.ts?id=ZJWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 江苏卫视
+http://183.224.43.169:5000/nn_live.ts?id=JSWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 安徽卫视
+http://183.224.43.169:5000/nn_live.ts?id=AHWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 广东卫视
+http://183.224.43.169:5000/nn_live.ts?id=GDWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 河北卫视
+http://183.224.43.169:5000/nn_live.ts?id=HEBWS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 芒果电影
+http://183.224.43.169:5000/nn_live.ts?id=MGDY
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 芒果音乐
+http://183.224.43.169:5000/nn_live.ts?id=MGYY
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 芒果动漫
+http://183.224.43.169:5000/nn_live.ts?id=MGDM
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 芒果生活
+http://183.224.43.169:5000/nn_live.ts?id=MGSH
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 芒果教育
+http://183.224.43.169:5000/nn_live.ts?id=MGJY
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 芒果财经
+http://183.224.43.169:5000/nn_live.ts?id=MGCJ
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 芒果纪实
+http://183.224.43.169:5000/nn_live.ts?id=MGJS
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 芒果综艺
+http://183.224.43.169:5000/nn_live.ts?id=MGZY
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 芒果体育
+http://183.224.43.169:5000/nn_live.ts?id=MGTY
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 芒果电视剧
+http://183.224.43.169:5000/nn_live.ts?id=MGDSJ
+#EXTINF:-1 $ExtFilter="芒果183",芒果183 - 芒果新闻
+http://183.224.43.169:5000/nn_live.ts?id=MGXW
+
+#EXTINF:0,group-title="218 244",[COLOR green][B]----------218 244-------[/B][/COLOR]
+http://?
+#EXTINF:-1 $ExtFilter="218 244",218 244 - CCTV1综合
+http://218.244.147.118:5389/wtvlive/cntv/cctv1
+#EXTINF:-1 $ExtFilter="218 244",218 244 - CCTV2财经
+http://218.244.147.118:5389/wtvlive/cntv/cctv2
+#EXTINF:-1 $ExtFilter="218 244",218 244 - CCTV3综艺
+http://218.244.147.118:5389/wtvlive/cntv/cctv3
+#EXTINF:-1 $ExtFilter="218 244",218 244 - CCTV4中文国际(亚洲)
+http://218.244.147.118:5389/wtvlive/cntv/cctv4
+#EXTINF:-1 $ExtFilter="218 244",218 244 - CCTV5体育
+http://218.244.147.118:5389/wtvlive/cntv/cctv5
+#EXTINF:-1 $ExtFilter="218 244",218 244 - CCTV6电影
+http://218.244.147.118:5389/wtvlive/cntv/cctv6
+#EXTINF:-1 $ExtFilter="218 244",218 244 - CCTV7军事农业
+http://218.244.147.118:5389/wtvlive/cntv/cctv7
+#EXTINF:-1 $ExtFilter="218 244",218 244 - CCTV8电视剧
+http://218.244.147.118:5389/wtvlive/cntv/cctv8
+#EXTINF:-1 $ExtFilter="218 244",218 244 - CCTV9纪录
+http://218.244.147.118:5389/wtvlive/cntv/cctv9
+#EXTINF:-1 $ExtFilter="218 244",218 244 - CCTV13新闻
+http://218.244.147.118:5389/wtvlive/cntv/cctv13
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 新华社中文台
+http://218.244.147.118:5389/wtvlive/cditv/xhxc
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都新闻综合
+http://218.244.147.118:5389/wtvlive/cditv/cdtv1
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都经济资讯
+http://218.244.147.118:5389/wtvlive/cditv/cdtv2
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都都市生活
+http://218.244.147.118:5389/wtvlive/cditv/cdtv3
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都公共
+http://218.244.147.118:5389/wtvlive/cditv/cdtv5
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都少儿
+http://218.244.147.118:5389/wtvlive/cditv/cdtv6
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都食尚
+http://218.244.147.118:5389/wtvlive/cditv/sspd
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都汽车
+http://218.244.147.118:5389/wtvlive/cditv/qcpd
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都资讯新干线
+http://218.244.147.118:5389/wtvlive/cditv/zxxgx
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都美食旅游
+http://218.244.147.118:5389/wtvlive/cditv/msly
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都蓉城先锋党教
+http://218.244.147.118:5389/wtvlive/cditv/rcxf
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都美食天府
+http://218.244.147.118:5389/wtvlive/cditv/mstf
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 成都每日购物
+http://218.244.147.118:5389/wtvlive/cditv/mrgw
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 中国教育-1
+http://218.244.147.118:5389/wtvlive/wasu/zgjy
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 山西卫视
+http://218.244.147.118:5389/wtvlive/wasu/1shanxi
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 天津卫视
+http://218.244.147.118:5389/wtvlive/wasu/tianjin
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 东方卫视
+http://218.244.147.118:5389/wtvlive/wasu/dongfang
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 重庆卫视
+http://218.244.147.118:5389/wtvlive/wasu/chongqing
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 江苏卫视
+http://218.244.147.118:5389/wtvlive/wasu/jiangsu
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 河北卫视
+http://218.244.147.118:5389/wtvlive/wasu/hebei
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 河南卫视
+http://218.244.147.118:5389/wtvlive/wasu/henan
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 黑龙江卫视
+http://218.244.147.118:5389/wtvlive/wasu/heilongjiang
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 吉林卫视
+http://218.244.147.118:5389/wtvlive/wasu/jilin
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 辽宁卫视
+http://218.244.147.118:5389/wtvlive/wasu/liaoning
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 安徽卫视
+http://218.244.147.118:5389/wtvlive/wasu/anhui
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 山东卫视
+http://218.244.147.118:5389/wtvlive/wasu/shandong
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 陕西卫视
+http://218.244.147.118:5389/wtvlive/wasu/2shanxi
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 广西卫视
+http://218.244.147.118:5389/wtvlive/wasu/guangxi
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 四川卫视
+http://218.244.147.118:5389/wtvlive/wasu/sichuan
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 湖北卫视
+http://218.244.147.118:5389/wtvlive/wasu/hubei
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 东南卫视
+http://218.244.147.118:5389/wtvlive/wasu/dongnan
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 江西卫视
+http://218.244.147.118:5389/wtvlive/wasu/jiangxi
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 甘肃卫视
+http://218.244.147.118:5389/wtvlive/wasu/gansu
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 宁夏卫视
+http://218.244.147.118:5389/wtvlive/wasu/ningxia
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 贵州卫视
+http://218.244.147.118:5389/wtvlive/wasu/guizhou
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 青海卫视
+http://218.244.147.118:5389/wtvlive/wasu/qinghai
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 云南卫视
+http://218.244.147.118:5389/wtvlive/wasu/yunnan
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 旅游卫视
+http://218.244.147.118:5389/wtvlive/wasu/lvyou
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 广东卫视
+http://218.244.147.118:5389/wtvlive/wasu/guangdong
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 深圳卫视
+http://218.244.147.118:5389/wtvlive/wasu/shenzhen
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 内蒙古卫视
+http://218.244.147.118:5389/wtvlive/wasu/neimenggu
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 新疆卫视
+http://218.244.147.118:5389/wtvlive/wasu/xinjiang
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 兵团卫视
+http://218.244.147.118:5389/wtvlive/wasu/bingtuan
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 西藏卫视
+http://218.244.147.118:5389/wtvlive/wasu/xizang
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 卡酷少儿
+http://218.244.147.118:5389/wtvlive/wasu/kaku
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 炫动卡通
+http://218.244.147.118:5389/wtvlive/wasu/xdkatong
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 优漫卡通
+http://218.244.147.118:5389/wtvlive/wasu/ymkatong
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 金鹰卡通
+http://218.244.147.118:5389/wtvlive/wasu/jykatong
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 广东体育
+http://218.244.147.118:5389/wtvlive/wasu/gdsports
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 青岛休闲资讯
+http://218.244.147.118:5389/wtvlive/wasu/qdsports
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 北京卫视HD（时间段限制）
+http://218.244.147.118:5389/wtvlive/pptv/beijing
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 安徽卫视
+http://218.244.147.118:5389/wtvlive/pptv/anhui
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 山东卫视（时间段限制）
+http://218.244.147.118:5381/wtvlive/pptv/shandong
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 江西卫视
+http://218.244.147.118:5389/wtvlive/pptv/jiangxi
+#EXTINF:-1 $ExtFilter="218 244",218 244 - 上海电视剧
+http://218.244.147.118:5389/wtvlive/pptv/ssdsj
+
+#EXTINF:0,group-title="易视腾",[COLOR green][B]----------易视腾-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-1
+http://218.203.106.12:5580/ysten-business/live/hdcctv01/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-1
+http://218.203.106.12:5580/ysten-businessmobile/live/hdcctv01/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-2
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-2/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-3
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-3/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-4
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-4/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-5
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-5/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-5+
+http://218.203.106.12:5580/ysten-businessmobile/live/hdcctv05plus/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-6
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-6/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-7
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-7/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-8
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-8/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-9
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-news/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-9(英)
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-9/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-10
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-10/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-11
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-11/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-12
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-12/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-13
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-13/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-14
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-14/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-15
+http://218.203.106.12:5580/ysten-businessmobile/live/cctv-15/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-第一剧场
+http://218.203.106.12:5580/ysten-businessmobile/live/cctvno1theater/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CCTV-风云足球
+http://218.203.106.12:5580/ysten-businessmobile/live/cctvfootbal/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CETV1中国教育
+http://218.203.106.12:5580/ysten-businessmobile/live/jiaoyutv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 第一财经
+http://218.203.106.12:5580/ysten-businessmobile/live/diyicaijing/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 阳光卫视
+http://218.203.106.12:5580/ysten-business/live/yangguangstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 湖南卫视HD
+http://218.203.106.12:5580/ysten-businessmobile/live/hdhunanstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 北京卫视HD
+http://218.203.106.12:5580/ysten-businessmobile/live/hdbeijingstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 深圳卫视HD
+http://218.203.106.12:5580/ysten-businessmobile/live/hdshenzhenstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 东方卫视HD
+http://218.203.106.12:5580/ysten-businessmobile/live/hddongfangstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 江苏卫视HD
+http://218.203.106.12:5580/ysten-businessmobile/live/hdjiangsustv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 浙江卫视HD
+http://218.203.106.12:5580/ysten-businessmobile/live/hdzhejiangstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 广东卫视HD
+http://218.203.106.12:5580/ysten-businessmobile/live/hdguangdongstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 天津卫视HD
+http://218.203.106.12:5580/ysten-businessmobile/live/hdtianjinstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 山东卫视HD
+http://218.203.106.12:5580/ysten-businessmobile/live/hdshandongstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 黑龙江卫视HD
+http://218.203.106.12:5580/ysten-businessmobile/live/hdheilongjiangstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 湖北卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/hdhubeistv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 安徽卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/anhuistv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 辽宁卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/liaoningstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 河北卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/hebeistv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 重庆卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/chongqingstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 东南卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/dongnanstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 甘肃卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/gansustv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 吉林卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/jilinstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 山西卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/shanxistv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 陕西卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/shanxi1stv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 广西卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/guangxistv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 贵州卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/guizhoustv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 河南卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/henanstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 江西卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/jiangxistv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 内蒙古卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/neimenggustv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 宁夏卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/ningxiastv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 新疆卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/xinjiangstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 西藏卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/xizangstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 云南卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/yunnanstv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 旅游卫视
+http://218.203.106.12:5580/ysten-businessmobile/live/lvyoustv/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 山东教育
+http://218.203.106.12:5580/ysten-businessmobile/live/shandongjy/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 卡酷少儿
+http://218.203.106.12:5580/ysten-businessmobile/live/kakukaton/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 金鹰卡通
+http://218.203.106.12:5580/ysten-businessmobile/live/jinyingkaton/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 炫动卡通
+http://218.203.106.12:5580/ysten-businessmobile/live/xuandongkaton/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - 优漫卡通
+http://218.203.106.12:5580/ysten-businessmobile/live/youmankaton/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN军事评论
+http://218.203.106.12:5580/ysten-businessmobile/live/junshipl/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN金牌综艺
+http://218.203.106.12:5580/ysten-businessmobile/live/saishijx/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN精品记录
+http://218.203.106.12:5580/ysten-businessmobile/live/jingpinjl/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN精品综艺
+http://218.203.106.12:5580/ysten-businessmobile/live/jzongyi/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN精品体育
+http://218.203.106.12:5580/ysten-businessmobile/live/jtiyu/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN精品电影
+http://218.203.106.12:5580/ysten-businessmobile/live/jdianying/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN精品大剧
+http://218.203.106.12:5580/ysten-businessmobile/live/jdaju/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN古装剧场
+http://218.203.106.12:5580/ysten-businessmobile/live/guzhuangjc/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN家庭剧场
+http://218.203.106.12:5580/ysten-businessmobile/live/jiatingjc/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN爱情喜剧
+http://218.203.106.12:5580/ysten-businessmobile/live/aiqingxj/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN军旅剧场
+http://218.203.106.12:5580/ysten-businessmobile/live/junlvjc/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN动作电影
+http://218.203.106.12:5580/ysten-businessmobile/live/dongzuody/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN明星大片
+http://218.203.106.12:5580/ysten-businessmobile/live/mingxingdp/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN海外剧场
+http://218.203.106.12:5580/ysten-businessmobile/live/xiqumd/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN惊悚悬疑
+http://218.203.106.12:5580/ysten-businessmobile/live/jingsongxy/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN动画王国
+http://218.203.106.12:5580/ysten-businessmobile/live/donghuawg/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN农业致富
+http://218.203.106.12:5580/ysten-businessmobile/live/nongyezf/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN健康有约
+http://218.203.106.12:5580/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8
+#EXTINF:-1 $ExtFilter="易视腾",易视腾 - CIBN完美游戏
+http://218.203.106.12:5580/ysten-businessmobile/live/wmyx/yst.m3u8
+
+#EXTINF:0,group-title="芒果铁通",[COLOR green][B]----------芒果铁通-------[/B][/COLOR]
+http://?
+
+
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-1
+http://221.174.121.203:5000/nn_live.ts?id=CCTV1
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-1HD
+http://221.174.121.203:5000/nn_live.ts?id=CCTV1HD
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-2
+http://221.174.121.203:5000/nn_live.ts?id=CCTV2
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-3HD
+http://221.174.121.203:5000/nn_live.ts?id=CCTV3
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-4
+http://221.174.121.203:5000/nn_live.ts?id=CCTV4
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-5HD
+http://221.174.121.203:5000/nn_live.ts?id=CCTV5
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-5+D
+http://221.174.121.203:5000/nn_live.ts?id=CCTV5P
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-6HD
+http://221.174.121.203:5000/nn_live.ts?id=CCTV6
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-7
+http://221.174.121.203:5000/nn_live.ts?id=CCTV7
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-8HD
+http://221.174.121.203:5000/nn_live.ts?id=CCTV8
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-9(英)
+http://221.174.121.203:5000/nn_live.ts?id=CCTV9
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-10
+http://221.174.121.203:5000/nn_live.ts?id=CCTV10
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-11
+http://221.174.121.203:5000/nn_live.ts?id=CCTV11
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-12
+http://221.174.121.203:5000/nn_live.ts?id=CCTV12
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-13
+http://221.174.121.203:5000/nn_live.ts?id=CCTV13
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-14
+http://221.174.121.203:5000/nn_live.ts?id=CCTV14
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - CCTV-15
+http://221.174.121.203:5000/nn_live.ts?id=CCTV15
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 潇湘电影
+http://221.174.121.203:5000/nn_live.ts?id=XXDY
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 凤凰中文
+http://221.174.121.203:5000/nn_live.ts?id=FHZW
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 凤凰资讯
+http://221.174.121.203:5000/nn_live.ts?id=FHZX
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 湖南卫视HD
+http://221.174.121.203:5000/nn_live.ts?id=HNWSHD
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 北京卫视HD
+http://221.174.121.203:5000/nn_live.ts?id=BJWSHD
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 江苏卫视HD
+http://221.174.121.203:5000/nn_live.ts?id=JSWSHD
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 东方卫视HD
+http://221.174.121.203:5000/nn_live.ts?id=DFWSHD
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 山东卫视HD
+http://221.174.121.203:5000/nn_live.ts?id=SDWSHD
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 深圳卫视HD
+http://221.174.121.203:5000/nn_live.ts?id=SZWSHD
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 浙江卫视HD
+http://221.174.121.203:5000/nn_live.ts?id=ZJWSHD
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 黑龙江卫视HD
+http://221.174.121.203:5000/nn_live.ts?id=HLJWSHD
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 云南卫视
+http://221.174.121.203:5000/nn_live.ts?id=YNWS
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 湖北卫视
+http://221.174.121.203:5000/nn_live.ts?id=HBWS
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 四川卫视
+http://221.174.121.203:5000/nn_live.ts?id=SCWS
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 辽宁卫视
+http://221.174.121.203:5000/nn_live.ts?id=LNWS
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 河北卫视
+http://221.174.121.203:5000/nn_live.ts?id=HBWS
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 天津卫视
+http://221.174.121.203:5000/nn_live.ts?id=TJWS
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 旅游卫视
+http://221.174.121.203:5000/nn_live.ts?id=LYWS
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 湖南经视HD
+http://221.174.121.203:5000/nn_live.ts?id=HNJSHD
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 湖南电视剧
+http://221.174.121.203:5000/nn_live.ts?id=HNDSJ
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 湖南娱乐
+http://221.174.121.203:5000/nn_live.ts?id=HNYL
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 湖南都视
+http://221.174.121.203:5000/nn_live.ts?id=HNDS
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 湖南公共
+http://221.174.121.203:5000/nn_live.ts?id=HNGG
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 湖南国际
+http://221.174.121.203:5000/nn_live.ts?id=GJPD
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 金鹰纪实
+http://221.174.121.203:5000/nn_live.ts?id=JYJS
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 金鹰卡通
+http://221.174.121.203:5000/nn_live.ts?id=JYKT
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 芒果纪实
+http://221.174.121.203:5000/nn_live.ts?id=MGJS
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 四海钓鱼
+http://221.174.121.203:5000/nn_live.ts?id=SHDY&nn_ua_ips=192.168.1.1
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 快乐垂钓
+http://221.174.121.203:5000/nn_live.ts?id=KLCD&nn_ua_ips=192.168.1.1
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 热播剧场
+http://221.174.121.203:5000/nn_live.ts?id=RBJC
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 经典电影
+http://221.174.121.203:5000/nn_live.ts?id=JDDY
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 芒果电视剧
+http://221.174.121.203:5000/nn_live.ts?id=MGDSJ
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 芒果电影
+http://221.174.121.203:5000/nn_live.ts?id=MGDY
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 芒果教育
+http://221.174.121.203:5000/nn_live.ts?id=MGJY
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 芒果生活
+http://221.174.121.203:5000/nn_live.ts?id=MGSH
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 芒果综艺
+http://221.174.121.203:5000/nn_live.ts?id=MGZY
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 芒果音乐
+http://221.174.121.203:5000/nn_live.ts?id=MGYY
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 芒果动漫
+http://221.174.121.203:5000/nn_live.ts?id=MGDM
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 芒果体育
+http://221.174.121.203:5000/nn_live.ts?id=MGTY
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 芒果财经
+http://221.174.121.203:5000/nn_live.ts?id=MGCJ
+#EXTINF:-1 $ExtFilter="芒果铁通",芒果铁通 - 芒果汽车
+http://221.174.121.203:5000/nn_live.ts?id=MGSH
+
 #EXTINF:0,group-title="乐视备用",[COLOR red][B]--------乐视备用------[/B][/COLOR]
 http://?
 
@@ -2876,6 +3416,37 @@ http://124.160.124.24/bd_hytq/z.m3u8
 
 #EXTINF:0,group-title="CCTV",[COLOR green][B]----------CCTV-------[/B][/COLOR]
 http://?
+
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-1HD
+http://202.199.27.91/cctv1hd.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-2
+http://202.199.27.91/cctv2.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-3HD
+http://202.199.27.91/cctv3hd.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-4
+http://202.199.27.91/cctv4.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-5HD
+http://202.199.27.91/cctv5hd.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-6HD
+http://202.199.27.91/cctv6hd.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-7
+http://202.199.27.91/cctv7.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-8HD
+http://202.199.27.91/cctv8hd.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-9
+http://202.199.27.91/cctv9.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-10
+http://202.199.27.91/cctv10.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-11
+http://202.199.27.91/cctv11.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-12
+http://202.199.27.91/cctv12.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-13
+http://202.199.27.91/cctv13.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-14
+http://202.199.27.91/cctv14.m3u8
+#EXTINF:-1 $ExtFilter="CCTV",CCTV-15
+http://202.199.27.91/cctv15.m3u8
 #EXTINF:-1 $ExtFilter="CCTV",CCTV1-综合
 http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/cctv1hd/as/live/cctv1hd_4.m3u8
 #EXTINF:-1 $ExtFilter="CCTV",CCTV4-中文国际
@@ -2892,6 +3463,7 @@ http://ktv038.cdnak.ds.kylintv.net/nlds/kylin/cctvopera/as/live/cctvopera_4.m3u8
 http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv13/as/live/cctv13_4.m3u8
 #EXTINF:-1 $ExtFilter="CCTV",CCTV13-新闻
 http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv9/as/live/cctv9_4.m3u8
+
 #EXTINF:0,group-title="法国内衣秀",[COLOR green][B]----------法国内衣秀-------[/B][/COLOR]
 http://?
 #EXTINF:-1 $ExtFilter="法国内衣秀+音乐",法国内衣秀 - 法国内衣秀ashion TV
