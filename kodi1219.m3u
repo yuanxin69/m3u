@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:0,group-title="视讯中国",[COLOR green][B]----------视讯中国-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - e娱乐
+http://wshls4.live.cnlive.com/cdn/eyule/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - i综艺
+http://wshls4.live.cnlive.com/cdn/izongyi/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - in乐台
+http://wshls4.live.cnlive.com/cdn/inyuetai/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - 幸福秀
+http://wshls4.live.cnlive.com/cdn/xingfuxiu/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - 炫韩娱
+http://wshls4.live.cnlive.com/cdn/xuanhanyu/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - 潮体育
+http://wshls4.live.cnlive.com/cdn/chaotiyu/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - 快新闻
+http://wshls4.live.cnlive.com/cdn/news/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - Liveshow
+http://wshls4.live.cnlive.com/cdn/liveshow/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - 车视界
+http://wshls4.live.cnlive.com/cdn/cheshijie/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - 新影视
+http://wshls4.live.cnlive.com/cdn/xinyingshi/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - 家有购物
+http://wshls4.live.cnlive.com/cdn/jiayougouwu/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - 中华美食
+http://wshls4.live.cnlive.com/cdn/zhonghuameishi/playlist.m3u8
+#EXTINF:-1 $ExtFilter="视讯中国",视讯中国 - IBF_CHINA
+http://wshls4.live.cnlive.com/cdn/ibf/playlist.m3u8
+
 #EXTINF:0,group-title="咪咕",[COLOR green][B]----------咪咕-------[/B][/COLOR]
 http://?
 
