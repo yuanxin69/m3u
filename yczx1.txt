@@ -1,299 +1,299 @@
-HFTV重点新闻台,p2p://myeytv.com:6003/5682a3ca0004dc972de8b10630a456bc.ts
-HKC新闻台,p2p://myeytv.com:6003/5682a391000b31e62de7d4047ac90e7d.ts
-财经资讯台,p2p://myeytv.com:6003/5682a391000d94532de7d4a064f5179d.ts
-HKC跑马18台,p2p://myeytv.com:6003/5682a3ca0006c4ed2de8b183225365bf.ts
-HKC电影一台HD,p2p://myeytv.com:6003/5682a3c9000cf7932de8af314ee92325.ts
-HKC 电影二台,p2p://myeytv.com:6003/5682a3bb000e9c712de878ef4e87208d.ts
-HKC荷里活HMC HD,p2p://myeytv.com:6003/5682a3c9000edfe92de8afae36963ccd.ts
-HKC剧集台213HD,p2p://myeytv.com:6003/5682a3ca0001c30b2de8b03b09027b29.ts
-HKC澳门博览,p2p://myeytv.com:6003/5682a3ca0008ad442de8b200620275f8.ts
-HKC惊悚频道,p2p://myeytv.com:6003/5682a3ca000b0fb02de8b29c652d7118.ts
-HKC娱乐台212HD,p2p://myeytv.com:6003/5682a3cb000092482de8b3d56ed072c7.ts
-HKC赔率台65,p2p://myeytv.com:6003/5682a3cb00027a9e2de8b4521d8c665b.ts
-HK耀才财经,p2p://myeytv.com:6003/5682a3d5000a9a8d2de8dd7538240765.ts
-HKC足球201HD,p2p://myeytv.com:6003/5682a3d5000cfcf92de8de11215b4f37.ts
-HKC体育202HD,p2p://myeytv.com:6003/5682a3d5000ee5502de8de8e28b73999.ts
-HKC跑马203HD,p2p://myeytv.com:6003/5682a3d600027f912de8df4a48677c5b.ts
-HKC 儿童台,p2p://myeytv.com:6003/5682a3d60006503e2de8e0443ed16ec9.ts
-HKC TLC旅游生活频道,p2p://myeytv.com:6003/5682a3d60007fb8a2de8e0b162623c20.ts
-HKC 直播新闻台,p2p://myeytv.com:6003/5682a3d60009e3e02de8e12e779d6298.ts
-HKC 国家地理,p2p://myeytv.com:6003/5682a3d6000bcc372de8e1ab0ca170db.ts
-HKC 探索频道,p2p://myeytv.com:6003/5682a3d6000ea8b82de8e26728ff12f9.ts
-HKC 球彩台,p2p://myeytv.com:6003/5682a3d7000111c42de8e2d4015b2eb3.ts
-HKC Animax,p2p://myeytv.com:6003/5682a3d7000280052de8e33247d0100d.ts
-HKC CN卡通频道,p2p://myeytv.com:6003/5682a3d700051f7b2de8e3de44dd07f6.ts
-HKC私人影院HD,p2p://myeytv.com:6003/5682a3a8000991862de82d6f749b6e78.ts
-HKC第一台,p2p://myeytv.com:6003/5682a3a90001b3982de82f532c7735fc.ts
-HKC Zee TV,p2p://myeytv.com:6003/5682a3bc000a8f322de87bcd6c2f2991.ts
-HKC Zee News,p2p://myeytv.com:6003/5682a3c8000b88df2de8aaec235653fd.ts
-HKC Cinema,p2p://myeytv.com:6003/5682a3c8000e65612de8aba73a9225ca.ts
-HKC Zee Zing,p2p://myeytv.com:6003/5682a3bb0002ed5b2de875f12adc2de2.ts
-HKC Disney Junior粤语,p2p://myeytv.com:6003/5682a3bb00054fc82de8768d2adc5166.ts
-RHK港视31HD,p2p://myeytv.com:6003/5682a3ba000b455f2de8742c720f46a8.ts
-RHK港视32HD,p2p://myeytv.com:6003/5682a3ba000de4d72de874d804cf20fa.ts
-RHK港视33HD,p2p://myeytv.com:6003/5682a3bb00008aee2de875550ae122b2.ts
-SKY体育HD,p2p://myeytv.com:6003/5682a3d70008f0282de8e4d849303bad.ts
-SKY体育1,p2p://myeytv.com:6003/5682a3df000d7b8f2de90541416f12c4.ts
-SKY体育2,p2p://myeytv.com:6003/5682a3e000009bbb2de905dd49c75cd2.ts
-SKY体育3,p2p://myeytv.com:6003/5682a3e0000247072de9064a04d245b8.ts
-SKY体育4,p2p://myeytv.com:6003/5682a3e000042f5d2de906c712340af1.ts
-SKY 体育5,p2p://myeytv.com:6003/5682a3e00006ced42de9077327693523.ts
-SKY 体育6,p2p://myeytv.com:6003/5682a3e00008b72a2de907f039055f5e.ts
-NOW 英超综合台,p2p://myeytv.com:6003/5682a3d60004a4f32de8dfd707035a3a.ts
-翡翠台,p2p://myeytv.com:6003/5682a3060009b9e22de5b4be11e00797.ts
-高清翡翠台,p2p://myeytv.com:6003/5682a307000030af2de5b6352fd463a1.ts
-互动新闻台,p2p://myeytv.com:6003/5682a3070006dde82de5b7ea3e72171d.ts
-明珠台HD,p2p://myeytv.com:6003/5682a31e000e8b9c2de613b6207f4911.ts
-J2,p2p://myeytv.com:6003/5682a33d0005c9472de68a8c3f521f94.ts
-岁月留声,p2p://myeytv.com:6003/5682a3840006e0f52de7a023451f06f8.ts
-HKTV香港电视,p2p://myeytv.com:6003/5682a3a8000ed0762de82ec616bd303c.ts
-HK索尼台,p2p://myeytv.com:6003/5682a3bc000869d02de87b41318c79c3.ts
-野生频道HD粤语,p2p://myeytv.com:6003/5682a3a8000d252a2de82e590dc358b8.ts
-TVB window,p2p://myeytv.com:6003/5682a3a80005fde32de82c8431071675.ts
-TVB 华语剧台,p2p://myeytv.com:6003/5682a3e10002fe9a2de90a616ae85e32.ts
-TVB为食台,p2p://myeytv.com:6003/5682a307000f36702de5ba0d308b4942.ts
-TVB娱乐新闻台,p2p://myeytv.com:6003/5682a3a900035ee42de82fc01ea5590d.ts
-TVB日剧,p2p://myeytv.com:6003/5682a3840009806c2de7a0cf16da749e.ts
-TVB韩剧,p2p://myeytv.com:6003/5682a385000c5d692de7a5727c6c2b15.ts
-TVB经典,p2p://myeytv.com:6003/5682a307000d110b2de5b9815a624d9c.ts
-TVB煲剧台,p2p://myeytv.com:6003/5682a3a80007e63a2de82d0155f15ade.ts
-TVB安哥台,p2p://myeytv.com:6003/5682a3a80004158b2de82c071d73793d.ts
-TVB体育,p2p://myeytv.com:6003/5682a36f0003bd6d2de74d502889009f.ts
-美亚电影港版,p2p://myeytv.com:6003/5682a315000038482de5ece5322566bf.ts
-TVB粤语台,p2p://myeytv.com:6003/5682a3aa000082db2de832ed1fab4834.ts
-TVB新闻,p2p://myeytv.com:6003/5682a308000256a02de5baaa3bdf1c93.ts
-TVB新闻2台,p2p://myeytv.com:6003/5682a3aa00026b322de8336a4b507cae.ts
-道通天地,p2p://myeytv.com:6003/5682a3ba0006bd902de873032e342595.ts
-TVB星河频道粤语,p2p://myeytv.com:6003/5682a3ba0008a5e72de873807e69680d.ts
-TVB星河,p2p://myeytv.com:6003/5682a30800043efa2de5bb2700b7272b.ts
-TVB8,p2p://myeytv.com:6003/5682a34600036b922de6ad18369312a9.ts
-Bein体育1,p2p://myeytv.com:6003/5682a3a9000584462de8304d3c8f34e7.ts
-Bein体育2,p2p://myeytv.com:6003/5682a3a9000917ea2de8313716b71076.ts
-华纳电视频道,p2p://myeytv.com:6003/5682a3a9000d25a32de832416678044d.ts
-本港台,p2p://myeytv.com:6003/5682a306000030222de5b24d07bb688a.ts
-ATV World HD,p2p://myeytv.com:6003/5682a363000563062de71edd40790d39.ts
-高清亚洲台,p2p://myeytv.com:6003/5682a3070004b8832de5b75e7b56262f.ts
-CHC高清电影,p2p://myeytv.com:6003/5682a311000c22592de5e0527bd403ea.ts
-好莱坞电影,p2p://myeytv.com:6003/5682a311000e47bd2de5e0df7fd92ec5.ts
-CHC动作电影HD,p2p://myeytv.com:6003/5682a346000516e02de6ad85783c7b7e.ts
-时尚疯,p2p://myeytv.com:6003/5682a3c9000593442de8ad4d135a7b1a.ts
-MTV Live,p2p://myeytv.com:6003/5682a390000af4612de7d00c721a3692.ts
-GD广东公共,p2p://myeytv.com:6003/5682a3bb000bfcf92de8784327847d37.ts
-GZ岭南戏曲,p2p://myeytv.com:6003/5682a3bb0007752a2de8771a64646767.ts
-广东体育,p2p://myeytv.com:6003/5682a312000575a92de5e28501f506b4.ts
-新视觉英超高清,p2p://myeytv.com:6003/5682a3bc000142892de8796c61ca507a.ts
-HISTORY 2,p2p://myeytv.com:6003/5682a390000e4afa2de7d0e76f821ed9.ts
-劲爆体育HD,p2p://myeytv.com:6003/5682a3bc0003a4f62de87a08023a7e4e.ts
-广州新闻台,p2p://myeytv.com:6003/5682a3bc0006446d2de87ab4659962e7.ts
-国家地理音乐HD,p2p://myeytv.com:6003/5682a36300020c6e2de71e026a7a5324.ts
-第一剧场,p2p://myeytv.com:6003/5682a34500086cf52de6aa78018b4c07.ts
-格斗体育高清,p2p://myeytv.com:6003/5682a3c9000ad2322de8aea555357929.ts
-凤凰卫视,p2p://myeytv.com:6003/5682a2ff000e3de42de59a8f7a443968.ts
-凤凰资讯,p2p://myeytv.com:6003/5682a305000625ad2de5afec434157d9.ts
-凤凰香港,p2p://myeytv.com:6003/5682a305000aea8d2de5b124385c358a.ts
-香港精品台,p2p://myeytv.com:6003/5682a34f000d37132de6d2c10ac07333.ts
-莲花卫视,p2p://myeytv.com:6003/5682a30500093f3f2de5b0b779401a98.ts
-HBO,p2p://myeytv.com:6003/5682a311000851a82de5df58495f4193.ts
-HBO家庭HD,p2p://myeytv.com:6003/5682a3640000dbb12de7219c34a673e4.ts
-HBO原创,p2p://myeytv.com:6003/5682a358000112962de6f2cc1b846848.ts
-HBO强档,p2p://myeytv.com:6003/5682a357000df2672de6f23054e72b51.ts
-国家地理HD,p2p://myeytv.com:6003/5682a350000596362de6d4b56e681039.ts
-地理悠人HD,p2p://myeytv.com:6003/5682a35900055de42de6f7cd182f4821.ts
-野生地理,p2p://myeytv.com:6003/5682a3460008e7912de6ae7f6e0f7060.ts
-历史频道,p2p://myeytv.com:6003/5682a3500002028f2de6d3ca1fa124dd.ts
-Discovery,p2p://myeytv.com:6003/5682a31200012ae12de5e16b4dbb2ae6.ts
-高清影视HD,p2p://myeytv.com:6003/5682a37a0007193f2de779223f711470.ts
-好莱坞电影,p2p://myeytv.com:6003/5682a311000e47bd2de5e0df7fd92ec5.ts
-江苏卫视,p2p://myeytv.com:6003/5682a2fe000c92102de596396e2a542e.ts
-浙江卫视,p2p://myeytv.com:6003/5682a3320002a9f12de65ec903f058c1.ts
-湖南卫视HD,p2p://myeytv.com:6003/5682a34e000d73972de6cee85a6d34b8.ts
-广东卫视,p2p://myeytv.com:6003/5682a3320004553e2de65f37061d0e32.ts
-广西卫视,p2p://myeytv.com:6003/5682a2ff000120812de597333acd2fcb.ts
-北京卫视,p2p://myeytv.com:6003/5682a332000b7c8b2de6610b1a01516e.ts
-深圳卫视,p2p://myeytv.com:6003/5682a33200063d972de65fb43b645f63.ts
-东方卫视,p2p://myeytv.com:6003/5682a33b00054e242de6829d60e5757a.ts
-珠江,p2p://myeytv.com:6003/5682a2ff0005a8542de5985c31566e00.ts
-南方卫视,p2p://myeytv.com:6003/5682a38300084ebc2de79c9961c05fcc.ts
-东南卫视,p2p://myeytv.com:6003/5682a36400033e1e2de722383b2f0f8d.ts
-星空,p2p://myeytv.com:6003/5682a2ff0009f31c2de599763cc75bc6.ts
-潮商卫视,p2p://myeytv.com:6003/5682a305000d0ff22de5b1b1364d5fb4.ts
-CCTV1 HD,p2p://myeytv.com:6003/5682a3590000d6112de6f6a458d63b87.ts
-CCTV 2,p2p://myeytv.com:6003/5682a2fd0006215e2de590ac052b4e58.ts
-CCTV 3,p2p://myeytv.com:6003/5682a2fd000a2f1a2de591b573fc7ee1.ts
-CCTV4,p2p://myeytv.com:6003/5682a345000e630a2de6abff296d3443.ts
-CCTV 5,p2p://myeytv.com:6003/5682a2fd000c547e2de5924218994dc2.ts
-CCTV体育赛事,p2p://myeytv.com:6003/5682a382000e07482de79a2856b33b26.ts
-CCTV 6,p2p://myeytv.com:6003/5682a2fe0000a5e52de5932c218214d1.ts
-CCTV 7,p2p://myeytv.com:6003/5682a32b00035d652de643a021880f39.ts
-CCTV 8,p2p://myeytv.com:6003/5682a2fe0004b3a12de5943643074755.ts
-CCTV 少儿,p2p://myeytv.com:6003/5682a2fe0009787f2de5956e7c6712f7.ts
-CCTV 新闻,p2p://myeytv.com:6003/5682a2fe0007531b2de594e215c62e00.ts
-Channel V HD,p2p://myeytv.com:6003/5682a36e000844c32de74a91325611b2.ts
-东森电影,p2p://myeytv.com:6003/5682a311000406e02de5de3f60100cde.ts
-东森洋片,p2p://myeytv.com:6003/5682a31100062c442de5decc5a4032d3.ts
-东森幼幼,p2p://myeytv.com:6003/5682a3200001323b2de6181b6db47991.ts
-民视HD,p2p://myeytv.com:6003/5682a31f0003d12f2de614df56a76788.ts
-台视HD,p2p://myeytv.com:6003/5682a31f00057c7c2de6154d5d9512e6.ts
-中视,p2p://myeytv.com:6003/5682a347000146b42de6b07374e10e45.ts
-中视HD,p2p://myeytv.com:6003/5682a31f000764d52de615ca51bc7e3b.ts
-华视HD,p2p://myeytv.com:6003/5682a31f000a044f2de6167667f45e5d.ts
-超视,p2p://myeytv.com:6003/5682a31f000baf9d2de616e35a0d36ba.ts
-中天综合,p2p://myeytv.com:6003/5682a3200005ba0e2de619446e015eb7.ts
-东森综合,p2p://myeytv.com:6003/5682a31f000d97f62de6176021f87969.ts
-中天娱乐,p2p://myeytv.com:6003/5682a3460006c22d2de6adf31e7a7e9b.ts
-TVBS综合,p2p://myeytv.com:6003/5682a320000c67452de61afa4f540d21.ts
-TVBS新闻,p2p://myeytv.com:6003/5682a328000dd9ba2de63a9843b76c74.ts
-TVBS G,p2p://myeytv.com:6003/5682a32900007fd32de63b151680058c.ts
-东森新闻HD,p2p://myeytv.com:6003/5682a3290006efff2de63cba639b364e.ts
-中天新闻,p2p://myeytv.com:6003/5682a3200003579f2de618a827b57358.ts
-非凡新闻,p2p://myeytv.com:6003/5682a32900031f4d2de63bc035c402e5.ts
-年代新闻,p2p://myeytv.com:6003/5682a3200009c7ca2de61a4e1c3c7f7b.ts
-三立新闻,p2p://myeytv.com:6003/5682a3290004ca9b2de63c2e2dc43ba3.ts
-华臧卫视,p2p://myeytv.com:6003/5682a39100066d0c2de7d2cc77281647.ts
-大爱,p2p://myeytv.com:6003/5682a329000d231f2de63e5119cc078f.ts
-大爱二台,p2p://myeytv.com:6003/5682a3e1000116442de909e438ee0094.ts
-好消息1台,p2p://myeytv.com:6003/5682a392000077752de7d52d79b43e16.ts
-好消息,p2p://myeytv.com:6003/5682a32a0000805a2de63efd633a2233.ts
-三立台湾,p2p://myeytv.com:6003/5682a332000d64e42de6618830091e9d.ts
-三立国际,p2p://myeytv.com:6003/5682a3330002aa772de662b17bee5db9.ts
-三立都会台,p2p://myeytv.com:6003/5682a358000520532de6f3d53b65466a.ts
-纬莱综合,p2p://myeytv.com:6003/5682a32a0003d6f52de63fd740c81b41.ts
-纬莱日本,p2p://myeytv.com:6003/5682a32a0009cd0a2de6415e53cd7adf.ts
-纬来育乐,p2p://myeytv.com:6003/5682a33b0002719f2de681e264a9323b.ts
-卫视电影中文(ty),p2p://myeytv.com:6003/5682a34f000ee2602de6d32e77a61729.ts
-纬莱戏剧,p2p://myeytv.com:6003/5682a33b000089462de6816572b21905.ts
-八大娱乐K台,p2p://myeytv.com:6003/5682a36d0007ca332de746894b4d0bf0.ts
-八大戏剧,p2p://myeytv.com:6003/5682a36d000065e12de744a562a4695d.ts
-八大第一台,p2p://myeytv.com:6003/5682a34500008e862de6a8755dee2a00.ts
-八大综合,p2p://myeytv.com:6003/5682a3450002b3ea2de6a90162767821.ts
-国兴卫视,p2p://myeytv.com:6003/5682a33a000b06a82de6802c31ff2e38.ts
-JET综合,p2p://myeytv.com:6003/5682a333000bba1d2de6650331042742.ts
-Z频道,p2p://myeytv.com:6003/5682a36e00015a872de748cb022f5b9c.ts
-民视新闻,p2p://myeytv.com:6003/5682a33c000e21452de688c70ad72cbf.ts
-东森戏剧,p2p://myeytv.com:6003/5682a364000788e22de7235256220aa8.ts
-东森财经,p2p://myeytv.com:6003/5682a33a000da6222de680d83e0a65af.ts
-DIVA,p2p://myeytv.com:6003/5682a36c000a69322de7434d779c25d5.ts
-ELTA综合,p2p://myeytv.com:6003/5682a2fd0003beef2de5900f696c4169.ts
-三立财经,p2p://myeytv.com:6003/5682a379000c1aab2de776831fc80d2d.ts
-公视HD,p2p://myeytv.com:6003/5682a34500045f382de6a96f746e1078.ts
-寰宇综合HD,p2p://myeytv.com:6003/5682a36e00065c6c2de74a1445e30c95.ts
-France24,p2p://myeytv.com:6003/5682a3340002e8092de666a937c02f7d.ts
-Bloomberg,p2p://myeytv.com:6003/5682a379000f34382de7774e035407c4.ts
-TV5,p2p://myeytv.com:6003/5682a3340000c2a52de6661c33ca7087.ts
-CNBC,p2p://myeytv.com:6003/5682a3500003eae82de6d447729b2ef9.ts
-Sky News HD,p2p://myeytv.com:6003/5682a363000c4d422de720a20c472f5c.ts
-天映电影,p2p://myeytv.com:6003/5682a37b0000a9932de77b6521a372d9.ts
-纬莱电影,p2p://myeytv.com:6003/5682a329000afdbc2de63dc41ac05c05.ts
-龙祥电影,p2p://myeytv.com:6003/5682a33b000867b52de68368621379f0.ts
-卫视中文电影HD,p2p://myeytv.com:6003/5682a3080008c6cf2de5bc4f4c5964f8.ts
-美亚电影台,p2p://myeytv.com:6003/5682a346000acfea2de6aefc40287181.ts
-星卫电影台,p2p://myeytv.com:6003/5682a346000de97a2de6afc81b4348bd.ts
-星卫娱乐HD,p2p://myeytv.com:6003/5682a358000c84ab2de6f5ba7c2a1e17.ts
-中国电影,p2p://myeytv.com:6003/5682a3e0000d7c022de909296cd234da.ts
-CineMax,p2p://myeytv.com:6003/5682a333000ddf812de6659016f645f8.ts
-AXN电影,p2p://myeytv.com:6003/5682a33300000afd2de66205426158b6.ts
-AXN HD,p2p://myeytv.com:6003/5682a36d000e3a5a2de7482f08585b70.ts
-Sundance HD,p2p://myeytv.com:6003/5682a36c000d45b42de7440950e02613.ts
-卫视洋片HD,p2p://myeytv.com:6003/5682a308000c1d6b2de5bd2a2ba01425.ts
-Star World,p2p://myeytv.com:6003/5682a33c000a8d9f2de687dd7be925ce.ts
-FOX家庭HD,p2p://myeytv.com:6003/5682a3500007bb9a2de6d54127613eac.ts
-Fox Movies,p2p://myeytv.com:6003/5682a33d0008e2d82de68b576e1652a0.ts
-FOX优质电影,p2p://myeytv.com:6003/5682a3770009002a2de76de76c9c00c1.ts
-FOX警匪,p2p://myeytv.com:6003/5682a359000f24ab2de6fa4e7ec37946.ts
-FOX,p2p://myeytv.com:6003/5682a32a0005bf4e2de640540b927265.ts
-Fx HD,p2p://myeytv.com:6003/5682a3620003f44b2de71a976c524567.ts
-龙华洋片,p2p://myeytv.com:6003/5682a3590002fb752de6f73107e97521.ts
-龙华动画,p2p://myeytv.com:6003/5682a36e000a2d1a2de74b0e7f2948d7.ts
-龙华戏剧,p2p://myeytv.com:6003/5682a36f0000a3e02de74c854fdb058c.ts
-ELTA体育台,p2p://myeytv.com:6003/5682a350000966e72de6d5af1e8a4f43.ts
-龙华偶像,p2p://myeytv.com:6003/5682a36e000c8f872de74baa2eac4a44.ts
-ELTA影剧,p2p://myeytv.com:6003/5682a3580002faef2de6f3495eb74366.ts
-壹电视新闻,p2p://myeytv.com:6003/5682a359000cc23c2de6f9b1526a2df8.ts
-壹电视综合,p2p://myeytv.com:6003/5682a359000b16ef2de6f944343e71bf.ts
-新视觉HD,p2p://myeytv.com:6003/5682a32b000043d52de642d546be2029.ts
-高尔夫 HD,p2p://myeytv.com:6003/5682a34f00064cd12de6d0fc177d3ec3.ts
-ASN HD,p2p://myeytv.com:6003/5682a34f0004de8e2de6d09e0b9e6b12.ts
-FOX PLUS HD,p2p://myeytv.com:6003/5682a34f000872352de6d1886874209e.ts
-卫视体育,p2p://myeytv.com:6003/5682a313000d17932de5e86146190ebd.ts
-FOX Spoets HD,p2p://myeytv.com:6003/5682a34e000ee1da2de6cf464c840565.ts
-博斯运动,p2p://myeytv.com:6003/5682a3330009d1c42de6648612cd7d75.ts
-博斯高尔夫,p2p://myeytv.com:6003/5682a3330007324a2de663da521960ef.ts
-高尔夫网球,p2p://myeytv.com:6003/5682a345000647912de6a9ec60257812.ts
-EDGE体育,p2p://myeytv.com:6003/5682a38300047e0e2de79b9f1ded25b9.ts
-M HD,p2p://myeytv.com:6003/5682a3570007fc522de6f0a970554fac.ts
-Channel V HD,p2p://myeytv.com:6003/5682a36e000844c32de74a91325611b2.ts
-FASHION TV,p2p://myeytv.com:6003/5682a36d0003bc7a2de745803a7a2e19.ts
-Li时尚生活HD,p2p://myeytv.com:6003/5682a363000e72a52de7212f50b70b4c.ts
-Syfy,p2p://myeytv.com:6003/5682a37b0004002b2de77c3f3c2d0da5.ts
-HKC TLC旅游生活频道,p2p://myeytv.com:6003/5682a3d60007fb8a2de8e0b162623c20.ts
-卫视中文台,p2p://myeytv.com:6003/5682a3580007bfcd2de6f48147ea6fa5.ts
-东风卫视,p2p://myeytv.com:6003/5682a364000563802de722c57269227d.ts
-快乐垂钓,p2p://myeytv.com:6003/5682a345000cb7bc2de6ab9132865af5.ts
-四海钓鱼HD（js）,p2p://myeytv.com:6003/5682a3780000e5312de76fbc59b2017f.ts
-探索科学HD,p2p://myeytv.com:6003/5682a362000656b82de71b3464994b45.ts
-美食星球,p2p://myeytv.com:6003/5682a3590007463d2de6f84a34083c1c.ts
-探索动力HD,p2p://myeytv.com:6003/5682a363000024172de71d8544164a6f.ts
-探索家庭HD,p2p://myeytv.com:6003/5682a362000ade872de71c5c425762ff.ts
-NBA HD,p2p://myeytv.com:6003/5682a364000971392de723cf7bf1185f.ts
-足球HD,p2p://myeytv.com:6003/5682a314000d922f2de5ec68455970b4.ts
-欧洲体育,p2p://myeytv.com:6003/5682a346000183392de6ac9b25e32e49.ts
-高尔夫,p2p://myeytv.com:6003/5682a314000074cd2de5e90d580535f3.ts
-K+1 HD,p2p://myeytv.com:6003/5682a384000c99fa2de7a19a19937469.ts
-纬莱体育,p2p://myeytv.com:6003/5682a3200007df722de619d1640c0ee8.ts
-NHK,p2p://myeytv.com:6003/5682a31e000c66382de6132a340b79e0.ts
-BBC,p2p://myeytv.com:6003/5682a31f0000b79e2de614147dd50c39.ts
-KBS HD(js),p2p://myeytv.com:6003/5682a3780003febf2de770873af45d8d.ts
-CNN,p2p://myeytv.com:6003/5682a33d0001f8962de68992365545fb.ts
-迪斯尼卡通,p2p://myeytv.com:6003/5682a33300050ce62de6634d75f73d2c.ts
-momo亲子台,p2p://myeytv.com:6003/5682a32a000d9dbc2de6425823d3229b.ts
-亚洲旅游,p2p://myeytv.com:6003/5682a384000efc672de7a23660f50326.ts
-中天亚洲,p2p://myeytv.com:6003/5682a385000812a52de7a45912840c9f.ts
-大爱二台,p2p://myeytv.com:6003/5682a3e1000116442de909e438ee0094.ts
-大爱二台,p2p://myeytv.com:6003/5682a3e1000116442de909e438ee0094.ts
-东方财经,p2p://myeytv.com:6003/5682a3a800022d342de82b8a2cf644e4.ts
-第一财经,p2p://myeytv.com:6003/5682a3a8000081e82de82b1d7fe24920.ts
-欧洲足球,p2p://myeytv.com:6003/5682a38600021d0e2de7a6ba61fe618c.ts
-BBC Knowledge Channel,p2p://myeytv.com:6003/5682a385000ebfd62de7a60e178a2265.ts
-靖天电影台,p2p://myeytv.com:6003/5682a390000949152de7cf9f31483e27.ts
-Warner TV,p2p://myeytv.com:6003/5682a3900004fe512de7ce8615df4833.ts
-Universal Channel,p2p://myeytv.com:6003/5682a3900003900f2de7ce2829ed4b2f.ts
-罪案侦缉频道,p2p://myeytv.com:6003/5682a390000760be2de7cf22344c364d.ts
-EYE TV旅游,p2p://myeytv.com:6003/5682a39100012e1c2de7d17440f565a1.ts
-EYE TV戏剧台,p2p://myeytv.com:6003/5682a3e0000a62762de9085e435e73bc.ts
-Outdoor,p2p://myeytv.com:6003/5682a391000447a92de7d23f3a846e91.ts
-H265HKC201HD,p2p://myeytv.com:6003/5682a3e1000523fb2de90aee2cbc0498.ts
-H265HKC202HD,p2p://myeytv.com:6003/5682a3e10007495d2de90b7a4d3b68c0.ts
-H265HKC203HD,p2p://myeytv.com:6003/5682a3e100096ebe2de90c0770f05960.ts
-H265HKC娱乐台HD,p2p://myeytv.com:6003/5682a3e1000bd12a2de90ca361717223.ts
-H265翡翠台,p2p://myeytv.com:6003/5682a3e1000d7c752de90d11464717b4.ts
-H265高清翡翠台,p2p://myeytv.com:6003/5682a3ec0008427b2de936b11d9e57c5.ts
-H265TVB互动新闻台,p2p://myeytv.com:6003/5682a3ec000b1efd2de9376c573607af.ts
-H265TVB J2,p2p://myeytv.com:6003/5682a3ed0000648a2de9389524d055fb.ts
-风云足球,p2p://myeytv.com:6003/5682a3ed000304012de9394140b07b89.ts
-H265HKC电影一台,p2p://myeytv.com:6003/5682a3ed0005a3772de939ed1ab47dde.ts
-H265HKC荷里活电影,p2p://myeytv.com:6003/5682a3ed00078bce2de93a6a09102bc6.ts
-安徽卫视HD,p2p://myeytv.com:6003/5682a3ed0009ee3a2de93b062527564d.ts
-黑龙江卫HD,p2p://myeytv.com:6003/5682a3ed000d44d12de93be154d40ece.ts
-辽宁卫视HD,p2p://myeytv.com:6003/5682a3ee000064fd2de93c7d44435afb.ts
-山东卫视HD,p2p://myeytv.com:6003/5682a3ee000210492de93ceb3d4c48bd.ts
-CCTV 9 HD,p2p://myeytv.com:6003/5682a3ee000435aa2de93d7746a51f3a.ts
-重庆卫视HD,p2p://myeytv.com:6003/5682a3ee00065b0b2de93e0407bc69b1.ts
-天津卫视HD,p2p://myeytv.com:6003/5682a3ee0008bd772de93ea0718965b5.ts
-CCTV 10 HD,p2p://myeytv.com:6003/5682a3ee000dfc652de93ff8330b5a76.ts
-广东体育SD,p2p://myeytv.com:6003/5682a3ef000065702de9406513884a99.ts
-CCTV 12 HD,p2p://myeytv.com:6003/5682a3f7000753432de9616a1b742d27.ts
-凤凰电影,p2p://myeytv.com:6003/5682a3f700093b992de961e7582b65b7.ts
-MTV音乐台 东南亚,p2p://myeytv.com:6003/5682a3f7000d0c462de962e101bf0996.ts
-MTV音乐台 中国,p2p://myeytv.com:6003/5682a3f800002c722de9637e03aa0d61.ts
-1Life Time,p2p://myeytv.com:6003/5682a3f8000251d32de9640a352850b8.ts
-Golf 亚洲,p2p://myeytv.com:6003/5682a3f8000477352de964970f351422.ts
-深圳体育高清,p2p://myeytv.com:6003/5682a3f800065f8b2de9651417965c97.ts
-深圳都市频道,p2p://myeytv.com:6003/5682a3f8000884ec2de965a14edc744a.ts
-深圳电视剧,p2p://myeytv.com:6003/5682a3f8000a6d432de9661e31f04466.ts
-深圳公共频道,p2p://myeytv.com:6003/5682a3f8000e3def2de96718419e3d20.ts
-CHC华诚影院 HD,p2p://myeytv.com:6003/5682a3f9000346722de968314d45051a.ts
-BabyFirstTV,p2p://myeytv.com:6003/5682a3f90005a8de2de968cd3ae46b31.ts
-NickJr尼克幼儿,p2p://myeytv.com:6003/5682a3f9000791342de9694a751565aa.ts
-广东新闻,p2p://myeytv.com:6003/5682a3f900093c802de969b72120374c.ts
-卫视体育台,p2p://myeytv.com:6003/5682a3f9000cd0222de96aa225742489.ts
-HFTV卫视体育2台,p2p://myeytv.com:6003/5682a401000d8adc2de98a111335781f.ts
+HFTV重点新闻台,p2p://myeytv.com:6003/5682a3ca0004dc972de8b10630a456bc&link=HGFDSAihgfd
+HKC新闻台,p2p://myeytv.com:6003/5682a391000b31e62de7d4047ac90e7d&link=HGFDSAihgfd
+财经资讯台,p2p://myeytv.com:6003/5682a391000d94532de7d4a064f5179d&link=HGFDSAihgfd
+HKC跑马18台,p2p://myeytv.com:6003/5682a3ca0006c4ed2de8b183225365bf&link=HGFDSAihgfd
+HKC电影一台HD,p2p://myeytv.com:6003/5682a3c9000cf7932de8af314ee92325&link=HGFDSAihgfd
+HKC 电影二台,p2p://myeytv.com:6003/5682a3bb000e9c712de878ef4e87208d&link=HGFDSAihgfd
+HKC荷里活HMC HD,p2p://myeytv.com:6003/5682a3c9000edfe92de8afae36963ccd&link=HGFDSAihgfd
+HKC剧集台213HD,p2p://myeytv.com:6003/5682a3ca0001c30b2de8b03b09027b29&link=HGFDSAihgfd
+HKC澳门博览,p2p://myeytv.com:6003/5682a3ca0008ad442de8b200620275f8&link=HGFDSAihgfd
+HKC惊悚频道,p2p://myeytv.com:6003/5682a3ca000b0fb02de8b29c652d7118&link=HGFDSAihgfd
+HKC娱乐台212HD,p2p://myeytv.com:6003/5682a3cb000092482de8b3d56ed072c7&link=HGFDSAihgfd
+HKC赔率台65,p2p://myeytv.com:6003/5682a3cb00027a9e2de8b4521d8c665b&link=HGFDSAihgfd
+HK耀才财经,p2p://myeytv.com:6003/5682a3d5000a9a8d2de8dd7538240765&link=HGFDSAihgfd
+HKC足球201HD,p2p://myeytv.com:6003/5682a3d5000cfcf92de8de11215b4f37&link=HGFDSAihgfd
+HKC体育202HD,p2p://myeytv.com:6003/5682a3d5000ee5502de8de8e28b73999&link=HGFDSAihgfd
+HKC跑马203HD,p2p://myeytv.com:6003/5682a3d600027f912de8df4a48677c5b&link=HGFDSAihgfd
+HKC 儿童台,p2p://myeytv.com:6003/5682a3d60006503e2de8e0443ed16ec9&link=HGFDSAihgfd
+HKC TLC旅游生活频道,p2p://myeytv.com:6003/5682a3d60007fb8a2de8e0b162623c20&link=HGFDSAihgfd
+HKC 直播新闻台,p2p://myeytv.com:6003/5682a3d60009e3e02de8e12e779d6298&link=HGFDSAihgfd
+HKC 国家地理,p2p://myeytv.com:6003/5682a3d6000bcc372de8e1ab0ca170db&link=HGFDSAihgfd
+HKC 探索频道,p2p://myeytv.com:6003/5682a3d6000ea8b82de8e26728ff12f9&link=HGFDSAihgfd
+HKC 球彩台,p2p://myeytv.com:6003/5682a3d7000111c42de8e2d4015b2eb3&link=HGFDSAihgfd
+HKC Animax,p2p://myeytv.com:6003/5682a3d7000280052de8e33247d0100d&link=HGFDSAihgfd
+HKC CN卡通频道,p2p://myeytv.com:6003/5682a3d700051f7b2de8e3de44dd07f6&link=HGFDSAihgfd
+HKC私人影院HD,p2p://myeytv.com:6003/5682a3a8000991862de82d6f749b6e78&link=HGFDSAihgfd
+HKC第一台,p2p://myeytv.com:6003/5682a3a90001b3982de82f532c7735fc&link=HGFDSAihgfd
+HKC Zee TV,p2p://myeytv.com:6003/5682a3bc000a8f322de87bcd6c2f2991&link=HGFDSAihgfd
+HKC Zee News,p2p://myeytv.com:6003/5682a3c8000b88df2de8aaec235653fd&link=HGFDSAihgfd
+HKC Cinema,p2p://myeytv.com:6003/5682a3c8000e65612de8aba73a9225ca&link=HGFDSAihgfd
+HKC Zee Zing,p2p://myeytv.com:6003/5682a3bb0002ed5b2de875f12adc2de2&link=HGFDSAihgfd
+HKC Disney Junior粤语,p2p://myeytv.com:6003/5682a3bb00054fc82de8768d2adc5166&link=HGFDSAihgfd
+RHK港视31HD,p2p://myeytv.com:6003/5682a3ba000b455f2de8742c720f46a8&link=HGFDSAihgfd
+RHK港视32HD,p2p://myeytv.com:6003/5682a3ba000de4d72de874d804cf20fa&link=HGFDSAihgfd
+RHK港视33HD,p2p://myeytv.com:6003/5682a3bb00008aee2de875550ae122b2&link=HGFDSAihgfd
+SKY体育HD,p2p://myeytv.com:6003/5682a3d70008f0282de8e4d849303bad&link=HGFDSAihgfd
+SKY体育1,p2p://myeytv.com:6003/5682a3df000d7b8f2de90541416f12c4&link=HGFDSAihgfd
+SKY体育2,p2p://myeytv.com:6003/5682a3e000009bbb2de905dd49c75cd2&link=HGFDSAihgfd
+SKY体育3,p2p://myeytv.com:6003/5682a3e0000247072de9064a04d245b8&link=HGFDSAihgfd
+SKY体育4,p2p://myeytv.com:6003/5682a3e000042f5d2de906c712340af1&link=HGFDSAihgfd
+SKY 体育5,p2p://myeytv.com:6003/5682a3e00006ced42de9077327693523&link=HGFDSAihgfd
+SKY 体育6,p2p://myeytv.com:6003/5682a3e00008b72a2de907f039055f5e&link=HGFDSAihgfd
+NOW 英超综合台,p2p://myeytv.com:6003/5682a3d60004a4f32de8dfd707035a3a&link=HGFDSAihgfd
+翡翠台,p2p://myeytv.com:6003/5682a3060009b9e22de5b4be11e00797&link=HGFDSAihgfd
+高清翡翠台,p2p://myeytv.com:6003/5682a307000030af2de5b6352fd463a1&link=HGFDSAihgfd
+互动新闻台,p2p://myeytv.com:6003/5682a3070006dde82de5b7ea3e72171d&link=HGFDSAihgfd
+明珠台HD,p2p://myeytv.com:6003/5682a31e000e8b9c2de613b6207f4911&link=HGFDSAihgfd
+J2,p2p://myeytv.com:6003/5682a33d0005c9472de68a8c3f521f94&link=HGFDSAihgfd
+岁月留声,p2p://myeytv.com:6003/5682a3840006e0f52de7a023451f06f8&link=HGFDSAihgfd
+HKTV香港电视,p2p://myeytv.com:6003/5682a3a8000ed0762de82ec616bd303c&link=HGFDSAihgfd
+HK索尼台,p2p://myeytv.com:6003/5682a3bc000869d02de87b41318c79c3&link=HGFDSAihgfd
+野生频道HD粤语,p2p://myeytv.com:6003/5682a3a8000d252a2de82e590dc358b8&link=HGFDSAihgfd
+TVB window,p2p://myeytv.com:6003/5682a3a80005fde32de82c8431071675&link=HGFDSAihgfd
+TVB 华语剧台,p2p://myeytv.com:6003/5682a3e10002fe9a2de90a616ae85e32&link=HGFDSAihgfd
+TVB为食台,p2p://myeytv.com:6003/5682a307000f36702de5ba0d308b4942&link=HGFDSAihgfd
+TVB娱乐新闻台,p2p://myeytv.com:6003/5682a3a900035ee42de82fc01ea5590d&link=HGFDSAihgfd
+TVB日剧,p2p://myeytv.com:6003/5682a3840009806c2de7a0cf16da749e&link=HGFDSAihgfd
+TVB韩剧,p2p://myeytv.com:6003/5682a385000c5d692de7a5727c6c2b15&link=HGFDSAihgfd
+TVB经典,p2p://myeytv.com:6003/5682a307000d110b2de5b9815a624d9c&link=HGFDSAihgfd
+TVB煲剧台,p2p://myeytv.com:6003/5682a3a80007e63a2de82d0155f15ade&link=HGFDSAihgfd
+TVB安哥台,p2p://myeytv.com:6003/5682a3a80004158b2de82c071d73793d&link=HGFDSAihgfd
+TVB体育,p2p://myeytv.com:6003/5682a36f0003bd6d2de74d502889009f&link=HGFDSAihgfd
+美亚电影港版,p2p://myeytv.com:6003/5682a315000038482de5ece5322566bf&link=HGFDSAihgfd
+TVB粤语台,p2p://myeytv.com:6003/5682a3aa000082db2de832ed1fab4834&link=HGFDSAihgfd
+TVB新闻,p2p://myeytv.com:6003/5682a308000256a02de5baaa3bdf1c93&link=HGFDSAihgfd
+TVB新闻2台,p2p://myeytv.com:6003/5682a3aa00026b322de8336a4b507cae&link=HGFDSAihgfd
+道通天地,p2p://myeytv.com:6003/5682a3ba0006bd902de873032e342595&link=HGFDSAihgfd
+TVB星河频道粤语,p2p://myeytv.com:6003/5682a3ba0008a5e72de873807e69680d&link=HGFDSAihgfd
+TVB星河,p2p://myeytv.com:6003/5682a30800043efa2de5bb2700b7272b&link=HGFDSAihgfd
+TVB8,p2p://myeytv.com:6003/5682a34600036b922de6ad18369312a9&link=HGFDSAihgfd
+Bein体育1,p2p://myeytv.com:6003/5682a3a9000584462de8304d3c8f34e7&link=HGFDSAihgfd
+Bein体育2,p2p://myeytv.com:6003/5682a3a9000917ea2de8313716b71076&link=HGFDSAihgfd
+华纳电视频道,p2p://myeytv.com:6003/5682a3a9000d25a32de832416678044d&link=HGFDSAihgfd
+本港台,p2p://myeytv.com:6003/5682a306000030222de5b24d07bb688a&link=HGFDSAihgfd
+ATV World HD,p2p://myeytv.com:6003/5682a363000563062de71edd40790d39&link=HGFDSAihgfd
+高清亚洲台,p2p://myeytv.com:6003/5682a3070004b8832de5b75e7b56262f&link=HGFDSAihgfd
+CHC高清电影,p2p://myeytv.com:6003/5682a311000c22592de5e0527bd403ea&link=HGFDSAihgfd
+好莱坞电影,p2p://myeytv.com:6003/5682a311000e47bd2de5e0df7fd92ec5&link=HGFDSAihgfd
+CHC动作电影HD,p2p://myeytv.com:6003/5682a346000516e02de6ad85783c7b7e&link=HGFDSAihgfd
+时尚疯,p2p://myeytv.com:6003/5682a3c9000593442de8ad4d135a7b1a&link=HGFDSAihgfd
+MTV Live,p2p://myeytv.com:6003/5682a390000af4612de7d00c721a3692&link=HGFDSAihgfd
+GD广东公共,p2p://myeytv.com:6003/5682a3bb000bfcf92de8784327847d37&link=HGFDSAihgfd
+GZ岭南戏曲,p2p://myeytv.com:6003/5682a3bb0007752a2de8771a64646767&link=HGFDSAihgfd
+广东体育,p2p://myeytv.com:6003/5682a312000575a92de5e28501f506b4&link=HGFDSAihgfd
+新视觉英超高清,p2p://myeytv.com:6003/5682a3bc000142892de8796c61ca507a&link=HGFDSAihgfd
+HISTORY 2,p2p://myeytv.com:6003/5682a390000e4afa2de7d0e76f821ed9&link=HGFDSAihgfd
+劲爆体育HD,p2p://myeytv.com:6003/5682a3bc0003a4f62de87a08023a7e4e&link=HGFDSAihgfd
+广州新闻台,p2p://myeytv.com:6003/5682a3bc0006446d2de87ab4659962e7&link=HGFDSAihgfd
+国家地理音乐HD,p2p://myeytv.com:6003/5682a36300020c6e2de71e026a7a5324&link=HGFDSAihgfd
+第一剧场,p2p://myeytv.com:6003/5682a34500086cf52de6aa78018b4c07&link=HGFDSAihgfd
+格斗体育高清,p2p://myeytv.com:6003/5682a3c9000ad2322de8aea555357929&link=HGFDSAihgfd
+凤凰卫视,p2p://myeytv.com:6003/5682a2ff000e3de42de59a8f7a443968&link=HGFDSAihgfd
+凤凰资讯,p2p://myeytv.com:6003/5682a305000625ad2de5afec434157d9&link=HGFDSAihgfd
+凤凰香港,p2p://myeytv.com:6003/5682a305000aea8d2de5b124385c358a&link=HGFDSAihgfd
+香港精品台,p2p://myeytv.com:6003/5682a34f000d37132de6d2c10ac07333&link=HGFDSAihgfd
+莲花卫视,p2p://myeytv.com:6003/5682a30500093f3f2de5b0b779401a98&link=HGFDSAihgfd
+HBO,p2p://myeytv.com:6003/5682a311000851a82de5df58495f4193&link=HGFDSAihgfd
+HBO家庭HD,p2p://myeytv.com:6003/5682a3640000dbb12de7219c34a673e4&link=HGFDSAihgfd
+HBO原创,p2p://myeytv.com:6003/5682a358000112962de6f2cc1b846848&link=HGFDSAihgfd
+HBO强档,p2p://myeytv.com:6003/5682a357000df2672de6f23054e72b51&link=HGFDSAihgfd
+国家地理HD,p2p://myeytv.com:6003/5682a350000596362de6d4b56e681039&link=HGFDSAihgfd
+地理悠人HD,p2p://myeytv.com:6003/5682a35900055de42de6f7cd182f4821&link=HGFDSAihgfd
+野生地理,p2p://myeytv.com:6003/5682a3460008e7912de6ae7f6e0f7060&link=HGFDSAihgfd
+历史频道,p2p://myeytv.com:6003/5682a3500002028f2de6d3ca1fa124dd&link=HGFDSAihgfd
+Discovery,p2p://myeytv.com:6003/5682a31200012ae12de5e16b4dbb2ae6&link=HGFDSAihgfd
+高清影视HD,p2p://myeytv.com:6003/5682a37a0007193f2de779223f711470&link=HGFDSAihgfd
+好莱坞电影,p2p://myeytv.com:6003/5682a311000e47bd2de5e0df7fd92ec5&link=HGFDSAihgfd
+江苏卫视,p2p://myeytv.com:6003/5682a2fe000c92102de596396e2a542e&link=HGFDSAihgfd
+浙江卫视,p2p://myeytv.com:6003/5682a3320002a9f12de65ec903f058c1&link=HGFDSAihgfd
+湖南卫视HD,p2p://myeytv.com:6003/5682a34e000d73972de6cee85a6d34b8&link=HGFDSAihgfd
+广东卫视,p2p://myeytv.com:6003/5682a3320004553e2de65f37061d0e32&link=HGFDSAihgfd
+广西卫视,p2p://myeytv.com:6003/5682a2ff000120812de597333acd2fcb&link=HGFDSAihgfd
+北京卫视,p2p://myeytv.com:6003/5682a332000b7c8b2de6610b1a01516e&link=HGFDSAihgfd
+深圳卫视,p2p://myeytv.com:6003/5682a33200063d972de65fb43b645f63&link=HGFDSAihgfd
+东方卫视,p2p://myeytv.com:6003/5682a33b00054e242de6829d60e5757a&link=HGFDSAihgfd
+珠江,p2p://myeytv.com:6003/5682a2ff0005a8542de5985c31566e00&link=HGFDSAihgfd
+南方卫视,p2p://myeytv.com:6003/5682a38300084ebc2de79c9961c05fcc&link=HGFDSAihgfd
+东南卫视,p2p://myeytv.com:6003/5682a36400033e1e2de722383b2f0f8d&link=HGFDSAihgfd
+星空,p2p://myeytv.com:6003/5682a2ff0009f31c2de599763cc75bc6&link=HGFDSAihgfd
+潮商卫视,p2p://myeytv.com:6003/5682a305000d0ff22de5b1b1364d5fb4&link=HGFDSAihgfd
+CCTV1 HD,p2p://myeytv.com:6003/5682a3590000d6112de6f6a458d63b87&link=HGFDSAihgfd
+CCTV 2,p2p://myeytv.com:6003/5682a2fd0006215e2de590ac052b4e58&link=HGFDSAihgfd
+CCTV 3,p2p://myeytv.com:6003/5682a2fd000a2f1a2de591b573fc7ee1&link=HGFDSAihgfd
+CCTV4,p2p://myeytv.com:6003/5682a345000e630a2de6abff296d3443&link=HGFDSAihgfd
+CCTV 5,p2p://myeytv.com:6003/5682a2fd000c547e2de5924218994dc2&link=HGFDSAihgfd
+CCTV体育赛事,p2p://myeytv.com:6003/5682a382000e07482de79a2856b33b26&link=HGFDSAihgfd
+CCTV 6,p2p://myeytv.com:6003/5682a2fe0000a5e52de5932c218214d1&link=HGFDSAihgfd
+CCTV 7,p2p://myeytv.com:6003/5682a32b00035d652de643a021880f39&link=HGFDSAihgfd
+CCTV 8,p2p://myeytv.com:6003/5682a2fe0004b3a12de5943643074755&link=HGFDSAihgfd
+CCTV 少儿,p2p://myeytv.com:6003/5682a2fe0009787f2de5956e7c6712f7&link=HGFDSAihgfd
+CCTV 新闻,p2p://myeytv.com:6003/5682a2fe0007531b2de594e215c62e00&link=HGFDSAihgfd
+Channel V HD,p2p://myeytv.com:6003/5682a36e000844c32de74a91325611b2&link=HGFDSAihgfd
+东森电影,p2p://myeytv.com:6003/5682a311000406e02de5de3f60100cde&link=HGFDSAihgfd
+东森洋片,p2p://myeytv.com:6003/5682a31100062c442de5decc5a4032d3&link=HGFDSAihgfd
+东森幼幼,p2p://myeytv.com:6003/5682a3200001323b2de6181b6db47991&link=HGFDSAihgfd
+民视HD,p2p://myeytv.com:6003/5682a31f0003d12f2de614df56a76788&link=HGFDSAihgfd
+台视HD,p2p://myeytv.com:6003/5682a31f00057c7c2de6154d5d9512e6&link=HGFDSAihgfd
+中视,p2p://myeytv.com:6003/5682a347000146b42de6b07374e10e45&link=HGFDSAihgfd
+中视HD,p2p://myeytv.com:6003/5682a31f000764d52de615ca51bc7e3b&link=HGFDSAihgfd
+华视HD,p2p://myeytv.com:6003/5682a31f000a044f2de6167667f45e5d&link=HGFDSAihgfd
+超视,p2p://myeytv.com:6003/5682a31f000baf9d2de616e35a0d36ba&link=HGFDSAihgfd
+中天综合,p2p://myeytv.com:6003/5682a3200005ba0e2de619446e015eb7&link=HGFDSAihgfd
+东森综合,p2p://myeytv.com:6003/5682a31f000d97f62de6176021f87969&link=HGFDSAihgfd
+中天娱乐,p2p://myeytv.com:6003/5682a3460006c22d2de6adf31e7a7e9b&link=HGFDSAihgfd
+TVBS综合,p2p://myeytv.com:6003/5682a320000c67452de61afa4f540d21&link=HGFDSAihgfd
+TVBS新闻,p2p://myeytv.com:6003/5682a328000dd9ba2de63a9843b76c74&link=HGFDSAihgfd
+TVBS G,p2p://myeytv.com:6003/5682a32900007fd32de63b151680058c&link=HGFDSAihgfd
+东森新闻HD,p2p://myeytv.com:6003/5682a3290006efff2de63cba639b364e&link=HGFDSAihgfd
+中天新闻,p2p://myeytv.com:6003/5682a3200003579f2de618a827b57358&link=HGFDSAihgfd
+非凡新闻,p2p://myeytv.com:6003/5682a32900031f4d2de63bc035c402e5&link=HGFDSAihgfd
+年代新闻,p2p://myeytv.com:6003/5682a3200009c7ca2de61a4e1c3c7f7b&link=HGFDSAihgfd
+三立新闻,p2p://myeytv.com:6003/5682a3290004ca9b2de63c2e2dc43ba3&link=HGFDSAihgfd
+华臧卫视,p2p://myeytv.com:6003/5682a39100066d0c2de7d2cc77281647&link=HGFDSAihgfd
+大爱,p2p://myeytv.com:6003/5682a329000d231f2de63e5119cc078f&link=HGFDSAihgfd
+大爱二台,p2p://myeytv.com:6003/5682a3e1000116442de909e438ee0094&link=HGFDSAihgfd
+好消息1台,p2p://myeytv.com:6003/5682a392000077752de7d52d79b43e16&link=HGFDSAihgfd
+好消息,p2p://myeytv.com:6003/5682a32a0000805a2de63efd633a2233&link=HGFDSAihgfd
+三立台湾,p2p://myeytv.com:6003/5682a332000d64e42de6618830091e9d&link=HGFDSAihgfd
+三立国际,p2p://myeytv.com:6003/5682a3330002aa772de662b17bee5db9&link=HGFDSAihgfd
+三立都会台,p2p://myeytv.com:6003/5682a358000520532de6f3d53b65466a&link=HGFDSAihgfd
+纬莱综合,p2p://myeytv.com:6003/5682a32a0003d6f52de63fd740c81b41&link=HGFDSAihgfd
+纬莱日本,p2p://myeytv.com:6003/5682a32a0009cd0a2de6415e53cd7adf&link=HGFDSAihgfd
+纬来育乐,p2p://myeytv.com:6003/5682a33b0002719f2de681e264a9323b&link=HGFDSAihgfd
+卫视电影中文(ty),p2p://myeytv.com:6003/5682a34f000ee2602de6d32e77a61729&link=HGFDSAihgfd
+纬莱戏剧,p2p://myeytv.com:6003/5682a33b000089462de6816572b21905&link=HGFDSAihgfd
+八大娱乐K台,p2p://myeytv.com:6003/5682a36d0007ca332de746894b4d0bf0&link=HGFDSAihgfd
+八大戏剧,p2p://myeytv.com:6003/5682a36d000065e12de744a562a4695d&link=HGFDSAihgfd
+八大第一台,p2p://myeytv.com:6003/5682a34500008e862de6a8755dee2a00&link=HGFDSAihgfd
+八大综合,p2p://myeytv.com:6003/5682a3450002b3ea2de6a90162767821&link=HGFDSAihgfd
+国兴卫视,p2p://myeytv.com:6003/5682a33a000b06a82de6802c31ff2e38&link=HGFDSAihgfd
+JET综合,p2p://myeytv.com:6003/5682a333000bba1d2de6650331042742&link=HGFDSAihgfd
+Z频道,p2p://myeytv.com:6003/5682a36e00015a872de748cb022f5b9c&link=HGFDSAihgfd
+民视新闻,p2p://myeytv.com:6003/5682a33c000e21452de688c70ad72cbf&link=HGFDSAihgfd
+东森戏剧,p2p://myeytv.com:6003/5682a364000788e22de7235256220aa8&link=HGFDSAihgfd
+东森财经,p2p://myeytv.com:6003/5682a33a000da6222de680d83e0a65af&link=HGFDSAihgfd
+DIVA,p2p://myeytv.com:6003/5682a36c000a69322de7434d779c25d5&link=HGFDSAihgfd
+ELTA综合,p2p://myeytv.com:6003/5682a2fd0003beef2de5900f696c4169&link=HGFDSAihgfd
+三立财经,p2p://myeytv.com:6003/5682a379000c1aab2de776831fc80d2d&link=HGFDSAihgfd
+公视HD,p2p://myeytv.com:6003/5682a34500045f382de6a96f746e1078&link=HGFDSAihgfd
+寰宇综合HD,p2p://myeytv.com:6003/5682a36e00065c6c2de74a1445e30c95&link=HGFDSAihgfd
+France24,p2p://myeytv.com:6003/5682a3340002e8092de666a937c02f7d&link=HGFDSAihgfd
+Bloomberg,p2p://myeytv.com:6003/5682a379000f34382de7774e035407c4&link=HGFDSAihgfd
+TV5,p2p://myeytv.com:6003/5682a3340000c2a52de6661c33ca7087&link=HGFDSAihgfd
+CNBC,p2p://myeytv.com:6003/5682a3500003eae82de6d447729b2ef9&link=HGFDSAihgfd
+Sky News HD,p2p://myeytv.com:6003/5682a363000c4d422de720a20c472f5c&link=HGFDSAihgfd
+天映电影,p2p://myeytv.com:6003/5682a37b0000a9932de77b6521a372d9&link=HGFDSAihgfd
+纬莱电影,p2p://myeytv.com:6003/5682a329000afdbc2de63dc41ac05c05&link=HGFDSAihgfd
+龙祥电影,p2p://myeytv.com:6003/5682a33b000867b52de68368621379f0&link=HGFDSAihgfd
+卫视中文电影HD,p2p://myeytv.com:6003/5682a3080008c6cf2de5bc4f4c5964f8&link=HGFDSAihgfd
+美亚电影台,p2p://myeytv.com:6003/5682a346000acfea2de6aefc40287181&link=HGFDSAihgfd
+星卫电影台,p2p://myeytv.com:6003/5682a346000de97a2de6afc81b4348bd&link=HGFDSAihgfd
+星卫娱乐HD,p2p://myeytv.com:6003/5682a358000c84ab2de6f5ba7c2a1e17&link=HGFDSAihgfd
+中国电影,p2p://myeytv.com:6003/5682a3e0000d7c022de909296cd234da&link=HGFDSAihgfd
+CineMax,p2p://myeytv.com:6003/5682a333000ddf812de6659016f645f8&link=HGFDSAihgfd
+AXN电影,p2p://myeytv.com:6003/5682a33300000afd2de66205426158b6&link=HGFDSAihgfd
+AXN HD,p2p://myeytv.com:6003/5682a36d000e3a5a2de7482f08585b70&link=HGFDSAihgfd
+Sundance HD,p2p://myeytv.com:6003/5682a36c000d45b42de7440950e02613&link=HGFDSAihgfd
+卫视洋片HD,p2p://myeytv.com:6003/5682a308000c1d6b2de5bd2a2ba01425&link=HGFDSAihgfd
+Star World,p2p://myeytv.com:6003/5682a33c000a8d9f2de687dd7be925ce&link=HGFDSAihgfd
+FOX家庭HD,p2p://myeytv.com:6003/5682a3500007bb9a2de6d54127613eac&link=HGFDSAihgfd
+Fox Movies,p2p://myeytv.com:6003/5682a33d0008e2d82de68b576e1652a0&link=HGFDSAihgfd
+FOX优质电影,p2p://myeytv.com:6003/5682a3770009002a2de76de76c9c00c1&link=HGFDSAihgfd
+FOX警匪,p2p://myeytv.com:6003/5682a359000f24ab2de6fa4e7ec37946&link=HGFDSAihgfd
+FOX,p2p://myeytv.com:6003/5682a32a0005bf4e2de640540b927265&link=HGFDSAihgfd
+Fx HD,p2p://myeytv.com:6003/5682a3620003f44b2de71a976c524567&link=HGFDSAihgfd
+龙华洋片,p2p://myeytv.com:6003/5682a3590002fb752de6f73107e97521&link=HGFDSAihgfd
+龙华动画,p2p://myeytv.com:6003/5682a36e000a2d1a2de74b0e7f2948d7&link=HGFDSAihgfd
+龙华戏剧,p2p://myeytv.com:6003/5682a36f0000a3e02de74c854fdb058c&link=HGFDSAihgfd
+ELTA体育台,p2p://myeytv.com:6003/5682a350000966e72de6d5af1e8a4f43&link=HGFDSAihgfd
+龙华偶像,p2p://myeytv.com:6003/5682a36e000c8f872de74baa2eac4a44&link=HGFDSAihgfd
+ELTA影剧,p2p://myeytv.com:6003/5682a3580002faef2de6f3495eb74366&link=HGFDSAihgfd
+壹电视新闻,p2p://myeytv.com:6003/5682a359000cc23c2de6f9b1526a2df8&link=HGFDSAihgfd
+壹电视综合,p2p://myeytv.com:6003/5682a359000b16ef2de6f944343e71bf&link=HGFDSAihgfd
+新视觉HD,p2p://myeytv.com:6003/5682a32b000043d52de642d546be2029&link=HGFDSAihgfd
+高尔夫 HD,p2p://myeytv.com:6003/5682a34f00064cd12de6d0fc177d3ec3&link=HGFDSAihgfd
+ASN HD,p2p://myeytv.com:6003/5682a34f0004de8e2de6d09e0b9e6b12&link=HGFDSAihgfd
+FOX PLUS HD,p2p://myeytv.com:6003/5682a34f000872352de6d1886874209e&link=HGFDSAihgfd
+卫视体育,p2p://myeytv.com:6003/5682a313000d17932de5e86146190ebd&link=HGFDSAihgfd
+FOX Spo&link=HGFDSAihgfd HD,p2p://myeytv.com:6003/5682a34e000ee1da2de6cf464c840565&link=HGFDSAihgfd
+博斯运动,p2p://myeytv.com:6003/5682a3330009d1c42de6648612cd7d75&link=HGFDSAihgfd
+博斯高尔夫,p2p://myeytv.com:6003/5682a3330007324a2de663da521960ef&link=HGFDSAihgfd
+高尔夫网球,p2p://myeytv.com:6003/5682a345000647912de6a9ec60257812&link=HGFDSAihgfd
+EDGE体育,p2p://myeytv.com:6003/5682a38300047e0e2de79b9f1ded25b9&link=HGFDSAihgfd
+M HD,p2p://myeytv.com:6003/5682a3570007fc522de6f0a970554fac&link=HGFDSAihgfd
+Channel V HD,p2p://myeytv.com:6003/5682a36e000844c32de74a91325611b2&link=HGFDSAihgfd
+FASHION TV,p2p://myeytv.com:6003/5682a36d0003bc7a2de745803a7a2e19&link=HGFDSAihgfd
+Li时尚生活HD,p2p://myeytv.com:6003/5682a363000e72a52de7212f50b70b4c&link=HGFDSAihgfd
+Syfy,p2p://myeytv.com:6003/5682a37b0004002b2de77c3f3c2d0da5&link=HGFDSAihgfd
+HKC TLC旅游生活频道,p2p://myeytv.com:6003/5682a3d60007fb8a2de8e0b162623c20&link=HGFDSAihgfd
+卫视中文台,p2p://myeytv.com:6003/5682a3580007bfcd2de6f48147ea6fa5&link=HGFDSAihgfd
+东风卫视,p2p://myeytv.com:6003/5682a364000563802de722c57269227d&link=HGFDSAihgfd
+快乐垂钓,p2p://myeytv.com:6003/5682a345000cb7bc2de6ab9132865af5&link=HGFDSAihgfd
+四海钓鱼HD（js）,p2p://myeytv.com:6003/5682a3780000e5312de76fbc59b2017f&link=HGFDSAihgfd
+探索科学HD,p2p://myeytv.com:6003/5682a362000656b82de71b3464994b45&link=HGFDSAihgfd
+美食星球,p2p://myeytv.com:6003/5682a3590007463d2de6f84a34083c1c&link=HGFDSAihgfd
+探索动力HD,p2p://myeytv.com:6003/5682a363000024172de71d8544164a6f&link=HGFDSAihgfd
+探索家庭HD,p2p://myeytv.com:6003/5682a362000ade872de71c5c425762ff&link=HGFDSAihgfd
+NBA HD,p2p://myeytv.com:6003/5682a364000971392de723cf7bf1185f&link=HGFDSAihgfd
+足球HD,p2p://myeytv.com:6003/5682a314000d922f2de5ec68455970b4&link=HGFDSAihgfd
+欧洲体育,p2p://myeytv.com:6003/5682a346000183392de6ac9b25e32e49&link=HGFDSAihgfd
+高尔夫,p2p://myeytv.com:6003/5682a314000074cd2de5e90d580535f3&link=HGFDSAihgfd
+K+1 HD,p2p://myeytv.com:6003/5682a384000c99fa2de7a19a19937469&link=HGFDSAihgfd
+纬莱体育,p2p://myeytv.com:6003/5682a3200007df722de619d1640c0ee8&link=HGFDSAihgfd
+NHK,p2p://myeytv.com:6003/5682a31e000c66382de6132a340b79e0&link=HGFDSAihgfd
+BBC,p2p://myeytv.com:6003/5682a31f0000b79e2de614147dd50c39&link=HGFDSAihgfd
+KBS HD(js),p2p://myeytv.com:6003/5682a3780003febf2de770873af45d8d&link=HGFDSAihgfd
+CNN,p2p://myeytv.com:6003/5682a33d0001f8962de68992365545fb&link=HGFDSAihgfd
+迪斯尼卡通,p2p://myeytv.com:6003/5682a33300050ce62de6634d75f73d2c&link=HGFDSAihgfd
+momo亲子台,p2p://myeytv.com:6003/5682a32a000d9dbc2de6425823d3229b&link=HGFDSAihgfd
+亚洲旅游,p2p://myeytv.com:6003/5682a384000efc672de7a23660f50326&link=HGFDSAihgfd
+中天亚洲,p2p://myeytv.com:6003/5682a385000812a52de7a45912840c9f&link=HGFDSAihgfd
+大爱二台,p2p://myeytv.com:6003/5682a3e1000116442de909e438ee0094&link=HGFDSAihgfd
+大爱二台,p2p://myeytv.com:6003/5682a3e1000116442de909e438ee0094&link=HGFDSAihgfd
+东方财经,p2p://myeytv.com:6003/5682a3a800022d342de82b8a2cf644e4&link=HGFDSAihgfd
+第一财经,p2p://myeytv.com:6003/5682a3a8000081e82de82b1d7fe24920&link=HGFDSAihgfd
+欧洲足球,p2p://myeytv.com:6003/5682a38600021d0e2de7a6ba61fe618c&link=HGFDSAihgfd
+BBC Knowledge Channel,p2p://myeytv.com:6003/5682a385000ebfd62de7a60e178a2265&link=HGFDSAihgfd
+靖天电影台,p2p://myeytv.com:6003/5682a390000949152de7cf9f31483e27&link=HGFDSAihgfd
+Warner TV,p2p://myeytv.com:6003/5682a3900004fe512de7ce8615df4833&link=HGFDSAihgfd
+Universal Channel,p2p://myeytv.com:6003/5682a3900003900f2de7ce2829ed4b2f&link=HGFDSAihgfd
+罪案侦缉频道,p2p://myeytv.com:6003/5682a390000760be2de7cf22344c364d&link=HGFDSAihgfd
+EYE TV旅游,p2p://myeytv.com:6003/5682a39100012e1c2de7d17440f565a1&link=HGFDSAihgfd
+EYE TV戏剧台,p2p://myeytv.com:6003/5682a3e0000a62762de9085e435e73bc&link=HGFDSAihgfd
+Outdoor,p2p://myeytv.com:6003/5682a391000447a92de7d23f3a846e91&link=HGFDSAihgfd
+H265HKC201HD,p2p://myeytv.com:6003/5682a3e1000523fb2de90aee2cbc0498&link=HGFDSAihgfd
+H265HKC202HD,p2p://myeytv.com:6003/5682a3e10007495d2de90b7a4d3b68c0&link=HGFDSAihgfd
+H265HKC203HD,p2p://myeytv.com:6003/5682a3e100096ebe2de90c0770f05960&link=HGFDSAihgfd
+H265HKC娱乐台HD,p2p://myeytv.com:6003/5682a3e1000bd12a2de90ca361717223&link=HGFDSAihgfd
+H265翡翠台,p2p://myeytv.com:6003/5682a3e1000d7c752de90d11464717b4&link=HGFDSAihgfd
+H265高清翡翠台,p2p://myeytv.com:6003/5682a3ec0008427b2de936b11d9e57c5&link=HGFDSAihgfd
+H265TVB互动新闻台,p2p://myeytv.com:6003/5682a3ec000b1efd2de9376c573607af&link=HGFDSAihgfd
+H265TVB J2,p2p://myeytv.com:6003/5682a3ed0000648a2de9389524d055fb&link=HGFDSAihgfd
+风云足球,p2p://myeytv.com:6003/5682a3ed000304012de9394140b07b89&link=HGFDSAihgfd
+H265HKC电影一台,p2p://myeytv.com:6003/5682a3ed0005a3772de939ed1ab47dde&link=HGFDSAihgfd
+H265HKC荷里活电影,p2p://myeytv.com:6003/5682a3ed00078bce2de93a6a09102bc6&link=HGFDSAihgfd
+安徽卫视HD,p2p://myeytv.com:6003/5682a3ed0009ee3a2de93b062527564d&link=HGFDSAihgfd
+黑龙江卫HD,p2p://myeytv.com:6003/5682a3ed000d44d12de93be154d40ece&link=HGFDSAihgfd
+辽宁卫视HD,p2p://myeytv.com:6003/5682a3ee000064fd2de93c7d44435afb&link=HGFDSAihgfd
+山东卫视HD,p2p://myeytv.com:6003/5682a3ee000210492de93ceb3d4c48bd&link=HGFDSAihgfd
+CCTV 9 HD,p2p://myeytv.com:6003/5682a3ee000435aa2de93d7746a51f3a&link=HGFDSAihgfd
+重庆卫视HD,p2p://myeytv.com:6003/5682a3ee00065b0b2de93e0407bc69b1&link=HGFDSAihgfd
+天津卫视HD,p2p://myeytv.com:6003/5682a3ee0008bd772de93ea0718965b5&link=HGFDSAihgfd
+CCTV 10 HD,p2p://myeytv.com:6003/5682a3ee000dfc652de93ff8330b5a76&link=HGFDSAihgfd
+广东体育SD,p2p://myeytv.com:6003/5682a3ef000065702de9406513884a99&link=HGFDSAihgfd
+CCTV 12 HD,p2p://myeytv.com:6003/5682a3f7000753432de9616a1b742d27&link=HGFDSAihgfd
+凤凰电影,p2p://myeytv.com:6003/5682a3f700093b992de961e7582b65b7&link=HGFDSAihgfd
+MTV音乐台 东南亚,p2p://myeytv.com:6003/5682a3f7000d0c462de962e101bf0996&link=HGFDSAihgfd
+MTV音乐台 中国,p2p://myeytv.com:6003/5682a3f800002c722de9637e03aa0d61&link=HGFDSAihgfd
+1Life Time,p2p://myeytv.com:6003/5682a3f8000251d32de9640a352850b8&link=HGFDSAihgfd
+Golf 亚洲,p2p://myeytv.com:6003/5682a3f8000477352de964970f351422&link=HGFDSAihgfd
+深圳体育高清,p2p://myeytv.com:6003/5682a3f800065f8b2de9651417965c97&link=HGFDSAihgfd
+深圳都市频道,p2p://myeytv.com:6003/5682a3f8000884ec2de965a14edc744a&link=HGFDSAihgfd
+深圳电视剧,p2p://myeytv.com:6003/5682a3f8000a6d432de9661e31f04466&link=HGFDSAihgfd
+深圳公共频道,p2p://myeytv.com:6003/5682a3f8000e3def2de96718419e3d20&link=HGFDSAihgfd
+CHC华诚影院 HD,p2p://myeytv.com:6003/5682a3f9000346722de968314d45051a&link=HGFDSAihgfd
+BabyFirstTV,p2p://myeytv.com:6003/5682a3f90005a8de2de968cd3ae46b31&link=HGFDSAihgfd
+NickJr尼克幼儿,p2p://myeytv.com:6003/5682a3f9000791342de9694a751565aa&link=HGFDSAihgfd
+广东新闻,p2p://myeytv.com:6003/5682a3f900093c802de969b72120374c&link=HGFDSAihgfd
+卫视体育台,p2p://myeytv.com:6003/5682a3f9000cd0222de96aa225742489&link=HGFDSAihgfd
+HFTV卫视体育2台,p2p://myeytv.com:6003/5682a401000d8adc2de98a111335781f&link=HGFDSAihgfd
