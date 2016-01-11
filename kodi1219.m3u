@@ -2640,6 +2640,8 @@ http://182.92.189.193:1935/live/h_food_1/playlist.m3u8
 rtmp://edge2.everyon.tv/etv2/pld24
 #EXTINF:-1 $ExtFilter="法国内衣秀+音乐",法国内衣秀 - 时尚生活Pik-TV HD
 rtsp://fms.pik-tv.com/live/piktv3pik3tv
+#EXTINF:-1 $ExtFilter="法国内衣秀+音乐",法国内衣秀 - FTV HD
+rtmp://95.67.8.43:1935/live/fashionhd
 
 #EXTINF:0,group-title="乐视综合",[COLOR green][B]--------乐视综合频道-----[/B][/COLOR]
 http://?
