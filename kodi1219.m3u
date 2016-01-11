@@ -2330,6 +2330,28 @@ http://jyzx8.com/tv/m3u8/ipad.php/heilongjiangHD_1300.m3u8
 
 #EXTINF:0,group-title="台湾",[COLOR green][B]----------台湾频道-------[/B][/COLOR]
 http://?
+#EXTINF:-1 $ExtFilter="台湾",台湾 - TVBS新闻 HD
+http://211.72.13.198/live/live01_hls.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - TVBS HD x
+http://211.72.13.198/live/live02_hls.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - TVBS-G HD x
+http://211.72.13.198/live/live06_hls.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 中天新闻 
+http://211.72.13.198/live/live03_hls.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 东森新闻
+http://211.72.13.198/live/live04_hls.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 东森财经新闻 HD
+http://211.72.13.198/live/live05_hls.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 台视 HD
+http://211.72.13.198/live/live07_hls.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 中视 
+http://211.72.13.195/live/live08_hls.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 华视 HD
+http://211.72.13.198/live/live09_hls.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - TVBS
+http://211.72.13.195/live/live10_hls.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - TVBS-G HD
+http://211.72.13.195/live/live11_hls.m3u8
 #EXTINF:-1 $ExtFilter="台湾",台湾 - BBC WORLDHD
 http://220.228.38.7/live/fet001/chunklist_wlive.m3u8
 #EXTINF:-1 $ExtFilter="台湾",台湾 - 民视新闻台HD
