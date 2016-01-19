@@ -1,6 +1,225 @@
 #EXTM3U
 
+#EXTINF:0,group-title="国内高清ivi",[COLOR green][B]--------国内高清ivi-----[/B][/COLOR]
+http://?
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-1
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-5
+http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-5+
+http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-6
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-13
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CHC高清
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 北京卫视
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 北京文艺
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 北京体育
+http://ivi.bupt.edu.cn/hls/btv6hd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 北京纪实
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 湖南卫视
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 浙江卫视
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 江苏卫视
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 东方卫视
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 安徽卫视
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 黑龙江卫视
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 辽宁卫视
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 深圳卫视
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 广东卫视
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 天津卫视
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 湖北卫视
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 山东卫视
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - 
 
+#EXTINF:0,group-title="南京移动IPTV",[COLOR green][B]--------南京移动IPTV-----[/B][/COLOR]
+http://?
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV1
+http://183.207.249.6/PLTV/3/224/3221225530/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV3
+http://183.207.249.6/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV4
+http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV5
+http://183.207.249.6/PLTV/3/224/3221225644/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV5+HD
+http://183.207.249.6/PLTV/3/224/3221225604/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV6HD
+http://183.207.249.6/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV7
+http://183.207.249.6/PLTV/3/224/3221225546/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV8HD
+http://183.207.249.6/PLTV/3/224/3221225542/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV9
+http://183.207.249.6/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV9
+http://183.207.249.6/PLTV/3/224/3221225572/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV10
+http://183.207.249.6/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV11
+http://183.207.249.6/PLTV/3/224/3221225552/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV12
+http://183.207.249.6/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV13
+http://183.207.249.6/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV14
+http://183.207.249.6/PLTV/3/224/3221225564/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CCTV14
+http://183.207.249.6/PLTV/3/224/3221225568/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - CETV1
+http://183.207.249.6/PLTV/3/224/3221225622/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 深圳卫视HD
+http://183.207.249.6/PLTV/3/224/3221225582/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 山东卫视HD
+http://183.207.249.6/PLTV/3/224/3221225596/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 东方卫视HD
+http://183.207.249.6/PLTV/3/224/3221225558/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 广东卫视HD
+http://183.207.249.6/PLTV/3/224/3221225592/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 湖南卫视HD
+http://183.207.249.6/PLTV/3/224/3221225521/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 湖南卫视HD
+http://183.207.249.6/PLTV/3/224/3221225584/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 安徽卫视
+http://183.207.249.6/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 北京卫视
+http://183.207.249.6/PLTV/3/224/3221225574/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 北京新闻
+http://183.207.249.6/PLTV/3/224/3221225577/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 东南卫视
+http://183.207.249.6/PLTV/3/224/3221225598/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 甘肃卫视
+http://183.207.249.6/PLTV/3/224/3221225590/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 广东卫视
+http://183.207.249.6/PLTV/3/224/3221225578/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 贵州卫视
+http://183.207.249.6/PLTV/3/224/3221225540/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 河北卫视
+http://183.207.249.6/PLTV/3/224/3221225602/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 河南卫视
+http://183.207.249.6/PLTV/3/224/3221225632/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 湖北卫视
+http://183.207.249.6/PLTV/3/224/3221225630/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 吉林卫视
+http://183.207.249.6/PLTV/3/224/3221225589/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 江西卫视
+http://183.207.249.6/PLTV/3/224/3221225536/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 江西卫视
+http://183.207.249.6/PLTV/3/224/3221225554/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 辽宁卫视
+http://183.207.249.6/PLTV/3/224/3221225566/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 旅游卫视
+http://183.207.249.6/PLTV/3/224/3221225585/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 内蒙古卫视
+http://183.207.249.6/PLTV/3/224/3221225624/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 宁夏卫视
+http://183.207.249.6/PLTV/3/224/3221225628/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 青海卫视
+http://183.207.249.6/PLTV/3/224/3221225580/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 山东卫视
+http://183.207.249.6/PLTV/3/224/3221225586/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 山西卫视
+http://183.207.249.6/PLTV/3/224/3221225576/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 陕西卫视
+http://183.207.249.6/PLTV/3/224/3221225626/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 四川卫视
+http://183.207.249.6/PLTV/3/224/3221225570/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 天津卫视
+http://183.207.249.6/PLTV/3/224/3221225562/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 云南卫视
+http://183.207.249.6/PLTV/3/224/3221225591/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 浙江卫视
+http://183.207.249.6/PLTV/3/224/3221225544/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 重庆卫视
+http://183.207.249.6/PLTV/3/224/3221225594/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 新疆卫视
+http://183.207.249.6/PLTV/3/224/3221225523/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 西藏卫视
+http://183.207.249.6/PLTV/3/224/3221225579/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 优漫卡通
+http://183.207.249.6/PLTV/3/224/3221225600/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 风云足球
+http://183.207.249.6/PLTV/3/224/3221225571/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 完美游戏
+http://183.207.249.6/PLTV/3/224/3221225539/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 第一财经
+http://183.207.249.6/PLTV/3/224/3221225573/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 第一剧场
+http://183.207.249.6/PLTV/3/224/3221225587/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 农业致富
+http://183.207.249.6/PLTV/3/224/3221225537/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 明星大片
+http://183.207.249.6/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 金牌综艺
+http://183.207.249.6/PLTV/3/224/3221225559/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 惊悚悬疑
+http://183.207.249.6/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 精品大剧
+http://183.207.249.6/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 精品电影
+http://183.207.249.6/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 精品记录
+http://183.207.249.6/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 精品体育
+http://183.207.249.6/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 军旅剧场
+http://183.207.249.6/PLTV/3/224/3221225531/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 军事评论
+http://183.207.249.6/PLTV/3/224/3221225533/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 家庭剧场
+http://183.207.249.6/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 古装剧场
+http://183.207.249.6/PLTV/3/224/3221225527/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 海外剧场
+http://183.207.249.6/PLTV/3/224/3221225547/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 健康有约
+http://183.207.249.6/PLTV/3/224/3221225545/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 动画
+http://183.207.249.6/PLTV/3/224/3221225541/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 动画王国
+http://183.207.249.6/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 动作电影
+http://183.207.249.6/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:-1 $ExtFilter="南京移动IPTV",南京移动IPTV - 爱情喜剧
+http://183.207.249.6/PLTV/3/224/3221225525/index.m3u8
 #EXTINF:0,group-title="视讯中国",[COLOR green][B]----------视讯中国-------[/B][/COLOR]
 http://?
 
