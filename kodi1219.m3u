@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:0,group-title="全国影院",[COLOR green][B]--------全国影院-----[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="http://www.q00123.com/Images/xinhaiyy.png",全国影院 - 星辉影院直播
+http://dlhls.cdn.zhanqi.tv/zqlive/54770_1aw2J.m3u8
+
+
 #EXTINF:0,group-title="国内高清ivi",[COLOR green][B]--------国内高清ivi-----[/B][/COLOR]
 http://?
 #EXTINF:-1 $ExtFilter="国内高清ivi",国内高清ivi - CCTV-1
@@ -3145,6 +3152,8 @@ rtmp://183.238.77.4:1935/dvr/30184.stream
 #EXTINF:0,group-title="战旗 ",[COLOR green][B]----------战旗频道-------[/B][/COLOR]
 http://?
 
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 探索高清直播
+rtmp://116.77.70.97:1935/livestream/wn5fsvdn
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 波妞
 http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 神仙姐姐影院
