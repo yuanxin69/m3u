@@ -5,8 +5,6 @@ http://?
 
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinhaiyy.png",全国影院 - 星辉影院直播
 http://dlhls.cdn.zhanqi.tv/zqlive/54770_1aw2J.m3u8
-#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="hunanyszb.png",全国影院 - 龙虎影院直播
-http://dlhls.cdn.zhanqi.tv/zqlive/20118_R9sVS.m3u8
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="taishandyyzb.png",全国影院 - 江津电影院直播
 rtmp://121.17.123.2/dlrtmp.cdn.zhanqi.tv/zqlive/7032_0s2qn
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="beijinguoyc.png",全国影院 - 北京影院直播
@@ -21,8 +19,6 @@ http://wshdl.load.cdn.zhanqi.tv/zqlive/45338_MRc2N.flv
 http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N.m3u8
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="hutiedyy.png",全国影院 - 蝴蝶电影院直播
 http://wshdl.load.cdn.zhanqi.tv/zqlive/34822_KA3zE.flv
-#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="hutiedyy.png",全国影院 - 大地电视剧直播
-rtmp://116.77.70.97:1935/livestream/4mju5nc7
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="hutiedyy.png",全国影院 - 银龙电影城直播
 http://wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="dongxindsjc.png",全国影院 - 东星电视剧直播
@@ -31,10 +27,6 @@ http://wshdl.load.cdn.zhanqi.tv/zqlive/33765_6qakZ.flv
 http://dlhls.cdn.zhanqi.tv/zqlive/9263_LQ19C.m3u8
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="zhanqzb11.png",全国影院 - 彼岸二影院直播
 http://wshdl.load.cdn.zhanqi.tv/zqlive/43626_vQOn9.flv
-#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="dianyzb1.png",全国影院 - 嘉华电影院直播
-rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/20118_R9sVS
-#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xiusjpyc.png",全国影院 - 秀山金鹏影视城
-rtmp://121.17.123.227/dlrtmp.cdn.zhanqi.tv/zqlive/284_zMohT
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="4ddyy.png",全国影院 - 国际影院直播
 http://218.63.199.20/wshdl.load.cdn.zhanqi.tv/zqlive/12260_BG1BI.flv
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="chaojyy.png",全国影院 - 超级影院直播
@@ -63,8 +55,6 @@ http://wshdl.load.cdn.zhanqi.tv/zqlive/7032_0s2qn.flv
 rtmp://58.200.131.2:1935/livetv/chchd
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="mingcyy.png",全国影院 - 名城影院直播
 http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
-#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="chenzjc.png",全国影院 - 紫荆影院直播
-rtmp://116.77.70.97:1935/livestream/228v48qf
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="yaocyb.png",全国影院 - 咬唇影吧直播
 rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/30647_JIjP2
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="msyy.png",全国影院 - 幂诗影院直播
@@ -73,14 +63,8 @@ rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC
 rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/34338_PVMT5
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="yirdys.png",全国影院 - 鱼儿影院直播
 rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/6500_S9pw2
-#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="jiedq.png",全国影院 - 杰气影院直播
-rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/34380_KIcak
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="meirxjyy.png",全国影院 - 菲菲影院直播
 http://wshdl.load.cdn.zhanqi.tv/zqlive/20910_uUMgC.flv
-#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="tanszb.png",全国影院 - 探索高清直播
-rtmp://116.77.70.97:1935/livestream/wn5fsvdn
-#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinhaiyy.png",全国影院 - 云动V影院直播
-rtmp://live.dltv.cn:1935/live/live11
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="yinglongyc.png",全国影院 - 银龙电影城直播
 http://wshdl.load.cdn.zhanqi.tv/zqlive/35349_iXsXw.flv
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="subaozzb.png",全国影院 - 素素影院直播
@@ -3244,14 +3228,254 @@ rtmp://183.238.77.4:1935/dvr/30184.stream
 #EXTINF:0,group-title="战旗 ",[COLOR green][B]----------战旗频道-------[/B][/COLOR]
 http://?
 
+#EXTINF:0,group-title="战旗 ",[COLOR green][B]----------战旗频道-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 24小时影业
+http://dlhls.cdn.zhanqi.tv/zqlive/71720_arek4.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 拉风豆豆
+http://dlhls.cdn.zhanqi.tv/zqlive/53706_ocHOH.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 波妞
+http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 咖啡小妖
+http://dlhls.cdn.zhanqi.tv/zqlive/69178_YHRUs.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - lyingman
+http://dlhls.cdn.zhanqi.tv/zqlive/36596_HD3eX.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 月山习
+http://dlhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 神仙姐姐影院
+rtmp://112.29.147.54/dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 林正英陪你过
+http://dlhls.cdn.zhanqi.tv/zqlive/54770_1aw2J.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 男人必看
 http://dlhls.cdn.zhanqi.tv/zqlive/91997_Uf9mr.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 模★
+http://zqcdn.ebit.cn/zqlive/zqlive/93774_g0UdM.flv
+#EXTINF:-1 $ExtFilter="战旗",战旗 - ★DeepHouse★
+http://zqcdn.ebit.cn/zqlive/38498_51io6.flv
+#EXTINF:-1 $ExtFilter="战旗",战旗 - ★66放映室
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/96881_CiPMo
+#EXTINF:-1 $ExtFilter="战旗",战旗 - ★AKB48
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/39651_PM6Dz
+#EXTINF:-1 $ExtFilter="战旗",战旗 - ★逗你的
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/106611_cQko1
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国SBS人气女团HD
 http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国SBS中字综艺
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/284_zMohT
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国少女MV
 http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国星卫娱乐少女时代
+http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/1285_Zloy4
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国娱乐KMTV
 http://210.200.79.26:1935/live/ukmtv.sdp/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 印度mtv频道
+http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 【武林外传100遍】
+http://dlhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 24小时影业
+http://dlhls.cdn.zhanqi.tv/zqlive/71720_arek4.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - duangduang
+http://218.63.199.20/wshdl.load.cdn.zhanqi.tv/zqlive/12260_BG1BI.flv?wshc_tag=0&wsiphost=ipdbm
+#EXTINF:-1 $ExtFilter="战旗",战旗 - lyingman
+http://dlhls.cdn.zhanqi.tv/zqlive/36596_HD3eX.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 爱情公寓24小时循环播放
+http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 超清电影直播
+rtmp://123.162.191.131/dlrtmp.cdn.zhanqi.tv/zqlive/6500_S9pw2
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 橙子剧场
+rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 橙子影院
+rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 电影2恐怖洋片
+rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/7032_0s2qn
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 高清影院2
+http://dlhls.cdn.zhanqi.tv/zqlive/6500_S9pw2_1024/index.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 浩德影院
+http://61.188.191.39:80/wshdl.load.cdn.zhanqi.tv/zqlive/6500_S9pw2.flv?wshc_tag=0&wsiphost=ipdbm
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 核能小清新(韩主播)
+http://dlhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 僵尸猛鬼系列
+rtsp://46.249.213.93/broadcast/hot100-tablet.3gp
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 经典系列_明星专场！
+http://wshdl.load.cdn.zhanqi.tv/zqlive/35180_KUDhx.flv
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 咖啡小妖
+http://dlhls.cdn.zhanqi.tv/zqlive/69178_YHRUs.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 恐怖影院
+http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 恐怖影院3
+http://219.149.47.15/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?wshc_tag=0&wsiphost=ipdbm
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 拉风豆豆
+http://dlhls.cdn.zhanqi.tv/zqlive/53706_ocHOH.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 蜡笔小新
+http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 林正英剧场
+http://120.192.87.33/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?wshc_tag=0&wsiphost=ipdbm
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 蚂蚁的力量
+http://118.123.106.21/wshdl.load.cdn.zhanqi.tv/zqlive/35180_KUDhx.flv?wshc_tag=0&wsiphost=ipdbm
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 毛毛超清
+http://dlhls.cdn.zhanqi.tv/zqlive/18553_LnMGM.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 美英电影
+rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/34466_1Is4F
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 萌萌影院
+http://124.165.216.176/wshdl.load.cdn.zhanqi.tv/zqlive/6500_S9pw2.flv?wshc_tag=1&wsiphost=ipdbm
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 幂幂影院
+rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 倾城沫
+http://dlhls.cdn.zhanqi.tv/zqlive/30647_JIjP2.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 香港经典僵尸片鬼片
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 小欣欣经典
+rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/34338_PVMT5
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 亚洲影院
+http://124.160.124.24/bd_yzyy/z.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 咬唇影吧
+rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/30647_JIjP2
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 柚子剧场
+rtmp://14.152.91.39/dlrtmp.cdn.zhanqi.tv/zqlive/35349_iXsXw
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 鱼儿影院
+rtmp://112.91.135.153/dlrtmp.cdn.zhanqi.tv/zqlive/6500_S9pw2
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 岳不群超清2厅影院_魔幻篇
+http://dlhls.cdn.zhanqi.tv/zqlive/37047_KWOM9.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗高清12
+http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4_400/index.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗高清13
+http://dlhls.cdn.zhanqi.tv/zqlive/6500_S9pw2.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗高清17
+http://dlhls.cdn.zhanqi.tv/zqlive/284_zMohT_400/index.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗高清4
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗高清9
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗旗高清23
+http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗1
+http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗2
+http://dlhls.cdn.zhanqi.tv/zqlive/20118_R9sVS.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗3
+http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗4
+http://dlhls.cdn.zhanqi.tv/zqlive/38498_51io6.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV1
+http://dlhls.cdn.zhanqi.tv/zqlive/88780_QNQo0.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV2
+http://dlhls.cdn.zhanqi.tv/zqlive/37196_7ec44.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV3
+http://dlhls.cdn.zhanqi.tv/zqlive/13393_Raq4m.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV4
+http://dlhls.cdn.zhanqi.tv/zqlive/93282_CWqeM.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV5
+http://dlhls.cdn.zhanqi.tv/zqlive/91580_YQvBT.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV6
+http://dlhls.cdn.zhanqi.tv/zqlive/59855_yIWkv.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV7
+http://dlhls.cdn.zhanqi.tv/zqlive/92250_WoKMq.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV8
+http://dlhls.cdn.zhanqi.tv/zqlive/53583_u9izW.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV9
+http://dlhls.cdn.zhanqi.tv/zqlive/36596_HD3eX.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV10
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV11
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV12
+http://dlhls.cdn.zhanqi.tv/zqlive/69178_YHRUs.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV13
+http://dlhls.cdn.zhanqi.tv/zqlive/45188_oT6Ed.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV14
+http://dlhls.cdn.zhanqi.tv/zqlive/21333_CvnhE.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV15
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV16
+http://dlhls.cdn.zhanqi.tv/zqlive/30647_JIjP2.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV17
+http://dlhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV18
+http://dlhls.cdn.zhanqi.tv/zqlive/54770_1aw2J.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV19
+http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV20
+http://dlhls.cdn.zhanqi.tv/zqlive/20910_uUMgC.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV21
+http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV22
+http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV23
+http://dlhls.cdn.zhanqi.tv/zqlive/31351_Y7CIJ.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV24
+http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV25
+http://dlhls.cdn.zhanqi.tv/zqlive/37047_KWOM9.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV26
+http://dlhls.cdn.zhanqi.tv/zqlive/43720_qvSDI.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV27
+http://dlhls.cdn.zhanqi.tv/zqlive/43720_qvSDI.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV28
+http://dlhls.cdn.zhanqi.tv/zqlive/103016_CFeOA.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV29
+http://dlhls.cdn.zhanqi.tv/zqlive/105671_a8aBa.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV30
+http://dlhls.cdn.zhanqi.tv/zqlive/84309_CcMfk.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV31
+http://dlhls.cdn.zhanqi.tv/zqlive/104033_6y2qJ.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV32
+http://dlhls.cdn.zhanqi.tv/zqlive/105076_wcZWK.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV33
+http://dlhls.cdn.zhanqi.tv/zqlive/93469_L8CMe.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV34
+http://dlhls.cdn.zhanqi.tv/zqlive/71720_arek4.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV35
+http://dlhls.cdn.zhanqi.tv/zqlive/17077_wwKaC.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV36
+http://dlhls.cdn.zhanqi.tv/zqlive/70794_eH72n.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV37
+http://dlhls.cdn.zhanqi.tv/zqlive/6500_S9pw2.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV38
+http://dlhls.cdn.zhanqi.tv/zqlive/40051_ruOu5.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV39
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV40
+http://dlhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV41
+http://dlhls.cdn.zhanqi.tv/zqlive/60238_lUgNk.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV42
+http://dlhls.cdn.zhanqi.tv/zqlive/99815_VmbZY.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV43
+http://dlhls.cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV44
+http://dlhls.cdn.zhanqi.tv/zqlive/100804_3yFeJ.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV45
+http://dlhls.cdn.zhanqi.tv/zqlive/88752_Gu4Ry.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV46
+http://dlhls.cdn.zhanqi.tv/zqlive/67739_BfWoA.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV47
+http://dlhls.cdn.zhanqi.tv/zqlive/43185_7xeBs.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV48
+http://dlhls.cdn.zhanqi.tv/zqlive/100804_3yFeJ.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV49
+http://dlhls.cdn.zhanqi.tv/zqlive/12260_BG1BI.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV50
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV51
+http://dlhls.cdn.zhanqi.tv/zqlive/75398_udUdB.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV52
+http://dlhls.cdn.zhanqi.tv/zqlive/74202_LVJW8.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV53
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV54
+http://dlhls.cdn.zhanqi.tv/zqlive/18406_i2LzC.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV55
+http://dlhls.cdn.zhanqi.tv/zqlive/77596_7wfb1.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV56
+http://dlhls.cdn.zhanqi.tv/zqlive/92406_asJm0.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV57
+http://dlhls.cdn.zhanqi.tv/zqlive/53706_ocHOH.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV58
+http://dlhls.cdn.zhanqi.tv/zqlive/54109_H9eMV.m3u8
+#EXTINF:-1 $ExtFilter="战旗",战旗 - TV59
+http://dlhls.cdn.zhanqi.tv/zqlive/101497_uqd0M.m3u8
+
 
 
 #EXTINF:0,group-title="韩国",[COLOR green][B]----------韩国-------[/B][/COLOR]
