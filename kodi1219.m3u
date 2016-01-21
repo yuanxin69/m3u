@@ -1931,6 +1931,8 @@ http://jyzx8.com/tv/m3u8/ipad.php/heilongjiangHD_1300.m3u8
 
 #EXTINF:0,group-title="台湾",[COLOR green][B]----------台湾频道-------[/B][/COLOR]
 http://?
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 本港台
+http://218.65.131.178:1935/www.zbatv.com1/www.zbatv.com/playlist.m3u
 #EXTINF:-1 $ExtFilter="台湾",台湾 - TVBS新闻 HD
 http://211.72.13.198/live/live01_hls.m3u8
 #EXTINF:-1 $ExtFilter="台湾",台湾 - TVBS HD x
@@ -3225,8 +3227,6 @@ rtmp://183.238.77.4:1935/dvr/30182.stream
 #EXTINF:-1 $ExtFilter="港澳",港澳 - 明珠台
 rtmp://183.238.77.4:1935/dvr/30184.stream
 
-#EXTINF:0,group-title="战旗 ",[COLOR green][B]----------战旗频道-------[/B][/COLOR]
-http://?
 
 #EXTINF:0,group-title="战旗 ",[COLOR green][B]----------战旗频道-------[/B][/COLOR]
 http://?
@@ -3245,46 +3245,20 @@ http://dlhls.cdn.zhanqi.tv/zqlive/36596_HD3eX.m3u8
 http://dlhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 神仙姐姐影院
 rtmp://112.29.147.54/dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 林正英陪你过
-http://dlhls.cdn.zhanqi.tv/zqlive/54770_1aw2J.m3u8
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 男人必看
-http://dlhls.cdn.zhanqi.tv/zqlive/91997_Uf9mr.m3u8
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 模★
-http://zqcdn.ebit.cn/zqlive/zqlive/93774_g0UdM.flv
 #EXTINF:-1 $ExtFilter="战旗",战旗 - ★DeepHouse★
 http://zqcdn.ebit.cn/zqlive/38498_51io6.flv
-#EXTINF:-1 $ExtFilter="战旗",战旗 - ★66放映室
-http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/96881_CiPMo
-#EXTINF:-1 $ExtFilter="战旗",战旗 - ★AKB48
-http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/39651_PM6Dz
-#EXTINF:-1 $ExtFilter="战旗",战旗 - ★逗你的
-http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/106611_cQko1
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国SBS人气女团HD
-http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国SBS中字综艺
-http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/284_zMohT
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国少女MV
 http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国星卫娱乐少女时代
-http://dlhls.cdn.zhanqi.tv/zqlive/zqlive/1285_Zloy4
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 韩国娱乐KMTV
 http://210.200.79.26:1935/live/ukmtv.sdp/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 印度mtv频道
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 【武林外传100遍】
-http://dlhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 24小时影业
-http://dlhls.cdn.zhanqi.tv/zqlive/71720_arek4.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - duangduang
 http://218.63.199.20/wshdl.load.cdn.zhanqi.tv/zqlive/12260_BG1BI.flv?wshc_tag=0&wsiphost=ipdbm
 #EXTINF:-1 $ExtFilter="战旗",战旗 - lyingman
 http://dlhls.cdn.zhanqi.tv/zqlive/36596_HD3eX.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 爱情公寓24小时循环播放
 http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 超清电影直播
-rtmp://123.162.191.131/dlrtmp.cdn.zhanqi.tv/zqlive/6500_S9pw2
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 橙子剧场
-rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 橙子影院
 rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 电影2恐怖洋片
@@ -3303,18 +3277,6 @@ http://wshdl.load.cdn.zhanqi.tv/zqlive/35180_KUDhx.flv
 http://dlhls.cdn.zhanqi.tv/zqlive/69178_YHRUs.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 恐怖影院
 http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 恐怖影院3
-http://219.149.47.15/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?wshc_tag=0&wsiphost=ipdbm
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 拉风豆豆
-http://dlhls.cdn.zhanqi.tv/zqlive/53706_ocHOH.m3u8
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 蜡笔小新
-http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 林正英剧场
-http://120.192.87.33/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?wshc_tag=0&wsiphost=ipdbm
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 蚂蚁的力量
-http://118.123.106.21/wshdl.load.cdn.zhanqi.tv/zqlive/35180_KUDhx.flv?wshc_tag=0&wsiphost=ipdbm
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 毛毛超清
-http://dlhls.cdn.zhanqi.tv/zqlive/18553_LnMGM.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 美英电影
 rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/34466_1Is4F
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 萌萌影院
