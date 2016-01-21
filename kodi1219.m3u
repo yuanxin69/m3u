@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:0,group-title="中央",[COLOR green][B]--------中央-----[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV1
+http://202.199.27.91/cctv1.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV2
+http://202.199.27.91/cctv2.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV3
+http://202.199.27.91/cctv3.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV4
+http://202.199.27.91/cctv4.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV5
+http://202.199.27.91/cctv5.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV6
+http://202.199.27.91/cctv6.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV7
+http://202.199.27.91/cctv7.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV8
+http://202.199.27.91/cctv8.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV9
+http://202.199.27.91/cctv9.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV10
+http://202.199.27.91/cctv11.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV11
+http://202.199.27.91/cctv8.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV12
+http://202.199.27.91/cctv12.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV13新闻
+http://202.199.27.91/cctv13.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV14
+http://202.199.27.91/cctv14.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV15
+http://202.199.27.91/cctv15.m3u8
+#EXTINF:-1 $ExtFilter="中央",中央 - CCTV16
+http://202.199.27.91/cctv16.m3u8
+
 #EXTINF:0,group-title="全国影院",[COLOR green][B]--------全国影院-----[/B][/COLOR]
 http://?
 
