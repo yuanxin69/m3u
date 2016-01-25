@@ -1,5 +1,237 @@
 #EXTM3U
 
+
+#EXTINF:0,group-title="江西有线",[COLOR green][B]----------江西有线-------[/B][/COLOR]
+http://?
+
+
+
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-1
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv1&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-2
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv2&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-3
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv3&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-4
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv4&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-5
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv5&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-6
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv6&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-7
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv7&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-8
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv8&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-9
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv9&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-10
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv10&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-11
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv11&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-12
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv12&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - CCTV-13
+http://112.124.12.126:8080/TvUrlAgent/vdn.apps.cntvUrl?id=cctv13&type=jstv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - 江西卫视
+http://live01.jxtvcn.com.cn/live/147344bf590c4fd98ec5504c0ecf59bc?fmt=h264_800k_flv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - 江西2都市频道
+http://live01.jxtvcn.com.cn/live/fdc9ca24357649959c99f1c37eb76611?fmt=h264_800k_flv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - 江西3经济社会
+http://live01.jxtvcn.com.cn/live/bab644cf47ec48459835939552cc8833?fmt=h264_800k_flv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - 江西4影视娱乐
+http://live01.jxtvcn.com.cn/live/efbb81cbf9b0452fa810c376891f944a?fmt=h264_800k_flv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - 江西5公共频道
+http://live01.jxtvcn.com.cn/live/193223a69fc045f99500aed9fe019112?fmt=h264_800k_flv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - 江西6少儿家庭
+http://live01.jxtvcn.com.cn/live/159dcf8ce67f445d80e3c53c0d1eef60?fmt=h264_800k_flv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - 江西7电影频道
+http://live01.jxtvcn.com.cn/live/ef3f182f42c24b92a3c246de9bc43a16?fmt=h264_800k_flv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - 江西8移动电视
+http://live01.jxtvcn.com.cn/live/1de01e46f90e456f86b0b38f60403dba?fmt=h264_700k_flv
+#EXTINF:-1 $ExtFilter="江西有线",江西有线 - 风尚购物
+http://live01.jxtvcn.com.cn/live/6bb1ec4868e340bea73fbed8adb58b43?fmt=h264_800k_flv
+
+
+
+#EXTINF:0,group-title="广州电信",[COLOR green][B]----------广州电信-------[/B][/COLOR]
+http://?
+
+
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - CETV1中国教育
+http://121.33.74.227:9903/hls/live-zgjy-033/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 珠江电影
+http://121.33.74.227:9903/hls/live-zjdy-038/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 现代教育
+http://121.33.74.227:9903/hls/live-xdjy-022/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 广东珠江
+http://121.33.74.227:9903/hls/live-gdzj-001/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 广东新闻
+http://121.33.74.227:9903/hls/live-gdxw-002/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 广东卫视
+http://121.33.74.227:9903/hls/live-gdws-003/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 广东体育
+http://121.33.74.227:9903/hls/live-gdty-004/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 广东公共
+http://121.33.74.227:9903/hls/live-gdgg-005/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 嘉佳卡通
+http://121.33.74.227:9903/hls/live-jjkt-039/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 南方经济
+http://121.33.74.227:9903/hls/live-nfjs-006/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 南方卫视
+http://121.33.74.227:9903/hls/live-nfws-007/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 南方综艺
+http://121.33.74.227:9903/hls/live-nfzy-008/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 南方影视
+http://121.33.74.227:9903/hls/live-nfys-009/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 广州综合
+http://121.33.74.227:9903/hls/live-gzzh-010/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 广州影视
+http://121.33.74.227:9903/hls/live-gzys-014/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 广州经济
+http://121.33.74.227:9903/hls/live-gzjj-011/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 广州新闻
+http://121.33.74.227:9903/hls/live-gzxw-013/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 广州英语
+http://121.33.74.227:9903/hls/live-gzyy-012/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 安徽卫视
+http://121.33.74.227:9903/hls/live-ahws-042/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 江苏卫视
+http://121.33.74.227:9903/hls/live-jsws-043/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 广西卫视
+http://121.33.74.227:9903/hls/live-gxws-015/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 陕西卫视
+http://121.33.74.227:9903/hls/live-sxws-016/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 黑龙江卫视
+http://121.33.74.227:9903/hls/live-hljws-017/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 山东卫视
+http://121.33.74.227:9903/hls/live-sdws-018/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 吉林卫视
+http://121.33.74.227:9903/hls/live-jlws-019/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 湖北卫视
+http://121.33.74.227:9903/hls/live-hbws-020/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 四川卫视
+http://121.33.74.227:9903/hls/live-scws-021/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 东南卫视
+http://121.33.74.227:9903/hls/live-dnws-023/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 甘肃卫视
+http://121.33.74.227:9903/hls/live-gsws-024/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 重庆卫视
+http://121.33.74.227:9903/hls/live-cqws-025/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 内蒙古卫视
+http://121.33.74.227:9903/hls/live-nmgws-026/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 云南卫视
+http://121.33.74.227:9903/hls/live-ynws-027/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 河北卫视
+http://121.33.74.227:9903/hls/live-hbws-028/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 贵州卫视
+http://121.33.74.227:9903/hls/live-gzws-029/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 深圳卫视
+http://121.33.74.227:9903/hls/live-szws-030/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 浙江卫视
+http://121.33.74.227:9903/hls/live-zjws-031/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 新疆卫视
+http://121.33.74.227:9903/hls/live-xjws-032/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 东方卫视
+http://121.33.74.227:9903/hls/live-dfws-034/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 炫动卡通
+http://121.33.74.227:9903/hls/live-xdkt-035/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 宁夏卫视
+http://121.33.74.227:9903/hls/live-nxws-036/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 旅游卫视
+http://121.33.74.227:9903/hls/live-hnws-037/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 青海卫视
+http://121.33.74.227:9903/hls/live-qhws-040/stream800/index.m3u8
+#EXTINF:-1 $ExtFilter="广州电信",广州电信 - 优漫卡通
+http://121.33.74.227:9903/hls/live-ymkt-044/stream800/index.m3u8
+#EXTINF:0,group-title="重庆有线",[COLOR green][B]----------重庆有线-------[/B][/COLOR]
+http://?
+
+
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-1
+http://125.62.17.77:8112/00000000/866071d59c1d48cf8344f1698e0579cc/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-4
+http://125.62.17.77:8112/00000000/68b95e77497e481286eff47f67e15cb3/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-5
+http://125.62.17.77:8112/00000000/923cf74fdfa146e789540ceb0ad7f129/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-7
+http://125.62.17.77:8112/00000000/15548ac0b05c4f7bbac2c74b762300aa/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-9
+http://125.62.17.77:8112/00000000/4b755b0c60824ce1b1a0eab27e2f569e/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-10
+http://125.62.17.77:8112/00000000/16db3dadeebb4ae498e4553549ef4392/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-11
+http://125.62.17.77:8112/00000000/be38b08449b74568b0bd126140c04b8b/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-12
+http://125.62.17.77:8112/00000000/c23b941e6d0b4a5e8c924c8a3f229f4a/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-15
+http://125.62.17.77:8112/00000000/6a6055c2db1a4bc194606580370d5744/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-老故事
+http://125.62.17.77:8112/00000000/e8b48fa21c3b44ebaf925cffbd5820e6/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-第一剧场
+http://125.62.17.77:8112/00000000/cb19bce6424b4998ab101b8934aea6d9/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-风云剧场
+http://125.62.17.77:8112/00000000/85ffab4fb22e4aba96f01244e4d1f87b/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-风云音乐
+http://125.62.17.77:8112/00000000/047e4cd80dec4551a62afc44ff4319b9/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-怀旧剧场
+http://125.62.17.77:8112/00000000/c8190c9699f249769ad8debe8ec837f2/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-央视精品
+http://125.62.17.77:8112/00000000/736171d4ff684901953fcc619ff7c763/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - CCTV-风云足球
+http://125.62.17.77:8112/00000000/e29c56c881e64b1c87877dac612d619b/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 欧美大片
+http://125.62.17.77:8112/00000000/5280fa7800d74f9ca58805b09eda32e6/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 首播剧场
+http://125.62.17.77:8112/00000000/07ecdccffd344ffcb62ed32d6e268089/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 华语电影
+http://125.62.17.77:8112/00000000/2d3ad39d60eb429bb8557cf85886cfe9/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 韩剧剧场
+http://125.62.17.77:8112/00000000/3c0513a45e524c7d99c738881d079263/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 重庆卫视
+http://125.62.17.77:8112/00000000/0e69845908ba4bbba26987ec602937d2/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 重庆影视
+http://125.62.17.77:8112/00000000/eeab01b63a774f57bb769569caafc720/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 重庆移动
+http://125.62.17.77:8112/00000000/1576cbb371f34a9b92ad55f4f2dc4f00/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 晴彩重庆
+http://125.62.17.77:8112/00000000/8edbd8fbba3c4747aa0d20c54477cc6d/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 重庆公共
+http://125.62.17.77:8112/00000000/97e311d82f55428f9f20578019956cf9/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 重庆导视
+http://125.62.17.77:8112/00000000/880e5edc35f24e878238ed0f75329e66/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 深圳卫视
+http://125.62.17.77:8112/00000000/dfeb290d758b4dc097ec02ead85799c0/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 东方卫视
+http://125.62.17.77:8112/00000000/0e370bedb99944e6819695d29c9be245/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 兵团卫视
+http://125.62.17.77:8112/00000000/dd0bea617e3f46a28a9e587eae892332/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 陕西卫视
+http://125.62.17.77:8112/00000000/ca30c97b01104fd5900a8c30abd91a3c/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 云南卫视
+http://125.62.17.77:8112/00000000/8281d45befd0466a995733a2e1427078/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 山东卫视
+http://125.62.17.77:8112/00000000/f5e0d92a9d5847e780791d214c51be17/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 广东卫视
+http://125.62.17.77:8112/00000000/63c096a87bcb43809df10018644f207d/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 四川卫视
+http://125.62.17.77:8112/00000000/3e3ba8abc9c040a0b43c940ea7ce3e3f/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 吉林卫视
+http://125.62.17.77:8112/00000000/55750df200994612a4c208fa2e74f0e2/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 河南卫视
+http://125.62.17.77:8112/00000000/500232867fe840e185823137e8a88566/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 黑龙江卫视
+http://125.62.17.77:8112/00000000/a2ab222a088645a19f1b08f3cc304d0d/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 贵州卫视
+http://125.62.17.77:8112/00000000/54de2811e3e24083a5cc967a7725bcbf/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 广西卫视
+http://125.62.17.77:8112/00000000/faff9eb238234dfca432866cf6ba7386/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 新疆卫视
+http://125.62.17.77:8112/00000000/9cb7135914fd4e8d981b4e7dda4f4b21/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 内蒙古卫视
+http://125.62.17.77:8112/00000000/40974ba611174a3585e0dcde6aa0b275/index.m3u8
+#EXTINF:-1 $ExtFilter="重庆有线",重庆有线 - 西藏卫视
+http://125.62.17.77:8112/00000000/366a2aad161b48d390c8a8ba698f0c7d/index.m3u8
+
 #EXTINF:0,group-title="中央",[COLOR green][B]--------中央-----[/B][/COLOR]
 http://?
 
@@ -2093,6 +2325,12 @@ http://210.200.79.26:1935/live/ukmtv.sdp/chunklist.m3u8
 http://210.200.79.26:1935/live/Dturbo_sp.sdp/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="台湾",台湾 - 发现科学
 http://210.200.79.26:1935/live/dscvrsciencehd/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 发现动力
+http://210.200.79.26:1935/live/dscvrdynamichd/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 发现科学
+http://210.200.79.26:1935/live/Dscient_sp.sdp/playlist.m3u8
+#EXTINF:-1 $ExtFilter="台湾",台湾 - 发现家庭
+http://210.200.79.26:1935/live/Dhome_sp.sdp/playlist.m3u8
 #EXTINF:-1 $ExtFilter="台湾",台湾 - FOX-1
 rtmp://kv3.ts33.net/sat/tv732
 #EXTINF:-1 $ExtFilter="台湾",台湾 - FOX-2
@@ -3351,7 +3589,7 @@ http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
 http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗2
 http://dlhls.cdn.zhanqi.tv/zqlive/20118_R9sVS.m3u8
-#EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗3
+#EXTINF:-1 $ExtFilter="战旗",战旗 - 超清MV
 http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8
 #EXTINF:-1 $ExtFilter="战旗",战旗 - 战旗4
 http://dlhls.cdn.zhanqi.tv/zqlive/38498_51io6.m3u8
