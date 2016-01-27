@@ -1,5 +1,39 @@
 #EXTM3U
 
+#EXTINF:0,group-title="深圳地方",[COLOR green][B]----------深圳地方-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳卫视
+rtmp://yao.tsl.cutv.com/cutvChannelLive/AxeFRth/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳都市
+rtmp://yao.tsl.cutv.com/cutvChannelLive/ZwxzUXr/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳电视剧
+rtmp://yao.tsl.cutv.com/cutvChannelLive/4azbkoY/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳财经
+rtmp://yao.tsl.cutv.com/cutvChannelLive/3vlcoxP/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳娱乐
+rtmp://yao.tsl.cutv.com/cutvChannelLive/1q4iPng/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳少儿
+rtmp://yao.tsl.cutv.com/cutvChannelLive/1SIQj6s/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳公共
+rtmp://yao.tsl.cutv.com/cutvChannelLive/2q76Sw2/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳法治
+rtmp://yao.tsl.cutv.com/cutvChannelLive/xO1xQFv/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳DV生活
+rtmp://yao.tsl.cutv.com/cutvChannelLive/DMgYVGr/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳国际
+rtmp://yao.tsl.cutv.com/cutvChannelLive/IQzSzg9/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳购物
+rtmp://yao.tsl.cutv.com/cutvChannelLive/BJ5u5k2/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳宝安
+rtmp://yao.tsl.cutv.com/cutvChannelLive/qDz6vmu/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳东部
+rtmp://yao.tsl.cutv.com/cutvChannelLive/9zoW71b/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳西部
+rtmp://yao.tsl.cutv.com/cutvChannelLive/K8nii1e/live
+#EXTINF:-1 $ExtFilter="深圳地方",深圳地方 - 深圳龙岗
+rtmp://yao.tsl.cutv.com/cutvChannelLive/uGzbXhS/live
+
 
 #EXTINF:0,group-title="江西有线",[COLOR green][B]----------江西有线-------[/B][/COLOR]
 http://?
