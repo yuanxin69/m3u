@@ -2190,185 +2190,185 @@ StyleTV,http://jyzx8.com/tv/m3u8/ipad3.php/lb_StyleTV_1300.m3u8&splatid=1009
 少女时代,http://jyzx8.com/tv/m3u8/ipad.php/lb_snsd_1800.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_snsd_350.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_snsd_1300.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_snsd_800.m3u8#http://jyzx8.com/gslb?stream_id=lb_snsd_1300.m3u8splatid=1009
 Coldplay,http://jyzx8.com/tv/m3u8/ipad.php/lb_Coldplay_1800.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_Coldplay_350.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_Coldplay_1300.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_Coldplay_800.m3u8
 SM TOWN,http://jyzx8.com/tv/m3u8/ipad.php/lb_SMTOWN_1800.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_SMTOWN_350.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_SMTOWN_1300.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_SMTOWN_800.m3u8
-港澳台开始CNN,http://s02.ottclub.info:1935/live/c175.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-BBS,http://s02.ottclub.info:1935/live/c177.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-公視 HD,http://s01.ottclub.info:1935/live/c229.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-公視,http://s01.ottclub.info:1935/live/c239.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-FSTV HD,http://s03.ottclub.info:1935/live/c193.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-民視 HD,http://s03.ottclub.info:1935/live/c192.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-台視 HD,http://s03.ottclub.info:1935/live/c240.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-台視綜合台,http://s03.ottclub.info:1935/live/c171.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-中視 HD,http://s01.ottclub.info:1935/live/c174.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-中視,http://s03.ottclub.info:1935/live/c201.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-大愛 HD,http://s02.ottclub.info:1935/live/c059.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-華視,http://s02.ottclub.info:1935/live/c172.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-探索科學台 HD,http://s03.ottclub.info:1935/live/c247.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-DMAX HD,http://s01.ottclub.info:1935/live/c200.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-EVE HD,http://s03.ottclub.info:1935/live/c243.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-國家地理野生台 HD,http://s03.ottclub.info:1935/live/c207.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-國家地理優人台 HD,http://s03.ottclub.info:1935/live/c245.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-國家地理頻道台 HD,http://s03.ottclub.info:1935/live/c206.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-Discovery HD,http://s03.ottclub.info:1935/live/c244.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-TLC,http://s02.ottclub.info:1935/live/c170.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-動物星球台,http://s02.ottclub.info:1935/live/c176.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-卡通頻道台,http://s02.ottclub.info:1935/live/c178.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-迪士尼頻道台,http://s02.ottclub.info:1935/live/c198.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-MOMO親子台,http://s02.ottclub.info:1935/live/c168.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森幼幼台,http://s01.ottclub.info:1935/live/c227.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-緯來綜合台,http://s03.ottclub.info:1935/live/c235.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-八大第一台 HD,http://s01.ottclub.info:1935/live/c157.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-八大綜合台 HD,http://s01.ottclub.info:1935/live/c197.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-三立台灣台 HD,http://s03.ottclub.info:1935/live/c196.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-三立都會台 HD,http://s01.ottclub.info:1935/live/c159.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-衛視中文台 HD,http://s01.ottclub.info:1935/live/c158.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森綜合台,http://s03.ottclub.info:1935/live/c237.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森超視台,http://s01.ottclub.info:1935/live/c195.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-ChannalM HD,http://s03.ottclub.info:1935/live/c219.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-KMTV HD,http://s03.ottclub.info:1935/live/c218.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-中天綜合台 HD,http://s03.ottclub.info:1935/live/c220.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東風衛視台,http://s02.ottclub.info:1935/live/c214.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-MUCH台,http://s01.ottclub.info:1935/live/c226.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-中天娛樂台,http://s01.ottclub.info:1935/live/c228.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森戲劇台,http://s02.ottclub.info:1935/live/c169.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-八大戲劇台,http://s02.ottclub.info:1935/live/c215.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-TVBS歡樂台 HD,http://s03.ottclub.info:1935/live/c160.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-緯來戲劇台,http://s02.ottclub.info:1935/live/c210.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-星衛娛樂台 HD,http://s03.ottclub.info:1935/live/c242.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-衛視合家歡台,http://s02.ottclub.info:1935/live/c211.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-JET綜合台,http://s01.ottclub.info:1935/live/c225.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-DIVA HD,http://s01.ottclub.info:1935/live/c156.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-SYFYH DH,http://s03.ottclub.info:1935/live/c216.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-壹電視新聞台 HD,http://s01.ottclub.info:1935/live/c232.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-年代新聞台 HD,http://s03.ottclub.info:1935/live/c236.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森新聞台 HD,http://s01.ottclub.info:1935/live/c191.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-中天新聞台 HD,http://s01.ottclub.info:1935/live/c188.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-民視新聞台 HD,http://s01.ottclub.info:1935/live/c187.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-三立新聞台 HD,http://s03.ottclub.info:1935/live/c161.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-TVBS新聞台 HD,http://s03.ottclub.info:1935/live/c162.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-TVBS台 HD,http://s01.ottclub.info:1935/live/c189.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森財經新聞台,http://s02.ottclub.info:1935/live/c233.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-非凡新聞台,http://s02.ottclub.info:1935/live/c212.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-FOXCRIME HD,http://s01.ottclub.info:1935/live/c155.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-FXHD,http://s03.ottclub.info:1935/live/c238.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-衛視電影台,http://s02.ottclub.info:1935/live/c167.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森電影台,http://s02.ottclub.info:1935/live/c234.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-星衛電影台 HD,http://s01.ottclub.info:1935/live/c205.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-美亞電影台 HD,http://s01.ottclub.info:1935/live/c204.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-HBOHD,http://s01.ottclub.info:1935/live/c185.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森洋片台,http://s02.ottclub.info:1935/live/c194.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-福斯家庭電影台 HD,http://s01.ottclub.info:1935/live/c202.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-niversal HD,http://s01.ottclub.info:1935/live/c203.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-StarMovies HD,http://s03.ottclub.info:1935/live/c246.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-CINEMAX,http://s01.ottclub.info:1935/live/c199.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-緯來育樂台,http://s02.ottclub.info:1935/live/c166.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-緯來體育台 HD,http://s03.ottclub.info:1935/live/c163.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-FOX3 HD,http://s03.ottclub.info:1935/live/c230.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-衛視體育台 HD,http://s02.ottclub.info:1935/live/c165.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-緯來日本台,http://s02.ottclub.info:1935/live/c164.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-愛爾達體育台 HD,http://s03.ottclub.info:1935/live/c217.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-國興衛視台,http://s02.ottclub.info:1935/live/c213.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-FOXHD,http://s01.ottclub.info:1935/live/c231.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-HBO原創 HD,http://s01.ottclub.info:1935/live/c190.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-HBO強檔 HD,http://s01.ottclub.info:1935/live/c184.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-HBO溫馨 HD,http://s01.ottclub.info:1935/live/c186.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-博斯高球II台 HD,http://s03.ottclub.info:1935/live/c209.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-博斯運動台 HD,http://s03.ottclub.info:1935/live/c208.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-GOLFCHANNAL HD,http://s01.ottclub.info:1935/live/c222.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-ASN全美運動台 HD,http://s01.ottclub.info:1935/live/c221.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-byTVHD,http://s01.ottclub.info:1935/live/c224.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-DisneyJnior,http://s01.ottclub.info:1935/live/c223.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-MTV HD,http://s03.ottclub.info:1935/live/c241.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-霹靂台灣台,http://s02.ottclub.info:1935/live/c173.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-罪案偵緝頻道 HD,http://s02.ottclub.info:1935/live/c058.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-測試-美女上錯身,http://s02.ottclub.info:1935/live/c988.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-CNN標清,http://s02.ottclub.info:1935/live/c675.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-»C標清,http://s02.ottclub.info:1935/live/c677.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-公視HD標清,http://s01.ottclub.info:1935/live/c729.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-公視2標清,http://s01.ottclub.info:1935/live/c739.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-FSTV標清,http://s03.ottclub.info:1935/live/c693.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-民視標清,http://s03.ottclub.info:1935/live/c692.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-台視HD標清,http://s03.ottclub.info:1935/live/c740.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-台視綜合標清,http://s01.ottclub.info:1935/live/c671.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-中視HD標清,http://s01.ottclub.info:1935/live/c674.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-中視標清,http://s03.ottclub.info:1935/live/c701.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-大愛HD標清,http://s02.ottclub.info:1935/live/c559.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-華視標清,http://s02.ottclub.info:1935/live/c672.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-探索科學台標清,http://s03.ottclub.info:1935/live/c747.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-DMAX標清,http://s01.ottclub.info:1935/live/c700.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-EVE標清,http://s03.ottclub.info:1935/live/c743.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-國家地理野生台標清,http://s03.ottclub.info:1935/live/c707.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-國家地理優人台標清,http://s03.ottclub.info:1935/live/c745.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-國家地理頻道台標清,http://s03.ottclub.info:1935/live/c706.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-Discovery標清,http://s03.ottclub.info:1935/live/c744.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-TLC標清,http://s01.ottclub.info:1935/live/c670.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-動物星球台標清,http://s02.ottclub.info:1935/live/c676.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-卡通頻道台標清,http://s02.ottclub.info:1935/live/c678.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-迪士尼頻道台標清,http://s01.ottclub.info:1935/live/c698.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-MOMO親子台標清,http://s01.ottclub.info:1935/live/c668.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森幼幼台標清,http://s01.ottclub.info:1935/live/c727.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-緯來綜合台標清,http://s03.ottclub.info:1935/live/c735.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-八大第一台標清,http://s01.ottclub.info:1935/live/c657.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-八大綜合台標清,http://s01.ottclub.info:1935/live/c697.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-三立台灣台標清,http://s03.ottclub.info:1935/live/c696.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-三立都會台標清,http://s01.ottclub.info:1935/live/c659.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-衛視中文台標清,http://s01.ottclub.info:1935/live/c658.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森綜合台標清,http://s03.ottclub.info:1935/live/c737.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-超視台標清,http://s01.ottclub.info:1935/live/c695.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-ChannalM標清,http://s03.ottclub.info:1935/live/c719.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-KMTV標清,http://s03.ottclub.info:1935/live/c718.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-中天綜合台標清,http://s03.ottclub.info:1935/live/c720.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東風衛視台標清,http://s03.ottclub.info:1935/live/c714.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-MCH台標清,http://s01.ottclub.info:1935/live/c726.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-中天娛樂台標清,http://s01.ottclub.info:1935/live/c728.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森戲劇台標清,http://s01.ottclub.info:1935/live/c669.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-八大戲劇台標清,http://s03.ottclub.info:1935/live/c715.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-TVBS歡樂台標清,http://s01.ottclub.info:1935/live/c660.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-緯來戲劇台標清,http://s03.ottclub.info:1935/live/c710.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-星衛娛樂台標清,http://s03.ottclub.info:1935/live/c742.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-衛視合家歡台標清,http://s01.ottclub.info:1935/live/c711.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-JET綜合台標清,http://s01.ottclub.info:1935/live/c725.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-DIVA標清,http://s03.ottclub.info:1935/live/c656.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-SYFY標清,http://s03.ottclub.info:1935/live/c716.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-壹電視新聞台標清,http://s01.ottclub.info:1935/live/c732.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-年代新聞台標清,http://s03.ottclub.info:1935/live/c736.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森新聞台標清,http://s01.ottclub.info:1935/live/c691.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-中天新聞台標清,http://s01.ottclub.info:1935/live/c688.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-民視新聞台標清,http://s01.ottclub.info:1935/live/c687.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-三立新聞台標清,http://s01.ottclub.info:1935/live/c661.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-TVBS新聞台標清,http://s02.ottclub.info:1935/live/c662.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-TVBS台標清,http://s02.ottclub.info:1935/live/c689.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森財經新聞台標清,http://s03.ottclub.info:1935/live/c733.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-非凡新聞台標清,http://s01.ottclub.info:1935/live/c712.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-FOXCRIME標清,http://s03.ottclub.info:1935/live/c655.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-FX標清,http://s03.ottclub.info:1935/live/c738.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-衛視電影台標清,http://s01.ottclub.info:1935/live/c667.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森電影台標清,http://s03.ottclub.info:1935/live/c734.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-星衛電影台標清,http://s03.ottclub.info:1935/live/c705.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-美亞電影台標清,http://s03.ottclub.info:1935/live/c704.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-HBO標清,http://s01.ottclub.info:1935/live/c685.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-東森洋片台標清,http://s03.ottclub.info:1935/live/c694.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-福斯家庭電影台標清,http://s01.ottclub.info:1935/live/c702.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-niversal標清,http://s03.ottclub.info:1935/live/c703.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-StarMovies標清,http://s03.ottclub.info:1935/live/c746.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-CINEMAX標清,http://s01.ottclub.info:1935/live/c699.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-緯來育樂台標清,http://s01.ottclub.info:1935/live/c666.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-緯來體育台標清,http://s03.ottclub.info:1935/live/c663.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-FOX3標清,http://s03.ottclub.info:1935/live/c730.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-衛視體育台標清,http://s03.ottclub.info:1935/live/c665.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-緯來日本台標清,http://s03.ottclub.info:1935/live/c664.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-愛爾達體育台標清,http://s03.ottclub.info:1935/live/c717.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-國興衛視台標清,http://s03.ottclub.info:1935/live/c713.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-FOX標清,http://s03.ottclub.info:1935/live/c731.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-HBO原創台標清,http://s01.ottclub.info:1935/live/c690.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-HBO強檔台標清,http://s01.ottclub.info:1935/live/c684.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-HBO溫馨台標清,http://s01.ottclub.info:1935/live/c686.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-博斯高球II台標清,http://s03.ottclub.info:1935/live/c709.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-博斯運動台標清,http://s03.ottclub.info:1935/live/c708.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-GOLFCHANNAL標清,http://s01.ottclub.info:1935/live/c722.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-ASN全美運動標清,http://s01.ottclub.info:1935/live/c721.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-ºbyTV標清,http://s01.ottclub.info:1935/live/c724.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-DisneyJnior標清,http://s01.ottclub.info:1935/live/c723.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-MTV標清,http://s03.ottclub.info:1935/live/c741.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-霹靂台灣台標清,http://s02.ottclub.info:1935/live/c673.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-罪案偵緝頻道標清,http://s02.ottclub.info:1935/live/c558.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-芈月傳標清,http://s02.ottclub.info:1935/live/c987.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
+港澳台开始CNN,http://s02.ottclub.info:1935/live/c175.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+BBS,http://s02.ottclub.info:1935/live/c177.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+公視 HD,http://s01.ottclub.info:1935/live/c229.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+公視,http://s01.ottclub.info:1935/live/c239.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+FSTV HD,http://s03.ottclub.info:1935/live/c193.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+民視 HD,http://s03.ottclub.info:1935/live/c192.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+台視 HD,http://s03.ottclub.info:1935/live/c240.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+台視綜合台,http://s03.ottclub.info:1935/live/c171.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+中視 HD,http://s01.ottclub.info:1935/live/c174.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+中視,http://s03.ottclub.info:1935/live/c201.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+大愛 HD,http://s02.ottclub.info:1935/live/c059.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+華視,http://s02.ottclub.info:1935/live/c172.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+探索科學台 HD,http://s03.ottclub.info:1935/live/c247.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+DMAX HD,http://s01.ottclub.info:1935/live/c200.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+EVE HD,http://s03.ottclub.info:1935/live/c243.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+國家地理野生台 HD,http://s03.ottclub.info:1935/live/c207.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+國家地理優人台 HD,http://s03.ottclub.info:1935/live/c245.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+國家地理頻道台 HD,http://s03.ottclub.info:1935/live/c206.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+Discovery HD,http://s03.ottclub.info:1935/live/c244.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+TLC,http://s02.ottclub.info:1935/live/c170.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+動物星球台,http://s02.ottclub.info:1935/live/c176.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+卡通頻道台,http://s02.ottclub.info:1935/live/c178.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+迪士尼頻道台,http://s02.ottclub.info:1935/live/c198.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+MOMO親子台,http://s02.ottclub.info:1935/live/c168.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森幼幼台,http://s01.ottclub.info:1935/live/c227.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+緯來綜合台,http://s03.ottclub.info:1935/live/c235.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+八大第一台 HD,http://s01.ottclub.info:1935/live/c157.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+八大綜合台 HD,http://s01.ottclub.info:1935/live/c197.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+三立台灣台 HD,http://s03.ottclub.info:1935/live/c196.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+三立都會台 HD,http://s01.ottclub.info:1935/live/c159.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+衛視中文台 HD,http://s01.ottclub.info:1935/live/c158.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森綜合台,http://s03.ottclub.info:1935/live/c237.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森超視台,http://s01.ottclub.info:1935/live/c195.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+ChannalM HD,http://s03.ottclub.info:1935/live/c219.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+KMTV HD,http://s03.ottclub.info:1935/live/c218.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+中天綜合台 HD,http://s03.ottclub.info:1935/live/c220.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東風衛視台,http://s02.ottclub.info:1935/live/c214.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+MUCH台,http://s01.ottclub.info:1935/live/c226.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+中天娛樂台,http://s01.ottclub.info:1935/live/c228.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森戲劇台,http://s02.ottclub.info:1935/live/c169.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+八大戲劇台,http://s02.ottclub.info:1935/live/c215.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+TVBS歡樂台 HD,http://s03.ottclub.info:1935/live/c160.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+緯來戲劇台,http://s02.ottclub.info:1935/live/c210.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+星衛娛樂台 HD,http://s03.ottclub.info:1935/live/c242.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+衛視合家歡台,http://s02.ottclub.info:1935/live/c211.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+JET綜合台,http://s01.ottclub.info:1935/live/c225.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+DIVA HD,http://s01.ottclub.info:1935/live/c156.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+SYFYH DH,http://s03.ottclub.info:1935/live/c216.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+壹電視新聞台 HD,http://s01.ottclub.info:1935/live/c232.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+年代新聞台 HD,http://s03.ottclub.info:1935/live/c236.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森新聞台 HD,http://s01.ottclub.info:1935/live/c191.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+中天新聞台 HD,http://s01.ottclub.info:1935/live/c188.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+民視新聞台 HD,http://s01.ottclub.info:1935/live/c187.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+三立新聞台 HD,http://s03.ottclub.info:1935/live/c161.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+TVBS新聞台 HD,http://s03.ottclub.info:1935/live/c162.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+TVBS台 HD,http://s01.ottclub.info:1935/live/c189.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森財經新聞台,http://s02.ottclub.info:1935/live/c233.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+非凡新聞台,http://s02.ottclub.info:1935/live/c212.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+FOXCRIME HD,http://s01.ottclub.info:1935/live/c155.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+FXHD,http://s03.ottclub.info:1935/live/c238.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+衛視電影台,http://s02.ottclub.info:1935/live/c167.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森電影台,http://s02.ottclub.info:1935/live/c234.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+星衛電影台 HD,http://s01.ottclub.info:1935/live/c205.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+美亞電影台 HD,http://s01.ottclub.info:1935/live/c204.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+HBOHD,http://s01.ottclub.info:1935/live/c185.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森洋片台,http://s02.ottclub.info:1935/live/c194.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+福斯家庭電影台 HD,http://s01.ottclub.info:1935/live/c202.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+niversal HD,http://s01.ottclub.info:1935/live/c203.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+StarMovies HD,http://s03.ottclub.info:1935/live/c246.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+CINEMAX,http://s01.ottclub.info:1935/live/c199.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+緯來育樂台,http://s02.ottclub.info:1935/live/c166.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+緯來體育台 HD,http://s03.ottclub.info:1935/live/c163.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+FOX3 HD,http://s03.ottclub.info:1935/live/c230.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+衛視體育台 HD,http://s02.ottclub.info:1935/live/c165.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+緯來日本台,http://s02.ottclub.info:1935/live/c164.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+愛爾達體育台 HD,http://s03.ottclub.info:1935/live/c217.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+國興衛視台,http://s02.ottclub.info:1935/live/c213.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+FOXHD,http://s01.ottclub.info:1935/live/c231.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+HBO原創 HD,http://s01.ottclub.info:1935/live/c190.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+HBO強檔 HD,http://s01.ottclub.info:1935/live/c184.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+HBO溫馨 HD,http://s01.ottclub.info:1935/live/c186.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+博斯高球II台 HD,http://s03.ottclub.info:1935/live/c209.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+博斯運動台 HD,http://s03.ottclub.info:1935/live/c208.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+GOLFCHANNAL HD,http://s01.ottclub.info:1935/live/c222.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+ASN全美運動台 HD,http://s01.ottclub.info:1935/live/c221.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+byTVHD,http://s01.ottclub.info:1935/live/c224.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+DisneyJnior,http://s01.ottclub.info:1935/live/c223.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+MTV HD,http://s03.ottclub.info:1935/live/c241.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+霹靂台灣台,http://s02.ottclub.info:1935/live/c173.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+罪案偵緝頻道 HD,http://s02.ottclub.info:1935/live/c058.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+測試-美女上錯身,http://s02.ottclub.info:1935/live/c988.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+CNN標清,http://s02.ottclub.info:1935/live/c675.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+»C標清,http://s02.ottclub.info:1935/live/c677.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+公視HD標清,http://s01.ottclub.info:1935/live/c729.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+公視2標清,http://s01.ottclub.info:1935/live/c739.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+FSTV標清,http://s03.ottclub.info:1935/live/c693.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+民視標清,http://s03.ottclub.info:1935/live/c692.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+台視HD標清,http://s03.ottclub.info:1935/live/c740.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+台視綜合標清,http://s01.ottclub.info:1935/live/c671.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+中視HD標清,http://s01.ottclub.info:1935/live/c674.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+中視標清,http://s03.ottclub.info:1935/live/c701.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+大愛HD標清,http://s02.ottclub.info:1935/live/c559.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+華視標清,http://s02.ottclub.info:1935/live/c672.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+探索科學台標清,http://s03.ottclub.info:1935/live/c747.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+DMAX標清,http://s01.ottclub.info:1935/live/c700.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+EVE標清,http://s03.ottclub.info:1935/live/c743.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+國家地理野生台標清,http://s03.ottclub.info:1935/live/c707.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+國家地理優人台標清,http://s03.ottclub.info:1935/live/c745.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+國家地理頻道台標清,http://s03.ottclub.info:1935/live/c706.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+Discovery標清,http://s03.ottclub.info:1935/live/c744.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+TLC標清,http://s01.ottclub.info:1935/live/c670.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+動物星球台標清,http://s02.ottclub.info:1935/live/c676.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+卡通頻道台標清,http://s02.ottclub.info:1935/live/c678.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+迪士尼頻道台標清,http://s01.ottclub.info:1935/live/c698.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+MOMO親子台標清,http://s01.ottclub.info:1935/live/c668.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森幼幼台標清,http://s01.ottclub.info:1935/live/c727.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+緯來綜合台標清,http://s03.ottclub.info:1935/live/c735.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+八大第一台標清,http://s01.ottclub.info:1935/live/c657.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+八大綜合台標清,http://s01.ottclub.info:1935/live/c697.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+三立台灣台標清,http://s03.ottclub.info:1935/live/c696.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+三立都會台標清,http://s01.ottclub.info:1935/live/c659.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+衛視中文台標清,http://s01.ottclub.info:1935/live/c658.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森綜合台標清,http://s03.ottclub.info:1935/live/c737.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+超視台標清,http://s01.ottclub.info:1935/live/c695.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+ChannalM標清,http://s03.ottclub.info:1935/live/c719.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+KMTV標清,http://s03.ottclub.info:1935/live/c718.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+中天綜合台標清,http://s03.ottclub.info:1935/live/c720.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東風衛視台標清,http://s03.ottclub.info:1935/live/c714.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+MCH台標清,http://s01.ottclub.info:1935/live/c726.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+中天娛樂台標清,http://s01.ottclub.info:1935/live/c728.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森戲劇台標清,http://s01.ottclub.info:1935/live/c669.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+八大戲劇台標清,http://s03.ottclub.info:1935/live/c715.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+TVBS歡樂台標清,http://s01.ottclub.info:1935/live/c660.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+緯來戲劇台標清,http://s03.ottclub.info:1935/live/c710.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+星衛娛樂台標清,http://s03.ottclub.info:1935/live/c742.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+衛視合家歡台標清,http://s01.ottclub.info:1935/live/c711.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+JET綜合台標清,http://s01.ottclub.info:1935/live/c725.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+DIVA標清,http://s03.ottclub.info:1935/live/c656.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+SYFY標清,http://s03.ottclub.info:1935/live/c716.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+壹電視新聞台標清,http://s01.ottclub.info:1935/live/c732.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+年代新聞台標清,http://s03.ottclub.info:1935/live/c736.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森新聞台標清,http://s01.ottclub.info:1935/live/c691.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+中天新聞台標清,http://s01.ottclub.info:1935/live/c688.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+民視新聞台標清,http://s01.ottclub.info:1935/live/c687.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+三立新聞台標清,http://s01.ottclub.info:1935/live/c661.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+TVBS新聞台標清,http://s02.ottclub.info:1935/live/c662.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+TVBS台標清,http://s02.ottclub.info:1935/live/c689.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森財經新聞台標清,http://s03.ottclub.info:1935/live/c733.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+非凡新聞台標清,http://s01.ottclub.info:1935/live/c712.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+FOXCRIME標清,http://s03.ottclub.info:1935/live/c655.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+FX標清,http://s03.ottclub.info:1935/live/c738.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+衛視電影台標清,http://s01.ottclub.info:1935/live/c667.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森電影台標清,http://s03.ottclub.info:1935/live/c734.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+星衛電影台標清,http://s03.ottclub.info:1935/live/c705.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+美亞電影台標清,http://s03.ottclub.info:1935/live/c704.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+HBO標清,http://s01.ottclub.info:1935/live/c685.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+東森洋片台標清,http://s03.ottclub.info:1935/live/c694.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+福斯家庭電影台標清,http://s01.ottclub.info:1935/live/c702.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+niversal標清,http://s03.ottclub.info:1935/live/c703.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+StarMovies標清,http://s03.ottclub.info:1935/live/c746.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+CINEMAX標清,http://s01.ottclub.info:1935/live/c699.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+緯來育樂台標清,http://s01.ottclub.info:1935/live/c666.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+緯來體育台標清,http://s03.ottclub.info:1935/live/c663.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+FOX3標清,http://s03.ottclub.info:1935/live/c730.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+衛視體育台標清,http://s03.ottclub.info:1935/live/c665.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+緯來日本台標清,http://s03.ottclub.info:1935/live/c664.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+愛爾達體育台標清,http://s03.ottclub.info:1935/live/c717.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+國興衛視台標清,http://s03.ottclub.info:1935/live/c713.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+FOX標清,http://s03.ottclub.info:1935/live/c731.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+HBO原創台標清,http://s01.ottclub.info:1935/live/c690.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+HBO強檔台標清,http://s01.ottclub.info:1935/live/c684.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+HBO溫馨台標清,http://s01.ottclub.info:1935/live/c686.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+博斯高球II台標清,http://s03.ottclub.info:1935/live/c709.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+博斯運動台標清,http://s03.ottclub.info:1935/live/c708.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+GOLFCHANNAL標清,http://s01.ottclub.info:1935/live/c722.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+ASN全美運動標清,http://s01.ottclub.info:1935/live/c721.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+ºbyTV標清,http://s01.ottclub.info:1935/live/c724.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+DisneyJnior標清,http://s01.ottclub.info:1935/live/c723.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+MTV標清,http://s03.ottclub.info:1935/live/c741.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+霹靂台灣台標清,http://s02.ottclub.info:1935/live/c673.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+罪案偵緝頻道標清,http://s02.ottclub.info:1935/live/c558.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
+芈月傳標清,http://s02.ottclub.info:1935/live/c987.stream/playlist.m3u8?a=56abbbc9&b=pU6syuF2t77Q9FCMuhA3kw
