@@ -2254,7 +2254,7 @@ FXHD,http://s03.ottclub.info:1935/live/c238.stream/playlist.m3u8?a=56aa2c2d&b=bu
 東森電影台,http://s02.ottclub.info:1935/live/c234.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
 星衛電影台 HD,http://s01.ottclub.info:1935/live/c205.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
 美亞電影台 HD,http://s01.ottclub.info:1935/live/c204.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
-HBOHD,http://s01.ottclub.info:1935/live/c185.stream/playlist.m3u8?wowzasessionid=1437286126&b=5VlDTNVMhIO8YwK9Xp5sdQ&a=56aa7904
+HBOHD,p2p://119.81.135.43:9906/524a88de000d24c84b1131e378991174.ts
 東森洋片台,http://s02.ottclub.info:1935/live/c194.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
 福斯家庭電影台 HD,http://s01.ottclub.info:1935/live/c202.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
 niversal HD,http://s01.ottclub.info:1935/live/c203.stream/playlist.m3u8?a=56aa2c2d&b=buIAuYW7G8P_iU5bX5_EpA
