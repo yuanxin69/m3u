@@ -666,6 +666,8 @@ http://121.33.74.227:9903/hls/live-ymkt-044/stream800/index.m3u8
 #EXTINF:0,group-title="全国影院",[COLOR green][B]--------全国影院-----[/B][/COLOR]
 http://?
 
+#EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinhaiy.png",全国影院 - 峨眉电影HD
+http://112.192.177.162:3000/hls/ynnnkbrh/index.m3u8
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="xinhaiyy.png",全国影院 - 星辉影院直播
 http://dlhls.cdn.zhanqi.tv/zqlive/54770_1aw2J.m3u8
 #EXTINF:-1 $ExtFilter="全国影院" tvg-logo="taishandyyzb.png",全国影院 - 江津电影院直播
