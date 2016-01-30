@@ -349,7 +349,10 @@ News Nation,http://54.255.176.172:1935/live/smil:mystream.smil/BratuMarian.m3u8
 法国|Nancy-Web-TV,http://rtmp.infomaniak.ch:80/livecast/nancy-webtv/playlist.m3u8
 韩国GoodTV,http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
 越南VTVcab5,http://vtv.live.cdn.fptplay.net/vtvlive/smil:echanel_hls.smil/chunklist_b1200000.m3u8
-好消息GOOD2,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-1.m3u8#
+GoodTV好消息HD,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8
+GoodTV好消息HD,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-1.m3u8
+GoodTV好消息2HD,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-1.m3u8
+GoodTV好消息2HD,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-3.m3u8
 民视无线台HD,http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8
 华语电视1,http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/hyds/as/live/hyds_4.m3u8
 星卫娱乐台,http://wshdl.load.cdn.zhanqi.tv/zqlive/1285_Zloy4.flv
