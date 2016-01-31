@@ -1,4 +1,24 @@
-﻿CCTV1HD,http://125.88.39.101/live.aishang.ctlcdn.com/00000110240127_1/encoder/3/playlist.m3u8
+﻿CCTV1HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?b13960c64b00d09e9d51428afe199daa
+CCTV1HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?20ae0a97d1151e6e8f285289ac7af361
+CCTV2HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?6e90e6cbbeed62f5d1fbd950ec9455a2
+CCTV3HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?e45b6ef54a849e1c8f01e786a7664e39
+CCTV4HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?7cbfcff32726fa553d4cedea49983d0f
+CCTV5HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?5a865fc9c24cb91b7773eba6475f3d6e
+CCTV5HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?0c691940ac9a3b6a23ac738c8480ff4c
+CCTV5+HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?88830f02a37e12f25ad407f44db2a84d
+CCTV6HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?0bd5122ccbb304efc492cf862d8bf97c
+CCTV7HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?63a65b8dd2c501c1e76d70467bd99075
+CCTV8HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?acd3ec262125b341fc4798bcda427131
+CCTV9HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?abeec259810fd146bc3e7cef8e92937f
+CCTV9HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?ae3c87b1b1abc0d3992be0b5d0a401e1
+CCTV10HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?463ab10dca1404d556cc65f0d7220140
+CCTV11HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?fcaa5ba17c70e7fef8a128b783fa1674
+CCTV12HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?31626208384bae4b3e853203d28815cc
+CCTV13HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?4a363ac999cf8d74d289029fd7d34e3c
+CCTV14HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?ac739451896c27e209503244498270d4
+CCTV15HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?9644cc2c48bc400b32642f1501ce2a6d
+CCTV16HD,http://live.xsjiptv.com:18006/live/mgtv/live/live.php?45f2f9efb83d9956fa0e85c16e986385
+CCTV1HD,http://125.88.39.101/live.aishang.ctlcdn.com/00000110240127_1/encoder/3/playlist.m3u8
 CCTV2HD,http://125.88.39.101/live.aishang.ctlcdn.com/00000110240244_1/encoder/3/playlist.m3u8
 CCTV3HD,http://125.88.39.101/live.aishang.ctlcdn.com/00000110240245_1/encoder/3/playlist.m3u8
 CCTV4HD,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
@@ -897,6 +917,55 @@ AXN电影,p2p://61.221.233.81:9000/5609c544000d49e0001b5e93312249d4
 好消息2,http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
 汉亚星空,http://182.92.189.193:1935/live/h_hanya_1/playlist.m3u8
 日本购物,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8#http://stream1.shopch.jp/HLS/out2/prog_index.m3u8#http://stream1.shopch.jp/HLS/out3/prog_index.m3u8#http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+日本_NHK,p2p://122.114.113.182:9999/563dc7c3000cdfe62d604bba651e09a9
+日本_NHK,p2p://122.114.113.182:9999/568b8b4500028b080084c15a3e3e175d
+日本_NHK総合,p2p://122.114.113.182:9999/5382dc150009ab96ef8cafe7577c110e
+日本_NHK総合大阪,p2p://122.114.113.182:9999/5382dbe90007c34eef8c038a588c4fe0
+日本_NHK Eテレ,p2p://122.114.113.182:9999/5382dc150003f2beef8cae7018865570
+日本_日本テレビ,p2p://122.114.113.182:9999/5382dc160001535bef8cb1ac2f8b47eb
+日本_テレビ朝日,p2p://122.114.113.182:9999/5382dc16000523ebef8cb2a66c376c76
+日本_テレビ東京,p2p://122.114.113.182:9999/5382dc16000eea5cef8cb52716a673b6
+日本_テレビ大阪,p2p://122.114.113.182:9999/5382dbda0002fe9aef8bc7b95a582fc3
+日本_フジテレビ,p2p://122.114.113.182:9999/5382dc170002fe9aef8cb6014bc173b5
+日本_BS1,p2p://122.114.113.182:9999/5382dc0600011652ef8c731c33f01f9a
+日本_BSフジ,p2p://122.114.113.182:9999/5382dc180006180fef8cbab52423236f
+日本_BS朝日,p2p://122.114.113.182:9999/5382dc15000d3f1def8cb0d178cd25d9
+日本_BSプレミアム,p2p://122.114.113.182:9999/5382dc060004a9d9ef8c7407195b222b
+日本_BSジャパン,p2p://122.114.113.182:9999/5382dc180002c191ef8cb9da57c70ef1
+日本_読売テレビ,p2p://122.114.113.182:9999/5382dbe9000c8802ef8c04c27fef722f
+日本_BSアニマックス,p2p://122.114.113.182:9999/5382dc070000d949ef8c76f539233e7d
+日本_関西テレビ,p2p://122.114.113.182:9999/5382dbea00042fc7ef8c0688441973e7
+日本_朝日放送,p2p://122.114.113.182:9999/5382dbea00078645ef8c076230471a72
+日本_毎日放送,p2p://122.114.113.182:9999/5382dbea0000d949ef8c05ad4b22045a
+日本_TBSニュ-スバ-ド,p2p://122.114.113.182:9999/5382dbe90000d949ef8c01c55cf50acb
+日本_放送大学,p2p://122.114.113.182:9999/5382dc0600080057ef8c74e24e580dc3
+日本_日本映画専門,p2p://122.114.113.182:9999/5382dbe70002fe9aef8bfa812d03274e
+日本_BS-TBS,p2p://122.114.113.182:9999/5382dc17000df638ef8cb8d075e20f05
+日本_時代劇専門チャンネル,p2p://122.114.113.182:9999/5382dc07000a62b1ef8c7966722f6597
+日本_日テレG,p2p://122.114.113.182:9999/5382dc090002c191ef8c7f4260c10ae5
+日本_TBSテレビ,p2p://122.114.113.182:9999/5382dc16000b19ccef8cb42d36fc4697
+日本_サンテレビ,p2p://122.114.113.182:9999/5382dbda00078645ef8bc8e2380e6d03
+日本_旅チャンネル,p2p://122.114.113.182:9999/5382dbe900046cd0ef8c02af398014c4
+日本_ホ-ムドラマチャンネル,p2p://122.114.113.182:9999/5382dbe700065518ef8bfb5c1e2c035d
+日本_ヒストリ-チャンネル,p2p://122.114.113.182:9999/5382dbe80006cf2aef8bff6376de6641
+日本_ナショナル ジオグラフィック チャンネル,p2p://122.114.113.182:9999/5382dbe8000c8802ef8c00da75e026b6
+日本_ディスカバリ-チャンネル,p2p://122.114.113.182:9999/5382dbe800033ba3ef8bfe794c120637
+日本_スタ- チャンネル1,p2p://122.114.113.182:9999/5382dc05000523ebef8c703e306c4799
+1160日本_スカイ A sports,p2p://122.114.113.182:9999/5382dc08000b56d5ef8c7d8c5d740bde
+1161日本_ゴルフネットワ-ク,p2p://122.114.113.182:9999/5382dbe6000db92fef8bf9592e9654a5
+1162日本_グリ-ンチャンネル,p2p://122.114.113.182:9999/5382dc06000cc50bef8c761a5fe53a88
+1163日本_キッズステ-ション,p2p://122.114.113.182:9999/5382dbe7000f2765ef8bfd9e62442705
+1164日本_WOWOWライブ,p2p://122.114.113.182:9999/5382dc18000eea5cef8cbcf75dd12631
+1165日本_WOWOWプライム,p2p://122.114.113.182:9999/5382dc18000adcc3ef8cbbed3c0b446d
+1166日本_WOWOWシネマ,p2p://122.114.113.182:9999/5382dc050000222eef8c6ef66c6f402d
+1167日本_TOKYO MX,p2p://122.114.113.182:9999/5382dc1700065518ef8cb6dc10847d6c
+1168日本_MUSIC JAPAN TV,p2p://122.114.113.182:9999/5382dbe7000b19ccef8bfc95091a73a0
+1169日本_J SPORTS 1,p2p://122.114.113.182:9999/5382dc0800009c40ef8c7acd65bd3050
+1170日本_J SPORTS 2,p2p://122.114.113.182:9999/5382dc08000560f4ef8c7c065983250d
+1171日本_J-SPORTS 3,p2p://122.114.113.182:9999/5382dc0500096e8def8c7157707a0cc8
+1172日本_J-SPORTS 4,p2p://122.114.113.182:9999/5382dc05000cc50bef8c723208b51de4
+1173日本_FOX bs238,p2p://122.114.113.182:9999/5382dc0700059dfdef8c782d78ff4cd2
+1174日本_BS日テレ,p2p://122.114.113.182:9999/5382dc17000a62b1ef8cb7e618e11447
 韩国-EBS,p2p://122.5.17.126:9906/56933efa00090f56000578f02dfd51da.ts
 韩国-RKTV,p2p://122.5.17.126:9906/56933f1000057bcf0005cdf6440f57a5.ts
 韩国-MBCDRAMA,p2p://122.5.17.126:9906/56933ee8000ca2dd0005338b765c24b4.ts

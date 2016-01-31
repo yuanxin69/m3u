@@ -1,5 +1,52 @@
 #EXTM3U
 
+
+#EXTINF:0,group-title="华新TV",[COLOR green][B]--------华新TV-----[/B][/COLOR]
+http://?
+
+
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV1
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?b13960c64b00d09e9d51428afe199daa
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV1
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?20ae0a97d1151e6e8f285289ac7af361
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV2
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?6e90e6cbbeed62f5d1fbd950ec9455a2
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV3
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?e45b6ef54a849e1c8f01e786a7664e39
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV4
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?7cbfcff32726fa553d4cedea49983d0f
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV5
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?5a865fc9c24cb91b7773eba6475f3d6e
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV5
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?0c691940ac9a3b6a23ac738c8480ff4c
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV5+
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?88830f02a37e12f25ad407f44db2a84d
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV6
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?0bd5122ccbb304efc492cf862d8bf97c
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV7
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?63a65b8dd2c501c1e76d70467bd99075
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV8
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?acd3ec262125b341fc4798bcda427131
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV9
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?abeec259810fd146bc3e7cef8e92937f
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV9
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?ae3c87b1b1abc0d3992be0b5d0a401e1
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV10
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?463ab10dca1404d556cc65f0d7220140
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV11
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?fcaa5ba17c70e7fef8a128b783fa1674
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV12
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?31626208384bae4b3e853203d28815cc
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV13
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?4a363ac999cf8d74d289029fd7d34e3c
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV14
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?ac739451896c27e209503244498270d4
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV15
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?9644cc2c48bc400b32642f1501ce2a6d
+#EXTINF:-1 $ExtFilter="华新TV“,华新TV - CCTV16
+http://live.xsjiptv.com:18006/live/mgtv/live/live.php?45f2f9efb83d9956fa0e85c16e986385
+
+
 #EXTINF:0,group-title="112四川乐山联通",[COLOR green][B]--------112四川乐山联通-----[/B][/COLOR]
 http://?
 #EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV1HD
