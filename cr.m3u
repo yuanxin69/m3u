@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,group-title="CR",[COLOR green][B]--------CR----[/B][/COLOR]
+#EXTINF:0,group-title="CR",[COLOR red][B]--------CR----[/B][/COLOR]
 http://?
 
 #EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清1台
