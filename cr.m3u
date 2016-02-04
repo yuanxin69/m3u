@@ -1,0 +1,45 @@
+#EXTM3U
+
+#EXTINF:0,group-title="CR",[COLOR green][B]--------CR----[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清1台
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清2台
+rtmp://edge2.everyon.tv/etv2sb/phd60
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清3台
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清4台
+rtmp://edge2.everyon.tv/etv2sb/phd62
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清5台
+rtmp://edge2.everyon.tv/etv2sb/phd63
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清6台
+rtmp://edge2.everyon.tv/etv2sb/phd64
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清7台
+rtmp://edge1.everyon.tv/etv1sb/phd497
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清8台
+rtmp://edge2.everyon.tv/etv2sb/phd499
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清9台
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清10台
+rtmp://edge2.everyon.tv/etv2sb/phd511
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清11台
+rtmp://edge1.everyon.tv/etv1sb/phd765
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清12台
+rtmp://edge1.everyon.tv/etv1sb/phd766
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清13台
+rtmp://edge2.everyon.tv/etv2sb/phd769
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清14台
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清15台
+rtmp://edge2.everyon.tv/etv2sb/phd772
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清16台
+rtmp://edge1.everyon.tv/etv1sb/phd927
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清17台
+rtmp://edge1.everyon.tv/etv1sb/phd928
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清18台
+rtmp://edge2.everyon.tv/etv2sb/phd968
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清19台
+rtmp://edge2.everyon.tv/etv2sb/phd991
+#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清20台
+rtmp://edge2.everyon.tv/etv2sb/phd992
