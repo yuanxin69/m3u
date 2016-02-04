@@ -2,3 +2,5 @@ https://raw.githubusercontent.com/yuanxin69/m3u/master/cr.m3u
 http://dwz.cn/2FIfif
 https://raw.githubusercontent.com/yuanxin69/m3u/master/LeTV.txt
 http://dwz.cn/2FIrRC
+https://raw.githubusercontent.com/yuanxin69/m3u/master/124.txt
+http://dwz.cn/2FJQg6
