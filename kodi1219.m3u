@@ -1,5 +1,128 @@
 #EXTM3U
 
+#EXTINF:0,group-title="124",[COLOR green][B]--------124-----[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="124“, 124 - 186
+http://124.47.34.12:8080/live/1000186.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 187
+http://124.47.34.12:8080/live/1000187.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 188
+http://124.47.34.12:8080/live/1000188.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 189
+http://124.47.34.12:8080/live/1000189.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 192
+http://124.47.34.12:8080/live/1000192.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 193
+http://124.47.34.12:8080/live/1000193.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 194
+http://124.47.34.12:8080/live/1000194.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 195
+http://124.47.34.12:8080/live/1000195.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 196
+http://124.47.34.12:8080/live/1000196.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 197
+http://124.47.34.12:8080/live/1000197.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 198
+http://124.47.34.12:8080/live/1000198.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 199
+http://124.47.34.12:8080/live/1000199.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 200
+http://124.47.34.12:8080/live/1000200.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 201
+http://124.47.34.12:8080/live/1000201.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 202
+http://124.47.34.12:8080/live/1000202.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 203
+http://124.47.34.12:8080/live/1000203.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 204
+http://124.47.34.12:8080/live/1000204.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 205
+http://124.47.34.12:8080/live/1000205.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 206
+http://124.47.34.12:8080/live/1000206.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 207
+http://124.47.34.12:8080/live/1000207.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 208
+http://124.47.34.12:8080/live/1000208.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 209
+http://124.47.34.12:8080/live/1000209.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 210
+http://124.47.34.12:8080/live/1000210.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 211
+http://124.47.34.12:8080/live/1000211.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 212
+http://124.47.34.12:8080/live/1000212.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 213
+http://124.47.34.12:8080/live/1000213.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 214
+http://124.47.34.12:8080/live/1000214.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 215
+http://124.47.34.12:8080/live/1000215.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 218
+http://124.47.34.12:8080/live/1000218.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 219
+http://124.47.34.12:8080/live/1000219.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 220
+http://124.47.34.12:8080/live/1000220.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 221
+http://124.47.34.12:8080/live/1000221.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 222
+http://124.47.34.12:8080/live/1000222.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 223
+http://124.47.34.12:8080/live/1000223.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 224
+http://124.47.34.12:8080/live/1000224.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 225
+http://124.47.34.12:8080/live/1000225.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 226
+http://124.47.34.12:8080/live/1000226.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 227
+http://124.47.34.12:8080/live/1000227.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 228
+http://124.47.34.12:8080/live/1000228.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 229
+http://124.47.34.12:8080/live/1000229.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 232
+http://124.47.34.12:8080/live/1000232.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 233
+http://124.47.34.12:8080/live/1000233.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 234
+http://124.47.34.12:8080/live/1000234.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 235
+http://124.47.34.12:8080/live/1000235.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 236
+http://124.47.34.12:8080/live/1000236.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 237
+http://124.47.34.12:8080/live/1000237.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 238
+http://124.47.34.12:8080/live/1000238.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 239
+http://124.47.34.12:8080/live/1000239.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 240
+http://124.47.34.12:8080/live/1000240.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 241
+http://124.47.34.12:8080/live/1000241.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 242
+http://124.47.34.12:8080/live/1000242.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 243
+http://124.47.34.12:8080/live/1000243.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 246
+http://124.47.34.12:8080/live/1000246.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 247
+http://124.47.34.12:8080/live/1000247.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 248
+http://124.47.34.12:8080/live/1000248.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 249
+http://124.47.34.12:8080/live/1000249.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 250
+http://124.47.34.12:8080/live/1000250.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 251
+http://124.47.34.12:8080/live/1000251.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="124“, 124 - 255
+http://124.47.34.12:8080/live/1000255.stream/playlist.m3u8
+
+
 #EXTINF:0,group-title="河南芒果",[COLOR green][B]--------河南芒果-----[/B][/COLOR]
 http://?
 
@@ -406,106 +529,6 @@ http://live.xsjiptv.com:18006/live/mgtv/live/live.php?9644cc2c48bc400b32642f1501
 http://live.xsjiptv.com:18006/live/mgtv/live/live.php?45f2f9efb83d9956fa0e85c16e986385
 
 
-<<<<<<< HEAD
-=======
-#EXTINF:0,group-title="112四川乐山联通",[COLOR green][B]--------112四川乐山联通-----[/B][/COLOR]
-http://?
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV1HD
-http://112.192.177.162:3000/hls/xkfvvabz/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV2HD
-http://112.192.177.162:3000/hls/ozdzrtak/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV3HD
-http://112.192.177.162:3000/hls/oudkqyze/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV4HD
-http://112.192.177.162:3000/hls/rdtsucub/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV5HD
-http://112.192.177.162:3000/hls/mfqpnvfs/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV6HD
-http://112.192.177.162:3000/hls/vrdptfnr/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV7HD
-http://112.192.177.162:3000/hls/cbftbtrw/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV8HD
-http://112.192.177.162:3000/hls/ehpbliba/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV9HD
-http://112.192.177.162:3000/hls/wwlvfxtp/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV10HD
-http://112.192.177.162:3000/hls/yrourfzm/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV11HD
-http://112.192.177.162:3000/hls/aahuxept/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV12HD
-http://112.192.177.162:3000/hls/vrkcfgmo/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV13HD
-http://112.192.177.162:3000/hls/vnsyceud/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV14HD
-http://112.192.177.162:3000/hls/ynnnkbrh/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV15HD
-http://112.192.177.162:3000/hls/moexlqlv/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 峨眉电影HD
-http://112.192.177.162:3000/hls/ynnnkbrh/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 湖南卫视HD
-http://112.192.177.162:3000/hls/qumnuzdl/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 江苏卫视HD
-http://112.192.177.162:3000/hls/copzuowq/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 浙江卫视
-http://112.192.177.162:3000/hls/vphstwoy/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 安徽卫视
-http://112.192.177.162:3000/hls/enupkvwo/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 北京卫视
-http://112.192.177.162:3000/hls/uvhpzlcn/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 东方卫视
-http://112.192.177.162:3000/hls/playwqed/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 东南卫视
-http://112.192.177.162:3000/hls/uvaxrvwc/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 广东卫视
-http://112.192.177.162:3000/hls/pwdezesr/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 广西卫视
-http://112.192.177.162:3000/hls/tounvsgy/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 湖北卫视
-http://112.192.177.162:3000/hls/rtcwcrxk/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 山东卫视
-http://112.192.177.162:3000/hls/vrqxmcgr/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 山西卫视
-http://112.192.177.162:3000/hls/ebuomwno/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 四川卫视
-http://112.192.177.162:3000/hls/tnsahhrc/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 天津卫视
-http://112.192.177.162:3000/hls/eqacxqym/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 云南卫视
-http://112.192.177.162:3000/hls/pdsmnhme/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 重庆卫视
-http://112.192.177.162:3000/hls/oyzozacg/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 天华探索
-http://112.192.177.162:3000/hls/unevnhcv/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CIBN音乐
-http://112.192.177.162:3000/hls/ltlzkopw/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CIBN电影
-http://112.192.177.162:3000/hls/nmxxsytc/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CIBN都市剧场
-http://112.192.177.162:3000/hls/gvactatq/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CIBN热播剧场
-http://112.192.177.162:3000/hls/vfvdzuxo/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CIBN综艺
-http://112.192.177.162:3000/hls/kgugglqi/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 凤凰资讯HD
-http://112.192.177.162:3000/hls/kuxyxirf/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 凤凰资讯
-http://112.192.177.162:3000/hls/nqvgttqo/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 凤凰中文
-http://112.192.177.162:3000/hls/wxprkqxt/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 凤凰香港
-http://112.192.177.162:3000/hls/tisbpwao/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 体育HD轮播
-http://112.192.177.162:3000/hls/eblrvhwh/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 舌尖上的中国HD轮播
-http://112.192.177.162:3000/hls/kwbfmuze/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 音乐HD轮播
-http://112.192.177.162:3000/hls/dtsmxksw/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 剧场HD轮播
-http://112.192.177.162:3000/hls/lpqyqzfa/index.m3u8
-#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 最新大片
-http://112.192.177.162:3000/hls/qtgeybon/index.m3u8
-
->>>>>>> origin/master
 #EXTINF:0,group-title="陕西高清",[COLOR green][B]--------陕西高清-----[/B][/COLOR]
 http://?
 
@@ -1946,13 +1969,8 @@ http://icntv.xyz/letv/lb_zpw_720p.m3u8
 #EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 国际时装周
 http://icntv.xyz/letv/lb_shizhuang_720p.m3u8
 
-<<<<<<< HEAD
 
 
-=======
-
-
->>>>>>> origin/master
 #EXTINF:0,group-title="乐视国内直播",[COLOR green][B]----------乐视国内直播-------[/B][/COLOR]
 http://?
 
