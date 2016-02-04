@@ -406,6 +406,106 @@ http://live.xsjiptv.com:18006/live/mgtv/live/live.php?9644cc2c48bc400b32642f1501
 http://live.xsjiptv.com:18006/live/mgtv/live/live.php?45f2f9efb83d9956fa0e85c16e986385
 
 
+<<<<<<< HEAD
+=======
+#EXTINF:0,group-title="112四川乐山联通",[COLOR green][B]--------112四川乐山联通-----[/B][/COLOR]
+http://?
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV1HD
+http://112.192.177.162:3000/hls/xkfvvabz/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV2HD
+http://112.192.177.162:3000/hls/ozdzrtak/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV3HD
+http://112.192.177.162:3000/hls/oudkqyze/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV4HD
+http://112.192.177.162:3000/hls/rdtsucub/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV5HD
+http://112.192.177.162:3000/hls/mfqpnvfs/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV6HD
+http://112.192.177.162:3000/hls/vrdptfnr/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV7HD
+http://112.192.177.162:3000/hls/cbftbtrw/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV8HD
+http://112.192.177.162:3000/hls/ehpbliba/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV9HD
+http://112.192.177.162:3000/hls/wwlvfxtp/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV10HD
+http://112.192.177.162:3000/hls/yrourfzm/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV11HD
+http://112.192.177.162:3000/hls/aahuxept/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV12HD
+http://112.192.177.162:3000/hls/vrkcfgmo/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV13HD
+http://112.192.177.162:3000/hls/vnsyceud/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV14HD
+http://112.192.177.162:3000/hls/ynnnkbrh/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CCTV15HD
+http://112.192.177.162:3000/hls/moexlqlv/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 峨眉电影HD
+http://112.192.177.162:3000/hls/ynnnkbrh/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 湖南卫视HD
+http://112.192.177.162:3000/hls/qumnuzdl/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 江苏卫视HD
+http://112.192.177.162:3000/hls/copzuowq/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 浙江卫视
+http://112.192.177.162:3000/hls/vphstwoy/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 安徽卫视
+http://112.192.177.162:3000/hls/enupkvwo/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 北京卫视
+http://112.192.177.162:3000/hls/uvhpzlcn/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 东方卫视
+http://112.192.177.162:3000/hls/playwqed/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 东南卫视
+http://112.192.177.162:3000/hls/uvaxrvwc/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 广东卫视
+http://112.192.177.162:3000/hls/pwdezesr/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 广西卫视
+http://112.192.177.162:3000/hls/tounvsgy/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 湖北卫视
+http://112.192.177.162:3000/hls/rtcwcrxk/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 山东卫视
+http://112.192.177.162:3000/hls/vrqxmcgr/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 山西卫视
+http://112.192.177.162:3000/hls/ebuomwno/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 四川卫视
+http://112.192.177.162:3000/hls/tnsahhrc/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 天津卫视
+http://112.192.177.162:3000/hls/eqacxqym/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 云南卫视
+http://112.192.177.162:3000/hls/pdsmnhme/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 重庆卫视
+http://112.192.177.162:3000/hls/oyzozacg/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 天华探索
+http://112.192.177.162:3000/hls/unevnhcv/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CIBN音乐
+http://112.192.177.162:3000/hls/ltlzkopw/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CIBN电影
+http://112.192.177.162:3000/hls/nmxxsytc/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CIBN都市剧场
+http://112.192.177.162:3000/hls/gvactatq/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CIBN热播剧场
+http://112.192.177.162:3000/hls/vfvdzuxo/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - CIBN综艺
+http://112.192.177.162:3000/hls/kgugglqi/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 凤凰资讯HD
+http://112.192.177.162:3000/hls/kuxyxirf/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 凤凰资讯
+http://112.192.177.162:3000/hls/nqvgttqo/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 凤凰中文
+http://112.192.177.162:3000/hls/wxprkqxt/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 凤凰香港
+http://112.192.177.162:3000/hls/tisbpwao/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 体育HD轮播
+http://112.192.177.162:3000/hls/eblrvhwh/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 舌尖上的中国HD轮播
+http://112.192.177.162:3000/hls/kwbfmuze/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 音乐HD轮播
+http://112.192.177.162:3000/hls/dtsmxksw/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 剧场HD轮播
+http://112.192.177.162:3000/hls/lpqyqzfa/index.m3u8
+#EXTINF:-1 $ExtFilter="112四川乐山联通“,112四川乐山联通 - 最新大片
+http://112.192.177.162:3000/hls/qtgeybon/index.m3u8
+
+>>>>>>> origin/master
 #EXTINF:0,group-title="陕西高清",[COLOR green][B]--------陕西高清-----[/B][/COLOR]
 http://?
 
@@ -1846,8 +1946,13 @@ http://icntv.xyz/letv/lb_zpw_720p.m3u8
 #EXTINF:-1 $ExtFilter="乐视备用",乐视备用 - 国际时装周
 http://icntv.xyz/letv/lb_shizhuang_720p.m3u8
 
+<<<<<<< HEAD
 
 
+=======
+
+
+>>>>>>> origin/master
 #EXTINF:0,group-title="乐视国内直播",[COLOR green][B]----------乐视国内直播-------[/B][/COLOR]
 http://?
 
