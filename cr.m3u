@@ -3,43 +3,67 @@
 #EXTINF:0,group-title="CR",[COLOR red][B]--------CR----[/B][/COLOR]
 http://?
 
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清1台
-rtmp://edge2.everyon.tv/etv2sb/phd59
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清2台
-rtmp://edge2.everyon.tv/etv2sb/phd60
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清3台
-rtmp://edge2.everyon.tv/etv2sb/phd61
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清4台
-rtmp://edge2.everyon.tv/etv2sb/phd62
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清5台
-rtmp://edge2.everyon.tv/etv2sb/phd63
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清6台
-rtmp://edge2.everyon.tv/etv2sb/phd64
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清7台
-rtmp://edge1.everyon.tv/etv1sb/phd497
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清8台
-rtmp://edge2.everyon.tv/etv2sb/phd499
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清9台
-rtmp://edge2.everyon.tv/etv2sb/phd501
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清10台
-rtmp://edge2.everyon.tv/etv2sb/phd511
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清11台
-rtmp://edge1.everyon.tv/etv1sb/phd765
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清12台
-rtmp://edge1.everyon.tv/etv1sb/phd766
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清13台
-rtmp://edge2.everyon.tv/etv2sb/phd769
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清14台
-rtmp://edge2.everyon.tv/etv2sb/phd771
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清15台
-rtmp://edge2.everyon.tv/etv2sb/phd772
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清16台
-rtmp://edge1.everyon.tv/etv1sb/phd927
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清17台
-rtmp://edge1.everyon.tv/etv1sb/phd928
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清18台
-rtmp://edge2.everyon.tv/etv2sb/phd968
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清19台
-rtmp://edge2.everyon.tv/etv2sb/phd991
-#EXTINF:-1 $ExtFilter="CR“, CR- 韩国成人高清20台
-rtmp://edge2.everyon.tv/etv2sb/phd992
+#EXTINF:-1 $ExtFilter="CR“, CR - 01.日本骑兵1台
+http://edge2.everyon.tv/etv2sb/phd10059/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 02.韩国骑兵2台
+http://edge2.everyon.tv/etv2sb/phd10060/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 03.欧美骑兵3台
+http://edge2.everyon.tv/etv2sb/phd10061/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 04.日本骑兵4台
+http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 05.韩国骑兵5台
+http://edge2.everyon.tv/etv2sb/phd10063/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 06.韩国骑兵6台
+http://edge2.everyon.tv/etv2sb/phd10064/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 07.日本骑兵7台
+http://edge2.everyon.tv/etv2/phd1003/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 08.日本骑兵8台
+http://edge2.everyon.tv/etv2/phd1005/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 09.韩国骑兵9台
+http://edge2.everyon.tv/etv2/phd1008/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 10.日本骑兵10台
+http://210.200.79.26:1935/live/aracity_m_new/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 11.日本骑兵11台
+http://210.200.79.26:1935/live/aracity02/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 12.日本骑兵12台
+http://210.200.79.26:1935/live/aracity01/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 13.欧美骑兵13台
+http://210.200.79.26:1935/live/aracity03/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 14.Live Ting TV
+http://edge2.everyon.tv/etv2/phd1006/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 15.Playboy
+http://edge1.everyon.tv/etv1sb/phd10497/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 16.Delight
+http://edge2.everyon.tv/etv2sb/phd10499/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 17.Girls TV
+http://edge2.everyon.tv/etv2sb/phd10501/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 18.Viki
+http://edge1.everyon.tv/etv1sb/phd10765/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 19.Mid-Night
+http://edge1.everyon.tv/etv1sb/phd10766/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 20.Playy19+
+http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 21.The Yahada
+http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 22.BUT GO
+http://edge2.everyon.tv/etv2sb/phd10772/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 23.PentHouse TV
+http://edge1.everyon.tv/etv1sb/phd10927/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 24.Honey HD
+http://edge1.everyon.tv/etv1sb/phd10928/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 25.Feish Woman
+http://edge2.everyon.tv/etv2sb/phd10968/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 26.Red Doot1
+http://edge2.everyon.tv/etv2sb/phd10991/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 27.Red Doot2
+http://edge2.everyon.tv/etv2sb/phd10992/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 28.Red Doot3
+http://edge2.everyon.tv/etv2sb/phd10993/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 29.PRIVATE
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 30.PASSION XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 31.潘朵拉天使台
+http://58.99.33.4:1935/liveedge/live_413_3.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 32.潘朵拉宝贝台
+http://58.99.33.4:1935/liveedge/live_786_3.stream/playlist.m3u8
