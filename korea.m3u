@@ -1,52 +1,52 @@
 #EXTM3U
 
-#EXTINF:0,group-title="º«¹ú",[COLOR green][B]----------º«¹ú-------[/B][/COLOR]
+#EXTINF:0,group-title="éŸ©å›½",[COLOR green][B]----------éŸ©å›½-------[/B][/COLOR]
 http://?
 
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - KTVHD¸ßÇå1920*1080
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - KTVHDé«˜æ¸…1920*1080
 rtmp://218.38.152.31:1935/klive/klive.stream
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - SBS HD
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - SBS HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - MBC HD
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - MBC HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_mbc
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - KBS1 HD
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - KBS1 HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs1
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - KBS1ĞÂÎÅ
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - KBS1æ–°é—»
 http://123.108.164.71/etv2sb/phd852/playlist.m3u8
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - KBS2 HD
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - KBS2 HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs2
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - MBC MUSIC
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - MBC MUSIC
 rtmp://rtmpplay3.idol001.com:1935/live/korea_mbcmusic
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - Mnet HD
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - Mnet HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_mnet
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - TVN HD
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - TVN HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_tvn
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - arirang HD
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - arirang HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_arirang
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - SBS MTV HD
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - SBS MTV HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_sbsmtv
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - MBC every1 HD
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - MBC every1 HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_mbceveryone
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - KBS2ÓéÀÖ
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - KBS2å¨±ä¹
 http://123.108.164.71/etv2/phd847/playlist.m3u8
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - BBC
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - BBC
 http://123.108.164.71/etv2sb/phd863/playlist.m3u8
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - ÒôÀÖ
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - éŸ³ä¹
 http://123.108.164.71/etv2sb/phd4/playlist.m3u8
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - ¶¯»­Æ¬
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - åŠ¨ç”»ç‰‡
 http://123.108.164.71/etv2sb/phd507/playlist.m3u8
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - µçÊÓ¾ç
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - ç”µè§†å‰§
 http://123.108.164.71/etv2sb/phd509/playlist.m3u8
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - µçÓ°
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - ç”µå½±
 http://123.108.164.71/etv2/phd723/playlist.m3u8
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - SAFE
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - SAFE
 http://123.108.164.71/etv2/phd109/playlist.m3u8
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - ÖĞÎÄµçÊÓ¾ç
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - ä¸­æ–‡ç”µè§†å‰§
 http://123.108.164.71/etv2/phd505/playlist.m3u8
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - ĞÂÌÆÈËTND
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - æ–°å”äººTND
 http://123.108.164.71/etv2/phd1058/playlist.m3u8
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - ¼Ò×°¹ÊÊÂ
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - å®¶è£…æ•…äº‹
 rtmp://edge1.everyon.tv/etv1/phd1001
-#EXTINF:-1 $ExtFilter="º«¹ú",º«¹ú - HomeStory HD
+#EXTINF:-1 $ExtFilter="éŸ©å›½",éŸ©å›½ - HomeStory HD
 rtmp://edge1.everyon.tv/etv1/phd1016
 
