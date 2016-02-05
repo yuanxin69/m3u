@@ -67,3 +67,5 @@ http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3
 http://58.99.33.4:1935/liveedge/live_413_3.stream/playlist.m3u8
 #EXTINF:-1 $ExtFilter="CR“, CR - 32.潘朵拉宝贝台
 http://58.99.33.4:1935/liveedge/live_786_3.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="CR“, CR - 32.PHD1008
+http://edge2.everyon.tv/etv2/phd1008/HasBahca.m3u8

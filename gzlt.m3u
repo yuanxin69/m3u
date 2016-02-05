@@ -1,0 +1,156 @@
+#EXTM3U
+
+#EXTINF:0,group-title="广州联通",[COLOR green][B]--------广州联通-----[/B][/COLOR]
+http://?
+
+
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - CETV-1HD
+http://116.199.4.196:8114/LIVES/1_03_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - CCTV-2HD
+http://116.199.4.196:8114/LIVES/1_06_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - CCTV-3HD
+http://116.199.4.196:8114/LIVES/1_04_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - CCTV-5+HD
+http://116.199.4.196:8114/LIVES/1_28_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - CCTV-7
+http://116.199.4.196:8114/LIVES/1_25_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - CCTV-8HD
+http://116.199.4.196:8114/LIVES/1_31_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - CCTV-10HD
+http://116.199.4.196:8114/LIVES/4_35_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - CCTV-11
+http://116.199.4.196:8114/LIVES/4_72_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - CCTV-12HD
+http://116.199.4.196:8114/LIVES/4_37_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 贵州卫视
+http://116.199.4.196:8114/LIVES/1_05_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 江西卫视
+http://116.199.4.196:8114/LIVES/1_07_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 河南卫视
+http://116.199.4.196:8114/LIVES/1_08_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 吉林卫视
+http://116.199.4.196:8114/LIVES/1_09_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 吉林蓝球
+http://116.199.4.196:8114/LIVES/1_10_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 甘肃卫视
+http://116.199.4.196:8114/LIVES/1_11_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 河北卫视
+http://116.199.4.196:8114/LIVES/1_12_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 新疆卫视
+http://116.199.4.196:8114/LIVES/1_13_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 东方卫视HD
+http://116.199.4.196:8114/LIVES/1_30_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 辽宁卫视HD
+http://116.199.4.196:8114/LIVES/1_32_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 北京纪实HD
+http://116.199.4.196:8114/LIVES/1_33_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 重庆卫视HD
+http://116.199.4.196:8114/LIVES/1_34_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 湖北卫视HD
+http://116.199.4.196:8114/LIVES/4_36_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 天津卫视HD
+http://116.199.4.196:8114/LIVES/4_39_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 深圳卫视HD
+http://116.199.4.196:8114/LIVES/4_40_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广东体育HD
+http://116.199.4.196:8114/LIVES/4_41_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 金鹰卡通
+http://116.199.4.196:8114/LIVES/1_14_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 嘉佳卡通
+http://116.199.4.196:8114/LIVES/1_15_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 劲爆体育
+http://116.199.4.196:8114/LIVES/1_16_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 动漫秀场
+http://116.199.4.196:8114/LIVES/1_17_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 欢笑剧场
+http://116.199.4.196:8114/LIVES/1_18_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 金色频道
+http://116.199.4.196:8114/LIVES/1_19_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 央广购物
+http://116.199.4.196:8114/LIVES/1_20_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 东方财经
+http://116.199.4.196:8114/LIVES/1_21_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 全纪实
+http://116.199.4.196:8114/LIVES/1_22_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 卡酷少儿
+http://116.199.4.196:8114/LIVES/1_01_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 吉林蓝球
+http://116.199.4.196:8114/LIVES/1_02_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 七彩戏剧
+http://116.199.4.196:8114/LIVES/1_23_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 优漫卡通
+http://116.199.4.196:8114/LIVES/1_24_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 都市剧场
+http://116.199.4.196:8114/LIVES/1_26_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 英语辅导
+http://116.199.4.196:8114/LIVES/1_27_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 天元围棋
+http://116.199.4.196:8114/LIVES/1_29_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - CHC高清
+http://116.199.4.196:8114/LIVES/4_38_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广州新闻
+http://116.199.4.196:8114/LIVES/4_42_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广州影视
+http://116.199.4.196:8114/LIVES/4_43_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广州生活
+http://116.199.4.196:8114/LIVES/4_44_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广州移动
+http://116.199.4.196:8114/LIVES/4_45_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广州竞赛
+http://116.199.4.196:8114/LIVES/4_46_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广州购物
+http://116.199.4.196:8114/LIVES/4_47_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广东少儿
+http://116.199.4.196:8114/LIVES/4_48_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广州数字宣传
+http://116.199.4.196:8114/LIVES/4_49_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 测试
+http://116.199.4.196:8114/LIVES/4_50_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 本港台
+http://116.199.4.196:8114/LIVES/4_51_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 亚洲卫视
+http://116.199.4.196:8114/LIVES/4_52_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 星空卫视
+http://116.199.4.196:8114/LIVES/4_53_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 华娱卫视
+http://116.199.4.196:8114/LIVES/4_54_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广东现代教育
+http://116.199.4.196:8114/LIVES/4_55_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 珠江电影
+http://116.199.4.196:8114/LIVES/4_56_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 岭南戏曲
+http://116.199.4.196:8114/LIVES/4_57_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广东珠江
+http://116.199.4.196:8114/LIVES/4_58_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广东公共
+http://116.199.4.196:8114/LIVES/4_59_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广东新闻
+http://116.199.4.196:8114/LIVES/4_60_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 广东综艺
+http://116.199.4.196:8114/LIVES/4_61_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 快乐垂钓
+http://116.199.4.196:8114/LIVES/4_62_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 先锋乒羽
+http://116.199.4.196:8114/LIVES/4_63_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 测试2
+http://116.199.4.196:8114/LIVES/4_64_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - CHC家庭影院
+http://116.199.4.196:8114/LIVES/4_65_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 娱乐
+http://116.199.4.196:8114/LIVES/4_66_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 精典电影
+http://116.199.4.196:8114/LIVES/4_67_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 青春剧场
+http://116.199.4.196:8114/LIVES/4_68_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 新视觉HD
+http://116.199.4.196:8114/LIVES/4_69_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 纪录频道
+http://116.199.4.196:8114/LIVES/4_70_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 测试3
+http://116.199.4.196:8114/LIVES/4_71_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 金鹰纪实HD
+http://116.199.4.196:8114/LIVES/4_73_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - 家有购物
+http://116.199.4.196:8114/LIVES/4_74_0.m3u8
+#EXTINF:-1 $ExtFilter="广州联通“, 广州联通 - MTV
+http://116.199.4.196:8114/LIVES/4_75_0.m3u8
