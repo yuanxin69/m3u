@@ -1,9 +1,4 @@
 #EXTM3U
-
-
-#EXTINF:0,group-title="爱奇艺地方台",[COLOR green][B]--------爱奇艺地方台-----[/B][/COLOR]
-http://?
-
 #EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 爱奇艺音乐
 http://221.204.217.49:55336/tslive/c20_lb_dianying_high_t10/c20_lb_dianying_high_t10.m3u8
 #EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 中国教育-1
