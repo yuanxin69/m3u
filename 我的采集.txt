@@ -15,6 +15,11 @@ CCTV-怀旧剧场,http://evansgs.xinxingkm.com/huo5/migu.php?id=60004347
 CCTV-女性时尚,http://evansgs.xinxingkm.com/huo5/migu.php?id=600043606
 
 
+芒果TV|电子体育,http://221.174.121.203:5000/nn_live.ts?id=DZTY
+芒果TV|经典电影,http://221.174.121.203:5000/nn_live.ts?id=JDDY
+芒果TV|热播剧场,http://221.174.121.203:5000/nn_live.ts?id=RBJC
+芒果TV|潇湘电影,http://221.174.121.203:5000/nn_live.ts?id=XXDY
+
 
 电影,http://114.112.91.199:9009/live/chid=601
 安利播库,http://114.112.91.199:9009/live/chid=602
