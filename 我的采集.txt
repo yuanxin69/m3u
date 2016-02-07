@@ -409,4 +409,20 @@ rtmp://183.238.77.4:1935/dvr/30278.stream
 #EXTINF:-1 $ExtFilter="★yczx“,★yczx - 四川卫视
 rtmp://183.238.77.4:1935/dvr/30275.stream
 
+CR频道|miamiTV,rtmp://74.208.69.207ve/miamitvhd
+CR频道1|miamiTV,rtmp://74.208.69.207ve/miamitvhd
+ソタチツッテトヰ1,http://edge2.everyon.tv/etv2/phd1005/chunklist_w982667849.m3u8
+ソタチツッテトヰ2,http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
+ソタチツッテトヰ3,http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8
+ソタチツッテトヰ6,http://edge2.everyon.tv/etv2sb/pld60/chunklist_w1946708458.m3u8
+ソタチツッテトヰ7,http://edge2.everyon.tv/etv2sb/phd59/HasBahCa.m3u8
+ソタチツッテトヰ8,http://edge2.everyon.tv/etv2sb/phd61/chunklist_w831504806.m3u8
+ソタチツッテトヰ9,http://edge2.everyon.tv/etv2sb/phd62/chunklist_w1704035953.m3u8
+ソタチツッテトヰ10,http://edge2.everyon.tv/etv2sb/phd63/chunklist_w30802566.m3u8
+ソタチツッテトヰ11,http://edge2.everyon.tv/etv2sb/phd64/chunklist_w1390007905.m3u8
+ソタチツッテトヰ12,http://edge1.everyon.tv/etv1sb/phd497/chunklist_w1835726447.m3u8
+ソタチツッテトヰ13,http://edge2.everyon.tv/etv2sb/phd501/chunklist_w1120440173.m3u8
+ソタチツッテトヰ14,http://edge2.everyon.tv/etv2sb/phd511/chunklist_w1191260607.m3u8
+ソタチツッテトヰ15,http://edge1.everyon.tv/etv1sb/phd765/chunklist_w1483718874.m3u8
+ソタチツッテトヰ16,http://edge1.everyon.tv/etv1sb/phd766/chunklist_w468394586.m3u8
 
