@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:0,group-title="韩国",[COLOR green][B]----------韩国-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1 $ExtFilter="韩国",韩国 - KTVHD高清1920*1080
+rtmp://218.38.152.31:1935/klive/klive.stream
+#EXTINF:-1 $ExtFilter="韩国",韩国 - SBS HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs
+#EXTINF:-1 $ExtFilter="韩国",韩国 - MBC HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mbc
+#EXTINF:-1 $ExtFilter="韩国",韩国 - KBS1 HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs1
+#EXTINF:-1 $ExtFilter="韩国",韩国 - KBS1新闻
+http://123.108.164.71/etv2sb/phd852/playlist.m3u8
+#EXTINF:-1 $ExtFilter="韩国",韩国 - KBS2 HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs2
+#EXTINF:-1 $ExtFilter="韩国",韩国 - MBC MUSIC
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mbcmusic
+#EXTINF:-1 $ExtFilter="韩国",韩国 - Mnet HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mnet
+#EXTINF:-1 $ExtFilter="韩国",韩国 - TVN HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_tvn
+#EXTINF:-1 $ExtFilter="韩国",韩国 - arirang HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_arirang
+#EXTINF:-1 $ExtFilter="韩国",韩国 - SBS MTV HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_sbsmtv
+#EXTINF:-1 $ExtFilter="韩国",韩国 - MBC every1 HD
+rtmp://rtmpplay3.idol001.com:1935/live/korea_mbceveryone
+#EXTINF:-1 $ExtFilter="韩国",韩国 - KBS2娱乐
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1 $ExtFilter="韩国",韩国 - BBC
+http://123.108.164.71/etv2sb/phd863/playlist.m3u8
+#EXTINF:-1 $ExtFilter="韩国",韩国 - 音乐
+http://123.108.164.71/etv2sb/phd4/playlist.m3u8
+#EXTINF:-1 $ExtFilter="韩国",韩国 - 动画片
+http://123.108.164.71/etv2sb/phd507/playlist.m3u8
+#EXTINF:-1 $ExtFilter="韩国",韩国 - 电视剧
+http://123.108.164.71/etv2sb/phd509/playlist.m3u8
+#EXTINF:-1 $ExtFilter="韩国",韩国 - 电影
+http://123.108.164.71/etv2/phd723/playlist.m3u8
+#EXTINF:-1 $ExtFilter="韩国",韩国 - SAFE
+http://123.108.164.71/etv2/phd109/playlist.m3u8
+#EXTINF:-1 $ExtFilter="韩国",韩国 - 中文电视剧
+http://123.108.164.71/etv2/phd505/playlist.m3u8
+#EXTINF:-1 $ExtFilter="韩国",韩国 - 新唐人TND
+http://123.108.164.71/etv2/phd1058/playlist.m3u8
+#EXTINF:-1 $ExtFilter="韩国",韩国 - 家装故事
+rtmp://edge1.everyon.tv/etv1/phd1001
+#EXTINF:-1 $ExtFilter="韩国",韩国 - HomeStory HD
+rtmp://edge1.everyon.tv/etv1/phd1016
+
