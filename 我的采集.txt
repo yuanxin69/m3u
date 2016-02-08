@@ -17,6 +17,13 @@ CCTV-怀旧剧场,http://evansgs.xinxingkm.com/huo5/migu.php?id=60004347
 CCTV-女性时尚,http://evansgs.xinxingkm.com/huo5/migu.php?id=600043606
 
 
+广州综合频道,http://116.199.115.228/streaming/l57NOYZJLB/l57NOYZJLB.m3u8
+
+广州综合频道,http://116.199.115.228/streaming/5amGreMHho.m3u8
+
+广东体育频道,http://livertmpnb-cnc.wasu.cn/live14/cj_gdty/playlist.m3u8
+
+
 芒果TV|电子体育,http://221.174.121.203:5000/nn_live.ts?id=DZTY
 芒果TV|经典电影,http://221.174.121.203:5000/nn_live.ts?id=JDDY
 芒果TV|热播剧场,http://221.174.121.203:5000/nn_live.ts?id=RBJC
