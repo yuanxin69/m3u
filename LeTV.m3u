@@ -1089,17 +1089,11 @@ http://icntv.xyz/letv/lb_shizhuang_720p.m3u8
 
 
 #EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV1-新闻
-http://jyzx8.com/tv/m3u8/ipad.php/cctv1HD.m3u8
+http://kankanyingchao.freevar.com/letv/cctv11.m3u8
 #EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV1-新闻
-http://jyzx8.com/tv/m3u8/ipad.php/cctvmusic.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV13-新闻
-http://jyzx8.com/tv/m3u8/ipad.php/cctv1.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV13-新闻
-http://jyzx8.com/tv/m3u8/ipad.php/cctv12.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV13-新闻
-http://jyzx8.com/tv/m3u8/ipad.php/cctv11.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV13-新闻
-http://jyzx8.com/tv/m3u8/ipad.php/cctv8HD.m3u8
+http://jyzx8.com/tv/m3u8/ipad.php/letv/cctv11.m3u8
+#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV1-新闻
+http://jyzx8.com/tv/m3u8/letv/cctv11.m3u8
 
 
 
