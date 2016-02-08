@@ -908,21 +908,6 @@ http://jyzx8.com/tv/m3u8/ipad.php/lb_mzb_1300.m3u8
 #EXTINF:-1 group-title="乐视体育频道",乐视体育 - 女足世界杯
 http://jyzx8.com/tv/m3u8/ipad.php/lb_nzsjb_1300.m3u8
 
-#EXTINF:-1 group-title="乐视ipad",ipad - cctv4
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cctv4HD_1300.m3u8
-
-#EXTINF:-1 group-title="乐视ipad",ipad源 - cctv4
-http://jyzx8.com/tv/m3u8/ipad.php/ws_cctv4HD_800.m3u8
-
-#EXTINF:-1 group-title="乐视ipad",ipad源 - cctv4
-http://jyzx8.com/tv/m3u8/ipad.php/ws_cctv4HD_1300.m3u8
-
-#EXTINF:-1 group-title="乐视ipad",ipad源 - cctv4
-http://jyzx8.com/tv/m3u8/ipad.php/ws_cctv4HD_1800.m3u8
-
-#EXTINF:-1 group-title="乐视ipad",ipad源 - cctv4
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cctv4HD_1300.m3u8
-
 
 #EXTINF:-1 group-title="乐视ipad",ipad源 - 凤凰资讯
 http://jyzx8.com/tv/m3u8/ipad.php/ws_fenghuangzx_800.m3u8
@@ -1101,6 +1086,21 @@ http://icntv.xyz/letv/lb_dzdy_720p.m3u8
 http://icntv.xyz/letv/lb_zpw_720p.m3u8
 #EXTINF:-1 group-title="乐视备用",乐视备用 - 国际时装周
 http://icntv.xyz/letv/lb_shizhuang_720p.m3u8
+
+
+#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV1-新闻
+http://jyzx8.com/tv/m3u8/ipad.php/cctv1HD.m3u8
+#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV1-新闻
+http://jyzx8.com/tv/m3u8/ipad.php/cctvmusic.m3u8
+#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV13-新闻
+http://jyzx8.com/tv/m3u8/ipad.php/cctv1.m3u8
+#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV13-新闻
+http://jyzx8.com/tv/m3u8/ipad.php/cctv12.m3u8
+#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV13-新闻
+http://jyzx8.com/tv/m3u8/ipad.php/cctv11.m3u8
+#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV13-新闻
+http://jyzx8.com/tv/m3u8/ipad.php/cctv8HD.m3u8
+
 
 
 
