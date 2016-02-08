@@ -14,3 +14,5 @@ http://dwz.cn/2Gg5ML
 http://dwz.cn/2Gg7fh
 山西晋中平遥有线,https://raw.githubusercontent.com/yuanxin69/m3u/master/sxjzpy.m3u
 http://dwz.cn/2GLXwc
+广东广州有线,https://raw.githubusercontent.com/yuanxin69/m3u/master/gdgcyx.m3u
+http://dwz.cn/2GMBwq
