@@ -2284,10 +2284,22 @@ http://183.207.249.7/PLTV/3/224/3221225567/index.m3u8
 http://183.207.249.7/PLTV/3/224/3221225569/index.m3u8
 
 
-
-
+#EXTINF:-1 group-title="台湾频道",台湾民视HD
+http://59.120.43.180:17334
+#EXTINF:-1 group-title="台湾频道",台湾民视新闻HD
+http://59.120.43.180:17355
+#EXTINF:-1 group-title="台湾频道",台湾非凡商业
+http://59.120.43.180:17366
+#EXTINF:-1 group-title="台湾频道",台湾台视HD
+http://59.120.43.180:17822
+#EXTINF:-1 group-title="台湾频道",台湾中视
+http://59.120.43.180:17837
+#EXTINF:-1 $ExtFilter="台湾新闻",中天新闻
+http://59.120.43.180:17824
+#EXTINF:-1 $ExtFilter="台湾新闻",中视新闻
+http://59.120.43.180:17838
 #EXTINF:-1 group-title="台湾频道",台湾 - 本港台
-http://218.65.131.178:1935/www.zbatv.com1/www.zbatv.com/playlist.m3u
+http://218.65.131.178:1935/www.zbatv.com1/www.zbatv.com/playlist.m3u8
 #EXTINF:-1 group-title="台湾频道",台湾 - TVBS新闻 HD
 http://211.72.13.198/live/live01_hls.m3u8
 #EXTINF:-1 group-title="台湾频道",台湾 - TVBS HD x
@@ -2370,14 +2382,10 @@ rtmp://kv3.ts33.net/sat/tv722
 rtsp://u2.itvitv.com/vlm.ppkjpkmagwtdnhgb
 #EXTINF:-1 group-title="台湾频道",台湾 - 八大第一台
 http://210.200.79.26:1935/live/gtv_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 东森亚洲
-http://59.120.43.180:17500
 #EXTINF:-1 group-title="台湾频道",台湾 - 东森美洲
 http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
 #EXTINF:-1 group-title="台湾频道",台湾 - 东森幼幼
 http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - TVBS台
-http://59.120.43.180:17833
 #EXTINF:-1 group-title="台湾频道",台湾 - TVBS欢乐台
 rtmp://kv3.ts33.net/sat/tv422
 #EXTINF:-1 group-title="台湾频道",台湾 - 中天娱乐
@@ -2492,14 +2500,10 @@ http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/as/live/mactv_4.m3u8
 http://210.200.79.26:1935/live/tcch07/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="台湾新闻",台视财经
 http://210.200.79.26:1935/live/ttv_fin.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",中视新闻
-http://59.120.43.180:17838
 #EXTINF:-1 $ExtFilter="台湾新闻",华视新闻资讯
 http://210.200.79.26:1935/live/cts_news.sdp/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="台湾新闻",民视新闻
 http://210.200.79.26:1935/live/ftvn_sp.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",东森亚洲新闻
-http://59.120.43.180:17499
 #EXTINF:-1 $ExtFilter="台湾新闻",东森新闻HD
 http://210.200.79.26:1935/live/swente/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="台湾新闻",东森美洲新闻台
@@ -2510,8 +2514,6 @@ rtmp://kv3.ts33.net/sat/tv572
 http://210.200.79.26:1935/live/tvbsnhd/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="台湾新闻",TVBS创富新闻
 http://210.200.79.26:1935/live/tvbs_sp.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",中天新闻
-http://59.120.43.180:17824
 #EXTINF:-1 $ExtFilter="台湾新闻",年代新闻
 http://streamup.global.ssl.fastly.net/app/wjj-eras-channel/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="台湾新闻",三立新闻台
@@ -2604,8 +2606,8 @@ rtsp://fms.pik-tv.com/live/piktv3pik3tv
 #EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - FTV HD
 rtmp://95.67.8.43:1935/live/fashionhd
 
-
-
+#EXTINF:-1 group-title="日本频道",日本 - 日本直播
+http://video-cdn.streamup.com/app/wgg001s-stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="港澳频道",港澳 - 凤凰中文HD
 http://111.20.115.242/live/stream5.m3u8

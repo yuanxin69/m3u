@@ -902,12 +902,17 @@ http://jyzx8.com/tv/m3u8/ipad.php/hz_gtv_800.m3u8#http://jyzx8.com/tv/m3u8/ipad.
 #EXTINF:-1 group-title="乐视体育频道",乐视体育 - 电子竞技
 http://jyzx8.com/tv/m3u8/ipad.php/lb_dzjj_1300.m3u8
 #EXTINF:-1 group-title="乐视体育频道",乐视体育 - 极限运动
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_jxyd_1300.m3u8
+http://jyzx8.com/tv/m3u8/ipad.php/lb_jxyd_1300.m3u8
 #EXTINF:-1 group-title="乐视体育频道",乐视体育 - 美洲杯
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_mzb_1300.m3u8
+http://jyzx8.com/tv/m3u8/ipad.php/lb_mzb_1300.m3u8
 #EXTINF:-1 group-title="乐视体育频道",乐视体育 - 女足世界杯
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_nzsjb_1300.m3u8
+http://jyzx8.com/tv/m3u8/ipad.php/lb_nzsjb_1300.m3u8
 
+#EXTINF:-1 group-title="乐视ipad",ipad - cctv4
+http://jyzx8.com/tv/m3u8/ipad.php/lb_cctv4_1300.m3u8
+
+#EXTINF:-1 group-title="乐视ipad",ipad源 - cctv4
+http://jyzx8.com/tv/m3u8/ipad.php/ws_cctv4_800.m3u8
 
 #EXTINF:-1 group-title="乐视ipad",ipad源 - 凤凰资讯
 http://jyzx8.com/tv/m3u8/ipad.php/ws_fenghuangzx_800.m3u8
