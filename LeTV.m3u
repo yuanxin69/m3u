@@ -909,10 +909,20 @@ http://jyzx8.com/tv/m3u8/ipad.php/lb_mzb_1300.m3u8
 http://jyzx8.com/tv/m3u8/ipad.php/lb_nzsjb_1300.m3u8
 
 #EXTINF:-1 group-title="乐视ipad",ipad - cctv4
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cctv4_1300.m3u8
+http://jyzx8.com/tv/m3u8/ipad.php/lb_cctv4HD_1300.m3u8
 
 #EXTINF:-1 group-title="乐视ipad",ipad源 - cctv4
-http://jyzx8.com/tv/m3u8/ipad.php/ws_cctv4_800.m3u8
+http://jyzx8.com/tv/m3u8/ipad.php/ws_cctv4HD_800.m3u8
+
+#EXTINF:-1 group-title="乐视ipad",ipad源 - cctv4
+http://jyzx8.com/tv/m3u8/ipad.php/ws_cctv4HD_1300.m3u8
+
+#EXTINF:-1 group-title="乐视ipad",ipad源 - cctv4
+http://jyzx8.com/tv/m3u8/ipad.php/ws_cctv4HD_1800.m3u8
+
+#EXTINF:-1 group-title="乐视ipad",ipad源 - cctv4
+http://jyzx8.com/tv/m3u8/ipad.php/lb_cctv4HD_1300.m3u8
+
 
 #EXTINF:-1 group-title="乐视ipad",ipad源 - 凤凰资讯
 http://jyzx8.com/tv/m3u8/ipad.php/ws_fenghuangzx_800.m3u8
