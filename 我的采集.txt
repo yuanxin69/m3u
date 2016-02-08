@@ -5,6 +5,8 @@ http://220.128.208.114/FTV.m3u8
 http://220.128.208.114/LamigoTV.m3u8
 http://220.128.208.114/CTVNews.m3u8
 
+女性频道,http://ltetp3.tv189.com/tm-changshawomen-800k.m3u8
+
 CCTV-世界地理,http://evansgs.xinxingkm.com/huo5/migu.php?id=600042871
 CCTV-第一剧场,http://evansgs.xinxingkm.com/huo5/migu.php?id=600043147
 CCTV-国防军事,http://evansgs.xinxingkm.com/huo5/migu.php?id=600043561
