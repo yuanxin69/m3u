@@ -1,0 +1,341 @@
+#EXTM3U
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  黄河电视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000001&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  山西影视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000002&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  山西公共
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000003&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  山西科教
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000004&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  山西少儿
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000005&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  晋中新闻
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000006&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央综合
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000007&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央财经
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000008&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央农业
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000009&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央科教
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000010&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央戏曲
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000011&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央法制
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000012&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央音乐
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000013&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央中文
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000014&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  优漫卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000017&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央综艺
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000018&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央体育
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000019&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央电影
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000020&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央影视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000021&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央纪录
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000022&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央新闻
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000023&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中央少儿
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000024&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  北京卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000025&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  天津卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000026&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  山西卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000027&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  山东卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000028&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  河北卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000029&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  浙江卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000030&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  旅游卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000031&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  龙江卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000032&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  吉林卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000033&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  延边卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000034&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  西藏卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000035&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  新疆卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000036&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  东南卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000037&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  贵州卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000038&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  江苏卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000039&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  辽宁卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000041&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  金鹰卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000042&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  平遥电视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000043&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  动漫秀场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000044&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  劲爆体育
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000045&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  全纪实
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000046&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  浦东财经
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000047&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  老年福
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000048&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  幸福彩
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000049&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  游戏风云
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000050&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  环球奇观
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000051&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  发现之旅
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000052&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  老故事
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000053&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  书画频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000054&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  女性时尚
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000055&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  现代女性
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000056&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中视购物
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000057&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  卫生健康
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000058&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  青海卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000059&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  湖北卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000060&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中国教育
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000061&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  炫动卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000062&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  东方卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000063&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  内蒙卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000064&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  世界地理
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000065&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  国防军事
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000066&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  风云音乐
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000067&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  文化精品
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000068&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  怀旧剧场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000069&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  风云足球
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000070&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  风云剧场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000071&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  第一剧场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000072&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  靓装频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000073&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  留学频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000074&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  梨园频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000075&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  游戏竞技
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000076&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  茶频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000077&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  DV频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000078&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  围棋频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000079&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  汽摩频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000080&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  摄影频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000081&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  英语频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000082&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  早期教育
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000083&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  彩民在线
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000084&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  武术世界
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000085&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  YOYO频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000086&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  城市建设
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000087&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  法制天地
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000088&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  欢笑剧场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000089&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  音乐频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000090&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  七彩戏苑
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000091&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  金色频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000092&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  生活频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000093&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  极速汽车
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000094&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  都市剧场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000095&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  广西卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000096&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  广东卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000097&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  云南卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000098&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  深圳卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000099&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  广州卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000100&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  兵团卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000101&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  影视频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000102&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  影视频道2
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000103&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中国电影
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000104&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  天映电影
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000105&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  山东教育
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000106&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  星河频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000107&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  阳光卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000108&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  澳门电视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000109&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  凤凰咨询
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000110&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  凤凰卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000111&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中国黄河
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000113&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  安徽卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000114&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  重庆卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000115&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  河南卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000116&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  宁夏卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000117&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  四川卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000118&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  江西卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000119&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  陕西卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000120&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  农林卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000121&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  甘肃卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000122&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  HBO
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000123&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  星空卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000124&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  华娱卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000125&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  CNC频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000126&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  国学
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000127&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  新科动漫
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000128&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  快乐钓鱼
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000129&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中学生
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000130&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  文学宝库
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000131&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中国教育2
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000132&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中国教育4
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000133&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  金鹰纪实HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000134&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  未知频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000135&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  纪实频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000136&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  辽宁高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000137&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  四川高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000138&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  财经高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000139&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  中文高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000140&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  农业高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000141&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  纪录高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000142&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  科教高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000143&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  法制高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000144&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  少儿高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000145&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  高清电影
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000146&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  新视觉HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000147&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  亚洲电视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000148&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  综艺频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000149&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  影视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000150&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  体育高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000151&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  综艺高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000152&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  3D频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000153&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  凤凰咨询HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000154&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  凤凰卫视HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000155&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  凤凰香港HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000156&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  电影一台HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000157&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  综合高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000158&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  电影高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000159&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  体育赛事
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000160&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  东方高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000161&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  天津高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000162&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  山东高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000163&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  湖北高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000164&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  安徽卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000165&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  湖南高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000166&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  浙江高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000167&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  江苏高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000168&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  北京高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000169&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  重庆高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000170&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  龙江高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000171&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  广东高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000172&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  深圳高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000173&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 -  平遥有线
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000174&playtype=live&qamname=undefined&auth=no
