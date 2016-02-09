@@ -1384,7 +1384,7 @@ LIVE生活,http://jyzx8.com/tv/m3u8/ipad3.php/lb_livemusic_1000.m3u8&splatid=100
 金强频道,http://jyzx8.com/tv/m3u8/ipad3.php/lb_jqpd_1300.m3u8&splatid=1009
 黄段子,http://jyzx8.com/tv/m3u8/ipad3.php/lb_hdz_1300.m3u8&splatid=1009
 体育资讯,http://jyzx8.com/tv/m3u8/ipad3.php/lb_tyzx_1300.m3u8
-搏击,http://jyzx8.com/tv/m3u8/ipad3.php/lb_boji_1300.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_3000#http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_1800.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_350.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_1300.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_800.m3u8
+搏击,http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_1300.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_3000#http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_1800.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_350.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_1300.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_800.m3u8
 爸爸去哪儿,http://jyzx8.com/tv/m3u8/ipad3.php/lb_bbqn_1300.m3u8&splatid=1009
 爸爸去哪儿第二季,http://jyzx8.com/tv/m3u8/ipad3.php/lb_bbqn2_1300.m3u8&splatid=1009
 奔跑吧兄弟,http://jyzx8.com/tv/m3u8/ipad3.php/lb_bpbxd_1300.m3u8&splatid=1009
