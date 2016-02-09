@@ -2488,6 +2488,13 @@ rtmp://95.67.8.43:1935/live/fashionhd
 #EXTINF:-1 group-title="日本频道",日本 - 日本直播
 http://video-cdn.streamup.com/app/wgg001s-stream/chunklist.m3u8
 
+
+#EXTINF:-1 group-title="港澳频道",港澳 - 高清翡翠台
+rtmp://121.14.1.196:1935/live/livetv
+#EXTINF:-1 group-title="港澳频道",港澳 - 翡翠台
+rtmp://121.14.1.196:1935/live/livetv2
+#EXTINF:-1 group-title="港澳频道",港澳 - J2
+rtmp://121.14.1.196:1935/live/livetv3
 #EXTINF:-1 group-title="港澳频道",港澳 - 凤凰中文HD
 http://111.20.115.242/live/stream5.m3u8
 #EXTINF:-1 group-title="港澳频道",港澳 - 凤凰资讯HD
