@@ -66,3 +66,5 @@ http://58.99.33.4:1935/liveedge/live_413_3.stream/playlist.m3u8
 http://58.99.33.4:1935/liveedge/live_786_3.stream/playlist.m3u8
 #EXTINF:-1 group-title="日本", 32.PHD1008
 http://edge2.everyon.tv/etv2/phd1008/HasBahca.m3u8
+#EXTINF:-1 group-title="韩国", XXX01
+http://edge2.everyon.tv/etv2/phd1008/huraivza.m3u8
