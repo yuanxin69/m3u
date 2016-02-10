@@ -1,3 +1,94 @@
+
+
+
+
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
+CCTV1卡,http://58.200.131.2/hls/cctv16.m3u8
+台湾点播,http://220.128.208.114/HotGirl.m3u8
+高清翡翠,rtmp://121.14.1.196:1935/live/livetv
+翡翠,rtmp://121.14.1.196:1935/live/livetv2
+J2,rtmp://121.14.1.196:1935/live/livetv3
+==沈阳教育==
+CCTV-1HD,http://202.199.27.92/cctv1hd.m3u8
+CCTV-2,http://202.199.27.92/cctv2.m3u8
+CCTV-3HD,http://202.199.27.92/cctv3hd.m3u8
+CCTV-4,http://202.199.27.92/cctv4.m3u8
+CCTV-5HD,http://202.199.27.92/cctv5hd.m3u8
+CCTV-6HD,http://202.199.27.92/cctv6hd.m3u8
+CCTV-7,http://202.199.27.92/cctv7.m3u8
+CCTV-8HD,http://202.199.27.92/cctv8hd.m3u8
+CCTV-9,http://202.199.27.92/cctv9.m3u8
+CCTV-10,http://202.199.27.92/cctv10.m3u8
+CCTV-11,http://202.199.27.92/cctv11.m3u8
+CCTV-12,http://202.199.27.92/cctv12.m3u8
+CCTV-13,http://202.199.27.92/cctv13.m3u8
+CCTV-14,http://202.199.27.92/cctv14.m3u8
+CCTV-15,http://202.199.27.92/cctv15.m3u8
+CCTV-NEWS,http://202.199.27.92/cctv16.m3u8
+CHC高清电影,http://202.199.27.92/chchd.m3u8
+上海纪实高清,http://202.199.27.92/docuchina.m3u8
+北京卫视高清,http://202.199.27.92/btv1hd.m3u8
+北京文艺高清,http://202.199.27.92/btv2hd.m3u8
+北京体育高清,http://202.199.27.92/btv6hd.m3u8
+北京纪实高清,http://202.199.27.92/btv11hd.m3u8
+BTV北京卫视,http://202.199.27.92/btv1.m3u8
+BTV北京生活,http://202.199.27.92/btv2.m3u8
+BTV北京科教,http://202.199.27.92/btv3.m3u8
+BTV北京影视,http://202.199.27.92/btv4.m3u8
+BTV北京财经,http://202.199.27.92/btv5.m3u8
+BTV北京生活,http://202.199.27.92/btv7.m3u8
+BTV北京青年,http://202.199.27.92/btv8.m3u8
+BTV北京新闻,http://202.199.27.92/btv9.m3u8
+BTV北京KAKU少儿,http://202.199.27.92/btv10.m3u8
+湖南卫视高清,http://202.199.27.92/hunanhd.m3u8
+浙江卫视高清,http://202.199.27.92/zjhd.m3u8
+江苏卫视高清,http://202.199.27.92/jshd.m3u8
+东方卫视高清,http://202.199.27.92/dfhd.m3u8
+安徽卫视高清,http://202.199.27.92/ahhd.m3u8
+黑龙江卫视高清,http://202.199.27.92/hljhd.m3u8
+辽宁卫视高清,http://202.199.27.92/lnhd.m3u8
+深圳卫视高清,http://202.199.27.92/szhd.m3u8
+广东卫视高清,http://202.199.27.92/gdhd.m3u8
+天津卫视高清,http://202.199.27.92/tjhd.m3u8
+湖北卫视高清,http://202.199.27.92/hbhd.m3u8
+山东卫视高清,http://202.199.27.92/sdhd.m3u8
+重庆卫视高清,http://202.199.27.92/cqhd.m3u8
+吉林卫视,http://202.199.27.92/jltv.m3u8
+广西卫视,http://202.199.27.92/gxtv.m3u8
+河北卫视,http://202.199.27.92/hebtv.m3u8
+西藏卫视,http://202.199.27.92/xztv.m3u8
+内蒙古卫视,http://202.199.27.92/nmtv.m3u8
+青海卫视,http://202.199.27.92/qhtv.m3u8
+四川卫视,http://202.199.27.92/sctv.m3u8
+山西卫视,http://202.199.27.92/sxrtv.m3u8
+厦门卫视,http://202.199.27.92/xmtv.m3u8
+云南卫视,http://202.199.27.92/yntv.m3u8
+东南卫视,http://202.199.27.92/dntv.m3u8
+贵州卫视,http://202.199.27.92/gztv.m3u8
+重庆卫视,http://202.199.27.92/cqtv.m3u8
+兵团卫视,http://202.199.27.92/bttv.m3u8
+旅游卫视,http://202.199.27.92/lytv.m3u8
+延边卫视,http://202.199.27.92/lzu-yanbian.m3u8
+优漫卡通,http://202.199.27.92/lzu-youman.m3u8
+炫动卡通,http://202.199.27.92/lzu-xuandong.m3u8
+世界地理,http://202.199.27.92/ustc-tv5.m3u8
+全纪实,http://202.199.27.92/ustc-tv47.m3u8
+
+
+
 http://220.128.208.114/TTVHD.m3u8
 http://220.128.208.114/CTVHD.m3u8
 http://220.128.208.114/TVBS.m3u8
@@ -15,7 +106,7 @@ CCTV-电视指南,http://evansgs.xinxingkm.com/huo5/migu.php?id=603706122
 CCTV-风云音乐,http://evansgs.xinxingkm.com/huo5/migu.php?id=600043249
 CCTV-怀旧剧场,http://evansgs.xinxingkm.com/huo5/migu.php?id=60004347
 CCTV-女性时尚,http://evansgs.xinxingkm.com/huo5/migu.php?id=600043606
-
+东南卫视HD,http://live1.fjtv.net/gqpd/hd/live.m3u8
 
 广州综合频道,http://116.199.115.228/streaming/l57NOYZJLB/l57NOYZJLB.m3u8
 
@@ -66,6 +157,15 @@ http://183.232.54.209:1935/live/hcctv_116/chunklist.m3u8
 澳视卫星：rtmp://live2.tdm.com.mo:80/tv/ch3.live
 澳视葡文：rtmp://live2.tdm.com.mo:80/tv/ch2.live
 
+
+#EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 天津新闻频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv1
+#EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 天津生活频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv2
+#EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 天津电影频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv3
+
+
 音悦台,http://hd.yinyuetai.com/uploads/videos/common/96450147D0478ABAF75BEED455A5F73D.flv
 
 浙江卫视,http://httpdvb.slave.homed.me/playurl.m3u8?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851349&playtoken=&verifycode=&auth=no
@@ -103,6 +203,21 @@ CHC家庭影院,p2p://61.221.233.81:9000/56242c4500085e8d18f017f520a637ec
 公共频道：http://live2.hljtv.com/channels/hljtv/ggpd/flv:hd/live
 七台：http://live2.hljtv.com/channels/hljtv/dqpd/flv:hd/live
 导视频道：http://www.wolidou.com/tvp/357/play357_0_8.html
+
+
+
+湖南卫视,http://14.29.6.234:30001/PLTV/88888905/224/3221227108/10000100000000060000000000937811_0.smil
+浙江卫视,http://14.29.6.234:30001/PLTV/88888905/224/3221227137/10000100000000060000000000937809_0.smil
+江苏卫视,http://14.29.6.234:30001/PLTV/88888905/224/3221227160/10000100000000060000000000937810_0.smil
+东方卫视,http://14.29.6.234:30001/PLTV/88888905/224/3221227131/10000100000000060000000000937800_0.smil
+安徽卫视,http://14.29.6.234:30001/PLTV/88888905/224/3221227154/10000100000000060000000000937801_0.smil
+北京卫视,http://14.29.6.234:30001/PLTV/88888905/224/3221227105/10000100000000060000000000937805_0.smil
+天津卫视,http://14.29.6.234:30001/PLTV/88888905/224/3221227142/10000100000000060000000000937745_0.smil
+山东卫视,http://14.29.6.234:30001/PLTV/88888905/224/3221227136/10000100000000060000000000937739_0.smil
+江西卫视,http://14.29.6.234:30001/PLTV/88888905/224/3221227134/10000100000000060000000000937803_0.smil
+深圳卫视,http://14.29.6.234:30001/PLTV/88888905/224/3221227078/10000100000000060000000000937713_0.smil
+湖北卫视,http://14.29.6.234:30001/PLTV/88888905/224/3221227087/10000100000000060000000000937743_0.smil
+
 
 
 #EXTINF:0,group-title="北京教育网“",[COLOR green][B]--------北京教育网“-----[/B][/COLOR]

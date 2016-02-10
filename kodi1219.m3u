@@ -685,7 +685,12 @@ http://221.204.217.49:55336/tslive/c14_ct_zjtv5_yssh_smooth_t10/c14_ct_zjtv5_yss
 http://221.204.217.49:55336/tslive/c18_ct_zjtv6_msxx_smooth_t10/c18_ct_zjtv6_msxx_smooth_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 浙江公共频道
 http://221.204.217.49:55336/tslive/c28_ct_zjtv7_zjgg_smooth_t10/c28_ct_zjtv7_zjgg_smooth_t10.m3u8
-
+#EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 天津新闻频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv1
+#EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 天津生活频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv2
+#EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 天津电影频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv3
 
 #EXTINF:-1 group-title="深圳地方",深圳地方 - 深圳卫视
 rtmp://yao.tsl.cutv.com/cutvChannelLive/AxeFRth/live
@@ -854,8 +859,8 @@ http://121.33.74.227:9903/hls/live-qhws-040/stream800/index.m3u8
 http://121.33.74.227:9903/hls/live-ymkt-044/stream800/index.m3u8
 
 
-#EXTINF:-1 group-title="全国影院" tvg-logo="xinhaiy.png",全国影院 - 峨眉电影HD
-http://112.192.177.162:3000/hls/ynnnkbrh/index.m3u8
+#EXTINF:-1 group-title="全国影院" tvg-logo="xinhaiy.png",全国影院 - 天津电影台
+rtmp://tl.allook.8686c.com/vod/tjnhtv3
 #EXTINF:-1 group-title="全国影院" tvg-logo="xinhaiyy.png",全国影院 - 星辉影院直播
 http://dlhls.cdn.zhanqi.tv/zqlive/54770_1aw2J.m3u8
 #EXTINF:-1 group-title="全国影院" tvg-logo="taishandyyzb.png",全国影院 - 江津电影院直播
@@ -1225,114 +1230,109 @@ http://183.232.54.209:1935/live/hcctv_115/chunklist.m3u8
 
 
 
+
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-1HD
 http://202.199.27.92/cctv1hd.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-2
-http://sautv.sau6.com/cctv2.m3u8
+http://202.199.27.92/cctv2.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-3HD
-http://202.199.27.91/cctv3hd.m3u8
+http://202.199.27.92/cctv3hd.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-4
-http://202.199.27.91/cctv4.m3u8
+http://202.199.27.92/cctv4.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-5HD
-http://202.199.27.91/cctv5hd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-5+HD
-http://202.199.27.91/cctv5phd.m3u8
+http://202.199.27.92/cctv5hd.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-6HD
-http://202.199.27.91/cctv6hd.m3u8
+http://202.199.27.92/cctv6hd.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-7
-http://202.199.27.91/cctv7.m3u8
+http://202.199.27.92/cctv7.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-8HD
-http://202.199.27.91/cctv8hd.m3u8
+http://202.199.27.92/cctv8hd.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-9
-http://202.199.27.91/cctv9.m3u8
+http://202.199.27.92/cctv9.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-10
-http://202.199.27.91/cctv10.m3u8
+http://202.199.27.92/cctv10.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-11
-http://202.199.27.91/cctv11.m3u8
+http://202.199.27.92/cctv11.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-12
-http://202.199.27.91/cctv12.m3u8
+http://202.199.27.92/cctv12.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-13
-http://202.199.27.91/cctv13.m3u8
+http://202.199.27.92/cctv13.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-14
-http://202.199.27.91/cctv14.m3u8
+http://202.199.27.92/cctv14.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-15
-http://202.199.27.91/cctv15.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTVnews
-http://202.199.27.91/cctv16.m3u8
+http://202.199.27.92/cctv15.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - CCTV-NEWS
+http://202.199.27.92/cctv16.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - CHC高清电影
-http://202.199.27.91/chchd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 湖南卫视HD
-http://202.199.27.91/hunanhd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 安徽卫视HD
-http://202.199.27.91/ahhd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 浙江卫视HD
-http://202.199.27.91/zjhd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 东方卫视HD
-http://202.199.27.91/dfhd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 深圳卫视HD
-http://202.199.27.91/szhd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京卫视HD
-http://202.199.27.91/btv1hd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 江苏卫视HD
-http://202.199.27.91/jshd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 山东卫视HD
-http://202.199.27.91/sdhd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 天津卫视HD
-http://202.199.27.91/tjhd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 湖北卫视HD
-http://202.199.27.91/hbhd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 广东卫视HD
-http://202.199.27.91/gdhd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 辽宁卫视HD
-http://202.199.27.91/lnhd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 黑龙江卫视HD
-http://202.199.27.91/hljhd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京文艺HD
-http://202.199.27.91/btv2hd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京科教
-http://202.199.27.91/btv3.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京影视
-http://202.199.27.91/btv4.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京财经
-http://202.199.27.91/btv5.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京体育HD
-http://202.199.27.91/btv6hd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京生活
-http://202.199.27.91/btv7.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京青年
-http://202.199.27.91/btv8.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京新闻
-http://202.199.27.91/btv9.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京卡酷少儿
-http://202.199.27.91/btv10.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京纪实HD
-http://202.199.27.91//btv11hd.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 甘肃卫视
-http://202.199.27.91/gstv.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 陕西卫视
-http://202.199.27.91/sxtv.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 东南卫视
-http://202.199.27.91/dntv.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 重庆卫视
-http://202.199.27.91/cqtv.m3u8
+http://202.199.27.92/chchd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京卫视高清
+http://202.199.27.92/btv1hd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京文艺高清
+http://202.199.27.92/btv2hd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京体育高清
+http://202.199.27.92/btv6hd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 北京纪实高清
+http://202.199.27.92/btv11hd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - BTV北京卫视
+http://202.199.27.92/btv1.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - BTV北京生活
+http://202.199.27.92/btv2.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - BTV北京科教
+http://202.199.27.92/btv3.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 湖南卫视高清
+http://202.199.27.92/hunanhd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 浙江卫视高清
+http://202.199.27.92/zjhd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 江苏卫视高清
+http://202.199.27.92/jshd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 安徽卫视高清
+http://202.199.27.92/ahhd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 黑龙江卫视高清
+http://202.199.27.92/hljhd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 辽宁卫视高清
+http://202.199.27.92/lnhd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 深圳卫视高清
+http://202.199.27.92/szhd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 广东卫视高清
+http://202.199.27.92/sdhd.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 重庆卫视高清
+http://202.199.27.92/cqhd.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - 吉林卫视
-http://202.199.27.91/jltv.m3u8
+http://202.199.27.92/jltv.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - 广西卫视
-http://202.199.27.91/gxtv.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 河南卫视
-http://202.199.27.91/hntv.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 宁夏卫视
-http://202.199.27.91/nxtv.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 云南卫视
-http://202.199.27.91/yntv.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 旅游卫视
-http://202.199.27.91/lytv.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 厦门卫视
-http://202.199.27.91/xmtv.m3u8
-#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 兵团卫视
-http://202.199.27.91/bttv.m3u8
+http://202.199.27.92/gxtv.m3u8
 #EXTINF:-1 group-title="沈阳教育",沈阳教育 - 河北卫视
-http://202.199.27.91/hebtv.m3u8
+http://202.199.27.92/hebtv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 西藏卫视
+http://202.199.27.92/xztv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 内蒙古卫视
+http://202.199.27.92/nmtv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 青海卫视
+http://202.199.27.92/qhtv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 四川卫视
+http://202.199.27.92/sctv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 厦门卫视
+http://202.199.27.92/xmtv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 云南卫视
+http://202.199.27.92/yntv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 东南卫视
+http://202.199.27.92/dntv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 贵州卫视
+http://202.199.27.92/gztv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 重庆卫视
+http://202.199.27.92/cqtv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 兵团卫视
+http://202.199.27.92/bttv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 旅游卫视
+http://202.199.27.92/lytv.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 优漫卡通
+http://202.199.27.92/lzu-youman.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 炫动卡通
+http://202.199.27.92/lzu-xuandong.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 世界地理
+http://202.199.27.92/ustc-tv5.m3u8
+#EXTINF:-1 group-title="沈阳教育",沈阳教育 - 全纪实
+http://202.199.27.92/ustc-tv47.m3u8
 
 
 
