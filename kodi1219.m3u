@@ -691,6 +691,34 @@ rtmp://tl.allook.8686c.com/vod/tjnhtv1
 rtmp://tl.allook.8686c.com/vod/tjnhtv2
 #EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 天津电影频道
 rtmp://tl.allook.8686c.com/vod/tjnhtv3
+#EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 河北都市
+http://weblive.hebtv.com/live/hbds_bq/index.m3u8
+#EXTINF:-1 group-title="爱奇艺地方台",湖北综合
+http://live9.hbtv.com.cn/channels/zbk/hbtv/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北影视
+http://live9.hbtv.com.cn/channels/zbk/hbys/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北教育
+http://live9.hbtv.com.cn/channels/zbk/hbjy/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北体育
+http://live9.hbtv.com.cn/channels/zbk/hbty/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北经视
+http://live9.hbtv.com.cn/channels/zbk/jingshi2/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北垄上
+http://live9.hbtv.com.cn/channels/zbk/gspd/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北垄上
+http://59.175.153.186/channels/zbk/gspd/flv:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北公共
+http://live9.hbtv.com.cn/channels/zbk/hbgg/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北恩施综合
+http://live.jsntv.com.cn/channels/jstv/ifeng/flv:800k/liv
+#EXTINF:-1 group-title="爱奇艺地方台",湖北永城民生
+rtmp://img.hanxingtv.com/live/minsheng
+#EXTINF:-1 group-title="爱奇艺地方台",湖北美嘉购物
+http://live9.hbtv.com.cn/channels/zbk/mjgw/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北影视
+http://live9.hbtv.com.cn/channels/zbk/hbys/m3u8:sd
+
+
 
 #EXTINF:-1 group-title="深圳地方",深圳地方 - 深圳卫视
 rtmp://yao.tsl.cutv.com/cutvChannelLive/AxeFRth/live

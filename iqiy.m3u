@@ -267,3 +267,35 @@ http://221.204.217.49:55336/tslive/c14_ct_zjtv5_yssh_smooth_t10/c14_ct_zjtv5_yss
 http://221.204.217.49:55336/tslive/c18_ct_zjtv6_msxx_smooth_t10/c18_ct_zjtv6_msxx_smooth_t10.m3u8
 #EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 浙江公共频道
 http://221.204.217.49:55336/tslive/c28_ct_zjtv7_zjgg_smooth_t10/c28_ct_zjtv7_zjgg_smooth_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺地方台",天津新闻频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv1
+#EXTINF:-1 group-title="爱奇艺地方台",天津生活频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv2
+#EXTINF:-1 group-title="爱奇艺地方台",天津电影频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv3
+#EXTINF:-1 group-title="爱奇艺地方台",河北都市
+http://weblive.hebtv.com/live/hbds_bq/index.m3u8
+#EXTINF:-1 group-title="爱奇艺地方台",湖北综合
+http://live9.hbtv.com.cn/channels/zbk/hbtv/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北影视
+http://live9.hbtv.com.cn/channels/zbk/hbys/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北教育
+http://live9.hbtv.com.cn/channels/zbk/hbjy/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北体育
+http://live9.hbtv.com.cn/channels/zbk/hbty/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北经视
+http://live9.hbtv.com.cn/channels/zbk/jingshi2/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北垄上
+http://live9.hbtv.com.cn/channels/zbk/gspd/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北垄上
+http://59.175.153.186/channels/zbk/gspd/flv:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北公共
+http://live9.hbtv.com.cn/channels/zbk/hbgg/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北恩施综合
+http://live.jsntv.com.cn/channels/jstv/ifeng/flv:800k/liv
+#EXTINF:-1 group-title="爱奇艺地方台",湖北永城民生
+rtmp://img.hanxingtv.com/live/minsheng
+#EXTINF:-1 group-title="爱奇艺地方台",湖北美嘉购物
+http://live9.hbtv.com.cn/channels/zbk/mjgw/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北影视
+http://live9.hbtv.com.cn/channels/zbk/hbys/m3u8:sd
