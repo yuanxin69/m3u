@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="北京频道",北京卫视-主线
+http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/btvhd/as/live/btvhd_4.m3u8
+#EXTINF:-1 group-title="北京频道",北京卫视-线路1
+rtmp://183.238.77.4:1935/dvr/30294.stream
+#EXTINF:-1 group-title="北京频道",北京卫视-线路2
+rtmp://58.200.131.2:1935/livetv/btv1hd
+#EXTINF:-1 group-title="北京频道",北京卫视-北京教育HD
+rtmp://58.200.131.2:1935/livetv/btv1hd
+#EXTINF:-1 group-title="北京频道",北京卫视-湖北联通流畅
+http://113.57.230.25:38752/live/bbjj/playlist.m3u8
+#EXTINF:-1 group-title="北京频道",北京国际
+http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
+#EXTINF:-1 group-title="北京频道",北京文艺
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8
+#EXTINF:-1 group-title="北京频道",旅游卫视
+http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/as/live/traveltv_4.m3u8

@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 group-title="山西频道",山西卫视(高清)-官方线路
+http://218.26.188.211/flvss?bitrate=800000&channel=Shan1XiTV&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西卫视(标清)-官方线路
+http://218.26.188.211/flvss?bitrate=512000&channel=Shan1XiTV&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西卫视(流畅)-官方线路
+http://218.26.188.211/flvss?bitrate=256000&channel=Shan1XiTV&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西黄河(高清)-官方线路
+http://218.26.188.211/flvss?bitrate=512000&channel=HuangHeNews&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西黄河(标清)-官方线路
+http://218.26.188.211/flvss?bitrate=800000&channel=HuangHeNews&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西黄河(流畅)-官方线路
+http://218.26.188.211/flvss?bitrate=256000&channel=HuangHeNews&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西经济(高清)-官方线路
+http://218.26.188.207/flvss?bitrate=800000&channel=Shan1XiFinance&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西经济(标清)-官方线路
+http://218.26.188.207/flvss?bitrate=512000&channel=Shan1XiFinance&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西经济(流畅)-官方线路
+http://218.26.188.207/flvss?bitrate=256000&channel=Shan1XiFinance&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西影视(高清)-官方线路
+http://218.26.188.211/flvss?bitrate=800000&channel=Shan1XiFilm&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西影视(标清)-官方线路
+http://218.26.188.211/flvss?bitrate=512000&channel=Shan1XiFilm&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西影视(流畅)-官方线路
+http://218.26.188.211/flvss?bitrate=256000&channel=Shan1XiFilm&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西科教(高清)-官方线路
+http://218.26.188.207/flvss?bitrate=800000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西科教(标清)-官方线路
+http://218.26.188.207/flvss?bitrate=512000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西科教(流畅)-官方线路
+http://218.26.188.207/flvss?bitrate=256000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西公共(高清)-官方线路
+http://218.26.188.211/flvss?bitrate=800000&channel=Shan1XiPublic&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西公共(标清)-官方线路
+http://218.26.188.211/flvss?bitrate=512000&channel=Shan1XiPublic&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西公共(流畅)-官方线路
+http://218.26.188.211/flvss?bitrate=256000&channel=Shan1XiPublic&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西少儿(高清)-官方线路
+http://218.26.188.211/flvss?bitrate=800000&channel=Shan1XiChild&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西少儿(标清)-官方线路
+http://218.26.188.211/flvss?bitrate=512000&channel=Shan1XiChild&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西少儿(流畅)-官方线路
+http://218.26.188.211/flvss?bitrate=256000&channel=Shan1XiChild&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西中国黄河(高清)-官方线路
+http://218.26.188.207/flvss?bitrate=800000&channel=ChinaHuangHe&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西中国黄河(标清)-官方线路
+http://218.26.188.207/flvss?bitrate=512000&channel=ChinaHuangHe&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西中国黄河(流畅)-官方线路
+http://218.26.188.207/flvss?bitrate=256000&channel=ChinaHuangHe&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西老年福(高清)-官方线路
+http://218.26.188.207/flvss?bitrate=800000&channel=LaoNianFu&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西老年福(标清)-官方线路
+http://218.26.188.207/flvss?bitrate=512000&channel=LaoNianFu&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西老年福(流畅)-官方线路
+http://218.26.188.207/flvss?bitrate=256000&channel=LaoNianFu&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西彩民在线(高清)-官方线路
+http://218.26.188.207/flvss?bitrate=800000&channel=CaiMinZaiXian&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西彩民在线(标清)-官方线路
+http://218.26.188.207/flvss?bitrate=512000&channel=CaiMinZaiXian&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西彩民在线(流畅)-官方线路
+http://218.26.188.207/flvss?bitrate=256000&channel=CaiMinZaiXian&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西晴彩山西(高清)-官方线路
+http://218.26.188.207/flvss?bitrate=800000&channel=JingCaisx&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西晴彩山西(标清)-官方线路
+http://218.26.188.207/flvss?bitrate=512000&channel=JingCaisx&start=0&provider=www.tvmining.com
+#EXTINF:-1 group-title="山西频道",山西晴彩山西(流畅)-官方线路
+http://218.26.188.207/flvss?bitrate=256000&channel=JingCaisx&start=0&provider=www.tvmining.com

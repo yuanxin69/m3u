@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="甘肃频道",甘肃卫视-官方线路
+http://live1.gstv.com.cn/gsws/hd/live.m3u8?_upt=199439261454458151
+#EXTINF:-1 group-title="甘肃频道",甘肃经济-官方线路
+http://live1.gstv.com.cn/jjpd/hd/live.m3u8?_upt=4dce23ea1454458261
+#EXTINF:-1 group-title="甘肃频道",甘肃文化影视-官方线路
+http://live1.gstv.com.cn/whys/hd/live.m3u8?_upt=730bbbfe1454458302
+#EXTINF:-1 group-title="甘肃频道",甘肃都市频道-官方线路
+http://live1.gstv.com.cn/dspd/sd/live.m3u8?_upt=f219b02a1454458341
+#EXTINF:-1 group-title="甘肃频道",甘肃公共频道-官方线路
+http://live1.gstv.com.cn/ggpd/hd/live.m3u8?_upt=48fcf1d41454458373
+#EXTINF:-1 group-title="甘肃频道",甘肃少儿频道-官方线路
+http://live1.gstv.com.cn/sepd/hd/live.m3u8?_upt=b30425551454458398
+#EXTINF:-1 group-title="甘肃频道",甘肃移动电视-官方线路
+http://live1.gstv.com.cn/ydds/hd/live.m3u8?_upt=abebcd3a1454458437
+#EXTINF:-1 group-title="甘肃频道",甘肃品质生活-官方线路
+http://live1.gstv.com.cn/pzsh/hd/live.m3u8?_upt=d8f72eeb1454458542
