@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1(贡献者:007)
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/cctv1hd/as/live/cctv1hd_4.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4-中文(贡献者:007)
+http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/cctv4/as/live/cctv4_4.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事(贡献者:007)
+http://live.aishang.ctlcdn.com/live/ch238_10240128.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7-军事农业(贡献者:007)
+http://live.aishang.ctlcdn.com/live/ch142_10240009.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8-电视剧(贡献者:007)
+http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/cctv8hd/as/live/cctv8hd_4.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV9-纪录(贡献者:007)
+http://ktv011.cdnak.ds.kylintv.net/nlds/kylin/cctvdoc/as/live/cctvdoc_4.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10-科教(贡献者:007)
+http://ktv012.cdnak.ds.kylintv.net/nlds/kylin/cctv10/as/live/cctv10_4.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV11-戏曲(贡献者:007)
+http://ktv038.cdnak.ds.kylintv.net/nlds/kylin/cctvopera/as/live/cctvopera_4.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13-社会与法(贡献者:007)
+http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv13/as/live/cctv13_4.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13-新闻(贡献者:007)
+http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv9/as/live/cctv9_4.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV14-少儿(贡献者:007)
+http://live.aishang.ctlcdn.com/live/ch148_10240085.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15-音乐(贡献者:007)
+http://live.aishang.ctlcdn.com/live/ch149_10240086.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV1线路2
+http://218.24.47.44:2424/CCTV1_1/CCTV1.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2线路2
+http://218.24.47.44:2424/CCTV2_1/CCTV2.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4线路2
+http://218.24.47.44:2424/CCTV4_1/CCTV4.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8线路2
+http://58.135.196.138:8090/live/6e38d69416f160bad4657788d6c06c01/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10-高清
+http://218.24.47.44:2424/CCTV10_1/CCTV10.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13新闻-线路2
+http://58.135.196.138:8090/live/5e02ac2a0829f7ab10d6543fdd211d8e/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15线路2
+rtmp://58.200.131.2:1935/livetv/cctv15
+#EXTINF:-1 group-title="CCTV",高清电影频道
+http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?
+#EXTINF:-1 group-title="CCTV",发现之旅
+http://58.135.196.138:8090/live/1AB9A2A4F4CE48b397D72A067906D763/index.m3u8
+#EXTINF:-1 group-title="CCTV",高清电影CHC
+http://202.199.27.91/chchd.m3u8
+#EXTINF:-1 group-title="CCTV",旅游卫视
+http://202.199.27.91/lytv.m3u8
+#EXTINF:-1 group-title="CCTV",兵团卫视1
+http://fms.cntv.lxdns.com/live/flv/channel38.flv
+#EXTINF:-1 group-title="CCTV",兵团卫视2
+http://202.199.27.91/bttv.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV1-综合
+rtmp://123.65.3.6:1935/fn1live/cctv1-2
+#EXTINF:-1 group-title="CCTV",CCTV2财经-广州线路
+http://183.238.77.5:1935/dvr/30132.stream/chunklist_w1352242578.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV3综艺-广州线路
+http://183.238.77.5:1935/dvr/30133.stream/playlist.m3u8?
+#EXTINF:-1 group-title="CCTV",CCTV4-广州线路
+http://183.238.77.5:1935/dvr/30134.stream/chunklist_w146115599.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5体育-广州线路
+http://183.238.77.5:1935/dvr/30135.stream/playlist.m3u8?
+#EXTINF:-1 group-title="CCTV",CCTV6电影-广州线路
+http://183.238.77.5:1935/dvr/30136.stream/chunklist_w654247180.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7军事农业-广州线路
+http://183.238.77.5:1935/dvr/30137.stream/chunklist_w1297952520.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8电视剧-广州线路
+http://183.238.77.5:1935/dvr/30138.stream/chunklist_w970605350.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10科技-广州线路
+http://183.238.77.5:1935/dvr/30140.stream/playlist.m3u8?
+#EXTINF:-1 group-title="CCTV",CCTV11戏曲-广州线路
+http://183.238.77.4:1935/dvr/30141.stream/playlist.m3u8?
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法-广州线路
+http://183.238.77.4:1935/dvr/30142.stream/playlist.m3u8?
+#EXTINF:-1 group-title="CCTV",CCTV13新闻-广州线路
+http://183.238.77.5:1935/dvr/30131.stream/playlist.m3u8?
+#EXTINF:-1 group-title="CCTV",CCTV熊猫-幼儿园
+http://fms.cntv.lxdns.com/live/flv/channel93.flv
+#EXTINF:-1 group-title="CCTV",CCTV熊猫-幼年园
+http://fms.cntv.lxdns.com/live/flv/channel91.flv
+#EXTINF:-1 group-title="CCTV",CCTV熊猫-成年园
+http://fms.cntv.lxdns.com/live/flv/channel89.flv
+#EXTINF:-1 group-title="CCTV",CCTV熊猫-母子园
+http://fms.cntv.lxdns.com/live/flv/channel95.flv
+#EXTINF:-1 group-title="CCTV",CCTV熊猫-1号别墅
+http://fms.cntv.lxdns.com/live/flv/channel97.flv
+#EXTINF:-1 group-title="CCTV",WJTV1综合
+rtmp://zb.wyol.com.cn:80/TVLive/pindao_1_500

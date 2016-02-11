@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="日本频道",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="日本频道",日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 group-title="日本频道",日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+#EXTINF:-1 group-title="日本频道",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
