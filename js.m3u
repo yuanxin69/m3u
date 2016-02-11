@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="江苏频道",江苏卫视主线
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏卫视线路0
+rtmp://58.200.131.2:1935/livetv/jstv
+#EXTINF:-1 group-title="江苏频道",江苏卫视线路1
+http://tv03.tsytv.com.cn:1935/live/JiangsuHDm-500K.stream/chunklist_w1106521487_DVR.m3u8
+#EXTINF:-1 group-title="江苏频道",江苏国际
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/jstv/as/live/jstv_4.m3u8

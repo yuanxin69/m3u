@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="台湾频道",台湾中视新闻
+http://59.120.43.180:17838
+#EXTINF:-1 group-title="台湾频道",台湾中视HD
+http://59.120.43.180:17829
+#EXTINF:-1 group-title="台湾频道",台湾民视旅游
+http://59.120.43.180:17277
+#EXTINF:-1 group-title="台湾频道",台湾民视新闻HD
+http://59.120.43.180:17355
+#EXTINF:-1 group-title="台湾频道",台湾交通电视
+http://59.120.43.180:17364
+#EXTINF:-1 group-title="台湾频道",东森亚洲
+http://58.99.33.4:1935/liveedge/live_723_3.stream/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道",宏观卫视
+http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道",台中新闻台
+http://27.100.64.99:1935/liveedge/smil:live_1_1_iphone.smil/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道",东森新闻
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8
+#EXTINF:-1 group-title="台湾频道",东森幼幼
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾民视HD
+http://59.120.43.180:17334
+#EXTINF:-1 group-title="台湾频道",台湾民视新闻HD
+http://59.120.43.180:17355
+#EXTINF:-1 group-title="台湾频道",台湾壹电视新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾中天新闻
+http://59.120.43.180:17824
+#EXTINF:-1 group-title="台湾频道",台湾中视
+http://59.120.43.180:17837
+#EXTINF:-1 group-title="台湾频道",台湾中视新闻
+http://59.120.43.180:17838
+#EXTINF:-1 group-title="台湾频道",台湾非凡商业
+http://59.120.43.180:17366
+#EXTINF:-1 group-title="台湾频道",台视HD
+http://59.120.43.180:17822
+#EXTINF:-1 group-title="台湾频道",东森新闻HD
+http://220.228.38.16/live/fet003/chunklist.m3u8

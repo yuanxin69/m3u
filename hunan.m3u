@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="湖南频道",湖南卫视-主线
+http://ktv012.cdnak.ds.kylintv.net/nlds/kylin/huntvhd/as/live/huntvhd_3.m3u8
+#EXTINF:-1 group-title="湖南频道",湖南卫视-线路1
+rtmp://183.238.77.4:1935/dvr/30202.stream
+#EXTINF:-1 group-title="湖南频道",湖南卫视-线路2
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8 
+#EXTINF:-1 group-title="湖南频道",湖南国际
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8
+#EXTINF:-1 group-title="湖南频道",芒果TV电子体育
+http://221.174.121.203:5000/nn_live.ts?id=DZTY
+#EXTINF:-1 group-title="湖南频道",芒果TV经典电影
+http://221.174.121.203:5000/nn_live.ts?id=JDDY
+#EXTINF:-1 group-title="湖南频道",芒果TV热播剧场
+http://221.174.121.203:5000/nn_live.ts?id=RBJC
+#EXTINF:-1 group-title="湖南频道",芒果TV潇湘电影
+http://221.174.121.203:5000/nn_live.ts?id=XXDY

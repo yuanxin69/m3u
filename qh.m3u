@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="青海频道",青海卫视-线路1
+http://fms.cntv.lxdns.com/live/flv/channel607.flv
+#EXTINF:-1 group-title="青海频道",青海卫视-线路2
+http://flv.ws.live.cntv.cn/live/flv/channel53.flv
+#EXTINF:-1 group-title="青海频道",青海卫视-线路3
+http://hlstest.imgo.tv/hvb1/index_512k.m3u8

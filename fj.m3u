@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 group-title="福建频道",福建东南卫视-官方线路
+http://stream3.fjtv.net/dnpd/hd/live.m3u8
+#EXTINF:-1 group-title="福建频道",福建海峡卫视-官方线路
+http://stream3.fjtv.net/haixia/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道",福建综合-官方线路
+http://stream3.fjtv.net/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道",福建公共-官方线路
+http://stream3.fjtv.net/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道",福建新闻-官方线路
+http://stream3.fjtv.net/xwpd/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道",福建电视剧-官方线路
+http://stream3.fjtv.net/dsjpd/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道",福建都市-官方线路
+http://stream3.fjtv.net/dspd/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道",福建经视-官方线路
+http://stream3.fjtv.net/jjpd/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道",福建少儿-官方线路
+http://stream3.fjtv.net/child/sd/live.m3u8
+#EXTINF:-1 group-title="福建频道",东南卫视
+http://gslb.tv.sohu.com/live?cid=7&type=hls&ctype=m3u8
+#EXTINF:-1 group-title="福建频道",厦门影视
+http://fms.cntv.lxdns.com/live/flv/channel78.flv
+#EXTINF:-1 group-title="福建频道",厦门卫视
+http://202.199.27.91/xmtv.m3u8
+#EXTINF:-1 group-title="福建频道",厦门生活
+http://fms.cntv.lxdns.com/live/flv/channel81.flv
+#EXTINF:-1 group-title="福建频道",厦门移动
+http://fms.cntv.lxdns.com/live/flv/channel8.flv
+#EXTINF:-1 group-title="福建频道",福州少儿
+rtmp://live2.fzntv.cn:1935/live/zohi_fztv4
+#EXTINF:-1 group-title="福建频道",福州影视
+rtmp://live2.fzntv.cn:1935/live/zohi_fztv2
+#EXTINF:-1 group-title="福建频道",福州新闻
+rtmp://live2.fzntv.cn:1935/live/zohi_fztv1
+#EXTINF:-1 group-title="福建频道",福州生活
+rtmp://live2.fzntv.cn:1935/live/zohi_fztv3

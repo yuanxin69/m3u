@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 爱奇艺音乐
+http://221.204.217.49:55336/tslive/c20_lb_dianying_high_t10/c20_lb_dianying_high_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 中国教育-1
+http://221.204.217.49:55336/tslive/c2_ct_cetv1_zgjy1_smooth_t10/c2_ct_cetv1_zgjy1_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 安徽卫视
+http://221.204.217.49:55336/tslive/c12_ct_ahtv1_ahws_smooth_t10/c12_ct_ahtv1_ahws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 北京卫HD
+http://221.204.217.49:55336/tslive/c15_ct_btv1_bjws_smooth_t10/c15_ct_btv1_bjws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 山东卫视
+http://221.204.217.49:55336/live/c19_ct_sdtv1_sdws_smooth_s10/556c77bc.data
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 山东卫视
+http://221.204.217.49:55336/tslive/c17_ct_sdtv1_sdws_smooth_t10/c17_ct_sdtv1_sdws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 黑龙江卫视
+http://221.204.217.49:55336/tslive/c23_ct_hljtv1_hljws_smooth_t10/c23_ct_hljtv1_hljws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 宁夏卫视
+http://221.204.217.49:55336/tslive/c4_ct_nxtv2_nxws_smooth_t10/c4_ct_nxtv2_nxws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 辽宁卫视
+http://221.204.217.49:55336/tslive/c29_ct_lntv1_lnws_smooth_t10/c29_ct_lntv1_lnws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 吉林卫视
+http://221.204.217.49:55336/tslive/c15_ct_jilin1_jlws_smooth_t10/c15_ct_jilin1_jlws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 天津卫视
+http://221.204.217.49:55336/tslive/c23_ct_tjtv1_tjws_smooth_t10/c23_ct_tjtv1_tjws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 河南卫视
+http://221.204.217.49:55336/tslive/c12_ct_hntv1_henws_smooth_t10/c12_ct_hntv1_henws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 青海卫视
+http://221.204.217.49:55336/tslive/c25_ct_qhtv1_qhws_smooth_t10/c25_ct_qhtv1_qhws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 深圳卫视
+http://221.204.217.49:55336/tslive/c8_ct_sztv1_szws_smooth_t10/c8_ct_sztv1_szws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广东卫视
+http://221.204.217.49:55336/tslive/c27_ct_gdtv1_gdws_smooth_t10/c27_ct_gdtv1_gdws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 厦门卫视
+http://221.204.217.49:55336/tslive/c26_ct_xmtv5_xmws_smooth_t10/c26_ct_xmtv5_xmws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江西卫视
+http://221.204.217.49:55336/tslive/c26_ct_jxtv1_jxws_smooth_t10/c26_ct_jxtv1_jxws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 山东卫视
+http://221.204.217.49:55336/tslive/c26_ct_jxtv1_jxws_smooth_t10/c26_ct_jxtv1_jxws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 陕西卫视
+http://221.204.217.49:55336/tslive/c25_ct_shxitv1_sxws_smooth_t10/c25_ct_shxitv1_sxws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 贵州卫视
+http://221.204.217.49:55336/tslive/c15_ct_guizoutv1_gzws_smooth_t10/c15_ct_guizoutv1_gzws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 河北卫视
+http://221.204.217.49:55336/tslive/c8_ct_hebei1_hebws_smooth_t10/c8_ct_hebei1_hebws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 黑龙江卫视
+http://221.204.217.49:55336/tslive/c23_ct_hljtv1_hljws_smooth_t10/c23_ct_hljtv1_hljws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 山西卫视
+http://221.204.217.49:55336/tslive/c24_ct_sxtv1_shxws_smooth_t10/c24_ct_sxtv1_shxws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广西卫视
+http://221.204.217.49:55336/tslive/c12_ct_guanxi1_gxws_smooth_t10/c12_ct_guanxi1_gxws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 甘肃卫视
+http://221.204.217.49:55336/tslive/c28_ct_gstv1_gsws_smooth_t10/c28_ct_gstv1_gsws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 宁夏卫视
+http://221.204.217.49:55336/tslive/c4_ct_nxtv2_nxws_smooth_t10/c4_ct_nxtv2_nxws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 西藏卫视
+http://221.204.217.49:55336/tslive/c19_ct_xizangtv2_xzws_smooth_t10/c19_ct_xizangtv2_xzws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 内蒙古卫视
+http://221.204.217.49:55336/tslive/c29_ct_nmgtv1_nmws_smooth_t10/c29_ct_nmgtv1_nmws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 新疆卫视
+http://221.204.217.49:55336/tslive/c13_ct_xjtv1_xjws_smooth_t10/c13_ct_xjtv1_xjws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 云南卫视
+http://221.204.217.49:55336/tslive/c23_ct_yntv1_ynws_smooth_t10/c23_ct_yntv1_ynws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 旅游卫视
+http://221.204.217.49:55336/tslive/c13_ct_xjtv1_xjws_smooth_t10/c13_ct_xjtv1_xjws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 东方卫视HD
+http://221.204.217.49:55336/tslive/c22_ct_dongfang1_dfws_smooth_t10/c22_ct_dongfang1_dfws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 香港健康卫视
+http://221.204.217.49:55336/tslive/c27_ct_jkwshk_jkws_smooth_t10/c27_ct_jkwshk_jkws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广东南方卫视1
+http://221.204.217.49:55336/tslive/c13_ct_nanfang2_nfws_smooth_t10/c13_ct_nanfang2_nfws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 南方卫视1
+http://221.204.217.49:55336/tslive/c4_ct_nanfang1_nfjj_smooth_t10/c4_ct_nanfang1_nfjj_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 南方卫视3
+http://221.204.217.49:55336/tslive/c7_ct_nanfang3_nfzy_smooth_t10/c7_ct_nanfang3_nfzy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广东南方卫视-3
+http://221.204.217.49:55336/tslive/c7_ct_nanfang3_nfzy_smooth_t10/c7_ct_nanfang3_nfzy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广东南方卫视-4
+http://221.204.217.49:55336/tslive/c18_ct_nanfang4_nfys_smooth_t10/c18_ct_nanfang4_nfys_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 南方少儿
+http://221.204.217.49:55336/tslive/c7_ct_nanfang3_nfzy_smooth_t10/c7_ct_nanfang3_nfzy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广东珠江
+http://221.204.217.49:55336/live/c19_ct_gdtv2_zhujws_smooth_s10/558fd5b8.data
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广东珠江
+http://221.204.217.49:55336/tslive/c22_ct_gdtv2_zhujws_smooth_t10/c22_ct_gdtv2_zhujws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 安徽经济生活
+http://221.204.217.49:55336/tslive/c20_ct_ahtv2_ahjj_smooth_t10/c20_ct_ahtv2_ahjj_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 安徽影视
+http://221.204.217.49:55336/tslive/c2_ct_ahtv3_ahys_smooth_t10/c2_ct_ahtv3_ahys_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 安徽影视
+http://221.204.217.49:55336/tslive/c2_ct_ahtv3_ahys_smooth_t10/c2_ct_ahtv3_ahys_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 安徽综艺
+http://221.204.217.49:55336/tslive/c25_ct_ahtv4_ahzy_smooth_t10/c25_ct_ahtv4_ahzy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 安徽综艺
+http://221.204.217.49:55336/tslive/c25_ct_ahtv4_ahzy_smooth_t10/c25_ct_ahtv4_ahzy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 北京卫视
+http://221.204.217.49:55336/tslive/c15_ct_btv1_bjws_smooth_t10/c15_ct_btv1_bjws_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 北京文艺HD
+http://221.204.217.49:55336/tslive/c25_ct_btv2_btvwyHD_smooth_t10/c25_ct_btv2_btvwyHD_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 北京科教
+http://221.204.217.49:55336/tslive/c25_ct_btv3_bjkj_smooth_t10/c25_ct_btv3_bjkj_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 北京影视
+http://221.204.217.49:55336/tslive/c22_ct_btv4_bjys_smooth_t10/c22_ct_btv4_bjys_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 北京影视
+http://221.204.217.49:55336/tslive/c22_ct_btv4_bjys_smooth_t10/c22_ct_btv4_bjys_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 北京生活
+http://221.204.217.49:55336/tslive/c4_ct_btv7_bjsh_smooth_t10/c4_ct_btv7_bjsh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 北京青年
+http://221.204.217.49:55336/tslive/c4_ct_btv8_bjqn_smooth_t10/c4_ct_btv8_bjqn_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 北京新闻
+http://221.204.217.49:55336/tslive/c22_ct_btv9_bjxw_smooth_t10/c22_ct_btv9_bjxw_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 卡酷少儿
+http://221.204.217.49:55336/tslive/c18_ct_btv10_kkdh_smooth_t10/c18_ct_btv10_kkdh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广东房产
+http://221.204.217.49:55336/tslive/c27_ct_fangchan_fc_smooth_t10/c27_ct_fangchan_fc_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广东新闻
+http://221.204.217.49:55336/tslive/c21_ct_gdtv6_gdxw_smooth_t10/c21_ct_gdtv6_gdxw_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广东经济TVS1
+http://221.204.217.49:55336/tslive/c4_ct_nanfang1_nfjj_smooth_t10/c4_ct_nanfang1_nfjj_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广东综艺TVS3
+http://221.204.217.49:55336/tslive/c7_ct_nanfang3_nfzy_smooth_t10/c7_ct_nanfang3_nfzy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广东影视TVS4
+http://221.204.217.49:55336/tslive/c18_ct_nanfang4_nfys_smooth_t10/c18_ct_nanfang4_nfys_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广州新闻
+http://221.204.217.49:55336/tslive/c23_ct_gztv2_gzxw_smooth_t10/c23_ct_gztv2_gzxw_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广州经济
+http://221.204.217.49:55336/tslive/c28_ct_gztv6_gzjj_smooth_t10/c28_ct_gztv6_gzjj_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广州影视
+http://221.204.217.49:55336/tslive/c27_ct_gztv4_gzys_smooth_t10/c27_ct_gztv4_gzys_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 佛山综合
+http://221.204.217.49:55336/tslive/c27_ct_gdfs1_xwzh_smooth_t10/c27_ct_gdfs1_xwzh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 佛山综合
+http://221.204.217.49:55336/tslive/c27_ct_gdfs1_xwzh_smooth_t10/c27_ct_gdfs1_xwzh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 佛山公共
+http://221.204.217.49:55336/tslive/c12_ct_gdfs3_fsgg_smooth_t10/c12_ct_gdfs3_fsgg_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 广西都市
+http://221.204.217.49:55336/tslive/c7_ct_guanxi3_ds_smooth_t10/c7_ct_guanxi3_ds_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 湖南经视
+http://221.204.217.49:55336/tslive/c15_ct_hnetv1_js_smooth_t10/c15_ct_hnetv1_js_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 湖南电视剧
+http://221.204.217.49:55336/tslive/c17_ct_hunantv4_dsj_smooth_t10/c17_ct_hunantv4_dsj_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 湖南娱乐
+http://221.204.217.49:55336/tslive/c12_ct_hunantv3_yl_smooth_t10/c12_ct_hunantv3_yl_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 湖南公共
+http://221.204.217.49:55336/tslive/c17_ct_hunantv5_gg_smooth_t10/c17_ct_hunantv5_gg_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 长沙新闻
+http://221.204.217.49:55336/tslive/c29_ct_changshawumon4_xw_smooth_t10/c29_ct_changshawumon4_xw_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 长沙政法
+http://221.204.217.49:55336/tslive/c25_ct_changshawumon2_zf_smooth_t10/c25_ct_changshawumon2_zf_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 长沙女性
+http://221.204.217.49:55336/tslive/c29_ct_changshawumon1_nx_smooth_t10/c29_ct_changshawumon1_nx_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 长沙经贸
+http://221.204.217.49:55336/tslive/c14_ct_changshawumon3_jm_smooth_t10/c14_ct_changshawumon3_jm_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 长沙公共
+http://221.204.217.49:55336/tslive/c5_ct_changshawumon5_gg_smooth_t10/c5_ct_changshawumon5_gg_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江苏靓妆
+http://221.204.217.49:55336/tslive/c8_ct_jstv5_jslz_smooth_t10/c8_ct_jstv5_jslz_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江苏影视
+http://221.204.217.49:55336/tslive/c28_ct_jstv4_jsys_smooth_t10/c28_ct_jstv4_jsys_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江苏教育
+http://221.204.217.49:55336/tslive/c4_ct_jstv9_jsjy_smooth_t10/c4_ct_jstv9_jsjy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江苏公共
+http://221.204.217.49:55336/tslive/c20_ct_jstv8_jsgg_smooth_t10/c20_ct_jstv8_jsgg_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江苏城市
+http://221.204.217.49:55336/tslive/c28_ct_jstv3_jscs_smooth_t10/c28_ct_jstv3_jscs_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江苏综艺
+http://221.204.217.49:55336/tslive/c21_ct_jstv2_jszy_smooth_t10/c21_ct_jstv2_jszy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江苏体育休闲
+http://221.204.217.49:55336/tslive/c20_ct_jstv6_jsty_smooth_t10/c20_ct_jstv6_jsty_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江西都市
+http://221.204.217.49:55336/tslive/c4_ct_jxtv2_dspd_smooth_t10/c4_ct_jxtv2_dspd_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 优漫卡通
+http://221.204.217.49:55336/tslive/c24_ct_jstv7_ymkt_smooth_t10/c24_ct_jstv7_ymkt_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江西经视
+http://221.204.217.49:55336/tslive/c22_ct_jxtv3_jjsh_smooth_t10/c22_ct_jxtv3_jjsh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江西影视
+http://221.204.217.49:55336/tslive/c21_ct_jxtv4_yswh_smooth_t10/c21_ct_jxtv4_yswh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江西影视
+http://221.204.217.49:55336/tslive/c21_ct_jxtv4_yswh_smooth_t10/c21_ct_jxtv4_yswh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江西公共
+http://221.204.217.49:55336/tslive/c26_ct_jxtv5_ggpd_smooth_t10/c26_ct_jxtv5_ggpd_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江西少儿
+http://221.204.217.49:55336/tslive/c27_ct_jxtv6_sepd_smooth_t10/c27_ct_jxtv6_sepd_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江西红色经典
+http://221.204.217.49:55336/tslive/c19_ct_jxtv7_hsjd_smooth_t10/c19_ct_jxtv7_hsjd_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 江西红色经典
+http://221.204.217.49:55336/tslive/c19_ct_jxtv7_hsjd_smooth_t10/c19_ct_jxtv7_hsjd_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 辽宁都市
+http://221.204.217.49:55336/tslive/c20_ct_lntv2_lnds_smooth_t10/c20_ct_lntv2_lnds_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 辽宁影视剧
+http://221.204.217.49:55336/tslive/c14_ct_lntv3_lnys_smooth_t10/c14_ct_lntv3_lnys_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 辽宁教育青少
+http://221.204.217.49:55336/tslive/c21_ct_lntv5_lnjy_smooth_t10/c21_ct_lntv5_lnjy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 辽宁生活
+http://221.204.217.49:55336/tslive/c13_ct_lntv6_lnsh_smooth_t10/c13_ct_lntv6_lnsh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 辽宁北方
+http://221.204.217.49:55336/tslive/c7_ct_lntv8_lnbf_smooth_t10/c7_ct_lntv8_lnbf_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 辽宁经济
+http://221.204.217.49:55336/tslive/c26_ct_lntv_finance_lnjj_smooth_t10/c26_ct_lntv-finance_lnjj_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 吉林生活
+http://221.204.217.49:55336/tslive/c20_ct_jilin3_jlsh_smooth_t10/c20_ct_jilin3_jlsh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 吉林影视
+http://221.204.217.49:55336/tslive/c17_ct_jilin4_jlys_smooth_t10/c17_ct_jilin4_jlys_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 吉林综艺文化
+http://221.204.217.49:55336/tslive/c4_ct_jilin7_zywh_smooth_t10/c4_ct_jilin7_zywh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 四川文化旅游
+http://221.204.217.49:55336/tslive/c29_ct_sctv2_scwh_smooth_t10/c29_ct_sctv2_scwh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 四川文化旅游
+http://221.204.217.49:55336/tslive/c29_ct_sctv2_scwh_smooth_t10/c29_ct_sctv2_scwh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 四川经视
+http://221.204.217.49:55336/tslive/c18_ct_sctv3_scjj_smooth_t10/c18_ct_sctv3_scjj_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 四川经视
+http://221.204.217.49:55336/tslive/c18_ct_sctv3_scjj_smooth_t10/c18_ct_sctv3_scjj_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 四川新闻资讯
+http://221.204.217.49:55336/tslive/c18_ct_sctv4_scxw_smooth_t10/c18_ct_sctv4_scxw_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 四川新闻资讯
+http://221.204.217.49:55336/tslive/c18_ct_sctv4_scxw_smooth_t10/c18_ct_sctv4_scxw_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 吉林都市
+http://221.204.217.49:55336/tslive/c24_ct_jilin2_jlds_smooth_t10/c24_ct_jilin2_jlds_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 东方电影
+http://221.204.217.49:55336/tslive/c21_ct_dfmv1_dfdy_smooth_t10/c21_ct_dfmv1_dfdy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 上海新娱乐HD
+http://221.204.217.49:55336/tslive/c18_ct_shhai7_yuleHD_smooth_t10/c18_ct_shhai7_yuleHD_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 上海纪实HD
+http://221.204.217.49:55336/tslive/c23_ct_shhai6_shjsHD_smooth_t10/c23_ct_shhai6_shjsHD_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 上海教育
+http://221.204.217.49:55336/tslive/c8_ct_shedu1_shjy_smooth_t10/c8_ct_shedu1_shjy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 上海教育
+http://221.204.217.49:55336/tslive/c8_ct_shedu1_shjy_smooth_t10/c8_ct_shedu1_shjy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 上海新闻综合HD
+http://221.204.217.49:55336/tslive/c8_ct_shhai1_xwzhHD_smooth_t10/c8_ct_shhai1_xwzhHD_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 陕西都市青春
+http://221.204.217.49:55336/tslive/c29_ct_shxitv3_dsqc_smooth_t10/c29_ct_shxitv3_dsqc_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 陕西都市青春
+http://221.204.217.49:55336/tslive/c29_ct_shxitv3_dsqc_smooth_t10/c29_ct_shxitv3_dsqc_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 陕西影视
+http://221.204.217.49:55336/tslive/c27_ct_shxitv4_ysyl_smooth_t10/c27_ct_shxitv4_ysyl_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 陕西影视
+http://221.204.217.49:55336/tslive/c27_ct_shxitv4_ysyl_smooth_t10/c27_ct_shxitv4_ysyl_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 云南生活资讯
+http://221.204.217.49:55336/tslive/c29_ct_yntv4_shzx_smooth_t10/c29_ct_yntv4_shzx_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 云南影视
+http://221.204.217.49:55336/tslive/c21_ct_yntv5_yingshi_smooth_t10/c21_ct_yntv5_yingshi_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 云南影视
+http://221.204.217.49:55336/tslive/c21_ct_yntv5_yingshi_smooth_t10/c21_ct_yntv5_yingshi_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 云南影视
+http://221.204.217.49:55336/tslive/c21_ct_yntv5_yingshi_smooth_t10/c21_ct_yntv5_yingshi_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 云南公共
+http://221.204.217.49:55336/tslive/c18_ct_yntv6_gonggong_smooth_t10/c18_ct_yntv6_gonggong_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 云南生活资讯
+http://221.204.217.49:55336/tslive/c29_ct_yntv4_shzx_smooth_t10/c29_ct_yntv4_shzx_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 山东影视
+http://221.204.217.49:55336/tslive/c8_ct_sdtv7_sdys_smooth_t10/c8_ct_sdtv7_sdys_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 山东综艺
+http://221.204.217.49:55336/tslive/c21_ct_sdtv8_sdzy_smooth_t10/c21_ct_sdtv8_sdzy_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 山东生活
+http://221.204.217.49:55336/tslive/c18_ct_sdtv9_sdsh_smooth_t10/c18_ct_sdtv9_sdsh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 山东少儿
+http://221.204.217.49:55336/tslive/c19_ct_sdtv6_sdse_smooth_t10/c19_ct_sdtv6_sdse_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 浙江钱江频道
+http://221.204.217.49:55336/tslive/c29_ct_zjtv2_qjds_smooth_t10/c29_ct_zjtv2_qjds_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 浙江经济生活
+http://221.204.217.49:55336/tslive/c13_ct_zjtv3_jjsh_smooth_t10/c13_ct_zjtv3_jjsh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 浙江科教
+http://221.204.217.49:55336/tslive/c4_ct_zjtv4_jykj_smooth_t10/c4_ct_zjtv4_jykj_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 浙江影视频道
+http://221.204.217.49:55336/tslive/c14_ct_zjtv5_yssh_smooth_t10/c14_ct_zjtv5_yssh_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 浙江民生频道
+http://221.204.217.49:55336/tslive/c18_ct_zjtv6_msxx_smooth_t10/c18_ct_zjtv6_msxx_smooth_t10.m3u8
+#EXTINF:-1 $ExtFilter="爱奇艺地方台",爱奇艺地方台 - 浙江公共频道
+http://221.204.217.49:55336/tslive/c28_ct_zjtv7_zjgg_smooth_t10/c28_ct_zjtv7_zjgg_smooth_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺地方台",天津新闻频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv1
+#EXTINF:-1 group-title="爱奇艺地方台",天津生活频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv2
+#EXTINF:-1 group-title="爱奇艺地方台",天津电影频道
+rtmp://tl.allook.8686c.com/vod/tjnhtv3
+#EXTINF:-1 group-title="爱奇艺地方台",河北都市
+http://weblive.hebtv.com/live/hbds_bq/index.m3u8
+#EXTINF:-1 group-title="爱奇艺地方台",湖北综合
+http://live9.hbtv.com.cn/channels/zbk/hbtv/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北影视
+http://live9.hbtv.com.cn/channels/zbk/hbys/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北教育
+http://live9.hbtv.com.cn/channels/zbk/hbjy/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北体育
+http://live9.hbtv.com.cn/channels/zbk/hbty/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北经视
+http://live9.hbtv.com.cn/channels/zbk/jingshi2/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北垄上
+http://live9.hbtv.com.cn/channels/zbk/gspd/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北垄上
+http://59.175.153.186/channels/zbk/gspd/flv:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北公共
+http://live9.hbtv.com.cn/channels/zbk/hbgg/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北恩施综合
+http://live.jsntv.com.cn/channels/jstv/ifeng/flv:800k/liv
+#EXTINF:-1 group-title="爱奇艺地方台",湖北永城民生
+rtmp://img.hanxingtv.com/live/minsheng
+#EXTINF:-1 group-title="爱奇艺地方台",湖北美嘉购物
+http://live9.hbtv.com.cn/channels/zbk/mjgw/m3u8:sd/live
+#EXTINF:-1 group-title="爱奇艺地方台",湖北影视
+http://live9.hbtv.com.cn/channels/zbk/hbys/m3u8:sd

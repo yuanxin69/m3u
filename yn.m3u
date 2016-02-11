@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="云南频道",云南卫视(暂无可用线路)
+http://202.199.27.91/yntv.m3u8
+#EXTINF:-1 group-title="云南频道",云南国际
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/yunnantv/as/live/yunnantv_4.m3u8
+#EXTINF:-1 group-title="云南频道",昆明-1
+http://112.112.61.204/live/07c01d87ccfc4d9ea5c5eeadee2f6d20.m3u8?fmt=h264_800k_ts&m3u8
+#EXTINF:-1 group-title="云南频道",昆明-2
+http://112.112.61.204/live/d23bc9a623544f59981b80fad72e4163.m3u8?fmt=h264_800k_ts&m3u8
+#EXTINF:-1 group-title="云南频道",昆明-3
+http://112.112.61.204/live/da5636f63fb04b25b1f7a7f57926661c.m3u8?fmt=h264_800k_ts&m3u8
+#EXTINF:-1 group-title="云南频道",昆明-4
+http://112.112.61.204/live/b0c69932788e4777ad44817300e20853?fmt=h264_800k_flv
+#EXTINF:-1 group-title="云南频道",昆明-5
+http://112.112.61.204/live/0f5ee7880ac242bba23ada22859dd0e4.m3u8?fmt=h264_800k_ts&m3u8
+#EXTINF:-1 group-title="云南频道",昆明-6
+http://112.112.61.204/live/4c138c07595848bfa71294baf0aab67c.m3u8?fmt=h264_800k_ts&m3u8
+#EXTINF:-1 group-title="云南频道",昆明教育
+http://live.kunmjy.sobeycache.com/live/ca9887f836b74130ab71185e4f190187.m3u8?fmt=h264_500k_ts&m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="江西频道",江西卫视-搜狐线路
+http://gslb.tv.sohu.com/live?cid=18&type=hls&ctype=m3u8
+#EXTINF:-1 group-title="江西频道",江西卫视-线路1
+rtmp://183.238.77.4:1935/dvr/30278.stream

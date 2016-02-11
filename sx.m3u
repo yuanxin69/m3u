@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="陕西频道",陕西卫视-官方线路
+http://m3u8-1.live.snrtv.com/sxbc/sxbc-star/index.m3u8
+#EXTINF:-1 group-title="陕西频道",陕西农林-官方线路
+http://m3u8-2.live.snrtv.com/sxbc/sxbc-nl/index.m3u8
+#EXTINF:-1 group-title="陕西频道",陕西新闻-官方线路
+http://m3u8-1.live.snrtv.com/sxbc/sxbc-1/index.m3u8
+#EXTINF:-1 group-title="陕西频道",陕西生活-官方线路
+http://m3u8-1.live.snrtv.com/sxbc/sxbc-3/index.m3u8
+#EXTINF:-1 group-title="陕西频道",陕西公共-官方线路
+http://m3u8-2.live.snrtv.com/sxbc/sxbc-5/index.m3u8
+#EXTINF:-1 group-title="陕西频道",陕西秦腔-官方线路
+http://m3u8-2.live.snrtv.com/sxbc/qinqiang/index.m3u8
+#EXTINF:-1 group-title="陕西频道",陕西体育-官方线路
+http://m3u8-2.live.snrtv.com/sxbc/sxbc-7/index.m3u8
+#EXTINF:-1 group-title="陕西频道",陕西999-官方线路
+http://m3u8-1.live.snrtv.com/sxbc/fm999/index.m3u8
