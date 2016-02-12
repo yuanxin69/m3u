@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="新疆频道",新疆卫视1-官方线路
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv1.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆维吾尔语新闻综合2-官方线路
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv2.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆哈萨克语新闻综合3-官方线路
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv3.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆汉语综艺4-官方线路
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv4.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆维吾尔语综艺5-官方线路
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv5.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆汉语综艺7-官方线路
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv7.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆哈萨克语综艺8-官方线路
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv8.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆维吾尔语经济生活9-官方线路
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv9.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆汉语体育健康10-官方线路
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv10.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆汉语法制信息11-官方线路
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv11.m3u8
+#EXTINF:-1 group-title="新疆频道",新疆少儿12-官方线路
+http://playback-livehyuwxjtv122qn.sobeycache.com/sobeylive/xjtv12.m3u8

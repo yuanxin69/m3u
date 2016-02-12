@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="上海频道",东方卫视线路1
+http://hls.live.kksmg.com/live/dragontv/playlist.m3u8
+#EXTINF:-1 group-title="上海频道",东方卫视线路2
+rtmp://183.238.77.4:1935/dvr/30288.stream
+#EXTINF:-1 group-title="上海频道",上海新闻超清
+http://hls.live.kksmg.com/live/smgnews/playlist.m3u8
+#EXTINF:-1 group-title="上海频道",东方国际
+http://hls.live.kksmg.com/live/dragontv/playlist.m3u8

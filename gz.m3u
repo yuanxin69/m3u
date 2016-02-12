@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="贵州频道",贵州卫视线路0
+http://202.199.27.91/gztv.m3u8
+#EXTINF:-1 group-title="贵州频道",贵阳-1
+http://58.42.231.170/tslslive/GYBTV-1/hls/live_sd.m3u8
+#EXTINF:-1 group-title="贵州频道",贵阳-2
+http://58.42.231.170/tslslive/GYBTV-3/hls/live_sd.m3u8
+#EXTINF:-1 group-title="贵州频道",贵阳-3
+http://58.42.231.170/tslslive/GYBTV-4/hls/live_sd.m3u8
+#EXTINF:-1 group-title="贵州频道",贵阳-4
+}http://58.42.231.170/tslslive/GYBTV-5/hls/live_sd.m3u8
+#EXTINF:-1 group-title="贵州频道",遵义新闻
+http://222.54.58.150:8090/61/channel-0/output-0/live
+#EXTINF:-1 group-title="贵州频道",黔东南公共
+rtmp://220.172.177.187:1935/live/QDNTV-2

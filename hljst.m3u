@@ -1,0 +1,111 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江新闻
+http://125.211.216.199/channels/hljtv/fzpd/flv:sd/livehttp://live2.hljtv.com/channels/hljtv/fzpd/flv:hd/livehttp://125.211.216.198/channels/hljtv/fzpd/flv:sd/live?1348477336133
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江影视
+http://live2.hljtv.com/channels/hljtv/yspd/flv:hd/livehttp://live2.hljtv.com/channels/hljtv/yspd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江影视
+http://125.211.216.198/channels/hljtv/yspd/flv:sd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江影视
+http://live2.hljtv.com/channels/hljtv/yspd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江影视
+http://live2.hljtv.com/channels/hljtv/yspd/flv:hd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江影视
+http://125.211.216.198/channels/hljtv/yspd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江影视
+http://125.211.216.199/channels/hljtv/yspd/flv:sd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江文艺
+http://live2.hljtv.com/channels/hljtv/wypd/flv:hd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江文艺
+http://125.211.216.198/channels/hljtv/wypd/flv:sd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江文艺
+http://live2.hljtv.com/channels/hljtv/wypd/flv:hd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江文艺
+http://125.211.216.199/channels/hljtv/wypd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江文艺
+http://125.211.216.198/channels/hljtv/wypd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江文艺
+http://125.211.216.199/channels/hljtv/wypd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江都市
+http://125.211.216.198/channels/hljtv/dspd/flv:sd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江都市
+http://125.211.216.198/channels/hljtv/dspd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江都市
+http://live2.hljtv.com/channels/hljtv/dspd/flv:hd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江都市
+http://live2.hljtv.com/channels/hljtv/dspd/flv:hd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江都市
+http://125.211.216.199/channels/hljtv/dspd/flv:sd/livehttp://live2.hljtv.com/channels/hljtv/dspd/flv:hd/livehttp://www.7po.com/xmlinfo.php?tp=455&tn=2http://live2.hljtv.com/channels/hljtv/dspd/flv:hd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江都市
+http://125.211.216.199/channels/hljtv/dspd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江公共
+http://125.211.216.199/channels/hljtv/ggpd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江公共
+http://125.211.216.199/channels/hljtv/ggpd/flv:sd/livehttp://live2.hljtv.com/channels/hljtv/ggpd/flv:hd/livehttp://www.7po.com/xmlinfo.php?tp=457&tn=1http://live2.hljtv.com/channels/hljtv/ggpd/flv:hdhttp://125.211.216.198/channels/hljtv/ggpd/flv:sd/live?1348477336133
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江公共
+http://live2.hljtv.com/channels/hljtv/ggpd/flv:hd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江公共
+http://live2.hljtv.com/channels/hljtv/ggpd/flv:hd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江新闻
+http://live2.hljtv.com/channels/hljtv/fzpd/flv:hd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江新闻
+http://125.211.216.198/channels/hljtv/fzpd/flv:sd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江新闻
+http://live2.hljtv.com/channels/hljtv/fzpd/flv:hd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江新闻
+http://125.211.216.199/channels/hljtv/fzpd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江导视
+http://125.211.216.198/channels/hljtv/daoshi/flv:sd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江导视
+http://live2.hljtv.com/channels/hljtv/daoshi/flv:hd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江导视
+http://live2.hljtv.com/channels/hljtv/daoshi/flv:hd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江导视
+http://live2.hljtv.com/channels/hljtv/daoshi/flv:hd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江少儿
+http://live2.hljtv.com/channels/hljtv/dqpd/flv:hd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江少儿
+http://live2.hljtv.com/channels/hljtv/dqpd/flv:hd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江少儿
+http://125.211.216.198/channels/hljtv/dqpd/flv:sd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江少儿
+http://live2.hljtv.com/channels/hljtv/dqpd/flv:hd/livehttp://live2.hljtv.com/channels/hljtv/dqpd/flv:hd
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江7频道
+http://live2.hljtv.com/channels/hljtv/dqpd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江7频道
+http://125.211.216.198/channels/hljtv/dqpd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江7频道
+http://125.211.216.198/channels/hljtv/dqpd/flv:sd/live?1348477449985
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江考试
+http://125.211.216.199/channels/hljtv/kspd/flv:sd/livehttp://live2.hljtv.com/channels/hljtv/kspd/flv:hd/livehttp://www.7po.com/xmlinfo.php?tp=459&tn=1http://live2.hljtv.com/channels/hljtv/kspd/flv:hdhttp://125.211.216.198/channels/hljtv/kspd/flv:sd/live?1348477619091
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江考试
+http://live2.hljtv.com/channels/hljtv/kspd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江考试
+http://125.211.216.199/channels/hljtv/kspd/flv:sd/live
+#EXTINF:-1 group-title="黑龙江省台", 哈尔滨影视频道
+http://222.171.183.168/live/331875bfea734c8fb07516b10c8992f3.m3u8?fmt=h264_400k_ts&m3u8
+#EXTINF:-1 group-title="黑龙江省台", 哈尔滨新闻综合
+http://222.171.183.168/live/6425a58c205b4665b320dfb52572ccca.m3u8?fmt=h264_500k_ts&m3u8
+#EXTINF:-1 group-title="黑龙江省台", 哈尔滨资讯
+http://222.171.183.168/live/a0ec0db48f2c48c6823967990b86120d.m3u8?fmt=h264_500k_ts&m3u8
+#EXTINF:-1 group-title="黑龙江省台", 大庆综合
+rtmp://live1.baihuwang.com:1935/live/zh
+#EXTINF:-1 group-title="黑龙江省台", 大庆综合
+rtmp://221.209.150.59:1935/live/zh
+#EXTINF:-1 group-title="黑龙江省台", 大庆百湖
+rtmp://clientlive2-cnc.wasu.cn/live/bh
+#EXTINF:-1 group-title="黑龙江省台", 大庆百湖
+rtmp://live1.baihuwang.com:1935/live/bh
+#EXTINF:-1 group-title="黑龙江省台", 大庆综合
+rtmp://clientlive2-cnc.wasu.cn/live/zh
+#EXTINF:-1 group-title="黑龙江省台", 大庆科教
+rtmp://clientlive2-cnc.wasu.cn/live/kj
+#EXTINF:-1 group-title="黑龙江省台", 大庆科教
+http://livetv.2500city.com/live/livetvkj-720/index.m3u8
+#EXTINF:-1 group-title="黑龙江省台", 大庆科教
+rtmp://live1.baihuwang.com:1935/live/kj
+#EXTINF:-1 group-title="黑龙江省台", 伊春新闻 ,mmst://60.11.53.24/zb_1
+#EXTINF:-1 group-title="黑龙江省台", 绥化综合 
+rtmp://61.180.191.173:1935/live/live5
+#EXTINF:-1 group-title="黑龙江省台", 黑龙江七台河
+rtmp://vod.qthtv.com:1935/live/live2
