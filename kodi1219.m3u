@@ -2680,4 +2680,5 @@ http://123.108.164.71/etv2/phd1058/playlist.m3u8
 rtmp://edge1.everyon.tv/etv1/phd1001
 #EXTINF:-1 group-title="韩国频道",韩国 - HomeStory HD
 rtmp://edge1.everyon.tv/etv1/phd1016
-
+#EXTINF:-1 group-title="韩国频道",韩国 - 内衣秀
+rtmp://123.108.164.71/etv2sb/phd43
