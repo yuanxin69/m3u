@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="湖北频道",湖北卫视(标清)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbws_q2
+#EXTINF:-1 group-title="湖北频道",湖北卫视(流畅)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbws_q3
+#EXTINF:-1 group-title="湖北频道",湖北经视(标清)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbjs_q2
+#EXTINF:-1 group-title="湖北频道",湖北经视(流畅)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbjs_q3
+#EXTINF:-1 group-title="湖北频道",湖北综合(标清)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbzh_q2
+#EXTINF:-1 group-title="湖北频道",湖北综合(流畅)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbzh_q3
+#EXTINF:-1 group-title="湖北频道",湖北垄上(标清)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/lspd_q2
+#EXTINF:-1 group-title="湖北频道",湖北垄上(流畅)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/lspd_q3
+#EXTINF:-1 group-title="湖北频道",湖北影视(标清)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbys_q2
+#EXTINF:-1 group-title="湖北频道",湖北影视(流畅)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbys_q3
+#EXTINF:-1 group-title="湖北频道",湖北公共(标清)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbgg_q2
+#EXTINF:-1 group-title="湖北频道",湖北公共(流畅)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbgg_q3
+#EXTINF:-1 group-title="湖北频道",湖北教育(标清)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbjy_q2
+#EXTINF:-1 group-title="湖北频道",湖北教育(流畅)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbjy_q3
+#EXTINF:-1 group-title="湖北频道",湖北生活(标清)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbty_q2
+#EXTINF:-1 group-title="湖北频道",湖北生活(流畅)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/hbty_q3
+#EXTINF:-1 group-title="湖北频道",美嘉购物(标清)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/mjgw_q2
+#EXTINF:-1 group-title="湖北频道",美嘉购物(流畅)-官方线路
+rtmp://live6.hbtv.com.cn/masvod/mjgw_q3
+#EXTINF:-1 group-title="湖北频道",湖北卫视-线路1
+http://live9.hbtv.com.cn/channels/zbk/hbws/flv:sd/live

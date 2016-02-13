@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="西藏频道",西藏卫视(高清)-官方线路
+rtmp://video.vtibet.com/masvod/hanyuTV_q1
+#EXTINF:-1 group-title="西藏频道",西藏卫视(标清)-官方线路
+rtmp://video.vtibet.com/masvod/hanyuTV_q2
+#EXTINF:-1 group-title="西藏频道",西藏卫视(流畅)-官方线路
+rtmp://video.vtibet.com/masvod/hanyuTV_q3
+#EXTINF:-1 group-title="西藏频道",西藏卫视藏语(高清)-官方线路
+rtmp://video.vtibet.com/masvod/zangyuTV_q1
+#EXTINF:-1 group-title="西藏频道",西藏卫视藏语(标清)-官方线路
+rtmp://video.vtibet.com/masvod/zangyuTV_q2
+#EXTINF:-1 group-title="西藏频道",西藏卫视藏语(流畅)-官方线路
+rtmp://video.vtibet.com/masvod/zangyuTV_q3

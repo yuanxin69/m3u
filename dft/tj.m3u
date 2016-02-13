@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="天津频道",天津卫视线路1
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
+#EXTINF:-1 group-title="天津频道",天津卫视线路2
+rtmp://183.238.77.4:1935/dvr/30208.stream
+#EXTINF:-1 group-title="天津频道",天津国际
+http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8

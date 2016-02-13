@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="四川频道",四川卫视-线路1
+rtmp://183.238.77.4:1935/dvr/30275.stream
+#EXTINF:-1 group-title="四川频道",四川国际
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/sctv/as/live/sctv_4.m3u8

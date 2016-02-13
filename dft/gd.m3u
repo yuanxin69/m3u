@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 group-title="广东频道",广东卫视-官方线路
+http://stream1.grtn.cn/gdws/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东珠江-官方线路
+http://stream1.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东体育-官方线路
+http://stream1.grtn.cn/typd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东公共-官方线路
+http://stream1.grtn.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东新闻-官方线路
+http://stream1.grtn.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东会展-官方线路
+http://stream1.grtn.cn/qchzpd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东房产-官方线路
+http://stream1.grtn.cn/fcpd/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东TVS1经济科技-官方线路
+http://stream1.grtn.cn/tvs1/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东TVS2南方卫视-官方线路
+http://stream1.grtn.cn/tvs2/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东TVS3广东综艺-官方线路
+http://stream1.grtn.cn/tvs3/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东TVS4广东影视-官方线路
+http://stream1.grtn.cn/tvs4/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东嘉佳卡通-官方线路
+http://stream1.grtn.cn/jjkt/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东欧洲足球-官方线路
+http://stream1.grtn.cn/ozzq/sd/live.m3u8
+#EXTINF:-1 group-title="广东频道",广东国际-官方线路
+http://stream1.grtn.cn/gjpd/sd/1454435209000.m3u8
+#EXTINF:-1 group-title="广东频道",广东卫视线路1
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/gdtvhd/as/live/gdtvhd_4.m3u8
+#EXTINF:-1 group-title="广东频道",广东国际
+http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/gdtvi/as/live/gdtvi_4.m3u8
+#EXTINF:-1 group-title="广东频道",广州少儿
+rtmp://116.199.115.228/live/gztv_shaoer
+#EXTINF:-1 group-title="广东频道",广州新闻
+http://116.199.115.228/streaming/XpxvPPVTIm/XpxvPPVTIm.m3u8
+#EXTINF:-1 group-title="广东频道",广州新闻
+rtmp://116.199.115.228/live/gztv_new
+#EXTINF:-1 group-title="广东频道",广州经济
+http://116.199.115.228/streaming/pvo1KyGl5D/pvo1KyGl5D.m3u8
+#EXTINF:-1 group-title="广东频道",广州经济
+rtmp://116.199.115.228/live/gztv_jingji
+#EXTINF:-1 group-title="广东频道",广州综合
+http://116.199.115.228/streaming/l57NOYZJLB/l57NOYZJLB.m3u8
+#EXTINF:-1 group-title="广东频道",广州综合
+rtmp://116.199.115.228/live/gztv_tv
+#EXTINF:-1 group-title="广东频道",广州英语
+rtmp://116.199.115.228/live/gztv_en
+#EXTINF:-1 group-title="广东频道",深圳卫视
+rtmp://183.238.77.4:1935/dvr/30499.stream
+#EXTINF:-1 group-title="广东频道",深圳公共
+rtmp://tv.sznews.com:1935/live/live_234_mc43
+#EXTINF:-1 group-title="广东频道",深圳卫视
+rtmp://tv.sznews.com:1935/live/live_240_mc43
+#EXTINF:-1 group-title="广东频道",深圳娱乐
+rtmp://tv.sznews.com:1935/live/live_233_mc43
+#EXTINF:-1 group-title="广东频道",南方卫视(省外)
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/tvs/as/live/tvs_4.m3u8

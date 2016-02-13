@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="广西频道",广西卫视线路1
+rtmp://183.238.77.4:1935/dvr/30274.stream
+#EXTINF:-1 group-title="广西频道",广西国际
+http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/gxtv/as/live/gxtv_4.m3u8
