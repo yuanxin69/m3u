@@ -11,3 +11,11 @@ rtmp://58.200.131.2:1935/livetv/zjhd
 http://tv03.tsytv.com.cn:1935/live/ZhejiangHDm-500K.stream/playlist.m3u8?DVR
 #EXTINF:-1 group-title="浙江频道",浙江国际
 http://ktv038.cdnak.ds.kylintv.net/nlds/kylin/zhejtv/as/live/zhejtv_4.m3u8
+#EXTINF:-1 group-title="浙江频道",温州都市生活
+rtmp://livetv.dhtv.cn:1935/live/citylife
+#EXTINF:-1 group-title="浙江频道",温州经济科教
+rtmp://livetv.dhtv.cn:1935/live/financial
+#EXTINF:-1 group-title="浙江频道",温州瓯江先锋
+rtmp://livetv.dhtv.cn:1935/live/oujiangxianfeng
+#EXTINF:-1 group-title="浙江频道",温州公共
+rtmp://livetv.dhtv.cn:1935/live/peoples

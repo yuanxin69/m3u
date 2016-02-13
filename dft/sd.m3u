@@ -7,3 +7,11 @@ rtmp://183.238.77.4:1935/dvr/30272.stream
 http://gslb.tv.sohu.com/live?cid=14&type=hls
 #EXTINF:-1 group-title="山东频道",山东国际
 http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/sdtvi/as/live/sdtvi_4.m3u8
+#EXTINF:-1 group-title="山东频道",新泰综合
+rtmp://111.17.214.4:1935/live/xtzh
+#EXTINF:-1 group-title="山东频道",新泰生活
+rtmp://111.17.214.4:1935/live/xtsh
+#EXTINF:-1 group-title="山东频道",新泰影视
+rtmp://111.17.214.4:1935/live/xtys
+#EXTINF:-1 group-title="山东频道",新泰乡村
+rtmp://111.17.214.4:1935/live/xtxc

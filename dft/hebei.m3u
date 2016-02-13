@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="河北频道",新闻综合
+rtmp://hls.hsrtv.cn/hls/hstv1
+#EXTINF:-1 group-title="河北频道",衡水影视娱乐
+rtmp://hls.hsrtv.cn/hls/hstv2
+#EXTINF:-1 group-title="河北频道",衡水公共
+rtmp://hls.hsrtv.cn/hls/hstv3
