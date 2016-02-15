@@ -583,6 +583,8 @@ http://221.204.217.49:55336/tslive/c18_ct_sctv3_scjj_smooth_t10/c18_ct_sctv3_scj
 http://221.204.217.49:55336/tslive/c18_ct_sctv4_scxw_smooth_t10/c18_ct_sctv4_scxw_smooth_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 四川新闻资讯
 http://221.204.217.49:55336/tslive/c18_ct_sctv4_scxw_smooth_t10/c18_ct_sctv4_scxw_smooth_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 吉林台
+http://202.199.27.91/jltv.m3u8
 #EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 吉林都市
 http://221.204.217.49:55336/tslive/c24_ct_jilin2_jlds_smooth_t10/c24_ct_jilin2_jlds_smooth_t10.m3u8
 #EXTINF:-1 group-title="爱奇艺地方台",爱奇艺地方台 - 东方电影
