@@ -1,0 +1,391 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="小埋IPTV",306CCTV-1综合
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=5068253659616166748&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",307CCTV-2财经
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8878432746825677699&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",308CCTV-3综艺
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=4890526699577299046&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",309CCTV-4中文国际
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=4719673858948437836&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",310CCTV-6电影
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=6994512760913257617&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",311CCTV-7军事农业
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=7823098201377312515&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",312CCTV-8电视剧
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8967744667154419073&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",313CCTV-9纪录
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=6350727550077620987&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",314CCTV-10科教
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=7284663355496915828&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",315CCTV-11戏曲
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8983629816140945539&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",316CCTV-12社会与法
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=6865782700657580918&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",317CCTV-13新闻
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8593685226043367730&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",318CCTV-14少儿
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6113730085955692619&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",319CCTV-15音乐
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=5565738654152032083&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",333CCTV-1综合高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000064&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",334CCTV-3综艺高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000065&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",335CCTV-5体育高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000066&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",336CCTV-6电影高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000068&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",337CCTV-7军事农业
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000083&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",338CCTV-8电视剧高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000069&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",339CCTV-11戏曲
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000086&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",340CCTV-12社会与法
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000084&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",341CCTV-14少儿
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000082&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",342CCTV-15音乐
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000085&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",343国防军事
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000114&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",344辽宁卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000041&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",345安徽卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000043&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",346河南卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000044&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",347河北卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000045&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",348贵州卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000046&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",349湖北卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000048&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",350吉林卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000049&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",351陕西卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000050&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",352四川卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000051&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",353内蒙古卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000053&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",354青海卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000055&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",355东南卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000056&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",356新疆卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000058&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",357西藏卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000059&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",358兵团卫视
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000060&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",359山东卫视高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000070&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",360北京卫视高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000071&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",361湖南卫视高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000072&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",362浙江卫视高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000073&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",363江苏卫视高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000074&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",364东方卫视高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000075&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",365黑龙江卫视高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000077&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",366深圳卫视高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000078&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",367广东卫视高清
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000079&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",368金鹰卡通
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000080&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",369卡酷少儿
+http://slave.dzcatv.com/playurl.m3u8?programid=4200000081&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="小埋IPTV",370CCTV-1综合
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=5068253659616166748&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",371CCTV-2财经
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8878432746825677699&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",372CCTV-3综艺
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=4890526699577299046&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",373CCTV-4中文国际
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=4719673858948437836&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",374CCTV-6电影
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=6994512760913257617&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",375CCTV-7军事农业
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=7823098201377312515&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",376CCTV-8电视剧
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8967744667154419073&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",377CCTV-9纪录
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=6350727550077620987&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",378CCTV-10科教
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=7284663355496915828&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",379CCTV-11戏曲
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8983629816140945539&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",380CCTV-12社会与法
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=6865782700657580918&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",381CCTV-13新闻
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8593685226043367730&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",382CCTV-14少儿
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6113730085955692619&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 group-title="小埋IPTV",383CCTV-15音乐
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=5565738654152032083&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+
+
+#EXTINF:-1 group-title="电信IPTV",CCTV1HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV2HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV3HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV5HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV5+HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV6HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV7HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240248_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV8HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV9HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV10HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV12HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV14HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",广东卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240137_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",深圳卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240132_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",北京卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",湖南卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",黑龙江卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240131_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",江苏卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240133_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",浙江卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",湖北卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240135_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",天津卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240136_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",东方卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240242_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",山东卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240254_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",辽宁卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240255_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",安徽卫视HD
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240256_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV1
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240001_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV2
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240002_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV3
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240259_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV4
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240005_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV5
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240260_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV6
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240261_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV7
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240009_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV8
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240262_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV9
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240014_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV10
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240015_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV11
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240016_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV12
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240017_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV13
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240126_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV14
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240085_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTV15
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240086_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",深圳卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240004_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",湖南卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240008_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",安徽卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240024_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",北京卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240026_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",东南卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240029_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",甘肃卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240034_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",广东卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240036_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",广西卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240037_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",贵州卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240038_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",湖北卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240040_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",河南卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240041_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",黑龙江卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240042_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",湖北卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240043_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",吉林卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240046_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",江苏卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240048_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",江西卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240049_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",东方卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240011_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",重庆卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240012_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",浙江卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240013_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",辽宁卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240057_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",旅游卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240059_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",内蒙古卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240060_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",宁夏卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240061_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",青海卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240063_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",山东卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240064_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",山西卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240065_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",陕西卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240066_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",四川卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240071_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",天津卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240072_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",西藏卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240076_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",新疆卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240079_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",云南卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240082_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",厦门卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240159_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",兵团卫视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240280_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",金鹰卡通
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240050_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",卡酷少儿
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240051_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTVNEWS
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240021_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV收视指南
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240225_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV相声小品
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240006_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV谍战剧场
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV热播剧场
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240089_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV经典电影
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240090_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV魅力时尚
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240091_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV少儿动画
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240092_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV野外
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240095_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV法治
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240096_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV游戏竞技
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240257_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CCTVIP电视
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240264_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV3+
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240093_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV6+
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV5+
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240094_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV8+
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240125_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CETV1
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240243_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CHC高清电影
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240266_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CHC家庭影院
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240269_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",CHC动作电影
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240270_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",嘉佳卡通
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240087_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",财富天下
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240148_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",母婴健康
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240258_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",熊猫频道
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240263_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",篮球
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240267_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",中华美食
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240271_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",新动漫
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240272_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",网络棋牌
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240273_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",先锋乒羽
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240274_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",精选电影
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",喜剧影院
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",动作影院
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",家庭影院
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",星影
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="电信IPTV",IPTV收视指南
+http://124.224.237.147/live.aishang.ctlcdn.com/00000110240225_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",IPTV谍战剧场
+http://219.148.204.200/live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",IPTV热播剧场
+http://106.36.45.37/live.aishang.ctlcdn.com/00000110240089_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",IPTV魅力时尚
+http://115.233.62.20/live.aishang.ctlcdn.com/00000110240091_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",IPTV相声小品
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240006_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",IPTV少儿动画
+http://59.56.75.10/live.aishang.ctlcdn.com/00000110240092_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",IPTV野外
+http://182.140.222.235/live.aishang.ctlcdn.com/00000110240095_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",IPTV法治
+http://222.173.4.78/live.aishang.ctlcdn.com/00000110240096_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",中国微电影
+http://116.211.76.53/live.aishang.ctlcdn.com/00000110240264_1/encoder/1/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",IPTV3+
+http://202.100.167.27/live.aishang.ctlcdn.com/00000110240093_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",IPTV5+
+http://222.74.206.11/live.aishang.ctlcdn.com/00000110240094_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",IPTV6+
+http://115.233.62.4/live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",IPTV8+
+http://61.129.131.55/live.aishang.ctlcdn.com/00000110240125_1/encoder/0/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",精选电影
+http://61.166.246.9/live.aishang.ctlcdn.com/00000110240275_1/encoder/1/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",喜剧影院
+http://222.173.4.74/live.aishang.ctlcdn.com/00000110240276_1/encoder/1/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",动作影院
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240277_1/encoder/1/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",家庭影院
+http://125.88.39.97/live.aishang.ctlcdn.com/00000110240278_1/encoder/1/playlist.m3u8?CONTENTID=
+#EXTINF:-1 group-title="电信IPTV",星影频道
+http://202.100.167.6/live.aishang.ctlcdn.com/00000110240279_1/encoder/1/playlist.m3u8?CONTENTID=
