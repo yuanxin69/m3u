@@ -50,6 +50,7 @@ VST  http://live.91vst.com/list.html
 台长直播20150923 http://disk.hsxedu.com/myfile/liling250/tz.txt
 
 小埋TV:http://45.78.3.66/hunshi/jiemuyuan/haoyong/woaini%20huanshi%20jdiajdkalhfahfjhakhskjahdkjabfkjahkjdhalshflahfkxhdklashlkfa.json
+
 ottbclub云地址：http://api.ottclub.info/api/get_list?AccountGUID=37cdab04-c332-11e5-971e-001ec9f7f776&AccountChannelCategoryGUID=596ad53e-adaf-11e3-b3a3-56b55c4f22cc&SessionID=8cc877d4978708e0f62d5a6dec0158cd&ChannelCategoryGUID=596ad53e-adaf-11e3-b3a3-56b55c4f22cc&ChannelClassGUID=c7270725-adb4-11e3-b3a3-56b55c4f22cc
 华新TV测试地址：http://wwwww.huarentv.net:17006/gemini-iptv/admin/jiemus.asp?leftday=1&bz2=0&mac=08:00:27:48:60:2d&ipcode=cn&cpuid=GEMINI3920364092943987&key=268Czgns56Kt7pBS2W3d7g6S2W3d7g6kL6Kt7p2r2LXyjg0nQXVXVlj6EXpI9Ecb9iZuKkE6EX9hVrLfQXls732w9iky&version=46
 http://d1.51gugu.com/184116/ohmtv_20160105.m3u8
@@ -85,3 +86,5 @@ http://dwz.cn/2GLXwc
 http://dwz.cn/2GN4ei
 黑龙江省台,https://raw.githubusercontent.com/yuanxin69/m3u/master/hljst.m3u
 http://dwz.cn/2HfK99
+iptv:https://raw.githubusercontent.com/yuanxin69/m3u/master/iptv.m3u
+http://dwz.cn/2ISaNm
