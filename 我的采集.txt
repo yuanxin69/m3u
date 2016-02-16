@@ -1,7 +1,7 @@
 
-
-
-
+河北卫视,http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+河北影视,http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+壹新闻HD，http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
 
 CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
 CCTV1卡,http://58.200.131.2/hls/cctv1.m3u8
