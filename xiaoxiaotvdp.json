@@ -6503,6 +6503,156 @@
             "itemid":"uidall",
             "name":"小埋40",
             "urllist":"http://124.161.229.45/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?wshc_tag=0&wsiphost=ipdbm"
+        },
+        {
+            "num":"1000",
+            "itemid":"TW",
+            "name":"J2☆",
+            "urllist":"p2p://76.73.54.50:6001/56acb56d0007730220374dff3caf39c3.ts"
+        },
+        {
+            "num":"1001",
+            "itemid":"TW",
+            "name":"全佳台☆",
+            "urllist":"p2p://76.73.54.50:6001/56acd62e0003dfd120b7399e517746a4.ts"
+        },
+        {
+            "num":"1002",
+            "itemid":"TW",
+            "name":"华丽台☆",
+            "urllist":"p2p://76.73.54.50:6001/56acd66a000f420520b826dc302935a3.ts"
+        },
+        {
+            "num":"1003",
+            "itemid":"TW",
+            "name":"AOD HD☆",
+            "urllist":"p2p://76.73.54.50:6001/56acd67b00000bc520b8655c6e7034f4.ts"
+        },
+        {
+            "num":"1004",
+            "itemid":"TW",
+            "name":"欢喜台☆",
+            "urllist":"p2p://76.73.54.50:6001/56acd68a00049ee920b8a11d083b04b6.ts"
+        },
+        {
+            "num":"1005",
+            "itemid":"TW",
+            "name":"双星台☆",
+            "urllist":"p2p://76.73.54.50:6001/56acd6ad0006277120b92a3305c97cd3.ts"
+        },
+        {
+            "num":"1006",
+            "itemid":"TW",
+            "name":"AEC HD☆",
+            "urllist":"p2p://76.73.54.50:6001/56acd6c30001eccf20b97f0903685453.ts"
+        },
+        {
+            "num":"1007",
+            "itemid":"TW",
+            "name":"翡翠台☆",
+            "urllist":"p2p://76.73.54.50:6001/56acb55c000a0deb20370c43489107a5.ts"
+        },
+        {
+            "num":"1008",
+            "itemid":"TW",
+            "name":"高清翡翠台☆",
+            "urllist":"p2p://76.73.54.50:6001/56acb57d0002b25f20378b46558929f0.ts"
+        },
+        {
+            "num":"1009",
+            "itemid":"TW",
+            "name":"互动新闻☆",
+            "urllist":"p2p://76.73.54.50:6001/56acb5bc00074b0c20388287603768f4.ts"
+        },
+        {
+            "num":"1010",
+            "itemid":"TW",
+            "name":"明珠台☆",
+            "urllist":"p2p://76.73.54.50:6001/56acb7080006f022203d933814a0218e.ts"
+        },
+        {
+            "num":"1011",
+            "itemid":"TW",
+            "name":"星河台☆",
+            "urllist":"p2p://76.73.54.50:6001/56acd616000949e520b6dd4571e75438.ts"
+        },
+        {
+            "num":"1012",
+            "itemid":"TW",
+            "name":"本港台☆",
+            "urllist":"p2p://76.73.54.50:6001/56acb58f000c7df02037d4173f7a596d.ts"
+        },
+        {
+            "num":"1013",
+            "itemid":"TW",
+            "name":"美亚电影台☆",
+            "urllist":"p2p://76.73.54.50:6001/56af970200045b872b77cc003c255b0d.ts"
+        },
+        {
+            "num":"1014",
+            "itemid":"TW",
+            "name":"星卫娱乐☆",
+            "urllist":"p2p://76.73.54.50:6001/56af9840000eda1c2b7ca8733be14d89.ts"
+        },
+        {
+            "num":"1015",
+            "itemid":"TW",
+            "name":"靖天国际☆",
+            "urllist":"p2p://76.73.54.50:6001/56af985500080acd2b7cf8b5217d0403.ts"
+        },
+        {
+            "num":"1016",
+            "itemid":"TW",
+            "name":"靖天日本☆",
+            "urllist":"p2p://76.73.54.50:6001/56af98ab000a294c2b7e49130ce51633.ts"
+        },
+        {
+            "num":"1017",
+            "itemid":"TW",
+            "name":"靖天育乐☆",
+            "urllist":"p2p://76.73.54.50:6001/56af98860006a1092b7db7b014fe533b.ts"
+        },
+        {
+            "num":"1018",
+            "itemid":"TW",
+            "name":"靖洋戏剧☆",
+            "urllist":"p2p://76.73.54.50:6001/56af98c10007e46f2b7e9e67745e2d4c.ts"
+        },
+        {
+            "num":"1019",
+            "itemid":"TW",
+            "name":"东森新闻☆",
+            "urllist":"p2p://ccs.golivetv.tv:9906/5621ab6b0001acf219e0b26c3b2cd8f8.ts"
+        },
+        {
+            "num":"1020",
+            "itemid":"TW",
+            "name":"三立台湾☆",
+            "urllist":"p2p://76.73.54.50:6001/56acb3590007e22a202f301d0a0832b8.ts"
+        },
+        {
+            "num":"1021",
+            "itemid":"TW",
+            "name":"凤凰资讯☆",
+            "urllist":"p2p://ccs.golivetv.tv:9906/5621ab77000d387b19e0e44177c01317.ts"
+        },
+        {
+            "num":"1022",
+            "itemid":"TW",
+            "name":"凤凰香港☆",
+            "urllist":"p2p://ccs.golivetv.tv:9906/5621ab810004f78519e109341aa7605c.ts"
+        },
+        {
+            "num":"1023",
+            "itemid":"TW",
+            "name":"凤凰中文☆",
+            "urllist":"p2p://ccs.golivetv.tv:9906/5621ab77000a5a7819e0e385ad60bda1.ts"
+        },
+        {
+            "num":"1024",
+            "itemid":"TW",
+            "name":"星  空  台☆,",
+            "urllist":"p2p://ccs.golivetv.tv:9906/5621ab770007d4f719e0e2e0f9bb115e.ts"
         }
     ],
     "type":[
@@ -6513,6 +6663,10 @@
         {
             "id":"HK",
             "name":"小小港台"
+        },
+        {
+            "id":"tw",
+            "name":"小小台湾"
         },
         {
             "id":"uid1",
