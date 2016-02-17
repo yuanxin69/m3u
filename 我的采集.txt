@@ -1,7 +1,14 @@
-
+﻿
 河北卫视,http://weblive.hebtv.com/live/hbws_bq/index.m3u8
 河北影视,http://weblive.hebtv.com/live/hbys_bq/index.m3u8
 壹新闻HD，http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+卡,http://streaming.hrbtv.net/live/331875bfea734c8fb07516b10c8992f3?fmt=h264_400k_flv
+http://linuxsat-support.com/redirect/?to=http://slynet.do.am/FreeBestTV.m3u
+http://linuxsat-support.com/redirect/?to=http://slynet.do.am/FreeBestTV2.m3u
+http://linuxsat-support.com/redirect/?to=http://slynet.do.am/FreeWorldTV.m3u
+http://linuxsat-support.com/redirect/?to=http://slynet.do.am/KinodromSlyNet.m3u
+http://linuxsat-support.com/redirect/?to=http://slynet.do.am/ZabavaSlyUkraine.m3u
+http://linuxsat-support.com/redirect/?to=http://slynet.do.am/FreeWebCamsWorld.m3u
 
 CCTV1卡,http://58.200.131.2/hls/cctv1hd.m3u8
 CCTV1卡,http://58.200.131.2/hls/cctv1.m3u8

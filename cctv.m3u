@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 
 #EXTINF:-1 group-title="CCTV",CCTV1HD
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8
