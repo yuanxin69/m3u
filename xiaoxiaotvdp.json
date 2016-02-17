@@ -4625,7 +4625,8 @@
       "itemid": "TW",
       "name": "星  空  台☆,",
       "urllist": "p2p://ccs.golivetv.tv:9906/5621ab770007d4f719e0e2e0f9bb115e.ts"
-    }，{
+    },
+    {
       "num": "52001",
       "itemid": "letvzh",
       "name": "乐视综合乐迷频道",
@@ -8108,6 +8109,10 @@
   ],
   "type": [
     {
+      "id": "uid2",
+      "name": "小小韩国"
+    },
+    {
       "id": "uidall",
       "name": "←小小TV→"
     },
@@ -8122,10 +8127,6 @@
     {
       "id": "letvzh",
       "name": "左右换分类"
-    },
-    {
-      "id": "uid2",
-      "name": "小小韩国"
     },
     {
       "id": "uid5",
