@@ -4701,8 +4701,8 @@
     {
       "num": "52480",
       "itemid": "letvwy",
-      "name": "江苏卫视高清1",
-      "urllist": "http://icntv.xyz/letv/jiangsuHD_1800.m3u8"
+      "name": "羽毛球",
+      "urllist": "http://icntv.xyz/letv/ymq_1300.m3u8"
     },
     {
       "num": "52481",
@@ -4719,7 +4719,7 @@
     {
       "num": "52483",
       "itemid": "letvwy",
-      "name": "",
+      "name": "综合",
       "urllist": "http://icntv.xyz/letv/lb_zonghe_1000.m3u8"
     },
     {
