@@ -1,0 +1,22 @@
+#EXTINF:-1 group-title="台湾频道",台湾 - TVBS新闻 HD
+http://211.72.13.198/live/live01_hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾 - TVBS HD x
+http://211.72.13.198/live/live02_hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾 - TVBS-G HD x
+http://211.72.13.198/live/live06_hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾 - 中天新闻 
+http://211.72.13.198/live/live03_hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾 - 东森新闻
+http://211.72.13.198/live/live04_hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾 - 东森财经新闻 HD
+http://211.72.13.198/live/live05_hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾 - 台视 HD
+http://211.72.13.198/live/live07_hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾 - 中视 
+http://211.72.13.195/live/live08_hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾 - 华视 HD
+http://211.72.13.198/live/live09_hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾 - TVBS
+http://211.72.13.195/live/live10_hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾 - TVBS-G HD
+http://211.72.13.195/live/live11_hls.m3u8

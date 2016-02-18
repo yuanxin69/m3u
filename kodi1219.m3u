@@ -2124,7 +2124,30 @@ http://183.207.249.7/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 group-title="江苏移动",江苏移动 - CIBN精品大剧
 http://183.207.249.7/PLTV/3/224/3221225569/index.m3u8
 
-
+#EXTINF:-1 group-title="台湾频道",台湾 - 美食星球
+http://video01-lax.streamup.com/app/starfoods-stream/chunklist.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾 - TVB明珠台
+http://14.199.245.83:9981/stream/channelid/1?ticket=03A82DEB272A1C135DD06C126A04007CBCFEDF75
+#EXTINF:-1 group-title="台湾频道",台湾 - ATV World
+http://14.199.245.83:9981/stream/channelid/2?ticket=DD50BA211BD7AB995B4927031D35D239156B545A
+#EXTINF:-1 group-title="台湾频道",台湾 - TVB翡翠台
+http://14.199.245.83:9981/stream/channelid/3?ticket=F0059C53696F2212AAE520A46F1D1A38DCA14B43
+#EXTINF:-1 group-title="台湾频道",台湾 - 本港台
+http://14.199.245.83:9981/stream/channelid/4?ticket=0E906BF19D32395536B73B3C9CC5619788723E87
+#EXTINF:-1 group-title="台湾频道",台湾 - TVB J2
+http://14.199.245.83:9981/stream/channelid/5?ticket=01C7CC16EF8184CADA47403285FAB4F6C455A65D
+#EXTINF:-1 group-title="台湾频道",台湾 - 互动新闻台
+http://14.199.245.83:9981/stream/channelid/6?ticket=729EF9DE7947825A395068527FE672A79769E9B0 
+#EXTINF:-1 group-title="台湾频道",台湾 - 高清翡翠台
+http://14.199.245.83:9981/stream/channelid/7?ticket=E3E716B35E64EA4EC4044F8266289B450CB20C6E
+#EXTINF:-1 group-title="台湾频道",台湾 - 本港亚洲台,
+http://14.199.245.83:9981/stream/channelid/8?ticket=679C8A2DAB5FCBB4067D5AF2EE0916561700C75C
+#EXTINF:-1 group-title="台湾频道",台湾 - ATV岁月留声
+http://14.199.245.83:9981/stream/channelid/9?ticket=2662780DA2E65C6001A530F5C305525889E14ECB 
+#EXTINF:-1 group-title="台湾频道",台湾 - ATV,
+http://14.199.245.83:9981/stream/channelid/10?ticket=679C8A2DAB5FCBB4067D5AF2EE0916561700C75C
+#EXTINF:-1 group-title="台湾频道",台湾 - 深圳卫视
+http://14.199.245.83:9981/stream/channelid/11?ticket=981D4665979C9EBF81D19CD4F4F3C55CE96F4917
 #EXTINF:-1 group-title="台湾频道",台湾民视HD
 http://59.120.43.180:17334
 #EXTINF:-1 group-title="台湾频道",台湾民视新闻HD
