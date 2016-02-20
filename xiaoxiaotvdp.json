@@ -1,759 +1,759 @@
-﻿{
+{
   "live": [
     {
       "num": 55001,
       "itemid": "letvzh",
-      "name": "乐视综合乐迷频道",
+      "name": "乐迷频道",
       "urllist": "http://icntv.xyz/letv/lb_lm_1300.m3u8"
     },
     {
       "num": 55002,
       "itemid": "letvzh",
-      "name": "乐视综合乐视垫播",
+      "name": "乐视垫播",
       "urllist": "http://icntv.xyz/letv/lb_backup_1000.m3u8"
     },
     {
       "num": 55003,
       "itemid": "letvzh",
-      "name": "乐视综合科教纪录片",
+      "name": "科教纪录片",
       "urllist": "http://icntv.xyz/letv/lb_jilu_1300.m3u8"
     },
     {
       "num": 55004,
       "itemid": "letvzh",
-      "name": "乐视综合唐卡",
+      "name": "唐卡",
       "urllist": "http://icntv.xyz/letv/lb_lb_tangka_1300.m3u8"
     },
     {
       "num": 55005,
       "itemid": "letvzh",
-      "name": "乐视综合文化遗产",
+      "name": "文化遗产",
       "urllist": "http://icntv.xyz/letv/lb_lb_whyc_1300.m3u8"
     },
     {
       "num": 55006,
       "itemid": "letvzh",
-      "name": "乐视综合美克家居 A.R.T★",
+      "name": "美克家居 A.R.T★",
       "urllist": "http://icntv.xyz/letv/lb_mkmj_1300.m3u8"
     },
     {
       "num": 55007,
       "itemid": "letvzh",
-      "name": "乐视综合乐视生态",
+      "name": "乐视生态",
       "urllist": "http://icntv.xyz/letv/lb_lsst_1300.m3u8"
     },
     {
       "num": 55008,
       "itemid": "letvzh",
-      "name": "乐视综合动物世界",
+      "name": "动物世界",
       "urllist": "http://icntv.xyz/letv/lb_dwsj_1300.m3u8"
     },
     {
       "num": 55009,
       "itemid": "letvzh",
-      "name": "乐视综合综合",
+      "name": "综合",
       "urllist": "http://icntv.xyz/letv/lb_zonghe_1300.m3u8"
     },
     {
       "num": 55010,
       "itemid": "letvzh",
-      "name": "乐视综合综艺",
+      "name": "综艺",
       "urllist": "http://icntv.xyz/letv/lb_ent_1300.m3u8"
     },
     {
       "num": 55011,
       "itemid": "letvzh",
-      "name": "乐视综合党建",
+      "name": "党建",
       "urllist": "http://icntv.xyz/letv/lb_dangjian_1300.m3u8"
     },
     {
       "num": 55012,
       "itemid": "letvzh",
-      "name": "乐视综合电影",
+      "name": "电影",
       "urllist": "http://icntv.xyz/letv/lb_movie_1300.m3u8"
     },
     {
       "num": 55013,
       "itemid": "letvzh",
-      "name": "乐视综合电视剧",
+      "name": "电视剧",
       "urllist": "http://icntv.xyz/letv/lb_tv_1300.m3u8"
     },
     {
       "num": 55014,
       "itemid": "letvzh",
-      "name": "乐视综合1080P",
+      "name": "1080P",
       "urllist": "http://icntv.xyz/letv/lb_1080P_1080p3m.m3u8"
     },
     {
       "num": 55015,
       "itemid": "letvzh",
-      "name": "乐视综合乐视动作电影",
+      "name": "乐视动作电影",
       "urllist": "http://icntv.xyz/letv/lb_dzdy_1300.m3u8"
     },
     {
       "num": 55016,
       "itemid": "letvzh",
-      "name": "乐视综合香港电影",
+      "name": "香港电影",
       "urllist": "http://icntv.xyz/letv/lb_hkmovie_1300.m3u8"
     },
     {
       "num": 55017,
       "itemid": "letvzh",
-      "name": "乐视综合喜剧电影",
+      "name": "喜剧电影",
       "urllist": "http://icntv.xyz/letv/lb_comedy_1300.m3u8"
     },
     {
       "num": 55018,
       "itemid": "letvzh",
-      "name": "乐视综合自制剧",
+      "name": "自制剧",
       "urllist": "http://icntv.xyz/letv/lb_make_1300.m3u8"
     },
     {
       "num": 55019,
       "itemid": "letvzh",
-      "name": "乐视综合韩剧",
+      "name": "韩剧",
       "urllist": "http://icntv.xyz/letv/lb_koreatv_1300.m3u8"
     },
     {
       "num": 55020,
       "itemid": "letvzh",
-      "name": "乐视综合跟播",
+      "name": "跟播",
       "urllist": "http://icntv.xyz/letv/lb_genbo_1300.m3u8"
     },
     {
       "num": 55021,
       "itemid": "letvzh",
-      "name": "乐视综合4K",
+      "name": "4K",
       "urllist": "http://icntv.xyz/letv/lb_4k.m3u8"
     },
     {
       "num": 55022,
       "itemid": "letvzh",
-      "name": "乐视综合芈月传",
+      "name": "芈月传",
       "urllist": "http://icntv.xyz/letv/lb_myz_1300.m3u8"
     },
     {
       "num": 55023,
       "itemid": "letvzh",
-      "name": "乐视综合北平无战事",
+      "name": "北平无战事",
       "urllist": "http://icntv.xyz/letv/lb_bpwzs_1300.m3u8"
     },
     {
       "num": 55024,
       "itemid": "letvzh",
-      "name": "乐视综合公开课",
+      "name": "公开课",
       "urllist": "http://icntv.xyz/letv/lb_gkk_1300.m3u8"
     },
     {
       "num": 55025,
       "itemid": "letvzh",
-      "name": "乐视综合我是歌手NEW",
+      "name": "我是歌手NEW",
       "urllist": "http://icntv.xyz/letv/lb_imsinger_1300.m3u8"
     },
     {
       "num": 55026,
       "itemid": "letvzh",
-      "name": "乐视综合出彩中国人",
+      "name": "出彩中国人",
       "urllist": "http://icntv.xyz/letv/lb_cczgr_1300.m3u8"
     },
     {
       "num": 55027,
       "itemid": "letvzh",
-      "name": "乐视综合笑傲江湖",
+      "name": "笑傲江湖",
       "urllist": "http://icntv.xyz/letv/lb_xajh_1300.m3u8"
     },
     {
       "num": 55028,
       "itemid": "letvzh",
-      "name": "乐视综合我看你有戏",
+      "name": "我看你有戏",
       "urllist": "http://icntv.xyz/letv/lb_bbhll_1300.m3u8"
     },
     {
       "num": 55029,
       "itemid": "letvzh",
-      "name": "乐视综合欢乐喜剧人",
+      "name": "欢乐喜剧人",
       "urllist": "http://icntv.xyz/letv/lb_hlxjr_1300.m3u8"
     },
     {
       "num": 55030,
       "itemid": "letvzh",
-      "name": "乐视综合舌尖上的中国",
+      "name": "舌尖上的中国",
       "urllist": "http://icntv.xyz/letv/lb_sjsdzg_1300.m3u8"
     },
     {
       "num": 55031,
       "itemid": "letvzh",
-      "name": "乐视综合黄段子",
+      "name": "黄段子",
       "urllist": "http://icntv.xyz/letv/lb_hdz_1300.m3u8"
     },
     {
       "num": 55032,
       "itemid": "letvzh",
-      "name": "乐视综合完美游戏",
+      "name": "完美游戏",
       "urllist": "http://icntv.xyz/letv/lb_wmyx_1300.m3u8"
     },
     {
       "num": 55033,
       "itemid": "letvzh",
-      "name": "乐视综合电影片花",
+      "name": "电影片花",
       "urllist": "http://icntv.xyz/letv/lb_trailer_1300.m3u8"
     },
     {
       "num": 55034,
       "itemid": "letvzh",
-      "name": "乐视综合周星驰影视",
+      "name": "周星驰影视",
       "urllist": "http://icntv.xyz/letv/lb_zxc_1300.m3u8"
     },
     {
       "num": 55035,
       "itemid": "letvzh",
-      "name": "乐视综合成龙影视",
+      "name": "成龙影视",
       "urllist": "http://icntv.xyz/letv/lb_cl_1300.m3u8"
     },
     {
       "num": 55036,
       "itemid": "letvzh",
-      "name": "乐视综合甄嬛传",
+      "name": "甄嬛传",
       "urllist": "http://icntv.xyz/letv/lb_zhenhuan_1300.m3u8"
     },
     {
       "num": 55037,
       "itemid": "letvzh",
-      "name": "乐视综合纸牌屋",
+      "name": "纸牌屋",
       "urllist": "http://icntv.xyz/letv/lb_zpw_1300.m3u8"
     },
     {
       "num": 55038,
       "itemid": "letvzh",
-      "name": "乐视综合反法西斯",
+      "name": "反法西斯",
       "urllist": "http://icntv.xyz/letv/lb_ffxs_1300.m3u8"
     },
     {
       "num": 55039,
       "itemid": "letvzh",
-      "name": "乐视综合红高粱",
+      "name": "红高粱",
       "urllist": "http://icntv.xyz/letv/lb_hgl_1300.m3u8"
     },
     {
       "num": 55040,
       "itemid": "letvzh",
-      "name": "乐视综合北京傲客",
+      "name": "北京傲客",
       "urllist": "http://icntv.xyz/letv/lb_bjak_1300.m3u8"
     },
     {
       "num": 55041,
       "itemid": "letvzh",
-      "name": "乐视综合和平的全盛时代",
+      "name": "和平的全盛时代",
       "urllist": "http://icntv.xyz/letv/lb_hpdqssd_1300.m3u8"
     },
     {
       "num": 55042,
       "itemid": "letvzh",
-      "name": "乐视综合少年四大名捕",
+      "name": "少年四大名捕",
       "urllist": "http://icntv.xyz/letv/lb_snsdmb_1300.m3u8"
     },
     {
       "num": 55043,
       "itemid": "letvzh",
-      "name": "乐视综合鹿鼎记",
+      "name": "鹿鼎记",
       "urllist": "http://icntv.xyz/letv/lb_ldj_1300.m3u8"
     },
     {
       "num": 55044,
       "itemid": "letvzh",
-      "name": "乐视综合还珠格格",
+      "name": "还珠格格",
       "urllist": "http://icntv.xyz/letv/lb_hzgg_1300.m3u8"
     },
     {
       "num": 55045,
       "itemid": "letvzh",
-      "name": "乐视综合裸婚时代",
+      "name": "裸婚时代",
       "urllist": "http://icntv.xyz/letv/lb_lhsd_1300.m3u8"
     },
     {
       "num": 55046,
       "itemid": "letvzh",
-      "name": "乐视综合步步惊心",
+      "name": "步步惊心",
       "urllist": "http://icntv.xyz/letv/lb_bbjx_1300.m3u8"
     },
     {
       "num": 55047,
       "itemid": "letvzh",
-      "name": "乐视综合亮剑",
+      "name": "亮剑",
       "urllist": "http://icntv.xyz/letv/lb_liangjian_1300.m3u8"
     },
     {
       "num": 55048,
       "itemid": "letvzh",
-      "name": "乐视综合士兵突击",
+      "name": "士兵突击",
       "urllist": "http://icntv.xyz/letv/lb_sbtj_1300.m3u8"
     },
     {
       "num": 55049,
       "itemid": "letvzh",
-      "name": "乐视综合西游记",
+      "name": "西游记",
       "urllist": "http://icntv.xyz/letv/lb_xyj_1300.m3u8"
     },
     {
       "num": 55050,
       "itemid": "letvzh",
-      "name": "乐视综合包青天",
+      "name": "包青天",
       "urllist": "http://icntv.xyz/letv/lb_bqt_1300.m3u8"
     },
     {
       "num": 55051,
       "itemid": "letvzh",
-      "name": "乐视综合满仓进城",
+      "name": "满仓进城",
       "urllist": "http://icntv.xyz/letv/lb_mcjc_1300.m3u8"
     },
     {
       "num": 55052,
       "itemid": "letvzh",
-      "name": "乐视综合因为爱情有奇迹",
+      "name": "因为爱情有奇迹",
       "urllist": "http://icntv.xyz/letv/lb_ywaqyqj_1300.m3u8"
     },
     {
       "num": 55053,
       "itemid": "letvzh",
-      "name": "乐视综合北平无战事",
+      "name": "北平无战事",
       "urllist": "http://icntv.xyz/letv/lb_bpwzs_1300.m3u8"
     },
     {
       "num": 55054,
       "itemid": "letvzh",
-      "name": "乐视综合武林外传",
+      "name": "武林外传",
       "urllist": "http://icntv.xyz/letv/lb_wlwz_1300.m3u8"
     },
     {
       "num": 55055,
       "itemid": "letvzh",
-      "name": "乐视综合龙门镖局",
+      "name": "龙门镖局",
       "urllist": "http://icntv.xyz/letv/lb_lmbj_1300.m3u8"
     },
     {
       "num": 55056,
       "itemid": "letvzh",
-      "name": "乐视综合好莱坞",
+      "name": "好莱坞",
       "urllist": "http://icntv.xyz/letv/lb_hlw_1300.m3u8"
     },
     {
       "num": 55057,
       "itemid": "letvzh",
-      "name": "乐视综合华语电影",
+      "name": "华语电影",
       "urllist": "http://icntv.xyz/letv/lb_hydy_1300.m3u8"
     },
     {
       "num": 55058,
       "itemid": "letvzh",
-      "name": "乐视综合日韩电影",
+      "name": "日韩电影",
       "urllist": "http://icntv.xyz/letv/lb_rhdy_1300.m3u8"
     },
     {
       "num": 55059,
       "itemid": "letvzh",
-      "name": "乐视综合北京傲客",
+      "name": "北京傲客",
       "urllist": "http://icntv.xyz/letv/lb_bjak_1300.m3u8"
     },
     {
       "num": 55060,
       "itemid": "letvzh",
-      "name": "乐视综合新济公活佛",
+      "name": "新济公活佛",
       "urllist": "http://icntv.xyz/letv/lb_xjghf_1300.m3u8"
     },
     {
       "num": 55061,
       "itemid": "letvzh",
-      "name": "乐视综合花样姐姐",
+      "name": "花样姐姐",
       "urllist": "http://icntv.xyz/letv/lb_hyjj_1300.m3u8"
     },
     {
       "num": 55062,
       "itemid": "letvzh",
-      "name": "乐视综合想明白了再结婚",
+      "name": "想明白了再结婚",
       "urllist": "http://icntv.xyz/letv/lb_xmblzjh_1300.m3u8"
     },
     {
       "num": 55063,
       "itemid": "letvzh",
-      "name": "乐视综合极品新娘",
+      "name": "极品新娘",
       "urllist": "http://icntv.xyz/letv/lb_jpxn_1300.m3u8"
     },
     {
       "num": 55064,
       "itemid": "letvzh",
-      "name": "乐视综合虎妈猫爸",
+      "name": "虎妈猫爸",
       "urllist": "http://icntv.xyz/letv/lb_hmmb_1300.m3u8"
     },
     {
       "num": 55065,
       "itemid": "letvzh",
-      "name": "乐视综合聊斋新编",
+      "name": "聊斋新编",
       "urllist": "http://icntv.xyz/letv/lb_lzxb_1300.m3u8"
     },
     {
       "num": 55066,
       "itemid": "letvzh",
-      "name": "乐视综合何以笙箫默",
+      "name": "何以笙箫默",
       "urllist": "http://icntv.xyz/letv/lb_hysxm_1300.m3u8"
     },
     {
       "num": 55067,
       "itemid": "letvzh",
-      "name": "乐视综合粤语频道",
+      "name": "粤语频道",
       "urllist": "http://icntv.xyz/letv/lb_yylbpd_1300.m3u8"
     },
     {
       "num": 55068,
       "itemid": "letvzh",
-      "name": "乐视综合平凡的世界",
+      "name": "平凡的世界",
       "urllist": "http://icntv.xyz/letv/lb_pfdsj_1300.m3u8"
     },
     {
       "num": 55069,
       "itemid": "letvzh",
-      "name": "乐视综合封神英雄",
+      "name": "封神英雄",
       "urllist": "http://icntv.xyz/letv/lb_fsyx_1300.m3u8"
     },
     {
       "num": 55070,
       "itemid": "letvzh",
-      "name": "乐视综合隋唐英雄",
+      "name": "隋唐英雄",
       "urllist": "http://icntv.xyz/letv/lb_styx_1300.m3u8"
     },
     {
       "num": 55071,
       "itemid": "letvzh",
-      "name": "乐视综合锦绣缘华丽冒险",
+      "name": "锦绣缘华丽冒险",
       "urllist": "http://icntv.xyz/letv/lb_jxyhlmx_1300.m3u8"
     },
     {
       "num": 55072,
       "itemid": "letvzh",
-      "name": "乐视综合活色生香",
+      "name": "活色生香",
       "urllist": "http://icntv.xyz/letv/lb_hssx_800.m3u8"
     },
     {
       "num": 55073,
       "itemid": "letvzh",
-      "name": "乐视综合武媚娘传奇",
+      "name": "武媚娘传奇",
       "urllist": "http://icntv.xyz/letv/lb_wmncq_1300.m3u8"
     },
     {
       "num": 55074,
       "itemid": "letvzh",
-      "name": "乐视综合拐个皇帝回现代",
+      "name": "拐个皇帝回现代",
       "urllist": "http://icntv.xyz/letv/lb_gghdhxd_1800.m3u8"
     },
     {
       "num": 55075,
       "itemid": "letvzh",
-      "name": "乐视综合我的老师是传奇",
+      "name": "我的老师是传奇",
       "urllist": "http://icntv.xyz/letv/lb_wdlsscq_1800.m3u8"
     },
     {
       "num": 55076,
       "itemid": "letvzh",
-      "name": "乐视综合冰与火的青春",
+      "name": "冰与火的青春",
       "urllist": "http://icntv.xyz/letv/lb_byhdqc_1800.m3u8"
     },
     {
       "num": 55077,
       "itemid": "letvzh",
-      "name": "乐视综合琅琊榜",
+      "name": "琅琊榜",
       "urllist": "http://icntv.xyz/letv/lb_lyb_1800.m3u8"
     },
     {
       "num": 55078,
       "itemid": "letvzh",
-      "name": "乐视综合十周嫁出去",
+      "name": "十周嫁出去",
       "urllist": "http://icntv.xyz/letv/lb_szjcq_1800.m3u8"
     },
     {
       "num": 55079,
       "itemid": "letvzh",
-      "name": "乐视综合伪装者",
+      "name": "伪装者",
       "urllist": "http://icntv.xyz/letv/lb_wzz_1800.m3u8"
     },
     {
       "num": 55080,
       "itemid": "letvzh",
-      "name": "乐视综合调皮王妃",
+      "name": "调皮王妃",
       "urllist": "http://icntv.xyz/letv/lb_tpwf_1800.m3u8"
     },
     {
       "num": 55081,
       "itemid": "letvzh",
-      "name": "乐视综合两生花",
+      "name": "两生花",
       "urllist": "http://icntv.xyz/letv/lb_lb_lsh_1300.m3u8"
     },
     {
       "num": 55082,
       "itemid": "letvzh",
-      "name": "乐视综合小时代",
+      "name": "小时代",
       "urllist": "http://icntv.xyz/letv/lb_xsd_1300.m3u8"
     },
     {
       "num": 55083,
       "itemid": "letvzh",
-      "name": "乐视综合想明白了再结婚",
+      "name": "想明白了再结婚",
       "urllist": "http://icntv.xyz/letv/lb_xmblzjh_1300.m3u8"
     },
     {
       "num": 55084,
       "itemid": "letvzh",
-      "name": "乐视综合极品新娘",
+      "name": "极品新娘",
       "urllist": "http://icntv.xyz/letv/lb_jpxn_1300.m3u8"
     },
     {
       "num": 55085,
       "itemid": "letvzh",
-      "name": "乐视综合欢乐喜剧人",
+      "name": "欢乐喜剧人",
       "urllist": "http://icntv.xyz/letv/lb_hlxjr_1300.m3u8"
     },
     {
       "num": 55086,
       "itemid": "letvzh",
-      "name": "乐视综合偏偏喜欢你",
+      "name": "偏偏喜欢你",
       "urllist": "http://icntv.xyz/letv/lb_lb_ppxhn_1300.m3u8"
     },
     {
       "num": 55087,
       "itemid": "letvzh",
-      "name": "乐视综合后海不是海",
+      "name": "后海不是海",
       "urllist": "http://icntv.xyz/letv/lb_lb_hhbsh_1800.m3u8"
     },
     {
       "num": 55088,
       "itemid": "letvzh",
-      "name": "乐视综合你是我的姐妹",
+      "name": "你是我的姐妹",
       "urllist": "http://icntv.xyz/letv/lb_lb_nswdjm_1800.m3u8"
     },
     {
       "num": 55089,
       "itemid": "letvzh",
-      "name": "乐视综合克拉恋人",
+      "name": "克拉恋人",
       "urllist": "http://icntv.xyz/letv/lb_kllr_1300.m3u8"
     },
     {
       "num": 55090,
       "itemid": "letvzh",
-      "name": "乐视综合挑战者联盟",
+      "name": "挑战者联盟",
       "urllist": "http://icntv.xyz/letv/lb_tzzlm_1300.m3u8"
     },
     {
       "num": 55091,
       "itemid": "letvzh",
-      "name": "乐视综合少年神探狄仁杰",
+      "name": "少年神探狄仁杰",
       "urllist": "http://icntv.xyz/letv/lb_snstdrj_1300.m3u8"
     },
     {
       "num": 55092,
       "itemid": "letvzh",
-      "name": "乐视综合神犬小七",
+      "name": "神犬小七",
       "urllist": "http://icntv.xyz/letv/lb_sqxq_1300.m3u8"
     },
     {
       "num": 55093,
       "itemid": "letvzh",
-      "name": "乐视综合潜伏",
+      "name": "潜伏",
       "urllist": "http://icntv.xyz/letv/lb_qianfu_1300.m3u8"
     },
     {
       "num": 55094,
       "itemid": "letvzh",
-      "name": "乐视综合欢乐季",
+      "name": "欢乐季",
       "urllist": "http://icntv.xyz/letv/lb_2015xjdws_1300.m3u8"
     },
     {
       "num": 55095,
       "itemid": "letvzh",
-      "name": "乐视综合大汉情缘之云中歌",
+      "name": "大汉情缘之云中歌",
       "urllist": "http://icntv.xyz/letv/lb_dhqyzyzg_1300.m3u8"
     },
     {
       "num": 55096,
       "itemid": "letvzh",
-      "name": "乐视综合来自未来的史密特",
+      "name": "来自未来的史密特",
       "urllist": "http://icntv.xyz/letv/lb_lzwldsmt_1800.m3u8"
     },
     {
       "num": 55097,
       "itemid": "letvzh",
-      "name": "乐视综合特工卡特",
+      "name": "特工卡特",
       "urllist": "http://icntv.xyz/letv/lb_tgkt_1800.m3u8"
     },
     {
       "num": 55098,
       "itemid": "letvzh",
-      "name": "乐视综合音乐",
+      "name": "音乐",
       "urllist": "http://icntv.xyz/letv/lb_music_1300.m3u8"
     },
     {
       "num": 55099,
       "itemid": "letvzh",
-      "name": "乐视综合演唱会",
+      "name": "演唱会",
       "urllist": "http://icntv.xyz/letv/lb_concert_1300.m3u8"
     },
     {
       "num": 55100,
       "itemid": "letvzh",
-      "name": "乐视综合娱乐",
+      "name": "娱乐",
       "urllist": "http://icntv.xyz/letv/lb_yule_1300.m3u8"
     },
     {
       "num": 55101,
       "itemid": "letvzh",
-      "name": "乐视综合MV",
+      "name": "MV",
       "urllist": "http://icntv.xyz/letv/lb_mv_1300.m3u8"
     },
     {
       "num": 55102,
       "itemid": "letvzh",
-      "name": "乐视综合古典音乐",
+      "name": "古典音乐",
       "urllist": "http://icntv.xyz/letv/lb_classical_1300.m3u8"
     },
     {
       "num": 55103,
       "itemid": "letvzh",
-      "name": "乐视综合戏曲",
+      "name": "戏曲",
       "urllist": "http://icntv.xyz/letv/lb_xiqu_1300.m3u8"
     },
     {
       "num": 55104,
       "itemid": "letvzh",
-      "name": "乐视综合音乐节",
+      "name": "音乐节",
       "urllist": "http://icntv.xyz/letv/lb_yinyuejie_1000.m3u8"
     },
     {
       "num": 55105,
       "itemid": "letvzh",
-      "name": "乐视综合LIVE生活",
+      "name": "LIVE生活",
       "urllist": "http://icntv.xyz/letv/lb_livemusic_1000.m3u8"
     },
     {
       "num": 55106,
       "itemid": "letvzh",
-      "name": "乐视综合格莱美音乐奖",
+      "name": "格莱美音乐奖",
       "urllist": "http://icntv.xyz/letv/lb_glmyyj_1300.m3u8"
     },
     {
       "num": 55107,
       "itemid": "letvzh",
-      "name": "乐视综合乐听古典音乐轮播台",
+      "name": "乐听古典音乐轮播台",
       "urllist": "http://icntv.xyz/letv/lb_leting_classical_music_800.m3u8"
     },
     {
       "num": 55108,
       "itemid": "letvzh",
-      "name": "乐视综合乐听音乐节轮播台",
+      "name": "乐听音乐节轮播台",
       "urllist": "http://icntv.xyz/letv/lb_leting_festival_800.m3u8"
     },
     {
       "num": 55109,
       "itemid": "letvzh",
-      "name": "乐视综合乐听蒙面歌王轮播台",
+      "name": "乐听蒙面歌王轮播台",
       "urllist": "http://icntv.xyz/letv/lb_leting_mmgw_800.m3u8"
     },
     {
       "num": 55110,
       "itemid": "letvzh",
-      "name": "乐视综合乐听我是歌手轮播台",
+      "name": "乐听我是歌手轮播台",
       "urllist": "http://icntv.xyz/letv/lb_leting_wsgs_800.m3u8"
     },
     {
       "num": 55111,
       "itemid": "letvzh",
-      "name": "乐视综合乐听教育轮播台",
+      "name": "乐听教育轮播台",
       "urllist": "http://icntv.xyz/letv/lb_leting_800.m3u8"
     },
     {
       "num": 55112,
       "itemid": "letvzh",
-      "name": "乐视综合华鼎奖颁奖典礼",
+      "name": "华鼎奖颁奖典礼",
       "urllist": "http://icntv.xyz/letv/lb_hdjbjdl_1300.m3u8"
     },
     {
       "num": 55113,
       "itemid": "letvzh",
-      "name": "乐视综合郎朗演唱会",
+      "name": "郎朗演唱会",
       "urllist": "http://icntv.xyz/letv/lb_langlang_1800.m3u8"
     },
     {
       "num": 55114,
       "itemid": "letvzh",
-      "name": "乐视综合陈奕迅演唱会",
+      "name": "陈奕迅演唱会",
       "urllist": "http://icntv.xyz/letv/lb_chenyixun_1300.m3u8"
     },
     {
       "num": 55115,
       "itemid": "letvzh",
-      "name": "乐视综合中国摇滚",
+      "name": "中国摇滚",
       "urllist": "http://icntv.xyz/letv/lb_zgyg_1300.m3u8"
     },
     {
       "num": 55116,
       "itemid": "letvzh",
-      "name": "乐视综合中国民谣",
+      "name": "中国民谣",
       "urllist": "http://icntv.xyz/letv/lb_zgmy_1300.m3u8"
     },
     {
       "num": 55117,
       "itemid": "letvzh",
-      "name": "乐视综合日本流行",
+      "name": "日本流行",
       "urllist": "http://icntv.xyz/letv/lb_rblx_1300.m3u8"
     },
     {
       "num": 55118,
       "itemid": "letvzh",
-      "name": "乐视综合欧美流行",
+      "name": "欧美流行",
       "urllist": "http://icntv.xyz/letv/lb_omlx_1300.m3u8"
     },
     {
       "num": 55119,
       "itemid": "letvzh",
-      "name": "乐视综合蒙面歌王",
+      "name": "蒙面歌王",
       "urllist": "http://icntv.xyz/letv/lb_mmgw_1300.m3u8"
     },
     {
       "num": 55120,
       "itemid": "letvzh",
-      "name": "乐视综合广告频道",
+      "name": "广告频道",
       "urllist": "http://icntv.xyz/letv/lb_lb_ggpd_1300.m3u8"
     },
     {
       "num": 55121,
       "itemid": "letvzh",
-      "name": "乐视综合环球购物",
+      "name": "环球购物",
       "urllist": "http://icntv.xyz/letv/lb_lb_hqgw_1300.m3u8"
     },
     {
       "num": 55122,
       "itemid": "letvzh",
-      "name": "乐视综合★广场舞",
+      "name": "★广场舞",
       "urllist": "http://icntv.xyz/letv/lb_gcw_1300.m3u8"
     },
     {
       "num": 55123,
       "itemid": "letvzh",
-      "name": "乐视综合生活",
+      "name": "生活",
       "urllist": "http://icntv.xyz/letv/lb_shenghuo_1300.m3u8"
     },
     {
       "num": 55124,
       "itemid": "letvzh",
-      "name": "乐视综合超级超级",
+      "name": "超级超级",
       "urllist": "http://icntv.xyz/letv/lb_zdyjfc_1300.m3u8"
     },
     {
       "num": 55125,
       "itemid": "letvzh",
-      "name": "乐视综合★炉石传说",
+      "name": "★炉石传说",
       "urllist": "http://icntv.xyz/letv/lb_hlj_1300.m3u8"
     },
     {
       "num": 55126,
       "itemid": "letvzh",
-      "name": "乐视综合王者归来发布会",
+      "name": "王者归来发布会",
       "urllist": "http://icntv.xyz/letv/lb_jcytht_1300.m3u8"
     },
     {
@@ -879,1423 +879,1423 @@
     {
       "num": 55147,
       "itemid": "letvjc",
-      "name": "乐视剧场小众美剧",
+      "name": "小众美剧",
       "urllist": "http://icntv.xyz/letv/lb_xzmj_1300.m3u8"
     },
     {
       "num": 55148,
       "itemid": "letvjc",
-      "name": "乐视剧场热门美剧",
+      "name": "热门美剧",
       "urllist": "http://icntv.xyz/letv/lb_rmmj_1300.m3u8"
     },
     {
       "num": 55149,
       "itemid": "letvjc",
-      "name": "乐视剧场都市剧场",
+      "name": "都市剧场",
       "urllist": "http://icntv.xyz/letv/lb_dsjc_1300.m3u8"
     },
     {
       "num": 55150,
       "itemid": "letvjc",
-      "name": "乐视剧场脱单剧场",
+      "name": "脱单剧场",
       "urllist": "http://icntv.xyz/letv/lb_tdjc_1300.m3u8"
     },
     {
       "num": 55151,
       "itemid": "letvjc",
-      "name": "乐视剧场美剧",
+      "name": "美剧",
       "urllist": "http://icntv.xyz/letv/lb_meiju_1300.m3u8"
     },
     {
       "num": 55152,
       "itemid": "letvjc",
-      "name": "乐视剧场超级英雄",
+      "name": "超级英雄",
       "urllist": "http://icntv.xyz/letv/lb_cjyx_1300.m3u8"
     },
     {
       "num": 55153,
       "itemid": "letvjc",
-      "name": "乐视剧场跟播美剧",
+      "name": "跟播美剧",
       "urllist": "http://icntv.xyz/letv/lb_gbmj_1300.m3u8"
     },
     {
       "num": 55154,
       "itemid": "letvjc",
-      "name": "乐视剧场经典美剧",
+      "name": "经典美剧",
       "urllist": "http://icntv.xyz/letv/lb_jdmj_1300.m3u8"
     },
     {
       "num": 55155,
       "itemid": "letvjc",
-      "name": "乐视剧场罪案烧脑",
+      "name": "罪案烧脑",
       "urllist": "http://icntv.xyz/letv/lb_zasn_1300.m3u8"
     },
     {
       "num": 55156,
       "itemid": "letvjc",
-      "name": "乐视剧场科幻美剧",
+      "name": "科幻美剧",
       "urllist": "http://icntv.xyz/letv/lb_khmj_1300.m3u8"
     },
     {
       "num": 55157,
       "itemid": "letvjc",
-      "name": "乐视剧场奇幻美剧",
+      "name": "奇幻美剧",
       "urllist": "http://icntv.xyz/letv/lb_qhmj_1300.m3u8"
     },
     {
       "num": 55158,
       "itemid": "letvjc",
-      "name": "乐视剧场喜剧美剧",
+      "name": "喜剧美剧",
       "urllist": "http://icntv.xyz/letv/lb_xjmj_1300.m3u8"
     },
     {
       "num": 55159,
       "itemid": "letvjc",
-      "name": "乐视剧场年代剧场",
+      "name": "年代剧场",
       "urllist": "http://icntv.xyz/letv/lb_ndjc_1300.m3u8"
     },
     {
       "num": 55160,
       "itemid": "letvjc",
-      "name": "乐视剧场虐恋美剧",
+      "name": "虐恋美剧",
       "urllist": "http://icntv.xyz/letv/lb_nlmj_1300.m3u8"
     },
     {
       "num": 55161,
       "itemid": "letvjc",
-      "name": "乐视剧场高冷美剧",
+      "name": "高冷美剧",
       "urllist": "http://icntv.xyz/letv/lb_glmj_1300.m3u8"
     },
     {
       "num": 55162,
       "itemid": "letvjc",
-      "name": "乐视剧场单元美剧",
+      "name": "单元美剧",
       "urllist": "http://icntv.xyz/letv/lb_dymj_1300.m3u8"
     },
     {
       "num": 55163,
       "itemid": "letvjc",
-      "name": "乐视剧场肥皂美剧",
+      "name": "肥皂美剧",
       "urllist": "http://icntv.xyz/letv/lb_fzmj_1300.m3u8"
     },
     {
       "num": 55164,
       "itemid": "letvjc",
-      "name": "乐视剧场律政医务美剧",
+      "name": "律政医务美剧",
       "urllist": "http://icntv.xyz/letv/lb_lzywmj_1300.m3u8"
     },
     {
       "num": 55165,
       "itemid": "letvjc",
-      "name": "乐视剧场热血动作美剧",
+      "name": "热血动作美剧",
       "urllist": "http://icntv.xyz/letv/lb_rxdzmj_1300.m3u8"
     },
     {
       "num": 55166,
       "itemid": "letvjc",
-      "name": "乐视剧场重播之王",
+      "name": "重播之王",
       "urllist": "http://icntv.xyz/letv/lb_cbzw_1300.m3u8"
     },
     {
       "num": 55167,
       "itemid": "letvjc",
-      "name": "乐视剧场神话剧场",
+      "name": "神话剧场",
       "urllist": "http://icntv.xyz/letv/lb_shjc_1300.m3u8"
     },
     {
       "num": 55168,
       "itemid": "letvjc",
-      "name": "乐视剧场情景喜剧剧场",
+      "name": "情景喜剧剧场",
       "urllist": "http://icntv.xyz/letv/lb_qjxjjc_1300.m3u8"
     },
     {
       "num": 55169,
       "itemid": "letvjc",
-      "name": "乐视剧场武侠剧场",
+      "name": "武侠剧场",
       "urllist": "http://icntv.xyz/letv/lb_wxjc_1300.m3u8"
     },
     {
       "num": 55170,
       "itemid": "letvjc",
-      "name": "乐视剧场抗战剧场",
+      "name": "抗战剧场",
       "urllist": "http://icntv.xyz/letv/lb_kangz_1300.m3u8"
     },
     {
       "num": 55171,
       "itemid": "letvjc",
-      "name": "乐视剧场女性剧场",
+      "name": "女性剧场",
       "urllist": "http://icntv.xyz/letv/lb_nxjc_1300.m3u8"
     },
     {
       "num": 55172,
       "itemid": "letvjc",
-      "name": "乐视剧场宫斗剧场",
+      "name": "宫斗剧场",
       "urllist": "http://icntv.xyz/letv/lb_gdjc_1300.m3u8"
     },
     {
       "num": 55173,
       "itemid": "letvjc",
-      "name": "乐视剧场军旅剧场",
+      "name": "军旅剧场",
       "urllist": "http://icntv.xyz/letv/lb_jljc_1300.m3u8"
     },
     {
       "num": 55174,
       "itemid": "letvjc",
-      "name": "乐视剧场励志剧场",
+      "name": "励志剧场",
       "urllist": "http://icntv.xyz/letv/lb_lzjc_1300.m3u8"
     },
     {
       "num": 55175,
       "itemid": "letvjc",
-      "name": "乐视剧场催泪剧场",
+      "name": "催泪剧场",
       "urllist": "http://icntv.xyz/letv/lb_cljc_1300.m3u8"
     },
     {
       "num": 55176,
       "itemid": "letvjc",
-      "name": "乐视剧场兄弟剧场",
+      "name": "兄弟剧场",
       "urllist": "http://icntv.xyz/letv/lb_xdjc_1300.m3u8"
     },
     {
       "num": 55177,
       "itemid": "letvjc",
-      "name": "乐视剧场姐妹淘剧场",
+      "name": "姐妹淘剧场",
       "urllist": "http://icntv.xyz/letv/lb_jmtjc_1300.m3u8"
     },
     {
       "num": 55178,
       "itemid": "letvjc",
-      "name": "乐视剧场青春偶像美剧",
+      "name": "青春偶像美剧",
       "urllist": "http://icntv.xyz/letv/lb_qcoxmj_1300.m3u8"
     },
     {
       "num": 55179,
       "itemid": "letvmr",
-      "name": "乐视名人汪峰",
+      "name": "汪峰",
       "urllist": "http://icntv.xyz/letv/lb_wf_1300.m3u8"
     },
     {
       "num": 55180,
       "itemid": "letvmr",
-      "name": "乐视名人邓紫棋",
+      "name": "邓紫棋",
       "urllist": "http://icntv.xyz/letv/lb_dengziqi_1300.m3u8"
     },
     {
       "num": 55181,
       "itemid": "letvmr",
-      "name": "乐视名人羽泉",
+      "name": "羽泉",
       "urllist": "http://icntv.xyz/letv/lb_yuquan_1300.m3u8"
     },
     {
       "num": 55182,
       "itemid": "letvmr",
-      "name": "乐视名人凤凰传奇",
+      "name": "凤凰传奇",
       "urllist": "http://icntv.xyz/letv/lb_fhcq_1300.m3u8"
     },
     {
       "num": 55183,
       "itemid": "letvmr",
-      "name": "乐视名人张杰",
+      "name": "张杰",
       "urllist": "http://icntv.xyz/letv/lb_zj_1300.m3u8"
     },
     {
       "num": 55184,
       "itemid": "letvmr",
-      "name": "乐视名人韩红",
+      "name": "韩红",
       "urllist": "http://icntv.xyz/letv/lb_hanhong_1300.m3u8"
     },
     {
       "num": 55185,
       "itemid": "letvmr",
-      "name": "乐视名人李宇春",
+      "name": "李宇春",
       "urllist": "http://icntv.xyz/letv/lb_lyc_1300.m3u8"
     },
     {
       "num": 55186,
       "itemid": "letvmr",
-      "name": "乐视名人韩磊",
+      "name": "韩磊",
       "urllist": "http://icntv.xyz/letv/lb_hl_1300.m3u8"
     },
     {
       "num": 55187,
       "itemid": "letvmr",
-      "name": "乐视名人杨澜",
+      "name": "杨澜",
       "urllist": "http://icntv.xyz/letv/lb_yanglan_1300.m3u8"
     },
     {
       "num": 55188,
       "itemid": "letvmr",
-      "name": "乐视名人张艺谋",
+      "name": "张艺谋",
       "urllist": "http://icntv.xyz/letv/lb_zym_1300.m3u8"
     },
     {
       "num": 55189,
       "itemid": "letvmr",
-      "name": "乐视名人邓超",
+      "name": "邓超",
       "urllist": "http://icntv.xyz/letv/lb_dengchao_1300.m3u8"
     },
     {
       "num": 55190,
       "itemid": "letvmr",
-      "name": "乐视名人郑晓龙",
+      "name": "郑晓龙",
       "urllist": "http://icntv.xyz/letv/lb_zxl_1300.m3u8"
     },
     {
       "num": 55191,
       "itemid": "letvmr",
-      "name": "乐视名人王雷",
+      "name": "王雷",
       "urllist": "http://icntv.xyz/letv/lb_wl_1300.m3u8"
     },
     {
       "num": 55192,
       "itemid": "letvmr",
-      "name": "乐视名人徐克",
+      "name": "徐克",
       "urllist": "http://icntv.xyz/letv/lb_xuke_1300.m3u8"
     },
     {
       "num": 55193,
       "itemid": "letvmr",
-      "name": "乐视名人黄晓明",
+      "name": "黄晓明",
       "urllist": "http://icntv.xyz/letv/lb_hxm_1300.m3u8"
     },
     {
       "num": 55194,
       "itemid": "letvmr",
-      "name": "乐视名人苏芒",
+      "name": "苏芒",
       "urllist": "http://icntv.xyz/letv/lb_sumang_1300.m3u8"
     },
     {
       "num": 55195,
       "itemid": "letvmr",
-      "name": "乐视名人章子怡",
+      "name": "章子怡",
       "urllist": "http://icntv.xyz/letv/lb_zhangziyi_1300.m3u8"
     },
     {
       "num": 55196,
       "itemid": "letvmr",
-      "name": "乐视名人沈傲君",
+      "name": "沈傲君",
       "urllist": "http://icntv.xyz/letv/lb_saj_1300.m3u8"
     },
     {
       "num": 55197,
       "itemid": "letvmr",
-      "name": "乐视名人叶璇",
+      "name": "叶璇",
       "urllist": "http://icntv.xyz/letv/lb_yx_1300.m3u8"
     },
     {
       "num": 55198,
       "itemid": "letvmr",
-      "name": "乐视名人莫小棋",
+      "name": "莫小棋",
       "urllist": "http://icntv.xyz/letv/lb_mxq_1300.m3u8"
     },
     {
       "num": 55199,
       "itemid": "letvmr",
-      "name": "乐视名人童瑶",
+      "name": "童瑶",
       "urllist": "http://icntv.xyz/letv/lb_tongyao_1300.m3u8"
     },
     {
       "num": 55200,
       "itemid": "letvmr",
-      "name": "乐视名人沙溢",
+      "name": "沙溢",
       "urllist": "http://icntv.xyz/letv/lb_shayi_1300.m3u8"
     },
     {
       "num": 55201,
       "itemid": "letvmr",
-      "name": "乐视名人代乐乐",
+      "name": "代乐乐",
       "urllist": "http://icntv.xyz/letv/lb_dll_1300.m3u8"
     },
     {
       "num": 55202,
       "itemid": "letvmr",
-      "name": "乐视名人颖儿",
+      "name": "颖儿",
       "urllist": "http://icntv.xyz/letv/lb_ye_1300.m3u8"
     },
     {
       "num": 55203,
       "itemid": "letvmr",
-      "name": "乐视名人徐百卉",
+      "name": "徐百卉",
       "urllist": "http://icntv.xyz/letv/lb_xbh_1300.m3u8"
     },
     {
       "num": 55204,
       "itemid": "letvmr",
-      "name": "乐视名人曹曦文",
+      "name": "曹曦文",
       "urllist": "http://icntv.xyz/letv/lb_cxw_1300.m3u8"
     },
     {
       "num": 55205,
       "itemid": "letvmr",
-      "name": "乐视名人李崇霄",
+      "name": "李崇霄",
       "urllist": "http://icntv.xyz/letv/lb_lichongxiao_1300.m3u8"
     },
     {
       "num": 55206,
       "itemid": "letvmr",
-      "name": "乐视名人朱锐",
+      "name": "朱锐",
       "urllist": "http://icntv.xyz/letv/lb_zhurui_1300.m3u8"
     },
     {
       "num": 55207,
       "itemid": "letvmr",
-      "name": "乐视名人赵立新",
+      "name": "赵立新",
       "urllist": "http://icntv.xyz/letv/lb_zlx_1300.m3u8"
     },
     {
       "num": 55208,
       "itemid": "letvmr",
-      "name": "乐视名人艾东",
+      "name": "艾东",
       "urllist": "http://icntv.xyz/letv/lb_ad_1300.m3u8"
     },
     {
       "num": 55209,
       "itemid": "letvmr",
-      "name": "乐视名人黄绮珊",
+      "name": "黄绮珊",
       "urllist": "http://icntv.xyz/letv/lb_hqs_1300.m3u8"
     },
     {
       "num": 55210,
       "itemid": "letvmr",
-      "name": "乐视名人宋丹丹",
+      "name": "宋丹丹",
       "urllist": "http://icntv.xyz/letv/lb_sdd_1300.m3u8"
     },
     {
       "num": 55211,
       "itemid": "letvmr",
-      "name": "乐视名人宁浩",
+      "name": "宁浩",
       "urllist": "http://icntv.xyz/letv/lb_ninghao_1300.m3u8"
     },
     {
       "num": 55212,
       "itemid": "letvmr",
-      "name": "乐视名人曹征",
+      "name": "曹征",
       "urllist": "http://icntv.xyz/letv/lb_caozheng_1300.m3u8"
     },
     {
       "num": 55213,
       "itemid": "letvmr",
-      "name": "乐视名人金铭",
+      "name": "金铭",
       "urllist": "http://icntv.xyz/letv/lb_jm_1300.m3u8"
     },
     {
       "num": 55214,
       "itemid": "letvmr",
-      "name": "乐视名人刘恺威",
+      "name": "刘恺威",
       "urllist": "http://icntv.xyz/letv/lb_lkw_1300.m3u8"
     },
     {
       "num": 55215,
       "itemid": "letvmr",
-      "name": "乐视名人陈小春",
+      "name": "陈小春",
       "urllist": "http://icntv.xyz/letv/lb_cxc_1300.m3u8"
     },
     {
       "num": 55216,
       "itemid": "letvmr",
-      "name": "乐视名人包贝尔",
+      "name": "包贝尔",
       "urllist": "http://icntv.xyz/letv/lb_bbe_1300.m3u8"
     },
     {
       "num": 55217,
       "itemid": "letvmr",
-      "name": "乐视名人乔任梁",
+      "name": "乔任梁",
       "urllist": "http://icntv.xyz/letv/lb_qrl_1300.m3u8"
     },
     {
       "num": 55218,
       "itemid": "letvmr",
-      "name": "乐视名人姜武",
+      "name": "姜武",
       "urllist": "http://icntv.xyz/letv/lb_jw_1300.m3u8"
     },
     {
       "num": 55219,
       "itemid": "letvmr",
-      "name": "乐视名人于正",
+      "name": "于正",
       "urllist": "http://icntv.xyz/letv/lb_yz_1300.m3u8"
     },
     {
       "num": 55220,
       "itemid": "letvmr",
-      "name": "乐视名人何炅",
+      "name": "何炅",
       "urllist": "http://icntv.xyz/letv/lb_hj_1300.m3u8"
     },
     {
       "num": 55221,
       "itemid": "letvmr",
-      "name": "乐视名人杜海涛",
+      "name": "杜海涛",
       "urllist": "http://icntv.xyz/letv/lb_dht_1300.m3u8"
     },
     {
       "num": 55222,
       "itemid": "letvmr",
-      "name": "乐视名人柳岩",
+      "name": "柳岩",
       "urllist": "http://icntv.xyz/letv/lb_ly_1300.m3u8"
     },
     {
       "num": 55223,
       "itemid": "letvmr",
-      "name": "乐视名人陈赫",
+      "name": "陈赫",
       "urllist": "http://icntv.xyz/letv/lb_chenhe_1300.m3u8"
     },
     {
       "num": 55224,
       "itemid": "letvmr",
-      "name": "乐视名人高露",
+      "name": "高露",
       "urllist": "http://icntv.xyz/letv/lb_gl_1300.m3u8"
     },
     {
       "num": 55225,
       "itemid": "letvmr",
-      "name": "乐视名人薛佳凝",
+      "name": "薛佳凝",
       "urllist": "http://icntv.xyz/letv/lb_xjn_1300.m3u8"
     },
     {
       "num": 55226,
       "itemid": "letvmr",
-      "name": "乐视名人沈泰",
+      "name": "沈泰",
       "urllist": "http://icntv.xyz/letv/lb_st_1300.m3u8"
     },
     {
       "num": 55227,
       "itemid": "letvmr",
-      "name": "乐视名人林申",
+      "name": "林申",
       "urllist": "http://icntv.xyz/letv/lb_ls_1300.m3u8"
     },
     {
       "num": 55228,
       "itemid": "letvmr",
-      "name": "乐视名人李依晓",
+      "name": "李依晓",
       "urllist": "http://icntv.xyz/letv/lb_lyx_1300.m3u8"
     },
     {
       "num": 55229,
       "itemid": "letvmr",
-      "name": "乐视名人张晓龙",
+      "name": "张晓龙",
       "urllist": "http://icntv.xyz/letv/lb_zhangxiaolong_1300.m3u8"
     },
     {
       "num": 55230,
       "itemid": "letvmr",
-      "name": "乐视名人毛俊杰",
+      "name": "毛俊杰",
       "urllist": "http://icntv.xyz/letv/lb_mjj_1300.m3u8"
     },
     {
       "num": 55231,
       "itemid": "letvmr",
-      "name": "乐视名人张若昀",
+      "name": "张若昀",
       "urllist": "http://icntv.xyz/letv/lb_zrj_1300.m3u8"
     },
     {
       "num": 55232,
       "itemid": "letvmr",
-      "name": "乐视名人唐艺昕",
+      "name": "唐艺昕",
       "urllist": "http://icntv.xyz/letv/lb_tyx_1300.m3u8"
     },
     {
       "num": 55233,
       "itemid": "letvmr",
-      "name": "乐视名人孙骁骁",
+      "name": "孙骁骁",
       "urllist": "http://icntv.xyz/letv/lb_sxx_1300.m3u8"
     },
     {
       "num": 55234,
       "itemid": "letvmr",
-      "name": "乐视名人何晟铭",
+      "name": "何晟铭",
       "urllist": "http://icntv.xyz/letv/lb_hsm_1300.m3u8"
     },
     {
       "num": 55235,
       "itemid": "letvmr",
-      "name": "乐视名人李念",
+      "name": "李念",
       "urllist": "http://icntv.xyz/letv/lb_linian_1300.m3u8"
     },
     {
       "num": 55236,
       "itemid": "letvmr",
-      "name": "乐视名人应采儿",
+      "name": "应采儿",
       "urllist": "http://icntv.xyz/letv/lb_yce_1300.m3u8"
     },
     {
       "num": 55237,
       "itemid": "letvmr",
-      "name": "乐视名人赵子琪",
+      "name": "赵子琪",
       "urllist": "http://icntv.xyz/letv/lb_zzq_1300.m3u8"
     },
     {
       "num": 55238,
       "itemid": "letvmr",
-      "name": "乐视名人赵宝刚",
+      "name": "赵宝刚",
       "urllist": "http://icntv.xyz/letv/lb_z_1300.m3u8"
     },
     {
       "num": 55239,
       "itemid": "letvmr",
-      "name": "乐视名人梁丹妮",
+      "name": "梁丹妮",
       "urllist": "http://icntv.xyz/letv/lb_ldn_1300.m3u8"
     },
     {
       "num": 55240,
       "itemid": "letvmr",
-      "name": "乐视名人刘威葳",
+      "name": "刘威葳",
       "urllist": "http://icntv.xyz/letv/lb_lww_1300.m3u8"
     },
     {
       "num": 55241,
       "itemid": "letvmr",
-      "name": "乐视名人王伟",
+      "name": "王伟",
       "urllist": "http://icntv.xyz/letv/lb_wangwei_1300.m3u8"
     },
     {
       "num": 55242,
       "itemid": "letvmr",
-      "name": "乐视名人张博",
+      "name": "张博",
       "urllist": "http://icntv.xyz/letv/lb_zhangbo_1300.m3u8"
     },
     {
       "num": 55243,
       "itemid": "letvmr",
-      "name": "乐视名人黄晓明",
+      "name": "黄晓明",
       "urllist": "http://icntv.xyz/letv/lb_hxm_1300.m3u8"
     },
     {
       "num": 55244,
       "itemid": "letvmr",
-      "name": "乐视名人战菁一",
+      "name": "战菁一",
       "urllist": "http://icntv.xyz/letv/lb_zjy_1300.m3u8"
     },
     {
       "num": 55245,
       "itemid": "letvmr",
-      "name": "乐视名人高云翔",
+      "name": "高云翔",
       "urllist": "http://icntv.xyz/letv/lb_gyx_1300.m3u8"
     },
     {
       "num": 55246,
       "itemid": "letvmr",
-      "name": "乐视名人翁虹",
+      "name": "翁虹",
       "urllist": "http://icntv.xyz/letv/lb_wenghong_1300.m3u8"
     },
     {
       "num": 55247,
       "itemid": "letvmr",
-      "name": "乐视名人牛莉",
+      "name": "牛莉",
       "urllist": "http://icntv.xyz/letv/lb_niuli_1300.m3u8"
     },
     {
       "num": 55248,
       "itemid": "letvmr",
-      "name": "乐视名人马伊琍",
+      "name": "马伊琍",
       "urllist": "http://icntv.xyz/letv/lb_mayili_1300.m3u8"
     },
     {
       "num": 55249,
       "itemid": "letvmr",
-      "name": "乐视名人陈晓",
+      "name": "陈晓",
       "urllist": "http://icntv.xyz/letv/lb_cx_1300.m3u8"
     },
     {
       "num": 55250,
       "itemid": "letvmr",
-      "name": "乐视名人孔二狗",
+      "name": "孔二狗",
       "urllist": "http://icntv.xyz/letv/lb_keg_1300.m3u8"
     },
     {
       "num": 55251,
       "itemid": "letvmr",
-      "name": "乐视名人薛凯琪",
+      "name": "薛凯琪",
       "urllist": "http://icntv.xyz/letv/lb_xkq_1300.m3u8"
     },
     {
       "num": 55252,
       "itemid": "letvmr",
-      "name": "乐视名人段奕宏",
+      "name": "段奕宏",
       "urllist": "http://icntv.xyz/letv/lb_dyh_1300.m3u8"
     },
     {
       "num": 55253,
       "itemid": "letvmr",
-      "name": "乐视名人孙耀威",
+      "name": "孙耀威",
       "urllist": "http://icntv.xyz/letv/lb_syw_1300.m3u8"
     },
     {
       "num": 55254,
       "itemid": "letvmr",
-      "name": "乐视名人古力娜扎",
+      "name": "古力娜扎",
       "urllist": "http://icntv.xyz/letv/lb_glnz_1300.m3u8"
     },
     {
       "num": 55255,
       "itemid": "letvmr",
-      "name": "乐视名人胡兵",
+      "name": "胡兵",
       "urllist": "http://icntv.xyz/letv/lb_hubing_1300.m3u8"
     },
     {
       "num": 55256,
       "itemid": "letvmr",
-      "name": "乐视名人黄小蕾",
+      "name": "黄小蕾",
       "urllist": "http://icntv.xyz/letv/lb_hxl_1300.m3u8"
     },
     {
       "num": 55257,
       "itemid": "letvmr",
-      "name": "乐视名人郭德纲",
+      "name": "郭德纲",
       "urllist": "http://icntv.xyz/letv/lb_gdg_1300.m3u8"
     },
     {
       "num": 55258,
       "itemid": "letvmr",
-      "name": "乐视名人金晨",
+      "name": "金晨",
       "urllist": "http://icntv.xyz/letv/lb_jinchen_1300.m3u8"
     },
     {
       "num": 55259,
       "itemid": "letvmr",
-      "name": "乐视名人张译",
+      "name": "张译",
       "urllist": "http://icntv.xyz/letv/lb_zhangyi_1300.m3u8"
     },
     {
       "num": 55260,
       "itemid": "letvmr",
-      "name": "乐视名人冯远征",
+      "name": "冯远征",
       "urllist": "http://icntv.xyz/letv/lb_fyz_1300.m3u8"
     },
     {
       "num": 55261,
       "itemid": "letvmr",
-      "name": "乐视名人夏雨",
+      "name": "夏雨",
       "urllist": "http://icntv.xyz/letv/lb_xiayu_1300.m3u8"
     },
     {
       "num": 55262,
       "itemid": "letvmr",
-      "name": "乐视名人田朴珺",
+      "name": "田朴珺",
       "urllist": "http://icntv.xyz/letv/lb_tpj_1300.m3u8"
     },
     {
       "num": 55263,
       "itemid": "letvmr",
-      "name": "乐视名人吴宗宪",
+      "name": "吴宗宪",
       "urllist": "http://icntv.xyz/letv/lb_wzx_1300.m3u8"
     },
     {
       "num": 55264,
       "itemid": "letvmr",
-      "name": "乐视名人刘亦菲",
+      "name": "刘亦菲",
       "urllist": "http://icntv.xyz/letv/lb_lyf_1300.m3u8"
     },
     {
       "num": 55265,
       "itemid": "letvmr",
-      "name": "乐视名人丁子峻",
+      "name": "丁子峻",
       "urllist": "http://icntv.xyz/letv/lb_dzj_1300.m3u8"
     },
     {
       "num": 55266,
       "itemid": "letvmr",
-      "name": "乐视名人毛晓彤",
+      "name": "毛晓彤",
       "urllist": "http://icntv.xyz/letv/lb_mxt_1300.m3u8"
     },
     {
       "num": 55267,
       "itemid": "letvmr",
-      "name": "乐视名人杜淳",
+      "name": "杜淳",
       "urllist": "http://icntv.xyz/letv/lb_duchun_1300.m3u8"
     },
     {
       "num": 55268,
       "itemid": "letvmr",
-      "name": "乐视名人孙坚",
+      "name": "孙坚",
       "urllist": "http://icntv.xyz/letv/lb_sunjian_1300.m3u8"
     },
     {
       "num": 55269,
       "itemid": "letvmr",
-      "name": "乐视名人张睿",
+      "name": "张睿",
       "urllist": "http://icntv.xyz/letv/lb_zr_1300.m3u8"
     },
     {
       "num": 55270,
       "itemid": "letvmr",
-      "name": "乐视名人孟广美",
+      "name": "孟广美",
       "urllist": "http://icntv.xyz/letv/lb_mgm_1300.m3u8"
     },
     {
       "num": 55271,
       "itemid": "letvmr",
-      "name": "乐视名人李威",
+      "name": "李威",
       "urllist": "http://icntv.xyz/letv/lb_liwei_1300.m3u8"
     },
     {
       "num": 55272,
       "itemid": "letvmr",
-      "name": "乐视名人吕颂贤",
+      "name": "吕颂贤",
       "urllist": "http://icntv.xyz/letv/lb_lsx_1300.m3u8"
     },
     {
       "num": 55273,
       "itemid": "letvmr",
-      "name": "乐视名人何润东",
+      "name": "何润东",
       "urllist": "http://icntv.xyz/letv/lb_hrd_1300.m3u8"
     },
     {
       "num": 55274,
       "itemid": "letvmr",
-      "name": "乐视名人李维嘉",
+      "name": "李维嘉",
       "urllist": "http://icntv.xyz/letv/lb_lwj_1300.m3u8"
     },
     {
       "num": 55275,
       "itemid": "letvmr",
-      "name": "乐视名人郭涛",
+      "name": "郭涛",
       "urllist": "http://icntv.xyz/letv/lb_gt_1300.m3u8"
     },
     {
       "num": 55276,
       "itemid": "letvmr",
-      "name": "乐视名人陈楚生",
+      "name": "陈楚生",
       "urllist": "http://icntv.xyz/letv/lb_ccs_1300.m3u8"
     },
     {
       "num": 55277,
       "itemid": "letvmr",
-      "name": "乐视名人胡彦斌",
+      "name": "胡彦斌",
       "urllist": "http://icntv.xyz/letv/lb_hyb_1300.m3u8"
     },
     {
       "num": 55278,
       "itemid": "letvmr",
-      "name": "乐视名人刘力扬",
+      "name": "刘力扬",
       "urllist": "http://icntv.xyz/letv/lb_lly_1300.m3u8"
     },
     {
       "num": 55279,
       "itemid": "letvmr",
-      "name": "乐视名人田原",
+      "name": "田原",
       "urllist": "http://icntv.xyz/letv/lb_tianyuan_1300.m3u8"
     },
     {
       "num": 55280,
       "itemid": "letvmr",
-      "name": "乐视名人萨顶顶",
+      "name": "萨顶顶",
       "urllist": "http://icntv.xyz/letv/lb_sadingding_1300.m3u8"
     },
     {
       "num": 55281,
       "itemid": "letvmr",
-      "name": "乐视名人査可欣",
+      "name": "査可欣",
       "urllist": "http://icntv.xyz/letv/lb_zkx_1300.m3u8"
     },
     {
       "num": 55282,
       "itemid": "letvmr",
-      "name": "乐视名人黄义达",
+      "name": "黄义达",
       "urllist": "http://icntv.xyz/letv/lb_hyd_1300.m3u8"
     },
     {
       "num": 55283,
       "itemid": "letvmr",
-      "name": "乐视名人李霄云",
+      "name": "李霄云",
       "urllist": "http://icntv.xyz/letv/lb_lxy_1300.m3u8"
     },
     {
       "num": 55284,
       "itemid": "letvmr",
-      "name": "乐视名人李丹",
+      "name": "李丹",
       "urllist": "http://icntv.xyz/letv/lb_lidan_1300.m3u8"
     },
     {
       "num": 55285,
       "itemid": "letvmr",
-      "name": "乐视名人李东学",
+      "name": "李东学",
       "urllist": "http://icntv.xyz/letv/lb_ldx_1300.m3u8"
     },
     {
       "num": 55286,
       "itemid": "letvmr",
-      "name": "乐视名人方中信",
+      "name": "方中信",
       "urllist": "http://icntv.xyz/letv/lb_fzx_1300.m3u8"
     },
     {
       "num": 55287,
       "itemid": "letvmr",
-      "name": "乐视名人蔡少芬",
+      "name": "蔡少芬",
       "urllist": "http://icntv.xyz/letv/lb_csf_1300.m3u8"
     },
     {
       "num": 55288,
       "itemid": "letvmr",
-      "name": "乐视名人斓曦",
+      "name": "斓曦",
       "urllist": "http://icntv.xyz/letv/lb_lx_1300.m3u8"
     },
     {
       "num": 55289,
       "itemid": "letvmr",
-      "name": "乐视名人吕丽萍",
+      "name": "吕丽萍",
       "urllist": "http://icntv.xyz/letv/lb_llp_1300.m3u8"
     },
     {
       "num": 55290,
       "itemid": "letvmr",
-      "name": "乐视名人巩峥",
+      "name": "巩峥",
       "urllist": "http://icntv.xyz/letv/lb_gz_1300.m3u8"
     },
     {
       "num": 55291,
       "itemid": "letvmr",
-      "name": "乐视名人孙海英",
+      "name": "孙海英",
       "urllist": "http://icntv.xyz/letv/lb_shy_1300.m3u8"
     },
     {
       "num": 55292,
       "itemid": "letvmr",
-      "name": "乐视名人蒋欣",
+      "name": "蒋欣",
       "urllist": "http://icntv.xyz/letv/lb_jiangxin_1300.m3u8"
     },
     {
       "num": 55293,
       "itemid": "letvmr",
-      "name": "乐视名人陈创",
+      "name": "陈创",
       "urllist": "http://icntv.xyz/letv/lb_cc_1300.m3u8"
     },
     {
       "num": 55294,
       "itemid": "letvmr",
-      "name": "乐视名人孙红雷",
+      "name": "孙红雷",
       "urllist": "http://icntv.xyz/letv/lb_sunhonglei_1300.m3u8"
     },
     {
       "num": 55295,
       "itemid": "letvmr",
-      "name": "乐视名人刘诗诗",
+      "name": "刘诗诗",
       "urllist": "http://icntv.xyz/letv/lb_liushishi_1300.m3u8"
     },
     {
       "num": 55296,
       "itemid": "letvmr",
-      "name": "乐视名人张丰毅",
+      "name": "张丰毅",
       "urllist": "http://icntv.xyz/letv/lb_zhangfengyi_1300.m3u8"
     },
     {
       "num": 55297,
       "itemid": "letvmr",
-      "name": "乐视名人钟汉良",
+      "name": "钟汉良",
       "urllist": "http://icntv.xyz/letv/lb_zhonghanliang_1300.m3u8"
     },
     {
       "num": 55298,
       "itemid": "letvmr",
-      "name": "乐视名人李晨",
+      "name": "李晨",
       "urllist": "http://icntv.xyz/letv/lb_lichen_1300.m3u8"
     },
     {
       "num": 55299,
       "itemid": "letvmr",
-      "name": "乐视名人李易峰",
+      "name": "李易峰",
       "urllist": "http://icntv.xyz/letv/lb_liyifeng_1300.m3u8"
     },
     {
       "num": 55300,
       "itemid": "letvmr",
-      "name": "乐视名人周笔畅",
+      "name": "周笔畅",
       "urllist": "http://icntv.xyz/letv/lb_zbc_1300.m3u8"
     },
     {
       "num": 55301,
       "itemid": "letvmr",
-      "name": "乐视名人周韵",
+      "name": "周韵",
       "urllist": "http://icntv.xyz/letv/lb_zhouyun_1300.m3u8"
     },
     {
       "num": 55302,
       "itemid": "letvmr",
-      "name": "乐视名人郭晓冬",
+      "name": "郭晓冬",
       "urllist": "http://icntv.xyz/letv/lb_gxd_1300.m3u8"
     },
     {
       "num": 55303,
       "itemid": "letvmr",
-      "name": "乐视名人吴秀波",
+      "name": "吴秀波",
       "urllist": "http://icntv.xyz/letv/lb_wxb_1300.m3u8"
     },
     {
       "num": 55304,
       "itemid": "letvmr",
-      "name": "乐视名人海清",
+      "name": "海清",
       "urllist": "http://icntv.xyz/letv/lb_haiqing_1300.m3u8"
     },
     {
       "num": 55305,
       "itemid": "letvmr",
-      "name": "乐视名人董璇",
+      "name": "董璇",
       "urllist": "http://icntv.xyz/letv/lb_dongxuan_1300.m3u8"
     },
     {
       "num": 55306,
       "itemid": "letvmr",
-      "name": "乐视名人佟丽娅",
+      "name": "佟丽娅",
       "urllist": "http://icntv.xyz/letv/lb_tly_1300.m3u8"
     },
     {
       "num": 55307,
       "itemid": "letvmr",
-      "name": "乐视名人赵丽颖",
+      "name": "赵丽颖",
       "urllist": "http://icntv.xyz/letv/lb_zly_1300.m3u8"
     },
     {
       "num": 55308,
       "itemid": "letvmr",
-      "name": "乐视名人佟大为",
+      "name": "佟大为",
       "urllist": "http://icntv.xyz/letv/lb_tdw_1300.m3u8"
     },
     {
       "num": 55309,
       "itemid": "letvmr",
-      "name": "乐视名人许晴",
+      "name": "许晴",
       "urllist": "http://icntv.xyz/letv/lb_xuqing_1300.m3u8"
     },
     {
       "num": 55310,
       "itemid": "letvmr",
-      "name": "乐视名人陆毅",
+      "name": "陆毅",
       "urllist": "http://icntv.xyz/letv/lb_luyi_1300.m3u8"
     },
     {
       "num": 55311,
       "itemid": "letvmr",
-      "name": "乐视名人陈数",
+      "name": "陈数",
       "urllist": "http://icntv.xyz/letv/lb_chenshu_1300.m3u8"
     },
     {
       "num": 55312,
       "itemid": "letvmr",
-      "name": "乐视名人郑元畅",
+      "name": "郑元畅",
       "urllist": "http://icntv.xyz/letv/lb_zhengyuanchang_1300.m3u8"
     },
     {
       "num": 55313,
       "itemid": "letvmr",
-      "name": "乐视名人白百何",
+      "name": "白百何",
       "urllist": "http://icntv.xyz/letv/lb_bbh_1300.m3u8"
     },
     {
       "num": 55314,
       "itemid": "letvmr",
-      "name": "乐视名人陈紫函",
+      "name": "陈紫函",
       "urllist": "http://icntv.xyz/letv/lb_czh_1300.m3u8"
     },
     {
       "num": 55315,
       "itemid": "letvmr",
-      "name": "乐视名人王丽坤",
+      "name": "王丽坤",
       "urllist": "http://icntv.xyz/letv/lb_wlk_1300.m3u8"
     },
     {
       "num": 55316,
       "itemid": "letvmr",
-      "name": "乐视名人陆川",
+      "name": "陆川",
       "urllist": "http://icntv.xyz/letv/lb_lc_1300.m3u8"
     },
     {
       "num": 55317,
       "itemid": "letvmr",
-      "name": "乐视名人贾青",
+      "name": "贾青",
       "urllist": "http://icntv.xyz/letv/lb_jq_1300.m3u8"
     },
     {
       "num": 55318,
       "itemid": "letvmr",
-      "name": "乐视名人于明加",
+      "name": "于明加",
       "urllist": "http://icntv.xyz/letv/lb_ymj_1300.m3u8"
     },
     {
       "num": 55319,
       "itemid": "letvmr",
-      "name": "乐视名人王千源",
+      "name": "王千源",
       "urllist": "http://icntv.xyz/letv/lb_wqy_1300.m3u8"
     },
     {
       "num": 55320,
       "itemid": "letvmr",
-      "name": "乐视名人秦岚",
+      "name": "秦岚",
       "urllist": "http://icntv.xyz/letv/lb_ql_1300.m3u8"
     },
     {
       "num": 55321,
       "itemid": "letvmr",
-      "name": "乐视名人杨文军",
+      "name": "杨文军",
       "urllist": "http://icntv.xyz/letv/lb_ywj_1300.m3u8"
     },
     {
       "num": 55322,
       "itemid": "letvmr",
-      "name": "乐视名人于小伟",
+      "name": "于小伟",
       "urllist": "http://icntv.xyz/letv/lb_yxw_1300.m3u8"
     },
     {
       "num": 55323,
       "itemid": "letvmr",
-      "name": "乐视名人潘之琳",
+      "name": "潘之琳",
       "urllist": "http://icntv.xyz/letv/lb_pzl_1300.m3u8"
     },
     {
       "num": 55324,
       "itemid": "letvmr",
-      "name": "乐视名人姚芊羽",
+      "name": "姚芊羽",
       "urllist": "http://icntv.xyz/letv/lb_yqy_1300.m3u8"
     },
     {
       "num": 55325,
       "itemid": "letvmr",
-      "name": "乐视名人杜江",
+      "name": "杜江",
       "urllist": "http://icntv.xyz/letv/lb_mj_1300.m3u8"
     },
     {
       "num": 55326,
       "itemid": "letvmr",
-      "name": "乐视名人霍思燕",
+      "name": "霍思燕",
       "urllist": "http://icntv.xyz/letv/lb_hsy_1300.m3u8"
     },
     {
       "num": 55327,
       "itemid": "letvmr",
-      "name": "乐视名人李承铉",
+      "name": "李承铉",
       "urllist": "http://icntv.xyz/letv/lb_lcx_1300.m3u8"
     },
     {
       "num": 55328,
       "itemid": "letvmr",
-      "name": "乐视名人张智尧",
+      "name": "张智尧",
       "urllist": "http://icntv.xyz/letv/lb_zzy_1300.m3u8"
     },
     {
       "num": 55329,
       "itemid": "letvmr",
-      "name": "乐视名人李小萌",
+      "name": "李小萌",
       "urllist": "http://icntv.xyz/letv/lb_lxm_1300.m3u8"
     },
     {
       "num": 55330,
       "itemid": "letvmr",
-      "name": "乐视名人张慧雯",
+      "name": "张慧雯",
       "urllist": "http://icntv.xyz/letv/lb_zhw_1300.m3u8"
     },
     {
       "num": 55331,
       "itemid": "letvmr",
-      "name": "乐视名人陈乔恩",
+      "name": "陈乔恩",
       "urllist": "http://icntv.xyz/letv/lb_cqe_1300.m3u8"
     },
     {
       "num": 55332,
       "itemid": "letvmr",
-      "name": "乐视名人李小璐",
+      "name": "李小璐",
       "urllist": "http://icntv.xyz/letv/lb_lxl_1300.m3u8"
     },
     {
       "num": 55333,
       "itemid": "letvmr",
-      "name": "乐视名人贾乃亮",
+      "name": "贾乃亮",
       "urllist": "http://icntv.xyz/letv/lb_jnl_1300.m3u8"
     },
     {
       "num": 55334,
       "itemid": "letvmr",
-      "name": "乐视名人毛宁",
+      "name": "毛宁",
       "urllist": "http://icntv.xyz/letv/lb_maoning_1300.m3u8"
     },
     {
       "num": 55335,
       "itemid": "letvmr",
-      "name": "乐视名人刘江",
+      "name": "刘江",
       "urllist": "http://icntv.xyz/letv/lb_liujiang_1300.m3u8"
     },
     {
       "num": 55336,
       "itemid": "letvmr",
-      "name": "乐视名人陈梦露",
+      "name": "陈梦露",
       "urllist": "http://icntv.xyz/letv/lb_cml_1300.m3u8"
     },
     {
       "num": 55337,
       "itemid": "letvmr",
-      "name": "乐视名人郝云",
+      "name": "郝云",
       "urllist": "http://icntv.xyz/letv/lb_haoyun_1300.m3u8"
     },
     {
       "num": 55338,
       "itemid": "letvmr",
-      "name": "乐视名人戚薇",
+      "name": "戚薇",
       "urllist": "http://icntv.xyz/letv/lb_qiwei_1300.m3u8"
     },
     {
       "num": 55339,
       "itemid": "letvmr",
-      "name": "乐视名人白凯南",
+      "name": "白凯南",
       "urllist": "http://icntv.xyz/letv/lb_bkn_1300.m3u8"
     },
     {
       "num": 55340,
       "itemid": "letvmr",
-      "name": "乐视名人戴军",
+      "name": "戴军",
       "urllist": "http://icntv.xyz/letv/lb_daijun_1300.m3u8"
     },
     {
       "num": 55341,
       "itemid": "letvmr",
-      "name": "乐视名人郭品超",
+      "name": "郭品超",
       "urllist": "http://icntv.xyz/letv/lb_gpc_1300.m3u8"
     },
     {
       "num": 55342,
       "itemid": "letvmr",
-      "name": "乐视名人胡歌",
+      "name": "胡歌",
       "urllist": "http://icntv.xyz/letv/lb_huge_1300.m3u8"
     },
     {
       "num": 55343,
       "itemid": "letvmr",
-      "name": "乐视名人任泉",
+      "name": "任泉",
       "urllist": "http://icntv.xyz/letv/lb_renquan_1300.m3u8"
     },
     {
       "num": 55344,
       "itemid": "letvmr",
-      "name": "乐视名人张梓琳",
+      "name": "张梓琳",
       "urllist": "http://icntv.xyz/letv/lb_zzl_1300.m3u8"
     },
     {
       "num": 55345,
       "itemid": "letvmr",
-      "name": "乐视名人马艳丽",
+      "name": "马艳丽",
       "urllist": "http://icntv.xyz/letv/lb_myl_1300.m3u8"
     },
     {
       "num": 55346,
       "itemid": "letvmr",
-      "name": "乐视名人黄百鸣",
+      "name": "黄百鸣",
       "urllist": "http://icntv.xyz/letv/lb_hbm_1300.m3u8"
     },
     {
       "num": 55347,
       "itemid": "letvmr",
-      "name": "乐视名人王宝强",
+      "name": "王宝强",
       "urllist": "http://icntv.xyz/letv/lb_wbq_1300.m3u8"
     },
     {
       "num": 55348,
       "itemid": "letvmr",
-      "name": "乐视名人余心恬",
+      "name": "余心恬",
       "urllist": "http://icntv.xyz/letv/lb_yxt_1300.m3u8"
     },
     {
       "num": 55349,
       "itemid": "letvmr",
-      "name": "乐视名人黄轩",
+      "name": "黄轩",
       "urllist": "http://icntv.xyz/letv/lb_huangxuan_1300.m3u8"
     },
     {
       "num": 55350,
       "itemid": "letvmr",
-      "name": "乐视名人韩庚",
+      "name": "韩庚",
       "urllist": "http://icntv.xyz/letv/lb_hangeng_1300.m3u8"
     },
     {
       "num": 55351,
       "itemid": "letvmr",
-      "name": "乐视名人胡夏",
+      "name": "胡夏",
       "urllist": "http://icntv.xyz/letv/lb_huxia_1300.m3u8"
     },
     {
       "num": 55352,
       "itemid": "letvmr",
-      "name": "乐视名人马天宇",
+      "name": "马天宇",
       "urllist": "http://icntv.xyz/letv/lb_mty_1300.m3u8"
     },
     {
       "num": 55353,
       "itemid": "letvmr",
-      "name": "乐视名人杨烁",
+      "name": "杨烁",
       "urllist": "http://icntv.xyz/letv/lb_yangshuo_1300.m3u8"
     },
     {
       "num": 55354,
       "itemid": "letvmr",
-      "name": "乐视名人刘涛",
+      "name": "刘涛",
       "urllist": "http://icntv.xyz/letv/lb_liutao_1300.m3u8"
     },
     {
       "num": 55355,
       "itemid": "letvmr",
-      "name": "乐视名人刘芸",
+      "name": "刘芸",
       "urllist": "http://icntv.xyz/letv/lb_liuyun_1300.m3u8"
     },
     {
       "num": 55356,
       "itemid": "letvmr",
-      "name": "乐视名人郑钧",
+      "name": "郑钧",
       "urllist": "http://icntv.xyz/letv/lb_zhengjun_1300.m3u8"
     },
     {
       "num": 55357,
       "itemid": "letvmr",
-      "name": "乐视名人巍子",
+      "name": "巍子",
       "urllist": "http://icntv.xyz/letv/lb_weizi_1300.m3u8"
     },
     {
       "num": 55358,
       "itemid": "letvmr",
-      "name": "乐视名人黄斌",
+      "name": "黄斌",
       "urllist": "http://icntv.xyz/letv/lb_huangbin_1300.m3u8"
     },
     {
       "num": 55359,
       "itemid": "letvmr",
-      "name": "乐视名人林一峰",
+      "name": "林一峰",
       "urllist": "http://icntv.xyz/letv/lb_joss_1300.m3u8"
     },
     {
       "num": 55360,
       "itemid": "letvmr",
-      "name": "乐视名人郭德纲",
+      "name": "郭德纲",
       "urllist": "http://icntv.xyz/letv/lb_gdg_1300.m3u8"
     },
     {
       "num": 55361,
       "itemid": "letvmr",
-      "name": "乐视名人潘粤明",
+      "name": "潘粤明",
       "urllist": "http://icntv.xyz/letv/lb_pym_1300.m3u8"
     },
     {
       "num": 55362,
       "itemid": "letvmr",
-      "name": "乐视名人魏楠",
+      "name": "魏楠",
       "urllist": "http://icntv.xyz/letv/lb_wn_1300.m3u8"
     },
     {
       "num": 55363,
       "itemid": "letvmr",
-      "name": "乐视名人王伟光",
+      "name": "王伟光",
       "urllist": "http://icntv.xyz/letv/lb_wwg_1300.m3u8"
     },
     {
       "num": 55364,
       "itemid": "letvmr",
-      "name": "乐视名人殷旭",
+      "name": "殷旭",
       "urllist": "http://icntv.xyz/letv/lb_yinxu_1300.m3u8"
     },
     {
       "num": 55365,
       "itemid": "letvmr",
-      "name": "乐视名人徐翠翠",
+      "name": "徐翠翠",
       "urllist": "http://icntv.xyz/letv/lb_xcc_1300.m3u8"
     },
     {
       "num": 55366,
       "itemid": "letvmr",
-      "name": "乐视名人宋佳伦",
+      "name": "宋佳伦",
       "urllist": "http://icntv.xyz/letv/lb_sjl_1300.m3u8"
     },
     {
       "num": 55367,
       "itemid": "letvmr",
-      "name": "乐视名人孙茜",
+      "name": "孙茜",
       "urllist": "http://icntv.xyz/letv/lb_sq_1300.m3u8"
     },
     {
       "num": 55368,
       "itemid": "letvmr",
-      "name": "乐视名人张睿",
+      "name": "张睿",
       "urllist": "http://icntv.xyz/letv/lb_zr_1300.m3u8"
     },
     {
       "num": 55369,
       "itemid": "letvmr",
-      "name": "乐视名人曾沛慈",
+      "name": "曾沛慈",
       "urllist": "http://icntv.xyz/letv/lb_zpc_1300.m3u8"
     },
     {
       "num": 55370,
       "itemid": "letvmr",
-      "name": "乐视名人初音未来",
+      "name": "初音未来",
       "urllist": "http://icntv.xyz/letv/lb_cywl_1300.m3u8"
     },
     {
       "num": 55371,
       "itemid": "letvmr",
-      "name": "乐视名人冯远征",
+      "name": "冯远征",
       "urllist": "http://icntv.xyz/letv/lb_fyz_1300.m3u8"
     },
     {
       "num": 55372,
       "itemid": "letvmr",
-      "name": "乐视名人程璧",
+      "name": "程璧",
       "urllist": "http://icntv.xyz/letv/lb_cb_1300.m3u8"
     },
     {
       "num": 55373,
       "itemid": "letvmr",
-      "name": "乐视名人谭晶★",
+      "name": "谭晶★",
       "urllist": "http://icntv.xyz/letv/lb_tanjing_1800.m3u8"
     },
     {
       "num": 55374,
       "itemid": "letvmr",
-      "name": "乐视名人张译",
+      "name": "张译",
       "urllist": "http://icntv.xyz/letv/lb_zhangyi_1300.m3u8"
     },
     {
       "num": 55375,
       "itemid": "letvmr",
-      "name": "乐视名人金晨",
+      "name": "金晨",
       "urllist": "http://icntv.xyz/letv/lb_jinchen_1300.m3u8"
     },
     {
       "num": 55376,
       "itemid": "letvmr",
-      "name": "乐视名人陈珊妮",
+      "name": "陈珊妮",
       "urllist": "http://icntv.xyz/letv/lb_musiclive2_1300.m3u8"
     },
     {
       "num": 55377,
       "itemid": "letvmr",
-      "name": "乐视名人钟立风",
+      "name": "钟立风",
       "urllist": "http://icntv.xyz/letv/lb_musiclive17_1300.m3u8"
     },
     {
       "num": 55378,
       "itemid": "letvmr",
-      "name": "乐视名人苏阳",
+      "name": "苏阳",
       "urllist": "http://icntv.xyz/letv/lb_musiclive18_1300.m3u8"
     },
     {
       "num": 55379,
       "itemid": "letvmr",
-      "name": "乐视名人沈腾★",
+      "name": "沈腾★",
       "urllist": "http://icntv.xyz/letv/lb_shenteng_1300.m3u8"
     },
     {
       "num": 55380,
       "itemid": "letvmr",
-      "name": "乐视名人马丽★",
+      "name": "马丽★",
       "urllist": "http://icntv.xyz/letv/lb_mali_1300.m3u8"
     },
     {
       "num": 55381,
       "itemid": "letvmr",
-      "name": "乐视名人罗大佑",
+      "name": "罗大佑",
       "urllist": "http://icntv.xyz/letv/lb_musiclive20_1300.m3u8"
     },
     {
       "num": 55382,
       "itemid": "letvmr",
-      "name": "乐视名人冯绍峰",
+      "name": "冯绍峰",
       "urllist": "http://icntv.xyz/letv/lb_fsf_1300.m3u8"
     },
     {
       "num": 55383,
       "itemid": "letvmr",
-      "name": "乐视名人赵咏华",
+      "name": "赵咏华",
       "urllist": "http://icntv.xyz/letv/lb_zyh_1300.m3u8"
     },
     {
@@ -2595,325 +2595,325 @@
     {
       "num": 55434,
       "itemid": "letvws",
-      "name": "各省卫视频道江苏卫视高清1",
+      "name": "江苏卫视高清1",
       "urllist": "http://icntv.xyz/letv/jiangsuHD_1800.m3u8"
     },
     {
       "num": 55435,
       "itemid": "letvws",
-      "name": "各省卫视频道北京卫视高清",
+      "name": "北京卫视高清",
       "urllist": "http://icntv.xyz/letv/bjwsHD_1800.m3u8"
     },
     {
       "num": 55436,
       "itemid": "letvws",
-      "name": "各省卫视频道湖南卫视高清",
+      "name": "湖南卫视高清",
       "urllist": "http://icntv.xyz/letv/ws_hunanwsHD_1300.m3u8"
     },
     {
       "num": 55437,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视综合",
+      "name": "",
       "urllist": "http://icntv.xyz/letv/lb_zonghe_1000.m3u8"
     },
     {
       "num": 55438,
       "itemid": "letvws",
-      "name": "各省卫视频道北京卫视",
+      "name": "北京卫视",
       "urllist": "http://icntv.xyz/letv/bjws.m3u8"
     },
     {
       "num": 55439,
       "itemid": "letvws",
-      "name": "各省卫视频道安徽卫视",
+      "name": "安徽卫视",
       "urllist": "http://icntv.xyz/letv/anhui.m3u8"
     },
     {
       "num": 55440,
       "itemid": "letvws",
-      "name": "各省卫视频道天津卫视",
+      "name": "天津卫视",
       "urllist": "http://icntv.xyz/letv/tianjin.m3u8"
     },
     {
       "num": 55441,
       "itemid": "letvws",
-      "name": "各省卫视频道江苏卫视",
+      "name": "江苏卫视",
       "urllist": "http://icntv.xyz/letv/jiangsu.m3u8"
     },
     {
       "num": 55442,
       "itemid": "letvws",
-      "name": "各省卫视频道山西卫视",
+      "name": "山西卫视",
       "urllist": "http://icntv.xyz/letv/shanxi_350.m3u8"
     },
     {
       "num": 55443,
       "itemid": "letvws",
-      "name": "各省卫视频道甘肃卫视",
+      "name": "甘肃卫视",
       "urllist": "http://icntv.xyz/letv/gansu.m3u8"
     },
     {
       "num": 55444,
       "itemid": "letvws",
-      "name": "各省卫视频道东南卫视",
+      "name": "东南卫视",
       "urllist": "http://icntv.xyz/letv/dongnan.m3u8"
     },
     {
       "num": 55445,
       "itemid": "letvws",
-      "name": "各省卫视频道湖北卫视",
+      "name": "湖北卫视",
       "urllist": "http://icntv.xyz/letv/hubei.m3u8"
     },
     {
       "num": 55446,
       "itemid": "letvws",
-      "name": "各省卫视频道云南卫视",
+      "name": "云南卫视",
       "urllist": "http://icntv.xyz/letv/yunnan.m3u8"
     },
     {
       "num": 55447,
       "itemid": "letvws",
-      "name": "各省卫视频道黑龙江卫视",
+      "name": "黑龙江卫视",
       "urllist": "http://icntv.xyz/letv/heilongjiang.m3u8"
     },
     {
       "num": 55448,
       "itemid": "letvws",
-      "name": "各省卫视频道贵州卫视",
+      "name": "贵州卫视",
       "urllist": "http://icntv.xyz/letv/guizhou.m3u8"
     },
     {
       "num": 55449,
       "itemid": "letvws",
-      "name": "各省卫视频道广西卫视",
+      "name": "广西卫视",
       "urllist": "http://icntv.xyz/letv/guangxi.m3u8"
     },
     {
       "num": 55450,
       "itemid": "letvws",
-      "name": "各省卫视频道河南卫视",
+      "name": "河南卫视",
       "urllist": "http://icntv.xyz/letv/henan.m3u8"
     },
     {
       "num": 55451,
       "itemid": "letvws",
-      "name": "各省卫视频道旅游卫视",
+      "name": "旅游卫视",
       "urllist": "http://icntv.xyz/letv/lvyou.m3u8"
     },
     {
       "num": 55452,
       "itemid": "letvws",
-      "name": "各省卫视频道深圳卫视",
+      "name": "深圳卫视",
       "urllist": "http://icntv.xyz/letv/shenzhen.m3u8"
     },
     {
       "num": 55453,
       "itemid": "letvws",
-      "name": "各省卫视频道内蒙古卫视",
+      "name": "内蒙古卫视",
       "urllist": "http://icntv.xyz/letv/neimenggu_350.m3u8  "
     },
     {
       "num": 55454,
       "itemid": "letvws",
-      "name": "各省卫视频道新疆卫视",
+      "name": "新疆卫视",
       "urllist": "http://icntv.xyz/letv/xinjiang_350.m3u8"
     },
     {
       "num": 55455,
       "itemid": "letvws",
-      "name": "各省卫视频道陕西卫视",
+      "name": "陕西卫视",
       "urllist": "http://icntv.xyz/letv/shanxi1.m3u8"
     },
     {
       "num": 55456,
       "itemid": "letvws",
-      "name": "各省卫视频道重庆卫视",
+      "name": "重庆卫视",
       "urllist": "http://icntv.xyz/letv/chongqing.m3u8"
     },
     {
       "num": 55457,
       "itemid": "letvws",
-      "name": "各省卫视频道吉林卫视",
+      "name": "吉林卫视",
       "urllist": "http://icntv.xyz/letv/jilin.m3u8"
     },
     {
       "num": 55458,
       "itemid": "letvws",
-      "name": "各省卫视频道辽宁卫视",
+      "name": "辽宁卫视",
       "urllist": "http://icntv.xyz/letv/liaoning.m3u8"
     },
     {
       "num": 55459,
       "itemid": "letvws",
-      "name": "各省卫视频道江西卫视",
+      "name": "江西卫视",
       "urllist": "http://icntv.xyz/letv/jiangxi.m3u8"
     },
     {
       "num": 55460,
       "itemid": "letvws",
-      "name": "各省卫视频道青海卫视",
+      "name": "青海卫视",
       "urllist": "http://icntv.xyz/letv/qinghai.m3u8"
     },
     {
       "num": 55461,
       "itemid": "letvws",
-      "name": "各省卫视频道炫动卡通",
+      "name": "炫动卡通",
       "urllist": "http://icntv.xyz/letv/xdkt.m3u8"
     },
     {
       "num": 55462,
       "itemid": "letvws",
-      "name": "各省卫视频道四川卫视",
+      "name": "四川卫视",
       "urllist": "http://icntv.xyz/letv/sichuan.m3u8"
     },
     {
       "num": 55463,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视电影",
+      "name": "乐视电影",
       "urllist": "http://icntv.xyz/letv/lb_movie_720p.m3u8"
     },
     {
       "num": 55464,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视1080P",
+      "name": "乐视1080P",
       "urllist": "http://icntv.xyz/letv/lb_1080P_1080p3m.m3u8"
     },
     {
       "num": 55465,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视音乐",
+      "name": "乐视音乐",
       "urllist": "http://icntv.xyz/letv/lb_music_350.m3u8"
     },
     {
       "num": 55466,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视电视剧",
+      "name": "乐视电视剧",
       "urllist": "http://icntv.xyz/letv/lb_tv_720p.m3u8"
     },
     {
       "num": 55467,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视动漫",
+      "name": "乐视动漫",
       "urllist": "http://icntv.xyz/letv/lb_comic_720p.m3u8"
     },
     {
       "num": 55469,
       "itemid": "letvws",
-      "name": "各省卫视频道科教.纪录片",
+      "name": "科教.纪录片",
       "urllist": "http://icntv.xyz/letv/lb_jilu_720p.m3u8"
     },
     {
       "num": 55470,
       "itemid": "letvws",
-      "name": "各省卫视频道电影片花",
+      "name": "电影片花",
       "urllist": "http://icntv.xyz/letv/lb_trailer_720p.m3u8"
     },
     {
       "num": 55471,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视综艺",
+      "name": "乐视综艺",
       "urllist": "http://icntv.xyz/letv/lb_ent_720p.m3u8"
     },
     {
       "num": 55472,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视自制剧",
+      "name": "乐视自制剧",
       "urllist": "http://icntv.xyz/letv/lb_make_720p.m3u8"
     },
     {
       "num": 55473,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视韩剧",
+      "name": "乐视韩剧",
       "urllist": "http://icntv.xyz/letv/lb_koreatv_720p.m3u8"
     },
     {
       "num": 55476,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视甄嬛传",
+      "name": "乐视甄嬛传",
       "urllist": "http://icntv.xyz/letv/lb_zhenhuan_720p.m3u8"
     },
     {
       "num": 55477,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视亲子",
+      "name": "乐视亲子",
       "urllist": "http://icntv.xyz/letv/lb_qinzi_1300.m3u8"
     },
     {
       "num": 55479,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视演唱会",
+      "name": "乐视演唱会",
       "urllist": "http://icntv.xyz/letv/lb_concert_720p.m3u8"
     },
     {
       "num": 55481,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视娱乐",
+      "name": "乐视娱乐",
       "urllist": "http://icntv.xyz/letv/lb_yule_720p.m3u8"
     },
     {
       "num": 55482,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视MV",
+      "name": "乐视MV",
       "urllist": "http://icntv.xyz/letv/lb_mv_720p.m3u8"
     },
     {
       "num": 55483,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视风尚",
+      "name": "乐视风尚",
       "urllist": "http://icntv.xyz/letv/lb_fengshang_720p.m3u8"
     },
     {
       "num": 55484,
       "itemid": "letvws",
-      "name": "各省卫视频道古典音乐",
+      "name": "古典音乐",
       "urllist": "http://icntv.xyz/letv/lb_classical_720p.m3u8"
     },
     {
       "num": 55485,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视戏曲",
+      "name": "乐视戏曲",
       "urllist": "http://icntv.xyz/letv/lb_xiqu_720p.m3u8"
     },
     {
       "num": 55486,
       "itemid": "letvws",
-      "name": "各省卫视频道我是歌手NEW",
+      "name": "我是歌手NEW",
       "urllist": "http://icntv.xyz/letv/lb_imsinger_720p.m3u8"
     },
     {
       "num": 55487,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视垫播",
+      "name": "乐视垫播",
       "urllist": "http://icntv.xyz/letv/lb_lssd_350.m3u8"
     },
     {
       "num": 55488,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视盛典",
+      "name": "乐视盛典",
       "urllist": "http://icntv.xyz/letv/lb_lssd_1300.m3u8"
     },
     {
       "num": 55489,
       "itemid": "letvws",
-      "name": "各省卫视频道乐视儿歌",
+      "name": "乐视儿歌",
       "urllist": "http://icntv.xyz/letv/lb_erge_720p.m3u8"
     },
     {
       "num": 55490,
       "itemid": "letvws",
-      "name": "各省卫视频道动作电影",
+      "name": "动作电影",
       "urllist": "http://icntv.xyz/letv/lb_dzdy_720p.m3u8"
     },
     {
       "num": 55491,
       "itemid": "letvws",
-      "name": "各省卫视频道电影",
+      "name": "电影",
       "urllist": "http://icntv.xyz/letv/lb_zpw_720p.m3u8"
     },
     {
       "num": 55492,
       "itemid": "letvws",
-      "name": "各省卫视频道国际时装周",
+      "name": "国际时装周",
       "urllist": "http://icntv.xyz/letv/lb_shizhuang_720p.m3u8"
     },
     {

@@ -1,4 +1,4 @@
-﻿20160218
+20160218
 tmp://vod.pzhgd.com:1935/live/pzh1:攀枝花综合
 rtmp://vod.pzhgd.com:1935/live/pzh3:攀枝花影视
 rtmp://vod.pzhgd.com:1935/live/zbpzh:直播攀枝花
