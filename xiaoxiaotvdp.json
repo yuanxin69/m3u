@@ -759,121 +759,121 @@
     {
       "num": 55127,
       "itemid": "letvkt",
-      "name": "乐视卡通亲子",
+      "name": "卡通亲子",
       "urllist": "http://icntv.xyz/letv/lb_qinzi_1300.m3u8"
     },
     {
       "num": 55128,
       "itemid": "letvkt",
-      "name": "乐视卡通儿歌",
+      "name": "卡通儿歌",
       "urllist": "http://icntv.xyz/letv/lb_erge_1300.m3u8"
     },
     {
       "num": 55129,
       "itemid": "letvkt",
-      "name": "乐视卡通动漫",
+      "name": "卡通动漫",
       "urllist": "http://icntv.xyz/letv/lb_comic_1300.m3u8"
     },
     {
       "num": 55130,
       "itemid": "letvkt",
-      "name": "乐视卡通熊出没",
+      "name": "卡通熊出没",
       "urllist": "http://icntv.xyz/letv/lb_xcm_1300.m3u8"
     },
     {
       "num": 55131,
       "itemid": "letvkt",
-      "name": "乐视卡通猪猪侠",
+      "name": "卡通猪猪侠",
       "urllist": "http://icntv.xyz/letv/lb_zzx_1300.m3u8"
     },
     {
       "num": 55132,
       "itemid": "letvkt",
-      "name": "乐视卡通倒霉熊",
+      "name": "卡通倒霉熊",
       "urllist": "http://icntv.xyz/letv/lb_dmx_1300.m3u8"
     },
     {
       "num": 55133,
       "itemid": "letvkt",
-      "name": "乐视卡通猫和老鼠",
+      "name": "卡通猫和老鼠",
       "urllist": "http://icntv.xyz/letv/lb_mhls_1300.m3u8"
     },
     {
       "num": 55134,
       "itemid": "letvkt",
-      "name": "乐视卡通大头儿子",
+      "name": "卡通大头儿子",
       "urllist": "http://icntv.xyz/letv/lb_dtez_1300.m3u8"
     },
     {
       "num": 55135,
       "itemid": "letvkt",
-      "name": "乐视卡通宠物小精灵",
+      "name": "卡通宠物小精灵",
       "urllist": "http://icntv.xyz/letv/lb_cwxjl_1300.m3u8"
     },
     {
       "num": 55136,
       "itemid": "letvkt",
-      "name": "乐视卡通哆啦A梦",
+      "name": "卡通哆啦A梦",
       "urllist": "http://icntv.xyz/letv/lb_dlam_1300.m3u8"
     },
     {
       "num": 55137,
       "itemid": "letvkt",
-      "name": "乐视卡通樱桃小丸子",
+      "name": "卡通樱桃小丸子",
       "urllist": "http://icntv.xyz/letv/lb_ytxwz_1300.m3u8"
     },
     {
       "num": 55138,
       "itemid": "letvkt",
-      "name": "乐视卡通蜡笔小新",
+      "name": "卡通蜡笔小新",
       "urllist": "http://icntv.xyz/letv/lb_lbxx_1300.m3u8"
     },
     {
       "num": 55139,
       "itemid": "letvkt",
-      "name": "乐视卡通小马宝莉",
+      "name": "卡通小马宝莉",
       "urllist": "http://icntv.xyz/letv/lb_xmbl_1300.m3u8"
     },
     {
       "num": 55140,
       "itemid": "letvkt",
-      "name": "乐视卡通黑子的篮球",
+      "name": "卡通黑子的篮球",
       "urllist": "http://icntv.xyz/letv/lb_hzdlq_1300.m3u8"
     },
     {
       "num": 55141,
       "itemid": "letvkt",
-      "name": "乐视卡通巨神战击队",
+      "name": "卡通巨神战击队",
       "urllist": "http://icntv.xyz/letv/lb_jszjd_1300.m3u8"
     },
     {
       "num": 55142,
       "itemid": "letvkt",
-      "name": "乐视卡通名侦探柯南",
+      "name": "卡通名侦探柯南",
       "urllist": "http://icntv.xyz/letv/lb_mztkn_1300.m3u8"
     },
     {
       "num": 55143,
       "itemid": "letvkt",
-      "name": "乐视卡通变形金刚",
+      "name": "卡通变形金刚",
       "urllist": "http://icntv.xyz/letv/lb_bxjg_1300.m3u8"
     },
     {
       "num": 55144,
       "itemid": "letvkt",
-      "name": "乐视卡通奥特曼",
+      "name": "卡通奥特曼",
       "urllist": "http://icntv.xyz/letv/lb_atm_1300.m3u8"
     },
     {
       "num": 55145,
       "itemid": "letvkt",
-      "name": "乐视卡通巴啦啦小魔仙",
+      "name": "卡通巴啦啦小魔仙",
       "urllist": "http://icntv.xyz/letv/lb_bllxmx_1300.m3u8"
     },
     {
       "num": 55146,
       "itemid": "letvkt",
-      "name": "乐视卡通欧美卡通",
+      "name": "卡通欧美卡通",
       "urllist": "http://icntv.xyz/letv/lb_omkt_1300.m3u8"
     },
     {
@@ -5947,265 +5947,271 @@
       "urllist": "http://video01-lax.streamup.com/app/starfoods-stream/chunklist.m3u8"
     },
     {
+      "num": 41027,
+      "itemid": "TW",
+      "name": "好美味",
+      "urllist": "http://182.92.189.193:1935/live/h_food_1/playlist.m3u8"
+    },
+    {
       "num": 57001,
       "itemid": "uid4",
       "name": "博斯运动综合",
       "urllist": "p2p://76.73.57.138:9999/5448c579000006640162b2c11bb3ef76"
     },
     {
-      "num": 57001,
+      "num": 57002,
       "itemid": "uid4",
       "name": "博斯无限SD",
       "urllist": "p2p://76.73.57.138:9999/5448c571000298a50162942aa035a2af"
     },
     {
-      "num": 57001,
+      "num": 57003,
       "itemid": "uid4",
       "name": "博斯网球",
       "urllist": "p2p://76.73.57.138:9999/5448c568000eb9aa0162741d62146ec0"
     },
     {
-      "num": 57001,
+      "num": 57004,
       "itemid": "uid4",
       "name": "博斯足球",
       "urllist": "p2p://76.73.57.138:9999/5448c569000d09bd01627796406ab572"
     },
     {
-      "num": 57001,
+      "num": 57005,
       "itemid": "uid4",
       "name": "博斯电玩台",
       "urllist": "p2p://76.73.57.138:9999/54cef7a3000b7a79805e943d26709926"
     },
     {
-      "num": 57001,
+      "num": 57006,
       "itemid": "uid4",
       "name": "ASN",
       "urllist": "p2p://76.73.57.138:9999/5448c57100049c55016294ae61fcb1dd"
     },
     {
-      "num": 57001,
+      "num": 57007,
       "itemid": "uid4",
       "name": "天映频道",
       "urllist": "p2p://76.73.57.138:9999/53cd58d500060d40cbacdb3f49b92098"
     },
     {
-      "num": 57001,
+      "num": 57008,
       "itemid": "uid4",
       "name": "天映HD",
       "urllist": "p2p://76.73.57.138:9999/53cd58f9000eb85ccbad6a1644cc3548"
     },
     {
-      "num": 57001,
+      "num": 57009,
       "itemid": "uid4",
       "name": "AEC HD",
       "urllist": "p2p://76.73.57.138:9999/53c9ada700018eedbd5847011f8c7178"
     },
     {
-      "num": 57001,
+      "num": 57010,
       "itemid": "uid4",
       "name": "A全佳台HD",
       "urllist": "p2p://76.73.57.138:9999/53ccbd2000052f71c94ca381346f4536"
     },
     {
-      "num": 57001,
+      "num": 57011,
       "itemid": "uid4",
       "name": "A华丽台HD",
       "urllist": "p2p://76.73.57.138:9999/53cd76cc00068a06cc21e84c0f0468f1"
     },
     {
-      "num": 57001,
+      "num": 57012,
       "itemid": "uid4",
       "name": "A双星台",
       "urllist": "p2p://76.73.57.138:9999/53ccbf0e0005d86bc9542d5804481caa"
     },
     {
-      "num": 57001,
+      "num": 57013,
       "itemid": "uid4",
       "name": "A欢喜台HD",
       "urllist": "p2p://76.73.57.138:9999/53cab194000e7be1c14f990b2cd93ae7"
     },
     {
-      "num": 57001,
+      "num": 57014,
       "itemid": "uid4",
       "name": "Li时尚生活",
       "urllist": "p2p://76.73.57.138:9999/53ccb2bd00078671c92415363f083b8a"
     },
     {
-      "num": 57001,
+      "num": 57015,
       "itemid": "uid4",
       "name": "A ON DEMAND HD",
       "urllist": "p2p://76.73.57.138:9999/53c9ae1b000d64ecbd5a0f2f4c801ee0"
     },
     {
-      "num": 57001,
+      "num": 57016,
       "itemid": "uid4",
       "name": "SUPER SPORTS 1",
       "urllist": "p2p://76.73.57.138:9999/53cd4d5e000edfb1cb8014a60454234a"
     },
     {
-      "num": 57001,
+      "num": 57017,
       "itemid": "uid4",
       "name": "SUPER SPORTS 2",
       "urllist": "p2p://76.73.57.138:9999/53cd4d9000007b57cb80d44c3a3d0f2a"
     },
     {
-      "num": 57001,
+      "num": 57018,
       "itemid": "uid4",
       "name": "SUPER SPORTS 3",
       "urllist": "p2p://76.73.57.138:9999/53cd4db70006c5b5cb816e3a164c3e4d"
     },
     {
-      "num": 57001,
+      "num": 57019,
       "itemid": "uid4",
       "name": "SUPER SPORTS 4",
       "urllist": "p2p://76.73.57.138:9999/53cd4ef600003acacb864aa308933a27"
     },
     {
-      "num": 57001,
+      "num": 57020,
       "itemid": "uid4",
       "name": "美第奇艺术MedichArts",
       "urllist": "p2p://76.73.57.138:9999/5448c56a0001d0400162789e078ef82c"
     },
     {
-      "num": 57001,
+      "num": 57021,
       "itemid": "uid4",
       "name": "Smart知识",
       "urllist": "p2p://76.73.57.138:9999/5448c5550000bfbc016226519ad76094"
     },
     {
-      "num": 57001,
+      "num": 57022,
       "itemid": "uid4",
       "name": "半岛新闻",
       "urllist": "p2p://76.73.57.138:9999/5448c56000017229016251765ce2e190"
     },
     {
-      "num": 57001,
+      "num": 57023,
       "itemid": "uid4",
       "name": "Aljazeera",
       "urllist": "http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8"
     },
     {
-      "num": 57001,
+      "num": 57024,
       "itemid": "uid4",
       "name": "龙华电影HD",
       "urllist": "p2p://76.73.57.138:9999/5448c55f0001a62e01624d9c10ed555c"
     },
     {
-      "num": 57001,
+      "num": 57025,
       "itemid": "uid4",
       "name": "龙华戏剧2台",
       "urllist": "p2p://76.73.57.138:9999/5448c571000a590c016296263e329e4d"
     },
     {
-      "num": 57001,
+      "num": 57026,
       "itemid": "uid4",
       "name": "龙华电影3台",
       "urllist": "p2p://76.73.57.138:9999/54bdc61a0003c0393d35131b0c8ae8ee"
     },
     {
-      "num": 57001,
+      "num": 57027,
       "itemid": "uid4",
       "name": "龙华电影4台",
       "urllist": "p2p://76.73.57.138:9999/5448c571000e3ea40162972578468014"
     },
     {
-      "num": 57001,
+      "num": 57028,
       "itemid": "uid4",
       "name": "HKTV HD",
       "urllist": "http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&uid=1&vid=1&mxres=720&s=f28849d9f4c57e9e93a5e77cc87c7338"
     },
     {
-      "num": 57001,
+      "num": 57029,
       "itemid": "uid4",
       "name": "澳亚卫视",
       "urllist": "http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8"
     },
     {
-      "num": 57001,
+      "num": 57030,
       "itemid": "uid4",
       "name": "年代Much",
       "urllist": "p2p://76.73.57.138:9999/5448c555000bae960162291d4981f64e"
     },
     {
-      "num": 57001,
+      "num": 57031,
       "itemid": "uid4",
       "name": "东森亚洲",
       "urllist": "p2p://76.73.57.138:9999/5448c548000aace30161f6139aaf3e7e"
     },
     {
-      "num": 57001,
+      "num": 57032,
       "itemid": "uid4",
       "name": "亚洲旅游",
       "urllist": "p2p://76.73.57.138:9999/5448c53f000bdb2d0161d3395baec7fa"
     },
     {
-      "num": 57001,
+      "num": 57033,
       "itemid": "uid4",
       "name": "亚洲旅游国际台",
       "urllist": "p2p://76.73.57.138:9999/549d5984000cc39110dc69fc5348cf79"
     },
     {
-      "num": 57001,
+      "num": 57034,
       "itemid": "uid4",
       "name": "亚洲综合台",
       "urllist": "p2p://76.73.57.138:9999/5448c5480004c8bd0161f491487ae777"
     },
     {
-      "num": 57001,
+      "num": 57035,
       "itemid": "uid4",
       "name": "寰宇新闻一台",
       "urllist": "p2p://76.73.57.138:9999/5448c569000156db016274970a517af8"
     },
     {
-      "num": 57001,
+      "num": 57036,
       "itemid": "uid4",
       "name": "寰宇新闻二台",
       "urllist": "p2p://76.73.57.138:9999/5448c55600024dc601622a9fa18c811c"
     },
     {
-      "num": 57001,
+      "num": 57037,
       "itemid": "uid4",
       "name": "龙华戏剧3台",
       "urllist": "p2p://76.73.57.138:9999/5448c578000b84f30162b1cba7c0a960"
     },
     {
-      "num": 57001,
+      "num": 57038,
       "itemid": "uid4",
       "name": "龙华戏剧4台",
       "urllist": "p2p://76.73.57.138:9999/5448c578000d72760162b249c30c0665"
     },
     {
-      "num": 57001,
+      "num": 57039,
       "itemid": "uid4",
       "name": "放送台",
       "urllist": "p2p://76.73.57.138:9999/5448c5710006ab7c01629535053e67c4"
     },
     {
-      "num": 57001,
+      "num": 57040,
       "itemid": "uid4",
       "name": "幸福旅游",
       "urllist": "p2p://76.73.57.138:9999/5448c5490008e6970161f9874e0390cf"
     },
     {
-      "num": 57001,
+      "num": 57041,
       "itemid": "uid4",
       "name": "人间卫视",
       "urllist": "p2p://76.73.57.138:9999/5448c549000aa4e70161f9f94af53d03"
     },
     {
-      "num": 57001,
+      "num": 57042,
       "itemid": "uid4",
       "name": "迪斯尼卡通",
       "urllist": "p2p://76.73.57.138:9999/56a905da0007fda617f99c5b46761480"
     },
     {
-      "num": 57001,
+      "num": 57043,
       "itemid": "uid4",
       "name": "BabyFirst",
       "urllist": "p2p://76.73.57.138:9999/5448c55500030101016226e4fc5300c1"
     },
     {
-      "num": 57001,
+      "num": 57044,
       "itemid": "uid4",
       "name": "龙华动漫2台",
       "urllist": "p2p://76.73.57.138:9999/5448c5720008a00c0162999dcaaaff9f"
@@ -6658,71 +6664,71 @@
   "type": [
     {
       "id": "uid2",
-      "name": "小小韩国"
+      "name": "1.小小韩国"
     },
     {
       "id": "uidall",
-      "name": "←小小TV→"
+      "name": "2.←小小TV→"
     },
     {
       "id": "uid6",
-      "name": "战旗专场"
+      "name": "3.战旗专场"
     },
     {
       "id": "TW",
-      "name": "小小台湾"
+      "name": "4.小小台湾"
     },
     {
       "id": "uid1",
-      "name": "左右换分类"
+      "name": "5.左右换分类"
     },
     {
       "id": "uid5",
-      "name": "小小央视"
+      "name": "6.小小央视"
     },
     {
       "id": "uid3",
-      "name": "熊猫影院"
+      "name": "7.熊猫影院"
     },
     {
       "id": "qing",
-      "name": "小小独家高清"
+      "name": "8.小小独家高清"
     },
     {
       "id": "letvzh",
-      "name": "综合频道"
+      "name": "9.综合频道"
     },
     {
       "id": "letvkt",
-      "name": "卡通频道"
+      "name": "10.卡通频道"
     },
     {
       "id": "letvjc",
-      "name": "电视剧场"
+      "name": "11.电视剧场"
     },
     {
       "id": "letvmr",
-      "name": "名人专场"
+      "name": "12.名人专场"
     },
     {
       "id": "letvmsn",
-      "name": "美少女"
+      "name": "13.美少女"
     },
     {
       "id": "letvty",
-      "name": "体育频道"
+      "name": "14.体育频道"
     },
     {
       "id": "uid4",
-      "name": "华新TV"
+      "name": "15.华新TV"
     },
     {
       "id": "letvws",
-      "name": "卫视专用源"
+      "name": "16.卫视专用源"
     },
     {
       "id": "gat",
-      "name": "港澳频道"
+      "name": "17.港澳（铁通专用）"
     }
   ]
 }
