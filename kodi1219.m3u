@@ -1,5 +1,127 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV1HD
+http://lolbox.duapp.com/cmv.php?id=cctv1hd
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV2
+http://lolbox.duapp.com/cmv.php?id=cctv2
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV3
+http://lolbox.duapp.com/cmv.php?id=cctv3
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV4(亚洲)
+http://lolbox.duapp.com/cmv.php?id=cctv4
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV5
+http://lolbox.duapp.com/cmv.php?id=cctv5
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV6
+http://lolbox.duapp.com/cmv.php?id=cctv6
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV7
+http://lolbox.duapp.com/cmv.php?id=cctv7
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV8
+http://lolbox.duapp.com/cmv.php?id=cctv8
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV9
+http://lolbox.duapp.com/cmv.php?id=cctv9
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV10
+http://lolbox.duapp.com/cmv.php?id=cctv10
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV11
+http://lolbox.duapp.com/cmv.php?id=cctv11
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV12
+http://lolbox.duapp.com/cmv.php?id=cctv12
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV13
+http://lolbox.duapp.com/cmv.php?id=cctv13
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV14
+http://lolbox.duapp.com/cmv.php?id=cctv14
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV15
+http://lolbox.duapp.com/cmv.php?id=cctv15
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV-国防军事
+http://lolbox.duapp.com/cmv.php?id=gfjs
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV-世界地理
+http://lolbox.duapp.com/cmv.php?id=sjdl
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV-风云剧场
+http://lolbox.duapp.com/cmv.php?id=fyjc
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV-风云音乐
+http://lolbox.duapp.com/cmv.php?id=fyyy
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV-风云足球
+http://lolbox.duapp.com/cmv.php?id=fyzq
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV-怀旧剧场
+http://lolbox.duapp.com/cmv.php?id=hjjc
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV-第一剧场
+http://lolbox.duapp.com/cmv.php?id=dyjc
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV-高尔夫网球
+http://lolbox.duapp.com/cmv.php?id=gefwq
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV-女性时尚
+http://lolbox.duapp.com/cmv.php?id=nxss
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 湖南卫视HD
+http://lolbox.duapp.com/cmv.php?id=hnws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 黑龙江卫视HD
+http://lolbox.duapp.com/cmv.php?id=hljws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 黑龙江卫视
+http://lolbox.duapp.com/cmv.php?id=hljws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 北京卫视HD
+http://lolbox.duapp.com/cmv.php?id=bjws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 天津卫视HD
+http://lolbox.duapp.com/cmv.php?id=tjws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 深圳卫视HD
+http://lolbox.duapp.com/cmv.php?id=szws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 广东卫视
+http://lolbox.duapp.com/cmv.php?id=gdws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 浙江卫视HD
+http://lolbox.duapp.com/cmv.php?id=zjwshd
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 浙江卫视
+http://lolbox.duapp.com/cmv.php?id=zjws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 山东卫视HD
+http://lolbox.duapp.com/cmv.php?id=sdws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 东方卫视HD
+http://lolbox.duapp.com/cmv.php?id=dfws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 辽宁卫视
+http://lolbox.duapp.com/cmv.php?id=lnws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 湖北卫视
+http://lolbox.duapp.com/cmv.php?id=hbws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 江苏卫视
+http://lolbox.duapp.com/cmv.php?id=jsws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 安徽卫视
+http://lolbox.duapp.com/cmv.php?id=ahws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 重庆卫视
+http://lolbox.duapp.com/cmv.php?id=cqws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 吉林卫视
+http://lolbox.duapp.com/cmv.php?id=jlws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 内蒙古卫视
+http://lolbox.duapp.com/cmv.php?id=nmgws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 宁夏卫视
+http://lolbox.duapp.com/cmv.php?id=nxws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 甘肃卫视
+http://lolbox.duapp.com/cmv.php?id=gsws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 青海卫视
+http://lolbox.duapp.com/cmv.php?id=qhws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 山西卫视
+http://lolbox.duapp.com/cmv.php?id=sxws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 江西卫视
+http://lolbox.duapp.com/cmv.php?id=jxws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 东南卫视
+http://lolbox.duapp.com/cmv.php?id=dnws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 厦门卫视
+http://lolbox.duapp.com/cmv.php?id=xmws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 广西卫视
+http://lolbox.duapp.com/cmv.php?id=gxws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 云南卫视
+http://lolbox.duapp.com/cmv.php?id=ynws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 贵州卫视
+http://lolbox.duapp.com/cmv.php?id=gzws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 四川卫视
+http://lolbox.duapp.com/cmv.php?id=scws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 新疆卫视
+http://lolbox.duapp.com/cmv.php?id=xjws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 西藏卫视
+http://lolbox.duapp.com/cmv.php?id=xzws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 旅游卫视
+http://lolbox.duapp.com/cmv.php?id=lyws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 兵团卫视
+http://lolbox.duapp.com/cmv.php?id=btws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 河北卫视
+http://lolbox.duapp.com/cmv.php?id=hews
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 康巴卫视
+http://lolbox.duapp.com/cmv.php?id=kbws
+#EXTINF:-1 group-title="咪咕直播", 咪咕 - 延边卫视
+http://lolbox.duapp.com/cmv.php?id=ybws
+
+
 #EXTINF:-1 group-title="爱尚频道", 爱尚 - CCTV1-综合
 http://180.100.7.2/live.aishang.ctlcdn.com/00000110240001_1/encoder/0/playlist.m3u8
 #EXTINF:-1 group-title="爱尚频道", 爱尚 - CCTV2-财经
@@ -2907,35 +3029,35 @@ http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv9/as/live/cctv9_4.m3u8
 
 
 
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 法国内衣秀ashion TV
+#EXTINF:-1 group-title="实施生活",实施生活 - 实施生活ashion TV
 rtsp://edgeb.streaming.sk:554/fashiontv/mp4:fashiontv.stream
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 芭莎TV
+#EXTINF:-1 group-title="实施生活",实施生活 - 芭莎TV
 http://icntv.xyz/letv/lb_bsTV_1300.m3u8
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 中国国际时装周
+#EXTINF:-1 group-title="实施生活",实施生活 - 中国国际时装周
 http://icntv.xyz/letv/lb_shizhuang_1000.m3u8
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - FTV热电视
+#EXTINF:-1 group-title="实施生活",实施生活 - FTV热电视
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/ftv_hot-tablet.3gp/ftv_hot-tablet.3gp-mr648k.m3u8?
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 世界报电视Kayhan TV
+#EXTINF:-1 group-title="实施生活",实施生活 - 世界报电视Kayhan TV
 rtmp://playout395.livestreamingcdn.com/live//Stream1
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 法国时尚娱乐
+#EXTINF:-1 group-title="实施生活",实施生活 - 法国时尚娱乐
 http://210.200.79.26:1935/live/ufash.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 印度mtv频道
+#EXTINF:-1 group-title="实施生活",实施生活 - 印度mtv频道
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 音乐BIGPOND MUSIC 1
+#EXTINF:-1 group-title="实施生活",实施生活 - 音乐BIGPOND MUSIC 1
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 音乐-EskaTV 2
+#EXTINF:-1 group-title="实施生活",实施生活 - 音乐-EskaTV 2
 rtmp://stream.smcloud.net:1935/live2/eskatv/eskatv_360p
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 音乐-TV7Plus 3
+#EXTINF:-1 group-title="实施生活",实施生活 - 音乐-TV7Plus 3
 rtmp://vod.tv7.fi:1935/tv7plus-web/_definst_/mp4:tv7plus.stream_360p
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - M20音乐频道
+#EXTINF:-1 group-title="实施生活",实施生活 - M20音乐频道
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 好美味
+#EXTINF:-1 group-title="实施生活",实施生活 - 好美味
 http://182.92.189.193:1935/live/h_food_1/playlist.m3u8
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 时尚19
+#EXTINF:-1 group-title="实施生活",实施生活 - 时尚19
 rtmp://edge2.everyon.tv/etv2/pld24
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - 时尚生活Pik-TV HD
+#EXTINF:-1 group-title="实施生活",实施生活 - 时尚生活Pik-TV HD
 rtsp://fms.pik-tv.com/live/piktv3pik3tv
-#EXTINF:-1 group-title="法国内衣秀",法国内衣秀 - FTV HD
+#EXTINF:-1 group-title="实施生活",实施生活 - FTV HD
 rtmp://95.67.8.43:1935/live/fashionhd
 
 #EXTINF:-1 group-title="日本频道",日本直播
