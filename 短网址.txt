@@ -60,6 +60,8 @@ http://d1.51gugu.com/184116/mrmc_20160105.m3u8
 短地址：http://dwz.cn/2vQa5b
 长地址：https://raw.githubusercontent.com/yuanxin69/testKodi/master/m3u/kodi.m3u
 短地址：http://dwz.cn/2vTcjo
+长地址：https://raw.githubusercontent.com/yuanxin69/m3u/master/iphonedp.json
+短地址：http://www.dwz.cn/2LESvc
 http://file.xbmcmxtv.com/2legit.m3u
 https://raw.githubusercontent.com/HDPxbmc/IPTV.M3UList/master/IPTV.m3u
 http://dwz.cn/2vTh4J
