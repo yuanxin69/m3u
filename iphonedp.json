@@ -1,0 +1,6698 @@
+﻿{
+  "live": [
+    {
+      "num": 55001,
+      "chid": "letvzh",
+      "chname": "乐迷频道",
+      "chlink": "http://icntv.xyz/letv/lb_lm_1300.m3u8"
+    },
+    {
+      "num": 55002,
+      "chid": "letvzh",
+      "chname": "乐视垫播",
+      "chlink": "http://icntv.xyz/letv/lb_backup_1000.m3u8"
+    },
+    {
+      "num": 55003,
+      "chid": "letvzh",
+      "chname": "科教纪录片",
+      "chlink": "http://icntv.xyz/letv/lb_jilu_1300.m3u8"
+    },
+    {
+      "num": 55004,
+      "chid": "letvzh",
+      "chname": "唐卡",
+      "chlink": "http://icntv.xyz/letv/lb_lb_tangka_1300.m3u8"
+    },
+    {
+      "num": 55005,
+      "chid": "letvzh",
+      "chname": "文化遗产",
+      "chlink": "http://icntv.xyz/letv/lb_lb_whyc_1300.m3u8"
+    },
+    {
+      "num": 55006,
+      "chid": "letvzh",
+      "chname": "美克家居 A.R.T★",
+      "chlink": "http://icntv.xyz/letv/lb_mkmj_1300.m3u8"
+    },
+    {
+      "num": 55007,
+      "chid": "letvzh",
+      "chname": "乐视生态",
+      "chlink": "http://icntv.xyz/letv/lb_lsst_1300.m3u8"
+    },
+    {
+      "num": 55008,
+      "chid": "letvzh",
+      "chname": "动物世界",
+      "chlink": "http://icntv.xyz/letv/lb_dwsj_1300.m3u8"
+    },
+    {
+      "num": 55009,
+      "chid": "letvzh",
+      "chname": "综合",
+      "chlink": "http://icntv.xyz/letv/lb_zonghe_1300.m3u8"
+    },
+    {
+      "num": 55010,
+      "chid": "letvzh",
+      "chname": "综艺",
+      "chlink": "http://icntv.xyz/letv/lb_ent_1300.m3u8"
+    },
+    {
+      "num": 55011,
+      "chid": "letvzh",
+      "chname": "党建",
+      "chlink": "http://icntv.xyz/letv/lb_dangjian_1300.m3u8"
+    },
+    {
+      "num": 55012,
+      "chid": "letvzh",
+      "chname": "电影",
+      "chlink": "http://icntv.xyz/letv/lb_movie_1300.m3u8"
+    },
+    {
+      "num": 55013,
+      "chid": "letvzh",
+      "chname": "电视剧",
+      "chlink": "http://icntv.xyz/letv/lb_tv_1300.m3u8"
+    },
+    {
+      "num": 55014,
+      "chid": "letvzh",
+      "chname": "1080P",
+      "chlink": "http://icntv.xyz/letv/lb_1080P_1080p3m.m3u8"
+    },
+    {
+      "num": 55015,
+      "chid": "letvzh",
+      "chname": "乐视动作电影",
+      "chlink": "http://icntv.xyz/letv/lb_dzdy_1300.m3u8"
+    },
+    {
+      "num": 55016,
+      "chid": "letvzh",
+      "chname": "香港电影",
+      "chlink": "http://icntv.xyz/letv/lb_hkmovie_1300.m3u8"
+    },
+    {
+      "num": 55017,
+      "chid": "letvzh",
+      "chname": "喜剧电影",
+      "chlink": "http://icntv.xyz/letv/lb_comedy_1300.m3u8"
+    },
+    {
+      "num": 55018,
+      "chid": "letvzh",
+      "chname": "自制剧",
+      "chlink": "http://icntv.xyz/letv/lb_make_1300.m3u8"
+    },
+    {
+      "num": 55019,
+      "chid": "letvzh",
+      "chname": "韩剧",
+      "chlink": "http://icntv.xyz/letv/lb_koreatv_1300.m3u8"
+    },
+    {
+      "num": 55020,
+      "chid": "letvzh",
+      "chname": "跟播",
+      "chlink": "http://icntv.xyz/letv/lb_genbo_1300.m3u8"
+    },
+    {
+      "num": 55021,
+      "chid": "letvzh",
+      "chname": "4K",
+      "chlink": "http://icntv.xyz/letv/lb_4k.m3u8"
+    },
+    {
+      "num": 55022,
+      "chid": "letvzh",
+      "chname": "芈月传",
+      "chlink": "http://icntv.xyz/letv/lb_myz_1300.m3u8"
+    },
+    {
+      "num": 55023,
+      "chid": "letvzh",
+      "chname": "北平无战事",
+      "chlink": "http://icntv.xyz/letv/lb_bpwzs_1300.m3u8"
+    },
+    {
+      "num": 55024,
+      "chid": "letvzh",
+      "chname": "公开课",
+      "chlink": "http://icntv.xyz/letv/lb_gkk_1300.m3u8"
+    },
+    {
+      "num": 55025,
+      "chid": "letvzh",
+      "chname": "我是歌手NEW",
+      "chlink": "http://icntv.xyz/letv/lb_imsinger_1300.m3u8"
+    },
+    {
+      "num": 55026,
+      "chid": "letvzh",
+      "chname": "出彩中国人",
+      "chlink": "http://icntv.xyz/letv/lb_cczgr_1300.m3u8"
+    },
+    {
+      "num": 55027,
+      "chid": "letvzh",
+      "chname": "笑傲江湖",
+      "chlink": "http://icntv.xyz/letv/lb_xajh_1300.m3u8"
+    },
+    {
+      "num": 55028,
+      "chid": "letvzh",
+      "chname": "我看你有戏",
+      "chlink": "http://icntv.xyz/letv/lb_bbhll_1300.m3u8"
+    },
+    {
+      "num": 55029,
+      "chid": "letvzh",
+      "chname": "欢乐喜剧人",
+      "chlink": "http://icntv.xyz/letv/lb_hlxjr_1300.m3u8"
+    },
+    {
+      "num": 55030,
+      "chid": "letvzh",
+      "chname": "舌尖上的中国",
+      "chlink": "http://icntv.xyz/letv/lb_sjsdzg_1300.m3u8"
+    },
+    {
+      "num": 55031,
+      "chid": "letvzh",
+      "chname": "黄段子",
+      "chlink": "http://icntv.xyz/letv/lb_hdz_1300.m3u8"
+    },
+    {
+      "num": 55032,
+      "chid": "letvzh",
+      "chname": "完美游戏",
+      "chlink": "http://icntv.xyz/letv/lb_wmyx_1300.m3u8"
+    },
+    {
+      "num": 55033,
+      "chid": "letvzh",
+      "chname": "电影片花",
+      "chlink": "http://icntv.xyz/letv/lb_trailer_1300.m3u8"
+    },
+    {
+      "num": 55034,
+      "chid": "letvzh",
+      "chname": "周星驰影视",
+      "chlink": "http://icntv.xyz/letv/lb_zxc_1300.m3u8"
+    },
+    {
+      "num": 55035,
+      "chid": "letvzh",
+      "chname": "成龙影视",
+      "chlink": "http://icntv.xyz/letv/lb_cl_1300.m3u8"
+    },
+    {
+      "num": 55036,
+      "chid": "letvzh",
+      "chname": "甄嬛传",
+      "chlink": "http://icntv.xyz/letv/lb_zhenhuan_1300.m3u8"
+    },
+    {
+      "num": 55037,
+      "chid": "letvzh",
+      "chname": "纸牌屋",
+      "chlink": "http://icntv.xyz/letv/lb_zpw_1300.m3u8"
+    },
+    {
+      "num": 55038,
+      "chid": "letvzh",
+      "chname": "反法西斯",
+      "chlink": "http://icntv.xyz/letv/lb_ffxs_1300.m3u8"
+    },
+    {
+      "num": 55039,
+      "chid": "letvzh",
+      "chname": "红高粱",
+      "chlink": "http://icntv.xyz/letv/lb_hgl_1300.m3u8"
+    },
+    {
+      "num": 55040,
+      "chid": "letvzh",
+      "chname": "北京傲客",
+      "chlink": "http://icntv.xyz/letv/lb_bjak_1300.m3u8"
+    },
+    {
+      "num": 55041,
+      "chid": "letvzh",
+      "chname": "和平的全盛时代",
+      "chlink": "http://icntv.xyz/letv/lb_hpdqssd_1300.m3u8"
+    },
+    {
+      "num": 55042,
+      "chid": "letvzh",
+      "chname": "少年四大名捕",
+      "chlink": "http://icntv.xyz/letv/lb_snsdmb_1300.m3u8"
+    },
+    {
+      "num": 55043,
+      "chid": "letvzh",
+      "chname": "鹿鼎记",
+      "chlink": "http://icntv.xyz/letv/lb_ldj_1300.m3u8"
+    },
+    {
+      "num": 55044,
+      "chid": "letvzh",
+      "chname": "还珠格格",
+      "chlink": "http://icntv.xyz/letv/lb_hzgg_1300.m3u8"
+    },
+    {
+      "num": 55045,
+      "chid": "letvzh",
+      "chname": "裸婚时代",
+      "chlink": "http://icntv.xyz/letv/lb_lhsd_1300.m3u8"
+    },
+    {
+      "num": 55046,
+      "chid": "letvzh",
+      "chname": "步步惊心",
+      "chlink": "http://icntv.xyz/letv/lb_bbjx_1300.m3u8"
+    },
+    {
+      "num": 55047,
+      "chid": "letvzh",
+      "chname": "亮剑",
+      "chlink": "http://icntv.xyz/letv/lb_liangjian_1300.m3u8"
+    },
+    {
+      "num": 55048,
+      "chid": "letvzh",
+      "chname": "士兵突击",
+      "chlink": "http://icntv.xyz/letv/lb_sbtj_1300.m3u8"
+    },
+    {
+      "num": 55049,
+      "chid": "letvzh",
+      "chname": "西游记",
+      "chlink": "http://icntv.xyz/letv/lb_xyj_1300.m3u8"
+    },
+    {
+      "num": 55050,
+      "chid": "letvzh",
+      "chname": "包青天",
+      "chlink": "http://icntv.xyz/letv/lb_bqt_1300.m3u8"
+    },
+    {
+      "num": 55051,
+      "chid": "letvzh",
+      "chname": "满仓进城",
+      "chlink": "http://icntv.xyz/letv/lb_mcjc_1300.m3u8"
+    },
+    {
+      "num": 55052,
+      "chid": "letvzh",
+      "chname": "因为爱情有奇迹",
+      "chlink": "http://icntv.xyz/letv/lb_ywaqyqj_1300.m3u8"
+    },
+    {
+      "num": 55053,
+      "chid": "letvzh",
+      "chname": "北平无战事",
+      "chlink": "http://icntv.xyz/letv/lb_bpwzs_1300.m3u8"
+    },
+    {
+      "num": 55054,
+      "chid": "letvzh",
+      "chname": "武林外传",
+      "chlink": "http://icntv.xyz/letv/lb_wlwz_1300.m3u8"
+    },
+    {
+      "num": 55055,
+      "chid": "letvzh",
+      "chname": "龙门镖局",
+      "chlink": "http://icntv.xyz/letv/lb_lmbj_1300.m3u8"
+    },
+    {
+      "num": 55056,
+      "chid": "letvzh",
+      "chname": "好莱坞",
+      "chlink": "http://icntv.xyz/letv/lb_hlw_1300.m3u8"
+    },
+    {
+      "num": 55057,
+      "chid": "letvzh",
+      "chname": "华语电影",
+      "chlink": "http://icntv.xyz/letv/lb_hydy_1300.m3u8"
+    },
+    {
+      "num": 55058,
+      "chid": "letvzh",
+      "chname": "日韩电影",
+      "chlink": "http://icntv.xyz/letv/lb_rhdy_1300.m3u8"
+    },
+    {
+      "num": 55059,
+      "chid": "letvzh",
+      "chname": "北京傲客",
+      "chlink": "http://icntv.xyz/letv/lb_bjak_1300.m3u8"
+    },
+    {
+      "num": 55060,
+      "chid": "letvzh",
+      "chname": "新济公活佛",
+      "chlink": "http://icntv.xyz/letv/lb_xjghf_1300.m3u8"
+    },
+    {
+      "num": 55061,
+      "chid": "letvzh",
+      "chname": "花样姐姐",
+      "chlink": "http://icntv.xyz/letv/lb_hyjj_1300.m3u8"
+    },
+    {
+      "num": 55062,
+      "chid": "letvzh",
+      "chname": "想明白了再结婚",
+      "chlink": "http://icntv.xyz/letv/lb_xmblzjh_1300.m3u8"
+    },
+    {
+      "num": 55063,
+      "chid": "letvzh",
+      "chname": "极品新娘",
+      "chlink": "http://icntv.xyz/letv/lb_jpxn_1300.m3u8"
+    },
+    {
+      "num": 55064,
+      "chid": "letvzh",
+      "chname": "虎妈猫爸",
+      "chlink": "http://icntv.xyz/letv/lb_hmmb_1300.m3u8"
+    },
+    {
+      "num": 55065,
+      "chid": "letvzh",
+      "chname": "聊斋新编",
+      "chlink": "http://icntv.xyz/letv/lb_lzxb_1300.m3u8"
+    },
+    {
+      "num": 55066,
+      "chid": "letvzh",
+      "chname": "何以笙箫默",
+      "chlink": "http://icntv.xyz/letv/lb_hysxm_1300.m3u8"
+    },
+    {
+      "num": 55067,
+      "chid": "letvzh",
+      "chname": "粤语频道",
+      "chlink": "http://icntv.xyz/letv/lb_yylbpd_1300.m3u8"
+    },
+    {
+      "num": 55068,
+      "chid": "letvzh",
+      "chname": "平凡的世界",
+      "chlink": "http://icntv.xyz/letv/lb_pfdsj_1300.m3u8"
+    },
+    {
+      "num": 55069,
+      "chid": "letvzh",
+      "chname": "封神英雄",
+      "chlink": "http://icntv.xyz/letv/lb_fsyx_1300.m3u8"
+    },
+    {
+      "num": 55070,
+      "chid": "letvzh",
+      "chname": "隋唐英雄",
+      "chlink": "http://icntv.xyz/letv/lb_styx_1300.m3u8"
+    },
+    {
+      "num": 55071,
+      "chid": "letvzh",
+      "chname": "锦绣缘华丽冒险",
+      "chlink": "http://icntv.xyz/letv/lb_jxyhlmx_1300.m3u8"
+    },
+    {
+      "num": 55072,
+      "chid": "letvzh",
+      "chname": "活色生香",
+      "chlink": "http://icntv.xyz/letv/lb_hssx_800.m3u8"
+    },
+    {
+      "num": 55073,
+      "chid": "letvzh",
+      "chname": "武媚娘传奇",
+      "chlink": "http://icntv.xyz/letv/lb_wmncq_1300.m3u8"
+    },
+    {
+      "num": 55074,
+      "chid": "letvzh",
+      "chname": "拐个皇帝回现代",
+      "chlink": "http://icntv.xyz/letv/lb_gghdhxd_1800.m3u8"
+    },
+    {
+      "num": 55075,
+      "chid": "letvzh",
+      "chname": "我的老师是传奇",
+      "chlink": "http://icntv.xyz/letv/lb_wdlsscq_1800.m3u8"
+    },
+    {
+      "num": 55076,
+      "chid": "letvzh",
+      "chname": "冰与火的青春",
+      "chlink": "http://icntv.xyz/letv/lb_byhdqc_1800.m3u8"
+    },
+    {
+      "num": 55077,
+      "chid": "letvzh",
+      "chname": "琅琊榜",
+      "chlink": "http://icntv.xyz/letv/lb_lyb_1800.m3u8"
+    },
+    {
+      "num": 55078,
+      "chid": "letvzh",
+      "chname": "十周嫁出去",
+      "chlink": "http://icntv.xyz/letv/lb_szjcq_1800.m3u8"
+    },
+    {
+      "num": 55079,
+      "chid": "letvzh",
+      "chname": "伪装者",
+      "chlink": "http://icntv.xyz/letv/lb_wzz_1800.m3u8"
+    },
+    {
+      "num": 55080,
+      "chid": "letvzh",
+      "chname": "调皮王妃",
+      "chlink": "http://icntv.xyz/letv/lb_tpwf_1800.m3u8"
+    },
+    {
+      "num": 55081,
+      "chid": "letvzh",
+      "chname": "两生花",
+      "chlink": "http://icntv.xyz/letv/lb_lb_lsh_1300.m3u8"
+    },
+    {
+      "num": 55082,
+      "chid": "letvzh",
+      "chname": "小时代",
+      "chlink": "http://icntv.xyz/letv/lb_xsd_1300.m3u8"
+    },
+    {
+      "num": 55083,
+      "chid": "letvzh",
+      "chname": "想明白了再结婚",
+      "chlink": "http://icntv.xyz/letv/lb_xmblzjh_1300.m3u8"
+    },
+    {
+      "num": 55084,
+      "chid": "letvzh",
+      "chname": "极品新娘",
+      "chlink": "http://icntv.xyz/letv/lb_jpxn_1300.m3u8"
+    },
+    {
+      "num": 55085,
+      "chid": "letvzh",
+      "chname": "欢乐喜剧人",
+      "chlink": "http://icntv.xyz/letv/lb_hlxjr_1300.m3u8"
+    },
+    {
+      "num": 55086,
+      "chid": "letvzh",
+      "chname": "偏偏喜欢你",
+      "chlink": "http://icntv.xyz/letv/lb_lb_ppxhn_1300.m3u8"
+    },
+    {
+      "num": 55087,
+      "chid": "letvzh",
+      "chname": "后海不是海",
+      "chlink": "http://icntv.xyz/letv/lb_lb_hhbsh_1800.m3u8"
+    },
+    {
+      "num": 55088,
+      "chid": "letvzh",
+      "chname": "你是我的姐妹",
+      "chlink": "http://icntv.xyz/letv/lb_lb_nswdjm_1800.m3u8"
+    },
+    {
+      "num": 55089,
+      "chid": "letvzh",
+      "chname": "克拉恋人",
+      "chlink": "http://icntv.xyz/letv/lb_kllr_1300.m3u8"
+    },
+    {
+      "num": 55090,
+      "chid": "letvzh",
+      "chname": "挑战者联盟",
+      "chlink": "http://icntv.xyz/letv/lb_tzzlm_1300.m3u8"
+    },
+    {
+      "num": 55091,
+      "chid": "letvzh",
+      "chname": "少年神探狄仁杰",
+      "chlink": "http://icntv.xyz/letv/lb_snstdrj_1300.m3u8"
+    },
+    {
+      "num": 55092,
+      "chid": "letvzh",
+      "chname": "神犬小七",
+      "chlink": "http://icntv.xyz/letv/lb_sqxq_1300.m3u8"
+    },
+    {
+      "num": 55093,
+      "chid": "letvzh",
+      "chname": "潜伏",
+      "chlink": "http://icntv.xyz/letv/lb_qianfu_1300.m3u8"
+    },
+    {
+      "num": 55094,
+      "chid": "letvzh",
+      "chname": "欢乐季",
+      "chlink": "http://icntv.xyz/letv/lb_2015xjdws_1300.m3u8"
+    },
+    {
+      "num": 55095,
+      "chid": "letvzh",
+      "chname": "大汉情缘之云中歌",
+      "chlink": "http://icntv.xyz/letv/lb_dhqyzyzg_1300.m3u8"
+    },
+    {
+      "num": 55096,
+      "chid": "letvzh",
+      "chname": "来自未来的史密特",
+      "chlink": "http://icntv.xyz/letv/lb_lzwldsmt_1800.m3u8"
+    },
+    {
+      "num": 55097,
+      "chid": "letvzh",
+      "chname": "特工卡特",
+      "chlink": "http://icntv.xyz/letv/lb_tgkt_1800.m3u8"
+    },
+    {
+      "num": 55098,
+      "chid": "letvzh",
+      "chname": "音乐",
+      "chlink": "http://icntv.xyz/letv/lb_music_1300.m3u8"
+    },
+    {
+      "num": 55099,
+      "chid": "letvzh",
+      "chname": "演唱会",
+      "chlink": "http://icntv.xyz/letv/lb_concert_1300.m3u8"
+    },
+    {
+      "num": 55100,
+      "chid": "letvzh",
+      "chname": "娱乐",
+      "chlink": "http://icntv.xyz/letv/lb_yule_1300.m3u8"
+    },
+    {
+      "num": 55101,
+      "chid": "letvzh",
+      "chname": "MV",
+      "chlink": "http://icntv.xyz/letv/lb_mv_1300.m3u8"
+    },
+    {
+      "num": 55102,
+      "chid": "letvzh",
+      "chname": "古典音乐",
+      "chlink": "http://icntv.xyz/letv/lb_classical_1300.m3u8"
+    },
+    {
+      "num": 55103,
+      "chid": "letvzh",
+      "chname": "戏曲",
+      "chlink": "http://icntv.xyz/letv/lb_xiqu_1300.m3u8"
+    },
+    {
+      "num": 55104,
+      "chid": "letvzh",
+      "chname": "音乐节",
+      "chlink": "http://icntv.xyz/letv/lb_yinyuejie_1000.m3u8"
+    },
+    {
+      "num": 55105,
+      "chid": "letvzh",
+      "chname": "LIVE生活",
+      "chlink": "http://icntv.xyz/letv/lb_livemusic_1000.m3u8"
+    },
+    {
+      "num": 55106,
+      "chid": "letvzh",
+      "chname": "格莱美音乐奖",
+      "chlink": "http://icntv.xyz/letv/lb_glmyyj_1300.m3u8"
+    },
+    {
+      "num": 55107,
+      "chid": "letvzh",
+      "chname": "乐听古典音乐轮播台",
+      "chlink": "http://icntv.xyz/letv/lb_leting_classical_music_800.m3u8"
+    },
+    {
+      "num": 55108,
+      "chid": "letvzh",
+      "chname": "乐听音乐节轮播台",
+      "chlink": "http://icntv.xyz/letv/lb_leting_festival_800.m3u8"
+    },
+    {
+      "num": 55109,
+      "chid": "letvzh",
+      "chname": "乐听蒙面歌王轮播台",
+      "chlink": "http://icntv.xyz/letv/lb_leting_mmgw_800.m3u8"
+    },
+    {
+      "num": 55110,
+      "chid": "letvzh",
+      "chname": "乐听我是歌手轮播台",
+      "chlink": "http://icntv.xyz/letv/lb_leting_wsgs_800.m3u8"
+    },
+    {
+      "num": 55111,
+      "chid": "letvzh",
+      "chname": "乐听教育轮播台",
+      "chlink": "http://icntv.xyz/letv/lb_leting_800.m3u8"
+    },
+    {
+      "num": 55112,
+      "chid": "letvzh",
+      "chname": "华鼎奖颁奖典礼",
+      "chlink": "http://icntv.xyz/letv/lb_hdjbjdl_1300.m3u8"
+    },
+    {
+      "num": 55113,
+      "chid": "letvzh",
+      "chname": "郎朗演唱会",
+      "chlink": "http://icntv.xyz/letv/lb_langlang_1800.m3u8"
+    },
+    {
+      "num": 55114,
+      "chid": "letvzh",
+      "chname": "陈奕迅演唱会",
+      "chlink": "http://icntv.xyz/letv/lb_chenyixun_1300.m3u8"
+    },
+    {
+      "num": 55115,
+      "chid": "letvzh",
+      "chname": "中国摇滚",
+      "chlink": "http://icntv.xyz/letv/lb_zgyg_1300.m3u8"
+    },
+    {
+      "num": 55116,
+      "chid": "letvzh",
+      "chname": "中国民谣",
+      "chlink": "http://icntv.xyz/letv/lb_zgmy_1300.m3u8"
+    },
+    {
+      "num": 55117,
+      "chid": "letvzh",
+      "chname": "日本流行",
+      "chlink": "http://icntv.xyz/letv/lb_rblx_1300.m3u8"
+    },
+    {
+      "num": 55118,
+      "chid": "letvzh",
+      "chname": "欧美流行",
+      "chlink": "http://icntv.xyz/letv/lb_omlx_1300.m3u8"
+    },
+    {
+      "num": 55119,
+      "chid": "letvzh",
+      "chname": "蒙面歌王",
+      "chlink": "http://icntv.xyz/letv/lb_mmgw_1300.m3u8"
+    },
+    {
+      "num": 55120,
+      "chid": "letvzh",
+      "chname": "广告频道",
+      "chlink": "http://icntv.xyz/letv/lb_lb_ggpd_1300.m3u8"
+    },
+    {
+      "num": 55121,
+      "chid": "letvzh",
+      "chname": "环球购物",
+      "chlink": "http://icntv.xyz/letv/lb_lb_hqgw_1300.m3u8"
+    },
+    {
+      "num": 55122,
+      "chid": "letvzh",
+      "chname": "★广场舞",
+      "chlink": "http://icntv.xyz/letv/lb_gcw_1300.m3u8"
+    },
+    {
+      "num": 55123,
+      "chid": "letvzh",
+      "chname": "生活",
+      "chlink": "http://icntv.xyz/letv/lb_shenghuo_1300.m3u8"
+    },
+    {
+      "num": 55124,
+      "chid": "letvzh",
+      "chname": "超级超级",
+      "chlink": "http://icntv.xyz/letv/lb_zdyjfc_1300.m3u8"
+    },
+    {
+      "num": 55125,
+      "chid": "letvzh",
+      "chname": "★炉石传说",
+      "chlink": "http://icntv.xyz/letv/lb_hlj_1300.m3u8"
+    },
+    {
+      "num": 55126,
+      "chid": "letvzh",
+      "chname": "王者归来发布会",
+      "chlink": "http://icntv.xyz/letv/lb_jcytht_1300.m3u8"
+    },
+    {
+      "num": 55127,
+      "chid": "letvkt",
+      "chname": "卡通亲子",
+      "chlink": "http://icntv.xyz/letv/lb_qinzi_1300.m3u8"
+    },
+    {
+      "num": 55128,
+      "chid": "letvkt",
+      "chname": "卡通儿歌",
+      "chlink": "http://icntv.xyz/letv/lb_erge_1300.m3u8"
+    },
+    {
+      "num": 55129,
+      "chid": "letvkt",
+      "chname": "卡通动漫",
+      "chlink": "http://icntv.xyz/letv/lb_comic_1300.m3u8"
+    },
+    {
+      "num": 55130,
+      "chid": "letvkt",
+      "chname": "卡通熊出没",
+      "chlink": "http://icntv.xyz/letv/lb_xcm_1300.m3u8"
+    },
+    {
+      "num": 55131,
+      "chid": "letvkt",
+      "chname": "卡通猪猪侠",
+      "chlink": "http://icntv.xyz/letv/lb_zzx_1300.m3u8"
+    },
+    {
+      "num": 55132,
+      "chid": "letvkt",
+      "chname": "卡通倒霉熊",
+      "chlink": "http://icntv.xyz/letv/lb_dmx_1300.m3u8"
+    },
+    {
+      "num": 55133,
+      "chid": "letvkt",
+      "chname": "卡通猫和老鼠",
+      "chlink": "http://icntv.xyz/letv/lb_mhls_1300.m3u8"
+    },
+    {
+      "num": 55134,
+      "chid": "letvkt",
+      "chname": "卡通大头儿子",
+      "chlink": "http://icntv.xyz/letv/lb_dtez_1300.m3u8"
+    },
+    {
+      "num": 55135,
+      "chid": "letvkt",
+      "chname": "卡通宠物小精灵",
+      "chlink": "http://icntv.xyz/letv/lb_cwxjl_1300.m3u8"
+    },
+    {
+      "num": 55136,
+      "chid": "letvkt",
+      "chname": "卡通哆啦A梦",
+      "chlink": "http://icntv.xyz/letv/lb_dlam_1300.m3u8"
+    },
+    {
+      "num": 55137,
+      "chid": "letvkt",
+      "chname": "卡通樱桃小丸子",
+      "chlink": "http://icntv.xyz/letv/lb_ytxwz_1300.m3u8"
+    },
+    {
+      "num": 55138,
+      "chid": "letvkt",
+      "chname": "卡通蜡笔小新",
+      "chlink": "http://icntv.xyz/letv/lb_lbxx_1300.m3u8"
+    },
+    {
+      "num": 55139,
+      "chid": "letvkt",
+      "chname": "卡通小马宝莉",
+      "chlink": "http://icntv.xyz/letv/lb_xmbl_1300.m3u8"
+    },
+    {
+      "num": 55140,
+      "chid": "letvkt",
+      "chname": "卡通黑子的篮球",
+      "chlink": "http://icntv.xyz/letv/lb_hzdlq_1300.m3u8"
+    },
+    {
+      "num": 55141,
+      "chid": "letvkt",
+      "chname": "卡通巨神战击队",
+      "chlink": "http://icntv.xyz/letv/lb_jszjd_1300.m3u8"
+    },
+    {
+      "num": 55142,
+      "chid": "letvkt",
+      "chname": "卡通名侦探柯南",
+      "chlink": "http://icntv.xyz/letv/lb_mztkn_1300.m3u8"
+    },
+    {
+      "num": 55143,
+      "chid": "letvkt",
+      "chname": "卡通变形金刚",
+      "chlink": "http://icntv.xyz/letv/lb_bxjg_1300.m3u8"
+    },
+    {
+      "num": 55144,
+      "chid": "letvkt",
+      "chname": "卡通奥特曼",
+      "chlink": "http://icntv.xyz/letv/lb_atm_1300.m3u8"
+    },
+    {
+      "num": 55145,
+      "chid": "letvkt",
+      "chname": "卡通巴啦啦小魔仙",
+      "chlink": "http://icntv.xyz/letv/lb_bllxmx_1300.m3u8"
+    },
+    {
+      "num": 55146,
+      "chid": "letvkt",
+      "chname": "卡通欧美卡通",
+      "chlink": "http://icntv.xyz/letv/lb_omkt_1300.m3u8"
+    },
+    {
+      "num": 55147,
+      "chid": "letvjc",
+      "chname": "小众美剧",
+      "chlink": "http://icntv.xyz/letv/lb_xzmj_1300.m3u8"
+    },
+    {
+      "num": 55148,
+      "chid": "letvjc",
+      "chname": "热门美剧",
+      "chlink": "http://icntv.xyz/letv/lb_rmmj_1300.m3u8"
+    },
+    {
+      "num": 55149,
+      "chid": "letvjc",
+      "chname": "都市剧场",
+      "chlink": "http://icntv.xyz/letv/lb_dsjc_1300.m3u8"
+    },
+    {
+      "num": 55150,
+      "chid": "letvjc",
+      "chname": "脱单剧场",
+      "chlink": "http://icntv.xyz/letv/lb_tdjc_1300.m3u8"
+    },
+    {
+      "num": 55151,
+      "chid": "letvjc",
+      "chname": "美剧",
+      "chlink": "http://icntv.xyz/letv/lb_meiju_1300.m3u8"
+    },
+    {
+      "num": 55152,
+      "chid": "letvjc",
+      "chname": "超级英雄",
+      "chlink": "http://icntv.xyz/letv/lb_cjyx_1300.m3u8"
+    },
+    {
+      "num": 55153,
+      "chid": "letvjc",
+      "chname": "跟播美剧",
+      "chlink": "http://icntv.xyz/letv/lb_gbmj_1300.m3u8"
+    },
+    {
+      "num": 55154,
+      "chid": "letvjc",
+      "chname": "经典美剧",
+      "chlink": "http://icntv.xyz/letv/lb_jdmj_1300.m3u8"
+    },
+    {
+      "num": 55155,
+      "chid": "letvjc",
+      "chname": "罪案烧脑",
+      "chlink": "http://icntv.xyz/letv/lb_zasn_1300.m3u8"
+    },
+    {
+      "num": 55156,
+      "chid": "letvjc",
+      "chname": "科幻美剧",
+      "chlink": "http://icntv.xyz/letv/lb_khmj_1300.m3u8"
+    },
+    {
+      "num": 55157,
+      "chid": "letvjc",
+      "chname": "奇幻美剧",
+      "chlink": "http://icntv.xyz/letv/lb_qhmj_1300.m3u8"
+    },
+    {
+      "num": 55158,
+      "chid": "letvjc",
+      "chname": "喜剧美剧",
+      "chlink": "http://icntv.xyz/letv/lb_xjmj_1300.m3u8"
+    },
+    {
+      "num": 55159,
+      "chid": "letvjc",
+      "chname": "年代剧场",
+      "chlink": "http://icntv.xyz/letv/lb_ndjc_1300.m3u8"
+    },
+    {
+      "num": 55160,
+      "chid": "letvjc",
+      "chname": "虐恋美剧",
+      "chlink": "http://icntv.xyz/letv/lb_nlmj_1300.m3u8"
+    },
+    {
+      "num": 55161,
+      "chid": "letvjc",
+      "chname": "高冷美剧",
+      "chlink": "http://icntv.xyz/letv/lb_glmj_1300.m3u8"
+    },
+    {
+      "num": 55162,
+      "chid": "letvjc",
+      "chname": "单元美剧",
+      "chlink": "http://icntv.xyz/letv/lb_dymj_1300.m3u8"
+    },
+    {
+      "num": 55163,
+      "chid": "letvjc",
+      "chname": "肥皂美剧",
+      "chlink": "http://icntv.xyz/letv/lb_fzmj_1300.m3u8"
+    },
+    {
+      "num": 55164,
+      "chid": "letvjc",
+      "chname": "律政医务美剧",
+      "chlink": "http://icntv.xyz/letv/lb_lzywmj_1300.m3u8"
+    },
+    {
+      "num": 55165,
+      "chid": "letvjc",
+      "chname": "热血动作美剧",
+      "chlink": "http://icntv.xyz/letv/lb_rxdzmj_1300.m3u8"
+    },
+    {
+      "num": 55166,
+      "chid": "letvjc",
+      "chname": "重播之王",
+      "chlink": "http://icntv.xyz/letv/lb_cbzw_1300.m3u8"
+    },
+    {
+      "num": 55167,
+      "chid": "letvjc",
+      "chname": "神话剧场",
+      "chlink": "http://icntv.xyz/letv/lb_shjc_1300.m3u8"
+    },
+    {
+      "num": 55168,
+      "chid": "letvjc",
+      "chname": "情景喜剧剧场",
+      "chlink": "http://icntv.xyz/letv/lb_qjxjjc_1300.m3u8"
+    },
+    {
+      "num": 55169,
+      "chid": "letvjc",
+      "chname": "武侠剧场",
+      "chlink": "http://icntv.xyz/letv/lb_wxjc_1300.m3u8"
+    },
+    {
+      "num": 55170,
+      "chid": "letvjc",
+      "chname": "抗战剧场",
+      "chlink": "http://icntv.xyz/letv/lb_kangz_1300.m3u8"
+    },
+    {
+      "num": 55171,
+      "chid": "letvjc",
+      "chname": "女性剧场",
+      "chlink": "http://icntv.xyz/letv/lb_nxjc_1300.m3u8"
+    },
+    {
+      "num": 55172,
+      "chid": "letvjc",
+      "chname": "宫斗剧场",
+      "chlink": "http://icntv.xyz/letv/lb_gdjc_1300.m3u8"
+    },
+    {
+      "num": 55173,
+      "chid": "letvjc",
+      "chname": "军旅剧场",
+      "chlink": "http://icntv.xyz/letv/lb_jljc_1300.m3u8"
+    },
+    {
+      "num": 55174,
+      "chid": "letvjc",
+      "chname": "励志剧场",
+      "chlink": "http://icntv.xyz/letv/lb_lzjc_1300.m3u8"
+    },
+    {
+      "num": 55175,
+      "chid": "letvjc",
+      "chname": "催泪剧场",
+      "chlink": "http://icntv.xyz/letv/lb_cljc_1300.m3u8"
+    },
+    {
+      "num": 55176,
+      "chid": "letvjc",
+      "chname": "兄弟剧场",
+      "chlink": "http://icntv.xyz/letv/lb_xdjc_1300.m3u8"
+    },
+    {
+      "num": 55177,
+      "chid": "letvjc",
+      "chname": "姐妹淘剧场",
+      "chlink": "http://icntv.xyz/letv/lb_jmtjc_1300.m3u8"
+    },
+    {
+      "num": 55178,
+      "chid": "letvjc",
+      "chname": "青春偶像美剧",
+      "chlink": "http://icntv.xyz/letv/lb_qcoxmj_1300.m3u8"
+    },
+    {
+      "num": 55179,
+      "chid": "letvmr",
+      "chname": "汪峰",
+      "chlink": "http://icntv.xyz/letv/lb_wf_1300.m3u8"
+    },
+    {
+      "num": 55180,
+      "chid": "letvmr",
+      "chname": "邓紫棋",
+      "chlink": "http://icntv.xyz/letv/lb_dengziqi_1300.m3u8"
+    },
+    {
+      "num": 55181,
+      "chid": "letvmr",
+      "chname": "羽泉",
+      "chlink": "http://icntv.xyz/letv/lb_yuquan_1300.m3u8"
+    },
+    {
+      "num": 55182,
+      "chid": "letvmr",
+      "chname": "凤凰传奇",
+      "chlink": "http://icntv.xyz/letv/lb_fhcq_1300.m3u8"
+    },
+    {
+      "num": 55183,
+      "chid": "letvmr",
+      "chname": "张杰",
+      "chlink": "http://icntv.xyz/letv/lb_zj_1300.m3u8"
+    },
+    {
+      "num": 55184,
+      "chid": "letvmr",
+      "chname": "韩红",
+      "chlink": "http://icntv.xyz/letv/lb_hanhong_1300.m3u8"
+    },
+    {
+      "num": 55185,
+      "chid": "letvmr",
+      "chname": "李宇春",
+      "chlink": "http://icntv.xyz/letv/lb_lyc_1300.m3u8"
+    },
+    {
+      "num": 55186,
+      "chid": "letvmr",
+      "chname": "韩磊",
+      "chlink": "http://icntv.xyz/letv/lb_hl_1300.m3u8"
+    },
+    {
+      "num": 55187,
+      "chid": "letvmr",
+      "chname": "杨澜",
+      "chlink": "http://icntv.xyz/letv/lb_yanglan_1300.m3u8"
+    },
+    {
+      "num": 55188,
+      "chid": "letvmr",
+      "chname": "张艺谋",
+      "chlink": "http://icntv.xyz/letv/lb_zym_1300.m3u8"
+    },
+    {
+      "num": 55189,
+      "chid": "letvmr",
+      "chname": "邓超",
+      "chlink": "http://icntv.xyz/letv/lb_dengchao_1300.m3u8"
+    },
+    {
+      "num": 55190,
+      "chid": "letvmr",
+      "chname": "郑晓龙",
+      "chlink": "http://icntv.xyz/letv/lb_zxl_1300.m3u8"
+    },
+    {
+      "num": 55191,
+      "chid": "letvmr",
+      "chname": "王雷",
+      "chlink": "http://icntv.xyz/letv/lb_wl_1300.m3u8"
+    },
+    {
+      "num": 55192,
+      "chid": "letvmr",
+      "chname": "徐克",
+      "chlink": "http://icntv.xyz/letv/lb_xuke_1300.m3u8"
+    },
+    {
+      "num": 55193,
+      "chid": "letvmr",
+      "chname": "黄晓明",
+      "chlink": "http://icntv.xyz/letv/lb_hxm_1300.m3u8"
+    },
+    {
+      "num": 55194,
+      "chid": "letvmr",
+      "chname": "苏芒",
+      "chlink": "http://icntv.xyz/letv/lb_sumang_1300.m3u8"
+    },
+    {
+      "num": 55195,
+      "chid": "letvmr",
+      "chname": "章子怡",
+      "chlink": "http://icntv.xyz/letv/lb_zhangziyi_1300.m3u8"
+    },
+    {
+      "num": 55196,
+      "chid": "letvmr",
+      "chname": "沈傲君",
+      "chlink": "http://icntv.xyz/letv/lb_saj_1300.m3u8"
+    },
+    {
+      "num": 55197,
+      "chid": "letvmr",
+      "chname": "叶璇",
+      "chlink": "http://icntv.xyz/letv/lb_yx_1300.m3u8"
+    },
+    {
+      "num": 55198,
+      "chid": "letvmr",
+      "chname": "莫小棋",
+      "chlink": "http://icntv.xyz/letv/lb_mxq_1300.m3u8"
+    },
+    {
+      "num": 55199,
+      "chid": "letvmr",
+      "chname": "童瑶",
+      "chlink": "http://icntv.xyz/letv/lb_tongyao_1300.m3u8"
+    },
+    {
+      "num": 55200,
+      "chid": "letvmr",
+      "chname": "沙溢",
+      "chlink": "http://icntv.xyz/letv/lb_shayi_1300.m3u8"
+    },
+    {
+      "num": 55201,
+      "chid": "letvmr",
+      "chname": "代乐乐",
+      "chlink": "http://icntv.xyz/letv/lb_dll_1300.m3u8"
+    },
+    {
+      "num": 55202,
+      "chid": "letvmr",
+      "chname": "颖儿",
+      "chlink": "http://icntv.xyz/letv/lb_ye_1300.m3u8"
+    },
+    {
+      "num": 55203,
+      "chid": "letvmr",
+      "chname": "徐百卉",
+      "chlink": "http://icntv.xyz/letv/lb_xbh_1300.m3u8"
+    },
+    {
+      "num": 55204,
+      "chid": "letvmr",
+      "chname": "曹曦文",
+      "chlink": "http://icntv.xyz/letv/lb_cxw_1300.m3u8"
+    },
+    {
+      "num": 55205,
+      "chid": "letvmr",
+      "chname": "李崇霄",
+      "chlink": "http://icntv.xyz/letv/lb_lichongxiao_1300.m3u8"
+    },
+    {
+      "num": 55206,
+      "chid": "letvmr",
+      "chname": "朱锐",
+      "chlink": "http://icntv.xyz/letv/lb_zhurui_1300.m3u8"
+    },
+    {
+      "num": 55207,
+      "chid": "letvmr",
+      "chname": "赵立新",
+      "chlink": "http://icntv.xyz/letv/lb_zlx_1300.m3u8"
+    },
+    {
+      "num": 55208,
+      "chid": "letvmr",
+      "chname": "艾东",
+      "chlink": "http://icntv.xyz/letv/lb_ad_1300.m3u8"
+    },
+    {
+      "num": 55209,
+      "chid": "letvmr",
+      "chname": "黄绮珊",
+      "chlink": "http://icntv.xyz/letv/lb_hqs_1300.m3u8"
+    },
+    {
+      "num": 55210,
+      "chid": "letvmr",
+      "chname": "宋丹丹",
+      "chlink": "http://icntv.xyz/letv/lb_sdd_1300.m3u8"
+    },
+    {
+      "num": 55211,
+      "chid": "letvmr",
+      "chname": "宁浩",
+      "chlink": "http://icntv.xyz/letv/lb_ninghao_1300.m3u8"
+    },
+    {
+      "num": 55212,
+      "chid": "letvmr",
+      "chname": "曹征",
+      "chlink": "http://icntv.xyz/letv/lb_caozheng_1300.m3u8"
+    },
+    {
+      "num": 55213,
+      "chid": "letvmr",
+      "chname": "金铭",
+      "chlink": "http://icntv.xyz/letv/lb_jm_1300.m3u8"
+    },
+    {
+      "num": 55214,
+      "chid": "letvmr",
+      "chname": "刘恺威",
+      "chlink": "http://icntv.xyz/letv/lb_lkw_1300.m3u8"
+    },
+    {
+      "num": 55215,
+      "chid": "letvmr",
+      "chname": "陈小春",
+      "chlink": "http://icntv.xyz/letv/lb_cxc_1300.m3u8"
+    },
+    {
+      "num": 55216,
+      "chid": "letvmr",
+      "chname": "包贝尔",
+      "chlink": "http://icntv.xyz/letv/lb_bbe_1300.m3u8"
+    },
+    {
+      "num": 55217,
+      "chid": "letvmr",
+      "chname": "乔任梁",
+      "chlink": "http://icntv.xyz/letv/lb_qrl_1300.m3u8"
+    },
+    {
+      "num": 55218,
+      "chid": "letvmr",
+      "chname": "姜武",
+      "chlink": "http://icntv.xyz/letv/lb_jw_1300.m3u8"
+    },
+    {
+      "num": 55219,
+      "chid": "letvmr",
+      "chname": "于正",
+      "chlink": "http://icntv.xyz/letv/lb_yz_1300.m3u8"
+    },
+    {
+      "num": 55220,
+      "chid": "letvmr",
+      "chname": "何炅",
+      "chlink": "http://icntv.xyz/letv/lb_hj_1300.m3u8"
+    },
+    {
+      "num": 55221,
+      "chid": "letvmr",
+      "chname": "杜海涛",
+      "chlink": "http://icntv.xyz/letv/lb_dht_1300.m3u8"
+    },
+    {
+      "num": 55222,
+      "chid": "letvmr",
+      "chname": "柳岩",
+      "chlink": "http://icntv.xyz/letv/lb_ly_1300.m3u8"
+    },
+    {
+      "num": 55223,
+      "chid": "letvmr",
+      "chname": "陈赫",
+      "chlink": "http://icntv.xyz/letv/lb_chenhe_1300.m3u8"
+    },
+    {
+      "num": 55224,
+      "chid": "letvmr",
+      "chname": "高露",
+      "chlink": "http://icntv.xyz/letv/lb_gl_1300.m3u8"
+    },
+    {
+      "num": 55225,
+      "chid": "letvmr",
+      "chname": "薛佳凝",
+      "chlink": "http://icntv.xyz/letv/lb_xjn_1300.m3u8"
+    },
+    {
+      "num": 55226,
+      "chid": "letvmr",
+      "chname": "沈泰",
+      "chlink": "http://icntv.xyz/letv/lb_st_1300.m3u8"
+    },
+    {
+      "num": 55227,
+      "chid": "letvmr",
+      "chname": "林申",
+      "chlink": "http://icntv.xyz/letv/lb_ls_1300.m3u8"
+    },
+    {
+      "num": 55228,
+      "chid": "letvmr",
+      "chname": "李依晓",
+      "chlink": "http://icntv.xyz/letv/lb_lyx_1300.m3u8"
+    },
+    {
+      "num": 55229,
+      "chid": "letvmr",
+      "chname": "张晓龙",
+      "chlink": "http://icntv.xyz/letv/lb_zhangxiaolong_1300.m3u8"
+    },
+    {
+      "num": 55230,
+      "chid": "letvmr",
+      "chname": "毛俊杰",
+      "chlink": "http://icntv.xyz/letv/lb_mjj_1300.m3u8"
+    },
+    {
+      "num": 55231,
+      "chid": "letvmr",
+      "chname": "张若昀",
+      "chlink": "http://icntv.xyz/letv/lb_zrj_1300.m3u8"
+    },
+    {
+      "num": 55232,
+      "chid": "letvmr",
+      "chname": "唐艺昕",
+      "chlink": "http://icntv.xyz/letv/lb_tyx_1300.m3u8"
+    },
+    {
+      "num": 55233,
+      "chid": "letvmr",
+      "chname": "孙骁骁",
+      "chlink": "http://icntv.xyz/letv/lb_sxx_1300.m3u8"
+    },
+    {
+      "num": 55234,
+      "chid": "letvmr",
+      "chname": "何晟铭",
+      "chlink": "http://icntv.xyz/letv/lb_hsm_1300.m3u8"
+    },
+    {
+      "num": 55235,
+      "chid": "letvmr",
+      "chname": "李念",
+      "chlink": "http://icntv.xyz/letv/lb_linian_1300.m3u8"
+    },
+    {
+      "num": 55236,
+      "chid": "letvmr",
+      "chname": "应采儿",
+      "chlink": "http://icntv.xyz/letv/lb_yce_1300.m3u8"
+    },
+    {
+      "num": 55237,
+      "chid": "letvmr",
+      "chname": "赵子琪",
+      "chlink": "http://icntv.xyz/letv/lb_zzq_1300.m3u8"
+    },
+    {
+      "num": 55238,
+      "chid": "letvmr",
+      "chname": "赵宝刚",
+      "chlink": "http://icntv.xyz/letv/lb_z_1300.m3u8"
+    },
+    {
+      "num": 55239,
+      "chid": "letvmr",
+      "chname": "梁丹妮",
+      "chlink": "http://icntv.xyz/letv/lb_ldn_1300.m3u8"
+    },
+    {
+      "num": 55240,
+      "chid": "letvmr",
+      "chname": "刘威葳",
+      "chlink": "http://icntv.xyz/letv/lb_lww_1300.m3u8"
+    },
+    {
+      "num": 55241,
+      "chid": "letvmr",
+      "chname": "王伟",
+      "chlink": "http://icntv.xyz/letv/lb_wangwei_1300.m3u8"
+    },
+    {
+      "num": 55242,
+      "chid": "letvmr",
+      "chname": "张博",
+      "chlink": "http://icntv.xyz/letv/lb_zhangbo_1300.m3u8"
+    },
+    {
+      "num": 55243,
+      "chid": "letvmr",
+      "chname": "黄晓明",
+      "chlink": "http://icntv.xyz/letv/lb_hxm_1300.m3u8"
+    },
+    {
+      "num": 55244,
+      "chid": "letvmr",
+      "chname": "战菁一",
+      "chlink": "http://icntv.xyz/letv/lb_zjy_1300.m3u8"
+    },
+    {
+      "num": 55245,
+      "chid": "letvmr",
+      "chname": "高云翔",
+      "chlink": "http://icntv.xyz/letv/lb_gyx_1300.m3u8"
+    },
+    {
+      "num": 55246,
+      "chid": "letvmr",
+      "chname": "翁虹",
+      "chlink": "http://icntv.xyz/letv/lb_wenghong_1300.m3u8"
+    },
+    {
+      "num": 55247,
+      "chid": "letvmr",
+      "chname": "牛莉",
+      "chlink": "http://icntv.xyz/letv/lb_niuli_1300.m3u8"
+    },
+    {
+      "num": 55248,
+      "chid": "letvmr",
+      "chname": "马伊琍",
+      "chlink": "http://icntv.xyz/letv/lb_mayili_1300.m3u8"
+    },
+    {
+      "num": 55249,
+      "chid": "letvmr",
+      "chname": "陈晓",
+      "chlink": "http://icntv.xyz/letv/lb_cx_1300.m3u8"
+    },
+    {
+      "num": 55250,
+      "chid": "letvmr",
+      "chname": "孔二狗",
+      "chlink": "http://icntv.xyz/letv/lb_keg_1300.m3u8"
+    },
+    {
+      "num": 55251,
+      "chid": "letvmr",
+      "chname": "薛凯琪",
+      "chlink": "http://icntv.xyz/letv/lb_xkq_1300.m3u8"
+    },
+    {
+      "num": 55252,
+      "chid": "letvmr",
+      "chname": "段奕宏",
+      "chlink": "http://icntv.xyz/letv/lb_dyh_1300.m3u8"
+    },
+    {
+      "num": 55253,
+      "chid": "letvmr",
+      "chname": "孙耀威",
+      "chlink": "http://icntv.xyz/letv/lb_syw_1300.m3u8"
+    },
+    {
+      "num": 55254,
+      "chid": "letvmr",
+      "chname": "古力娜扎",
+      "chlink": "http://icntv.xyz/letv/lb_glnz_1300.m3u8"
+    },
+    {
+      "num": 55255,
+      "chid": "letvmr",
+      "chname": "胡兵",
+      "chlink": "http://icntv.xyz/letv/lb_hubing_1300.m3u8"
+    },
+    {
+      "num": 55256,
+      "chid": "letvmr",
+      "chname": "黄小蕾",
+      "chlink": "http://icntv.xyz/letv/lb_hxl_1300.m3u8"
+    },
+    {
+      "num": 55257,
+      "chid": "letvmr",
+      "chname": "郭德纲",
+      "chlink": "http://icntv.xyz/letv/lb_gdg_1300.m3u8"
+    },
+    {
+      "num": 55258,
+      "chid": "letvmr",
+      "chname": "金晨",
+      "chlink": "http://icntv.xyz/letv/lb_jinchen_1300.m3u8"
+    },
+    {
+      "num": 55259,
+      "chid": "letvmr",
+      "chname": "张译",
+      "chlink": "http://icntv.xyz/letv/lb_zhangyi_1300.m3u8"
+    },
+    {
+      "num": 55260,
+      "chid": "letvmr",
+      "chname": "冯远征",
+      "chlink": "http://icntv.xyz/letv/lb_fyz_1300.m3u8"
+    },
+    {
+      "num": 55261,
+      "chid": "letvmr",
+      "chname": "夏雨",
+      "chlink": "http://icntv.xyz/letv/lb_xiayu_1300.m3u8"
+    },
+    {
+      "num": 55262,
+      "chid": "letvmr",
+      "chname": "田朴珺",
+      "chlink": "http://icntv.xyz/letv/lb_tpj_1300.m3u8"
+    },
+    {
+      "num": 55263,
+      "chid": "letvmr",
+      "chname": "吴宗宪",
+      "chlink": "http://icntv.xyz/letv/lb_wzx_1300.m3u8"
+    },
+    {
+      "num": 55264,
+      "chid": "letvmr",
+      "chname": "刘亦菲",
+      "chlink": "http://icntv.xyz/letv/lb_lyf_1300.m3u8"
+    },
+    {
+      "num": 55265,
+      "chid": "letvmr",
+      "chname": "丁子峻",
+      "chlink": "http://icntv.xyz/letv/lb_dzj_1300.m3u8"
+    },
+    {
+      "num": 55266,
+      "chid": "letvmr",
+      "chname": "毛晓彤",
+      "chlink": "http://icntv.xyz/letv/lb_mxt_1300.m3u8"
+    },
+    {
+      "num": 55267,
+      "chid": "letvmr",
+      "chname": "杜淳",
+      "chlink": "http://icntv.xyz/letv/lb_duchun_1300.m3u8"
+    },
+    {
+      "num": 55268,
+      "chid": "letvmr",
+      "chname": "孙坚",
+      "chlink": "http://icntv.xyz/letv/lb_sunjian_1300.m3u8"
+    },
+    {
+      "num": 55269,
+      "chid": "letvmr",
+      "chname": "张睿",
+      "chlink": "http://icntv.xyz/letv/lb_zr_1300.m3u8"
+    },
+    {
+      "num": 55270,
+      "chid": "letvmr",
+      "chname": "孟广美",
+      "chlink": "http://icntv.xyz/letv/lb_mgm_1300.m3u8"
+    },
+    {
+      "num": 55271,
+      "chid": "letvmr",
+      "chname": "李威",
+      "chlink": "http://icntv.xyz/letv/lb_liwei_1300.m3u8"
+    },
+    {
+      "num": 55272,
+      "chid": "letvmr",
+      "chname": "吕颂贤",
+      "chlink": "http://icntv.xyz/letv/lb_lsx_1300.m3u8"
+    },
+    {
+      "num": 55273,
+      "chid": "letvmr",
+      "chname": "何润东",
+      "chlink": "http://icntv.xyz/letv/lb_hrd_1300.m3u8"
+    },
+    {
+      "num": 55274,
+      "chid": "letvmr",
+      "chname": "李维嘉",
+      "chlink": "http://icntv.xyz/letv/lb_lwj_1300.m3u8"
+    },
+    {
+      "num": 55275,
+      "chid": "letvmr",
+      "chname": "郭涛",
+      "chlink": "http://icntv.xyz/letv/lb_gt_1300.m3u8"
+    },
+    {
+      "num": 55276,
+      "chid": "letvmr",
+      "chname": "陈楚生",
+      "chlink": "http://icntv.xyz/letv/lb_ccs_1300.m3u8"
+    },
+    {
+      "num": 55277,
+      "chid": "letvmr",
+      "chname": "胡彦斌",
+      "chlink": "http://icntv.xyz/letv/lb_hyb_1300.m3u8"
+    },
+    {
+      "num": 55278,
+      "chid": "letvmr",
+      "chname": "刘力扬",
+      "chlink": "http://icntv.xyz/letv/lb_lly_1300.m3u8"
+    },
+    {
+      "num": 55279,
+      "chid": "letvmr",
+      "chname": "田原",
+      "chlink": "http://icntv.xyz/letv/lb_tianyuan_1300.m3u8"
+    },
+    {
+      "num": 55280,
+      "chid": "letvmr",
+      "chname": "萨顶顶",
+      "chlink": "http://icntv.xyz/letv/lb_sadingding_1300.m3u8"
+    },
+    {
+      "num": 55281,
+      "chid": "letvmr",
+      "chname": "査可欣",
+      "chlink": "http://icntv.xyz/letv/lb_zkx_1300.m3u8"
+    },
+    {
+      "num": 55282,
+      "chid": "letvmr",
+      "chname": "黄义达",
+      "chlink": "http://icntv.xyz/letv/lb_hyd_1300.m3u8"
+    },
+    {
+      "num": 55283,
+      "chid": "letvmr",
+      "chname": "李霄云",
+      "chlink": "http://icntv.xyz/letv/lb_lxy_1300.m3u8"
+    },
+    {
+      "num": 55284,
+      "chid": "letvmr",
+      "chname": "李丹",
+      "chlink": "http://icntv.xyz/letv/lb_lidan_1300.m3u8"
+    },
+    {
+      "num": 55285,
+      "chid": "letvmr",
+      "chname": "李东学",
+      "chlink": "http://icntv.xyz/letv/lb_ldx_1300.m3u8"
+    },
+    {
+      "num": 55286,
+      "chid": "letvmr",
+      "chname": "方中信",
+      "chlink": "http://icntv.xyz/letv/lb_fzx_1300.m3u8"
+    },
+    {
+      "num": 55287,
+      "chid": "letvmr",
+      "chname": "蔡少芬",
+      "chlink": "http://icntv.xyz/letv/lb_csf_1300.m3u8"
+    },
+    {
+      "num": 55288,
+      "chid": "letvmr",
+      "chname": "斓曦",
+      "chlink": "http://icntv.xyz/letv/lb_lx_1300.m3u8"
+    },
+    {
+      "num": 55289,
+      "chid": "letvmr",
+      "chname": "吕丽萍",
+      "chlink": "http://icntv.xyz/letv/lb_llp_1300.m3u8"
+    },
+    {
+      "num": 55290,
+      "chid": "letvmr",
+      "chname": "巩峥",
+      "chlink": "http://icntv.xyz/letv/lb_gz_1300.m3u8"
+    },
+    {
+      "num": 55291,
+      "chid": "letvmr",
+      "chname": "孙海英",
+      "chlink": "http://icntv.xyz/letv/lb_shy_1300.m3u8"
+    },
+    {
+      "num": 55292,
+      "chid": "letvmr",
+      "chname": "蒋欣",
+      "chlink": "http://icntv.xyz/letv/lb_jiangxin_1300.m3u8"
+    },
+    {
+      "num": 55293,
+      "chid": "letvmr",
+      "chname": "陈创",
+      "chlink": "http://icntv.xyz/letv/lb_cc_1300.m3u8"
+    },
+    {
+      "num": 55294,
+      "chid": "letvmr",
+      "chname": "孙红雷",
+      "chlink": "http://icntv.xyz/letv/lb_sunhonglei_1300.m3u8"
+    },
+    {
+      "num": 55295,
+      "chid": "letvmr",
+      "chname": "刘诗诗",
+      "chlink": "http://icntv.xyz/letv/lb_liushishi_1300.m3u8"
+    },
+    {
+      "num": 55296,
+      "chid": "letvmr",
+      "chname": "张丰毅",
+      "chlink": "http://icntv.xyz/letv/lb_zhangfengyi_1300.m3u8"
+    },
+    {
+      "num": 55297,
+      "chid": "letvmr",
+      "chname": "钟汉良",
+      "chlink": "http://icntv.xyz/letv/lb_zhonghanliang_1300.m3u8"
+    },
+    {
+      "num": 55298,
+      "chid": "letvmr",
+      "chname": "李晨",
+      "chlink": "http://icntv.xyz/letv/lb_lichen_1300.m3u8"
+    },
+    {
+      "num": 55299,
+      "chid": "letvmr",
+      "chname": "李易峰",
+      "chlink": "http://icntv.xyz/letv/lb_liyifeng_1300.m3u8"
+    },
+    {
+      "num": 55300,
+      "chid": "letvmr",
+      "chname": "周笔畅",
+      "chlink": "http://icntv.xyz/letv/lb_zbc_1300.m3u8"
+    },
+    {
+      "num": 55301,
+      "chid": "letvmr",
+      "chname": "周韵",
+      "chlink": "http://icntv.xyz/letv/lb_zhouyun_1300.m3u8"
+    },
+    {
+      "num": 55302,
+      "chid": "letvmr",
+      "chname": "郭晓冬",
+      "chlink": "http://icntv.xyz/letv/lb_gxd_1300.m3u8"
+    },
+    {
+      "num": 55303,
+      "chid": "letvmr",
+      "chname": "吴秀波",
+      "chlink": "http://icntv.xyz/letv/lb_wxb_1300.m3u8"
+    },
+    {
+      "num": 55304,
+      "chid": "letvmr",
+      "chname": "海清",
+      "chlink": "http://icntv.xyz/letv/lb_haiqing_1300.m3u8"
+    },
+    {
+      "num": 55305,
+      "chid": "letvmr",
+      "chname": "董璇",
+      "chlink": "http://icntv.xyz/letv/lb_dongxuan_1300.m3u8"
+    },
+    {
+      "num": 55306,
+      "chid": "letvmr",
+      "chname": "佟丽娅",
+      "chlink": "http://icntv.xyz/letv/lb_tly_1300.m3u8"
+    },
+    {
+      "num": 55307,
+      "chid": "letvmr",
+      "chname": "赵丽颖",
+      "chlink": "http://icntv.xyz/letv/lb_zly_1300.m3u8"
+    },
+    {
+      "num": 55308,
+      "chid": "letvmr",
+      "chname": "佟大为",
+      "chlink": "http://icntv.xyz/letv/lb_tdw_1300.m3u8"
+    },
+    {
+      "num": 55309,
+      "chid": "letvmr",
+      "chname": "许晴",
+      "chlink": "http://icntv.xyz/letv/lb_xuqing_1300.m3u8"
+    },
+    {
+      "num": 55310,
+      "chid": "letvmr",
+      "chname": "陆毅",
+      "chlink": "http://icntv.xyz/letv/lb_luyi_1300.m3u8"
+    },
+    {
+      "num": 55311,
+      "chid": "letvmr",
+      "chname": "陈数",
+      "chlink": "http://icntv.xyz/letv/lb_chenshu_1300.m3u8"
+    },
+    {
+      "num": 55312,
+      "chid": "letvmr",
+      "chname": "郑元畅",
+      "chlink": "http://icntv.xyz/letv/lb_zhengyuanchang_1300.m3u8"
+    },
+    {
+      "num": 55313,
+      "chid": "letvmr",
+      "chname": "白百何",
+      "chlink": "http://icntv.xyz/letv/lb_bbh_1300.m3u8"
+    },
+    {
+      "num": 55314,
+      "chid": "letvmr",
+      "chname": "陈紫函",
+      "chlink": "http://icntv.xyz/letv/lb_czh_1300.m3u8"
+    },
+    {
+      "num": 55315,
+      "chid": "letvmr",
+      "chname": "王丽坤",
+      "chlink": "http://icntv.xyz/letv/lb_wlk_1300.m3u8"
+    },
+    {
+      "num": 55316,
+      "chid": "letvmr",
+      "chname": "陆川",
+      "chlink": "http://icntv.xyz/letv/lb_lc_1300.m3u8"
+    },
+    {
+      "num": 55317,
+      "chid": "letvmr",
+      "chname": "贾青",
+      "chlink": "http://icntv.xyz/letv/lb_jq_1300.m3u8"
+    },
+    {
+      "num": 55318,
+      "chid": "letvmr",
+      "chname": "于明加",
+      "chlink": "http://icntv.xyz/letv/lb_ymj_1300.m3u8"
+    },
+    {
+      "num": 55319,
+      "chid": "letvmr",
+      "chname": "王千源",
+      "chlink": "http://icntv.xyz/letv/lb_wqy_1300.m3u8"
+    },
+    {
+      "num": 55320,
+      "chid": "letvmr",
+      "chname": "秦岚",
+      "chlink": "http://icntv.xyz/letv/lb_ql_1300.m3u8"
+    },
+    {
+      "num": 55321,
+      "chid": "letvmr",
+      "chname": "杨文军",
+      "chlink": "http://icntv.xyz/letv/lb_ywj_1300.m3u8"
+    },
+    {
+      "num": 55322,
+      "chid": "letvmr",
+      "chname": "于小伟",
+      "chlink": "http://icntv.xyz/letv/lb_yxw_1300.m3u8"
+    },
+    {
+      "num": 55323,
+      "chid": "letvmr",
+      "chname": "潘之琳",
+      "chlink": "http://icntv.xyz/letv/lb_pzl_1300.m3u8"
+    },
+    {
+      "num": 55324,
+      "chid": "letvmr",
+      "chname": "姚芊羽",
+      "chlink": "http://icntv.xyz/letv/lb_yqy_1300.m3u8"
+    },
+    {
+      "num": 55325,
+      "chid": "letvmr",
+      "chname": "杜江",
+      "chlink": "http://icntv.xyz/letv/lb_mj_1300.m3u8"
+    },
+    {
+      "num": 55326,
+      "chid": "letvmr",
+      "chname": "霍思燕",
+      "chlink": "http://icntv.xyz/letv/lb_hsy_1300.m3u8"
+    },
+    {
+      "num": 55327,
+      "chid": "letvmr",
+      "chname": "李承铉",
+      "chlink": "http://icntv.xyz/letv/lb_lcx_1300.m3u8"
+    },
+    {
+      "num": 55328,
+      "chid": "letvmr",
+      "chname": "张智尧",
+      "chlink": "http://icntv.xyz/letv/lb_zzy_1300.m3u8"
+    },
+    {
+      "num": 55329,
+      "chid": "letvmr",
+      "chname": "李小萌",
+      "chlink": "http://icntv.xyz/letv/lb_lxm_1300.m3u8"
+    },
+    {
+      "num": 55330,
+      "chid": "letvmr",
+      "chname": "张慧雯",
+      "chlink": "http://icntv.xyz/letv/lb_zhw_1300.m3u8"
+    },
+    {
+      "num": 55331,
+      "chid": "letvmr",
+      "chname": "陈乔恩",
+      "chlink": "http://icntv.xyz/letv/lb_cqe_1300.m3u8"
+    },
+    {
+      "num": 55332,
+      "chid": "letvmr",
+      "chname": "李小璐",
+      "chlink": "http://icntv.xyz/letv/lb_lxl_1300.m3u8"
+    },
+    {
+      "num": 55333,
+      "chid": "letvmr",
+      "chname": "贾乃亮",
+      "chlink": "http://icntv.xyz/letv/lb_jnl_1300.m3u8"
+    },
+    {
+      "num": 55334,
+      "chid": "letvmr",
+      "chname": "毛宁",
+      "chlink": "http://icntv.xyz/letv/lb_maoning_1300.m3u8"
+    },
+    {
+      "num": 55335,
+      "chid": "letvmr",
+      "chname": "刘江",
+      "chlink": "http://icntv.xyz/letv/lb_liujiang_1300.m3u8"
+    },
+    {
+      "num": 55336,
+      "chid": "letvmr",
+      "chname": "陈梦露",
+      "chlink": "http://icntv.xyz/letv/lb_cml_1300.m3u8"
+    },
+    {
+      "num": 55337,
+      "chid": "letvmr",
+      "chname": "郝云",
+      "chlink": "http://icntv.xyz/letv/lb_haoyun_1300.m3u8"
+    },
+    {
+      "num": 55338,
+      "chid": "letvmr",
+      "chname": "戚薇",
+      "chlink": "http://icntv.xyz/letv/lb_qiwei_1300.m3u8"
+    },
+    {
+      "num": 55339,
+      "chid": "letvmr",
+      "chname": "白凯南",
+      "chlink": "http://icntv.xyz/letv/lb_bkn_1300.m3u8"
+    },
+    {
+      "num": 55340,
+      "chid": "letvmr",
+      "chname": "戴军",
+      "chlink": "http://icntv.xyz/letv/lb_daijun_1300.m3u8"
+    },
+    {
+      "num": 55341,
+      "chid": "letvmr",
+      "chname": "郭品超",
+      "chlink": "http://icntv.xyz/letv/lb_gpc_1300.m3u8"
+    },
+    {
+      "num": 55342,
+      "chid": "letvmr",
+      "chname": "胡歌",
+      "chlink": "http://icntv.xyz/letv/lb_huge_1300.m3u8"
+    },
+    {
+      "num": 55343,
+      "chid": "letvmr",
+      "chname": "任泉",
+      "chlink": "http://icntv.xyz/letv/lb_renquan_1300.m3u8"
+    },
+    {
+      "num": 55344,
+      "chid": "letvmr",
+      "chname": "张梓琳",
+      "chlink": "http://icntv.xyz/letv/lb_zzl_1300.m3u8"
+    },
+    {
+      "num": 55345,
+      "chid": "letvmr",
+      "chname": "马艳丽",
+      "chlink": "http://icntv.xyz/letv/lb_myl_1300.m3u8"
+    },
+    {
+      "num": 55346,
+      "chid": "letvmr",
+      "chname": "黄百鸣",
+      "chlink": "http://icntv.xyz/letv/lb_hbm_1300.m3u8"
+    },
+    {
+      "num": 55347,
+      "chid": "letvmr",
+      "chname": "王宝强",
+      "chlink": "http://icntv.xyz/letv/lb_wbq_1300.m3u8"
+    },
+    {
+      "num": 55348,
+      "chid": "letvmr",
+      "chname": "余心恬",
+      "chlink": "http://icntv.xyz/letv/lb_yxt_1300.m3u8"
+    },
+    {
+      "num": 55349,
+      "chid": "letvmr",
+      "chname": "黄轩",
+      "chlink": "http://icntv.xyz/letv/lb_huangxuan_1300.m3u8"
+    },
+    {
+      "num": 55350,
+      "chid": "letvmr",
+      "chname": "韩庚",
+      "chlink": "http://icntv.xyz/letv/lb_hangeng_1300.m3u8"
+    },
+    {
+      "num": 55351,
+      "chid": "letvmr",
+      "chname": "胡夏",
+      "chlink": "http://icntv.xyz/letv/lb_huxia_1300.m3u8"
+    },
+    {
+      "num": 55352,
+      "chid": "letvmr",
+      "chname": "马天宇",
+      "chlink": "http://icntv.xyz/letv/lb_mty_1300.m3u8"
+    },
+    {
+      "num": 55353,
+      "chid": "letvmr",
+      "chname": "杨烁",
+      "chlink": "http://icntv.xyz/letv/lb_yangshuo_1300.m3u8"
+    },
+    {
+      "num": 55354,
+      "chid": "letvmr",
+      "chname": "刘涛",
+      "chlink": "http://icntv.xyz/letv/lb_liutao_1300.m3u8"
+    },
+    {
+      "num": 55355,
+      "chid": "letvmr",
+      "chname": "刘芸",
+      "chlink": "http://icntv.xyz/letv/lb_liuyun_1300.m3u8"
+    },
+    {
+      "num": 55356,
+      "chid": "letvmr",
+      "chname": "郑钧",
+      "chlink": "http://icntv.xyz/letv/lb_zhengjun_1300.m3u8"
+    },
+    {
+      "num": 55357,
+      "chid": "letvmr",
+      "chname": "巍子",
+      "chlink": "http://icntv.xyz/letv/lb_weizi_1300.m3u8"
+    },
+    {
+      "num": 55358,
+      "chid": "letvmr",
+      "chname": "黄斌",
+      "chlink": "http://icntv.xyz/letv/lb_huangbin_1300.m3u8"
+    },
+    {
+      "num": 55359,
+      "chid": "letvmr",
+      "chname": "林一峰",
+      "chlink": "http://icntv.xyz/letv/lb_joss_1300.m3u8"
+    },
+    {
+      "num": 55360,
+      "chid": "letvmr",
+      "chname": "郭德纲",
+      "chlink": "http://icntv.xyz/letv/lb_gdg_1300.m3u8"
+    },
+    {
+      "num": 55361,
+      "chid": "letvmr",
+      "chname": "潘粤明",
+      "chlink": "http://icntv.xyz/letv/lb_pym_1300.m3u8"
+    },
+    {
+      "num": 55362,
+      "chid": "letvmr",
+      "chname": "魏楠",
+      "chlink": "http://icntv.xyz/letv/lb_wn_1300.m3u8"
+    },
+    {
+      "num": 55363,
+      "chid": "letvmr",
+      "chname": "王伟光",
+      "chlink": "http://icntv.xyz/letv/lb_wwg_1300.m3u8"
+    },
+    {
+      "num": 55364,
+      "chid": "letvmr",
+      "chname": "殷旭",
+      "chlink": "http://icntv.xyz/letv/lb_yinxu_1300.m3u8"
+    },
+    {
+      "num": 55365,
+      "chid": "letvmr",
+      "chname": "徐翠翠",
+      "chlink": "http://icntv.xyz/letv/lb_xcc_1300.m3u8"
+    },
+    {
+      "num": 55366,
+      "chid": "letvmr",
+      "chname": "宋佳伦",
+      "chlink": "http://icntv.xyz/letv/lb_sjl_1300.m3u8"
+    },
+    {
+      "num": 55367,
+      "chid": "letvmr",
+      "chname": "孙茜",
+      "chlink": "http://icntv.xyz/letv/lb_sq_1300.m3u8"
+    },
+    {
+      "num": 55368,
+      "chid": "letvmr",
+      "chname": "张睿",
+      "chlink": "http://icntv.xyz/letv/lb_zr_1300.m3u8"
+    },
+    {
+      "num": 55369,
+      "chid": "letvmr",
+      "chname": "曾沛慈",
+      "chlink": "http://icntv.xyz/letv/lb_zpc_1300.m3u8"
+    },
+    {
+      "num": 55370,
+      "chid": "letvmr",
+      "chname": "初音未来",
+      "chlink": "http://icntv.xyz/letv/lb_cywl_1300.m3u8"
+    },
+    {
+      "num": 55371,
+      "chid": "letvmr",
+      "chname": "冯远征",
+      "chlink": "http://icntv.xyz/letv/lb_fyz_1300.m3u8"
+    },
+    {
+      "num": 55372,
+      "chid": "letvmr",
+      "chname": "程璧",
+      "chlink": "http://icntv.xyz/letv/lb_cb_1300.m3u8"
+    },
+    {
+      "num": 55373,
+      "chid": "letvmr",
+      "chname": "谭晶★",
+      "chlink": "http://icntv.xyz/letv/lb_tanjing_1800.m3u8"
+    },
+    {
+      "num": 55374,
+      "chid": "letvmr",
+      "chname": "张译",
+      "chlink": "http://icntv.xyz/letv/lb_zhangyi_1300.m3u8"
+    },
+    {
+      "num": 55375,
+      "chid": "letvmr",
+      "chname": "金晨",
+      "chlink": "http://icntv.xyz/letv/lb_jinchen_1300.m3u8"
+    },
+    {
+      "num": 55376,
+      "chid": "letvmr",
+      "chname": "陈珊妮",
+      "chlink": "http://icntv.xyz/letv/lb_musiclive2_1300.m3u8"
+    },
+    {
+      "num": 55377,
+      "chid": "letvmr",
+      "chname": "钟立风",
+      "chlink": "http://icntv.xyz/letv/lb_musiclive17_1300.m3u8"
+    },
+    {
+      "num": 55378,
+      "chid": "letvmr",
+      "chname": "苏阳",
+      "chlink": "http://icntv.xyz/letv/lb_musiclive18_1300.m3u8"
+    },
+    {
+      "num": 55379,
+      "chid": "letvmr",
+      "chname": "沈腾★",
+      "chlink": "http://icntv.xyz/letv/lb_shenteng_1300.m3u8"
+    },
+    {
+      "num": 55380,
+      "chid": "letvmr",
+      "chname": "马丽★",
+      "chlink": "http://icntv.xyz/letv/lb_mali_1300.m3u8"
+    },
+    {
+      "num": 55381,
+      "chid": "letvmr",
+      "chname": "罗大佑",
+      "chlink": "http://icntv.xyz/letv/lb_musiclive20_1300.m3u8"
+    },
+    {
+      "num": 55382,
+      "chid": "letvmr",
+      "chname": "冯绍峰",
+      "chlink": "http://icntv.xyz/letv/lb_fsf_1300.m3u8"
+    },
+    {
+      "num": 55383,
+      "chid": "letvmr",
+      "chname": "赵咏华",
+      "chlink": "http://icntv.xyz/letv/lb_zyh_1300.m3u8"
+    },
+    {
+      "num": 55384,
+      "chid": "letvmsn",
+      "chname": "SNH48",
+      "chlink": "http://icntv.xyz/letv/lb_SNH48_1300.m3u8"
+    },
+    {
+      "num": 55385,
+      "chid": "letvmsn",
+      "chname": "AKB48",
+      "chlink": "http://icntv.xyz/letv/lb_AKB48_1300.m3u8"
+    },
+    {
+      "num": 55386,
+      "chid": "letvmsn",
+      "chname": "曾艳芬美少女",
+      "chlink": "http://icntv.xyz/letv/lb_zyf_1300.m3u8"
+    },
+    {
+      "num": 55387,
+      "chid": "letvmsn",
+      "chname": "李艺彤美少女",
+      "chlink": "http://icntv.xyz/letv/lb_lyt_1300.m3u8"
+    },
+    {
+      "num": 55388,
+      "chid": "letvmsn",
+      "chname": "鞠婧祎美少女",
+      "chlink": "http://icntv.xyz/letv/lb_jjy_1300.m3u8"
+    },
+    {
+      "num": 55389,
+      "chid": "letvmsn",
+      "chname": "赵粤美少女",
+      "chlink": "http://icntv.xyz/letv/lb_zhaoyue_1300.m3u8"
+    },
+    {
+      "num": 55390,
+      "chid": "letvmsn",
+      "chname": "赵嘉敏美少女",
+      "chlink": "http://icntv.xyz/letv/lb_zjm_1300.m3u8"
+    },
+    {
+      "num": 55391,
+      "chid": "letvmsn",
+      "chname": "黄婷婷美少女",
+      "chlink": "http://icntv.xyz/letv/lb_htt_1300.m3u8"
+    },
+    {
+      "num": 55392,
+      "chid": "letvmsn",
+      "chname": "邱欣怡美少女",
+      "chlink": "http://icntv.xyz/letv/lb_qxy_1300.m3u8"
+    },
+    {
+      "num": 55393,
+      "chid": "letvmsn",
+      "chname": "少女时代HD",
+      "chlink": "http://icntv.xyz/letv/lb_snsd_1800.m3u8"
+    },
+    {
+      "num": 55394,
+      "chid": "letvty",
+      "chname": "体育资讯",
+      "chlink": "http://icntv.xyz/letv/lb_tyzx_1300.m3u8"
+    },
+    {
+      "num": 55395,
+      "chid": "letvty",
+      "chname": "完美游戏",
+      "chlink": "http://icntv.xyz/letv/lb_wmyx_1300.m3u8"
+    },
+    {
+      "num": 55468,
+      "chid": "letvwy",
+      "chname": "体育",
+      "chlink": "http://icntv.xyz/letv/lb_sports_720p.m3u8"
+    },
+    {
+      "num": 55397,
+      "chid": "letvty",
+      "chname": "体育2",
+      "chlink": "http://icntv.xyz/letv/lb_tiyu2_1300.m3u8"
+    },
+    {
+      "num": 55398,
+      "chid": "letvty",
+      "chname": "体育+",
+      "chlink": "http://icntv.xyz/letv/lb_tyzx_1300.m3u8"
+    },
+    {
+      "num": 55399,
+      "chid": "letvty",
+      "chname": "高尔夫",
+      "chlink": "http://icntv.xyz/letv/lb_golf_1300.m3u8"
+    },
+    {
+      "num": 55400,
+      "chid": "letvty",
+      "chname": "高尔夫大满贯",
+      "chlink": "http://icntv.xyz/letv/lb_gefdmg_1800.m3u8"
+    },
+    {
+      "num": 55401,
+      "chid": "letvty",
+      "chname": "高尔夫欧巡赛",
+      "chlink": "http://icntv.xyz/letv/lb_gefoxs_1800.m3u8"
+    },
+    {
+      "num": 55402,
+      "chid": "letvty",
+      "chname": "高尔夫美巡赛",
+      "chlink": "http://icntv.xyz/letv/lb_gefmxs_1800.m3u8"
+    },
+    {
+      "num": 55403,
+      "chid": "letvty",
+      "chname": "羽毛球",
+      "chlink": "http://icntv.xyz/letv/lb_ymq_1800.m3u8"
+    },
+    {
+      "num": 55404,
+      "chid": "letvty",
+      "chname": "马术",
+      "chlink": "http://icntv.xyz/letv/lb_ms_1300.m3u8"
+    },
+    {
+      "num": 55405,
+      "chid": "letvty",
+      "chname": "游泳",
+      "chlink": "http://icntv.xyz/letv/lb_yy_1300.m3u8"
+    },
+    {
+      "num": 55406,
+      "chid": "letvty",
+      "chname": "帆船",
+      "chlink": "http://icntv.xyz/letv/lb_fc_1300.m3u8"
+    },
+    {
+      "num": 55407,
+      "chid": "letvty",
+      "chname": "橄榄球",
+      "chlink": "http://icntv.xyz/letv/lb_glq_1800.m3u8"
+    },
+    {
+      "num": 55408,
+      "chid": "letvty",
+      "chname": "台球",
+      "chlink": "http://icntv.xyz/letv/lb_taiqiu_1800.m3u8"
+    },
+    {
+      "num": 55409,
+      "chid": "letvty",
+      "chname": "网球",
+      "chlink": "http://icntv.xyz/letv/lb_wangqiu_1300.m3u8"
+    },
+    {
+      "num": 55410,
+      "chid": "letvty",
+      "chname": "篮球",
+      "chlink": "http://icntv.xyz/letv/lb_lanqiu_1300.m3u8"
+    },
+    {
+      "num": 55411,
+      "chid": "letvty",
+      "chname": "广厦篮球频道",
+      "chlink": "http://icntv.xyz/letv/lb_gslqpd_1300.m3u8"
+    },
+    {
+      "num": 55412,
+      "chid": "letvty",
+      "chname": "欧冠",
+      "chlink": "http://icntv.xyz/letv/lb_ouguan_1800.m3u8"
+    },
+    {
+      "num": 55413,
+      "chid": "letvty",
+      "chname": "足球",
+      "chlink": "http://icntv.xyz/letv/lb_zuqiu_1300.m3u8"
+    },
+    {
+      "num": 55415,
+      "chid": "letvty",
+      "chname": "亚洲足球",
+      "chlink": "http://icntv.xyz/letv/lb_yzzq_1300.m3u8"
+    },
+    {
+      "num": 55416,
+      "chid": "letvty",
+      "chname": "欧洲足球",
+      "chlink": "http://icntv.xyz/letv/lb_ozzq_1300.m3u8"
+    },
+    {
+      "num": 55417,
+      "chid": "letvty",
+      "chname": "国安",
+      "chlink": "http://icntv.xyz/letv/lb_guoan_1300.m3u8"
+    },
+    {
+      "num": 55418,
+      "chid": "letvty",
+      "chname": "西甲",
+      "chlink": "http://icntv.xyz/letv/lb_lb_xijia_1300.m3u8"
+    },
+    {
+      "num": 55419,
+      "chid": "letvty",
+      "chname": "德甲",
+      "chlink": "http://icntv.xyz/letv/lb_lb_dejia_1300.m3u8"
+    },
+    {
+      "num": 55420,
+      "chid": "letvty",
+      "chname": "意甲",
+      "chlink": "http://icntv.xyz/letv/lb_lb_yijia_1300.m3u8"
+    },
+    {
+      "num": 55421,
+      "chid": "letvty",
+      "chname": "英超",
+      "chlink": "http://icntv.xyz/letv/lb_lb_yingchao_1300.m3u8"
+    },
+    {
+      "num": 55422,
+      "chid": "letvty",
+      "chname": "法甲",
+      "chlink": "http://icntv.xyz/letv/lb_lb_fajia_1300.m3u8"
+    },
+    {
+      "num": 55423,
+      "chid": "letvty",
+      "chname": "赛车",
+      "chlink": "http://icntv.xyz/letv/lb_F1_1800.m3u8"
+    },
+    {
+      "num": 55424,
+      "chid": "letvty",
+      "chname": "自行车",
+      "chlink": "http://icntv.xyz/letv/lb_zixingche_1300.m3u8"
+    },
+    {
+      "num": 55425,
+      "chid": "letvty",
+      "chname": "跑步",
+      "chlink": "http://icntv.xyz/letv/lb_paobu_1300.m3u8"
+    },
+    {
+      "num": 55426,
+      "chid": "letvty",
+      "chname": "搏击",
+      "chlink": "http://icntv.xyz/letv/lb_boji_1300.m3u8"
+    },
+    {
+      "num": 55427,
+      "chid": "letvty",
+      "chname": "乐视游戏",
+      "chlink": "http://icntv.xyz/letv/lb_lsyx_1300.m3u8"
+    },
+    {
+      "num": 55428,
+      "chid": "letvty",
+      "chname": "乐视生态",
+      "chlink": "http://icntv.xyz/letv/lb_lsst_1300.m3u8"
+    },
+    {
+      "num": 55429,
+      "chid": "letvty",
+      "chname": "GTV游戏竞技",
+      "chlink": "http://icntv.xyz/letv/lb_GTVyxjj"
+    },
+    {
+      "num": 55430,
+      "chid": "letvty",
+      "chname": "电子竞技",
+      "chlink": "http://icntv.xyz/letv/lb_dzjj_1300.m3u8"
+    },
+    {
+      "num": 55431,
+      "chid": "letvty",
+      "chname": "极限运动",
+      "chlink": "http://icntv.xyz/letv/lb_jxyd_1300.m3u8"
+    },
+    {
+      "num": 55432,
+      "chid": "letvty",
+      "chname": "美洲杯",
+      "chlink": "http://icntv.xyz/letv/lb_mzb_1300.m3u8"
+    },
+    {
+      "num": 55433,
+      "chid": "letvty",
+      "chname": "女足世界杯",
+      "chlink": "http://icntv.xyz/letv/lb_nzsjb_1300.m3u8"
+    },
+    {
+      "num": 55434,
+      "chid": "letvws",
+      "chname": "江苏卫视高清1",
+      "chlink": "http://icntv.xyz/letv/jiangsuHD_1800.m3u8"
+    },
+    {
+      "num": 55435,
+      "chid": "letvws",
+      "chname": "北京卫视高清",
+      "chlink": "http://icntv.xyz/letv/bjwsHD_1800.m3u8"
+    },
+    {
+      "num": 55436,
+      "chid": "letvws",
+      "chname": "湖南卫视高清",
+      "chlink": "http://icntv.xyz/letv/ws_hunanwsHD_1300.m3u8"
+    },
+    {
+      "num": 55437,
+      "chid": "letvws",
+      "chname": "",
+      "chlink": "http://icntv.xyz/letv/lb_zonghe_1000.m3u8"
+    },
+    {
+      "num": 55438,
+      "chid": "letvws",
+      "chname": "北京卫视",
+      "chlink": "http://icntv.xyz/letv/bjws.m3u8"
+    },
+    {
+      "num": 55439,
+      "chid": "letvws",
+      "chname": "安徽卫视",
+      "chlink": "http://icntv.xyz/letv/anhui.m3u8"
+    },
+    {
+      "num": 55440,
+      "chid": "letvws",
+      "chname": "天津卫视",
+      "chlink": "http://icntv.xyz/letv/tianjin.m3u8"
+    },
+    {
+      "num": 55441,
+      "chid": "letvws",
+      "chname": "江苏卫视",
+      "chlink": "http://icntv.xyz/letv/jiangsu.m3u8"
+    },
+    {
+      "num": 55442,
+      "chid": "letvws",
+      "chname": "山西卫视",
+      "chlink": "http://icntv.xyz/letv/shanxi_350.m3u8"
+    },
+    {
+      "num": 55443,
+      "chid": "letvws",
+      "chname": "甘肃卫视",
+      "chlink": "http://icntv.xyz/letv/gansu.m3u8"
+    },
+    {
+      "num": 55444,
+      "chid": "letvws",
+      "chname": "东南卫视",
+      "chlink": "http://icntv.xyz/letv/dongnan.m3u8"
+    },
+    {
+      "num": 55445,
+      "chid": "letvws",
+      "chname": "湖北卫视",
+      "chlink": "http://icntv.xyz/letv/hubei.m3u8"
+    },
+    {
+      "num": 55446,
+      "chid": "letvws",
+      "chname": "云南卫视",
+      "chlink": "http://icntv.xyz/letv/yunnan.m3u8"
+    },
+    {
+      "num": 55447,
+      "chid": "letvws",
+      "chname": "黑龙江卫视",
+      "chlink": "http://icntv.xyz/letv/heilongjiang.m3u8"
+    },
+    {
+      "num": 55448,
+      "chid": "letvws",
+      "chname": "贵州卫视",
+      "chlink": "http://icntv.xyz/letv/guizhou.m3u8"
+    },
+    {
+      "num": 55449,
+      "chid": "letvws",
+      "chname": "广西卫视",
+      "chlink": "http://icntv.xyz/letv/guangxi.m3u8"
+    },
+    {
+      "num": 55450,
+      "chid": "letvws",
+      "chname": "河南卫视",
+      "chlink": "http://icntv.xyz/letv/henan.m3u8"
+    },
+    {
+      "num": 55451,
+      "chid": "letvws",
+      "chname": "旅游卫视",
+      "chlink": "http://icntv.xyz/letv/lvyou.m3u8"
+    },
+    {
+      "num": 55452,
+      "chid": "letvws",
+      "chname": "深圳卫视",
+      "chlink": "http://icntv.xyz/letv/shenzhen.m3u8"
+    },
+    {
+      "num": 55453,
+      "chid": "letvws",
+      "chname": "内蒙古卫视",
+      "chlink": "http://icntv.xyz/letv/neimenggu_350.m3u8  "
+    },
+    {
+      "num": 55454,
+      "chid": "letvws",
+      "chname": "新疆卫视",
+      "chlink": "http://icntv.xyz/letv/xinjiang_350.m3u8"
+    },
+    {
+      "num": 55455,
+      "chid": "letvws",
+      "chname": "陕西卫视",
+      "chlink": "http://icntv.xyz/letv/shanxi1.m3u8"
+    },
+    {
+      "num": 55456,
+      "chid": "letvws",
+      "chname": "重庆卫视",
+      "chlink": "http://icntv.xyz/letv/chongqing.m3u8"
+    },
+    {
+      "num": 55457,
+      "chid": "letvws",
+      "chname": "吉林卫视",
+      "chlink": "http://icntv.xyz/letv/jilin.m3u8"
+    },
+    {
+      "num": 55458,
+      "chid": "letvws",
+      "chname": "辽宁卫视",
+      "chlink": "http://icntv.xyz/letv/liaoning.m3u8"
+    },
+    {
+      "num": 55459,
+      "chid": "letvws",
+      "chname": "江西卫视",
+      "chlink": "http://icntv.xyz/letv/jiangxi.m3u8"
+    },
+    {
+      "num": 55460,
+      "chid": "letvws",
+      "chname": "青海卫视",
+      "chlink": "http://icntv.xyz/letv/qinghai.m3u8"
+    },
+    {
+      "num": 55461,
+      "chid": "letvws",
+      "chname": "炫动卡通",
+      "chlink": "http://icntv.xyz/letv/xdkt.m3u8"
+    },
+    {
+      "num": 55462,
+      "chid": "letvws",
+      "chname": "四川卫视",
+      "chlink": "http://icntv.xyz/letv/sichuan.m3u8"
+    },
+    {
+      "num": 55463,
+      "chid": "letvws",
+      "chname": "乐视电影",
+      "chlink": "http://icntv.xyz/letv/lb_movie_720p.m3u8"
+    },
+    {
+      "num": 55464,
+      "chid": "letvws",
+      "chname": "乐视1080P",
+      "chlink": "http://icntv.xyz/letv/lb_1080P_1080p3m.m3u8"
+    },
+    {
+      "num": 55465,
+      "chid": "letvws",
+      "chname": "乐视音乐",
+      "chlink": "http://icntv.xyz/letv/lb_music_350.m3u8"
+    },
+    {
+      "num": 55466,
+      "chid": "letvws",
+      "chname": "乐视电视剧",
+      "chlink": "http://icntv.xyz/letv/lb_tv_720p.m3u8"
+    },
+    {
+      "num": 55467,
+      "chid": "letvws",
+      "chname": "乐视动漫",
+      "chlink": "http://icntv.xyz/letv/lb_comic_720p.m3u8"
+    },
+    {
+      "num": 55469,
+      "chid": "letvws",
+      "chname": "科教.纪录片",
+      "chlink": "http://icntv.xyz/letv/lb_jilu_720p.m3u8"
+    },
+    {
+      "num": 55470,
+      "chid": "letvws",
+      "chname": "电影片花",
+      "chlink": "http://icntv.xyz/letv/lb_trailer_720p.m3u8"
+    },
+    {
+      "num": 55471,
+      "chid": "letvws",
+      "chname": "乐视综艺",
+      "chlink": "http://icntv.xyz/letv/lb_ent_720p.m3u8"
+    },
+    {
+      "num": 55472,
+      "chid": "letvws",
+      "chname": "乐视自制剧",
+      "chlink": "http://icntv.xyz/letv/lb_make_720p.m3u8"
+    },
+    {
+      "num": 55473,
+      "chid": "letvws",
+      "chname": "乐视韩剧",
+      "chlink": "http://icntv.xyz/letv/lb_koreatv_720p.m3u8"
+    },
+    {
+      "num": 55476,
+      "chid": "letvws",
+      "chname": "乐视甄嬛传",
+      "chlink": "http://icntv.xyz/letv/lb_zhenhuan_720p.m3u8"
+    },
+    {
+      "num": 55477,
+      "chid": "letvws",
+      "chname": "乐视亲子",
+      "chlink": "http://icntv.xyz/letv/lb_qinzi_1300.m3u8"
+    },
+    {
+      "num": 55479,
+      "chid": "letvws",
+      "chname": "乐视演唱会",
+      "chlink": "http://icntv.xyz/letv/lb_concert_720p.m3u8"
+    },
+    {
+      "num": 55481,
+      "chid": "letvws",
+      "chname": "乐视娱乐",
+      "chlink": "http://icntv.xyz/letv/lb_yule_720p.m3u8"
+    },
+    {
+      "num": 55482,
+      "chid": "letvws",
+      "chname": "乐视MV",
+      "chlink": "http://icntv.xyz/letv/lb_mv_720p.m3u8"
+    },
+    {
+      "num": 55483,
+      "chid": "letvws",
+      "chname": "乐视风尚",
+      "chlink": "http://icntv.xyz/letv/lb_fengshang_720p.m3u8"
+    },
+    {
+      "num": 55484,
+      "chid": "letvws",
+      "chname": "古典音乐",
+      "chlink": "http://icntv.xyz/letv/lb_classical_720p.m3u8"
+    },
+    {
+      "num": 55485,
+      "chid": "letvws",
+      "chname": "乐视戏曲",
+      "chlink": "http://icntv.xyz/letv/lb_xiqu_720p.m3u8"
+    },
+    {
+      "num": 55486,
+      "chid": "letvws",
+      "chname": "我是歌手NEW",
+      "chlink": "http://icntv.xyz/letv/lb_imsinger_720p.m3u8"
+    },
+    {
+      "num": 55487,
+      "chid": "letvws",
+      "chname": "乐视垫播",
+      "chlink": "http://icntv.xyz/letv/lb_lssd_350.m3u8"
+    },
+    {
+      "num": 55488,
+      "chid": "letvws",
+      "chname": "乐视盛典",
+      "chlink": "http://icntv.xyz/letv/lb_lssd_1300.m3u8"
+    },
+    {
+      "num": 55489,
+      "chid": "letvws",
+      "chname": "乐视儿歌",
+      "chlink": "http://icntv.xyz/letv/lb_erge_720p.m3u8"
+    },
+    {
+      "num": 55490,
+      "chid": "letvws",
+      "chname": "动作电影",
+      "chlink": "http://icntv.xyz/letv/lb_dzdy_720p.m3u8"
+    },
+    {
+      "num": 55491,
+      "chid": "letvws",
+      "chname": "电影",
+      "chlink": "http://icntv.xyz/letv/lb_zpw_720p.m3u8"
+    },
+    {
+      "num": 55492,
+      "chid": "letvws",
+      "chname": "国际时装周",
+      "chlink": "http://icntv.xyz/letv/lb_shizhuang_720p.m3u8"
+    },
+    {
+      "num": 56001,
+      "chid": "gat",
+      "chname": "CNN",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=0"
+    },
+    {
+      "num": 56002,
+      "chid": "gat",
+      "chname": "BBC",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=1"
+    },
+    {
+      "num": 56003,
+      "chid": "gat",
+      "chname": "公视HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=2"
+    },
+    {
+      "num": 56004,
+      "chid": "gat",
+      "chname": "公视",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=3"
+    },
+    {
+      "num": 56005,
+      "chid": "gat",
+      "chname": "FSTVHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=4"
+    },
+    {
+      "num": 56006,
+      "chid": "gat",
+      "chname": "民视HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=5"
+    },
+    {
+      "num": 56007,
+      "chid": "gat",
+      "chname": "台视HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=6"
+    },
+    {
+      "num": 56008,
+      "chid": "gat",
+      "chname": "台视综合台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=7"
+    },
+    {
+      "num": 56009,
+      "chid": "gat",
+      "chname": "中视HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=8"
+    },
+    {
+      "num": 56010,
+      "chid": "gat",
+      "chname": "BRAVO菁采台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=9"
+    },
+    {
+      "num": 56011,
+      "chid": "gat",
+      "chname": "大爱HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=10"
+    },
+    {
+      "num": 56012,
+      "chid": "gat",
+      "chname": "华视",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=11"
+    },
+    {
+      "num": 56013,
+      "chid": "gat",
+      "chname": "探索科学台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=12"
+    },
+    {
+      "num": 56014,
+      "chid": "gat",
+      "chname": "DMAXHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=13"
+    },
+    {
+      "num": 56015,
+      "chid": "gat",
+      "chname": "EVEHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=14"
+    },
+    {
+      "num": 56016,
+      "chid": "gat",
+      "chname": "国家地理野生台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=15"
+    },
+    {
+      "num": 56017,
+      "chid": "gat",
+      "chname": "国家地理优人台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=16"
+    },
+    {
+      "num": 56018,
+      "chid": "gat",
+      "chname": "国家地理频道台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=17"
+    },
+    {
+      "num": 56019,
+      "chid": "gat",
+      "chname": "DiscoveryHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=18"
+    },
+    {
+      "num": 56020,
+      "chid": "gat",
+      "chname": "TLC",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=19"
+    },
+    {
+      "num": 56021,
+      "chid": "gat",
+      "chname": "动物星球台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=20"
+    },
+    {
+      "num": 56022,
+      "chid": "gat",
+      "chname": "卡通频道台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=21"
+    },
+    {
+      "num": 56023,
+      "chid": "gat",
+      "chname": "迪士尼频道台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=22"
+    },
+    {
+      "num": 56024,
+      "chid": "gat",
+      "chname": "MOMO亲子台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=23"
+    },
+    {
+      "num": 56025,
+      "chid": "gat",
+      "chname": "东森幼幼台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=24"
+    },
+    {
+      "num": 56026,
+      "chid": "gat",
+      "chname": "纬来综合台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=25"
+    },
+    {
+      "num": 56027,
+      "chid": "gat",
+      "chname": "八大第一台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=26"
+    },
+    {
+      "num": 56028,
+      "chid": "gat",
+      "chname": "八大综合台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=27"
+    },
+    {
+      "num": 56029,
+      "chid": "gat",
+      "chname": "三立台湾台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=28"
+    },
+    {
+      "num": 56030,
+      "chid": "gat",
+      "chname": "三立都会台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=29"
+    },
+    {
+      "num": 56031,
+      "chid": "gat",
+      "chname": "卫视中文台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=30"
+    },
+    {
+      "num": 56032,
+      "chid": "gat",
+      "chname": "东森综合台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=31"
+    },
+    {
+      "num": 56033,
+      "chid": "gat",
+      "chname": "东森超视台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=32"
+    },
+    {
+      "num": 56034,
+      "chid": "gat",
+      "chname": "ChannalMHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=33"
+    },
+    {
+      "num": 56035,
+      "chid": "gat",
+      "chname": "KMTVHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=34"
+    },
+    {
+      "num": 56036,
+      "chid": "gat",
+      "chname": "中天综合台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=35"
+    },
+    {
+      "num": 56037,
+      "chid": "gat",
+      "chname": "东风卫视台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=36"
+    },
+    {
+      "num": 56038,
+      "chid": "gat",
+      "chname": "MUCH台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=37"
+    },
+    {
+      "num": 56039,
+      "chid": "gat",
+      "chname": "中天娱乐台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=38"
+    },
+    {
+      "num": 56040,
+      "chid": "gat",
+      "chname": "东森戏剧台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=39"
+    },
+    {
+      "num": 56041,
+      "chid": "gat",
+      "chname": "八大戏剧台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=40"
+    },
+    {
+      "num": 56042,
+      "chid": "gat",
+      "chname": "TVBS欢乐台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=41"
+    },
+    {
+      "num": 56043,
+      "chid": "gat",
+      "chname": "纬来戏剧台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=42"
+    },
+    {
+      "num": 56044,
+      "chid": "gat",
+      "chname": "星卫娱乐台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=43"
+    },
+    {
+      "num": 56045,
+      "chid": "gat",
+      "chname": "卫视合家欢台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=44"
+    },
+    {
+      "num": 56046,
+      "chid": "gat",
+      "chname": "JET综合台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=45"
+    },
+    {
+      "num": 56047,
+      "chid": "gat",
+      "chname": "DIVAHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=46"
+    },
+    {
+      "num": 56048,
+      "chid": "gat",
+      "chname": "SYFYHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=47"
+    },
+    {
+      "num": 56049,
+      "chid": "gat",
+      "chname": "壹电视新闻台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=48"
+    },
+    {
+      "num": 56050,
+      "chid": "gat",
+      "chname": "年代新闻台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=49"
+    },
+    {
+      "num": 56051,
+      "chid": "gat",
+      "chname": "东森新闻台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=50"
+    },
+    {
+      "num": 56052,
+      "chid": "gat",
+      "chname": "中天新闻台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=51"
+    },
+    {
+      "num": 56053,
+      "chid": "gat",
+      "chname": "民视新闻台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=52"
+    },
+    {
+      "num": 56054,
+      "chid": "gat",
+      "chname": "三立新闻台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=53"
+    },
+    {
+      "num": 56055,
+      "chid": "gat",
+      "chname": "TVBS新闻台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=54"
+    },
+    {
+      "num": 56056,
+      "chid": "gat",
+      "chname": "TVBS台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=55"
+    },
+    {
+      "num": 56057,
+      "chid": "gat",
+      "chname": "东森财经新闻台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=56"
+    },
+    {
+      "num": 56058,
+      "chid": "gat",
+      "chname": "非凡新闻台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=57"
+    },
+    {
+      "num": 56059,
+      "chid": "gat",
+      "chname": "FOXCRIMEHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=58"
+    },
+    {
+      "num": 56060,
+      "chid": "gat",
+      "chname": "FXHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=59"
+    },
+    {
+      "num": 56061,
+      "chid": "gat",
+      "chname": "卫视电影台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=60"
+    },
+    {
+      "num": 56062,
+      "chid": "gat",
+      "chname": "东森电影台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=61"
+    },
+    {
+      "num": 56063,
+      "chid": "gat",
+      "chname": "星卫电影台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=62"
+    },
+    {
+      "num": 56064,
+      "chid": "gat",
+      "chname": "美亚电影台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=63"
+    },
+    {
+      "num": 56065,
+      "chid": "gat",
+      "chname": "HBOHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=64"
+    },
+    {
+      "num": 56066,
+      "chid": "gat",
+      "chname": "东森洋片台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=65"
+    },
+    {
+      "num": 56067,
+      "chid": "gat",
+      "chname": "福斯家庭电影台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=66"
+    },
+    {
+      "num": 56068,
+      "chid": "gat",
+      "chname": "UniversalHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=67"
+    },
+    {
+      "num": 56069,
+      "chid": "gat",
+      "chname": "StarMoviesHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=68"
+    },
+    {
+      "num": 56070,
+      "chid": "gat",
+      "chname": "CINEMAX",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=69"
+    },
+    {
+      "num": 56071,
+      "chid": "gat",
+      "chname": "纬来育乐台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=70"
+    },
+    {
+      "num": 56072,
+      "chid": "gat",
+      "chname": "纬来体育台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=71"
+    },
+    {
+      "num": 56073,
+      "chid": "gat",
+      "chname": "FOX3HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=72"
+    },
+    {
+      "num": 56074,
+      "chid": "gat",
+      "chname": "卫视体育台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=73"
+    },
+    {
+      "num": 56075,
+      "chid": "gat",
+      "chname": "纬来日本台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=74"
+    },
+    {
+      "num": 56076,
+      "chid": "gat",
+      "chname": "爱尔达体育台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=75"
+    },
+    {
+      "num": 56077,
+      "chid": "gat",
+      "chname": "国兴卫视台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=76"
+    },
+    {
+      "num": 56078,
+      "chid": "gat",
+      "chname": "FOXHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=77"
+    },
+    {
+      "num": 56079,
+      "chid": "gat",
+      "chname": "HBO原创HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=78"
+    },
+    {
+      "num": 56080,
+      "chid": "gat",
+      "chname": "HBO强档HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=79"
+    },
+    {
+      "num": 56081,
+      "chid": "gat",
+      "chname": "HBO温馨HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=80"
+    },
+    {
+      "num": 56082,
+      "chid": "gat",
+      "chname": "博斯高球II台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=81"
+    },
+    {
+      "num": 56083,
+      "chid": "gat",
+      "chname": "博斯运动台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=82"
+    },
+    {
+      "num": 56084,
+      "chid": "gat",
+      "chname": "GOLFCHANNALHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=83"
+    },
+    {
+      "num": 56085,
+      "chid": "gat",
+      "chname": "ASN全美运动台HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=84"
+    },
+    {
+      "num": 56086,
+      "chid": "gat",
+      "chname": "BabyTVHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=85"
+    },
+    {
+      "num": 56087,
+      "chid": "gat",
+      "chname": "DisneyJunior",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=86"
+    },
+    {
+      "num": 56088,
+      "chid": "gat",
+      "chname": "MTVHD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=87"
+    },
+    {
+      "num": 56089,
+      "chid": "gat",
+      "chname": "霹雳台湾台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=88"
+    },
+    {
+      "num": 56090,
+      "chid": "gat",
+      "chname": "罪桉侦缉频道HD",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=89"
+    },
+    {
+      "num": 56091,
+      "chid": "gat",
+      "chname": "NHK",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=90"
+    },
+    {
+      "num": 56092,
+      "chid": "gat",
+      "chname": "本港台",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=91"
+    },
+    {
+      "num": 56093,
+      "chid": "gat",
+      "chname": "测试-电影",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=92"
+    },
+    {
+      "num": 56094,
+      "chid": "gat",
+      "chname": "测试-冰与火之歌第一季",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=93"
+    },
+    {
+      "num": 56095,
+      "chid": "gat",
+      "chname": "测试-嘻哈帝国第一季",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=94"
+    },
+    {
+      "num": 56096,
+      "chid": "gat",
+      "chname": "测试-海贼王",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=95"
+    },
+    {
+      "num": 56097,
+      "chid": "gat",
+      "chname": "CNN标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=96"
+    },
+    {
+      "num": 56098,
+      "chid": "gat",
+      "chname": "BBC标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=97"
+    },
+    {
+      "num": 56099,
+      "chid": "gat",
+      "chname": "公视HD标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=98"
+    },
+    {
+      "num": 56100,
+      "chid": "gat",
+      "chname": "公视2标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=99"
+    },
+    {
+      "num": 56101,
+      "chid": "gat",
+      "chname": "FSTV标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=100"
+    },
+    {
+      "num": 56102,
+      "chid": "gat",
+      "chname": "民视标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=101"
+    },
+    {
+      "num": 56103,
+      "chid": "gat",
+      "chname": "台视HD标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=102"
+    },
+    {
+      "num": 56104,
+      "chid": "gat",
+      "chname": "台视综合标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=103"
+    },
+    {
+      "num": 56105,
+      "chid": "gat",
+      "chname": "中视HD标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=104"
+    },
+    {
+      "num": 56106,
+      "chid": "gat",
+      "chname": "BRAVO菁采台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=105"
+    },
+    {
+      "num": 56107,
+      "chid": "gat",
+      "chname": "大爱HD标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=106"
+    },
+    {
+      "num": 56108,
+      "chid": "gat",
+      "chname": "华视标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=107"
+    },
+    {
+      "num": 56109,
+      "chid": "gat",
+      "chname": "探索科学台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=108"
+    },
+    {
+      "num": 56110,
+      "chid": "gat",
+      "chname": "DMAX标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=109"
+    },
+    {
+      "num": 56111,
+      "chid": "gat",
+      "chname": "EVE标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=110"
+    },
+    {
+      "num": 56112,
+      "chid": "gat",
+      "chname": "国家地理野生台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=111"
+    },
+    {
+      "num": 56113,
+      "chid": "gat",
+      "chname": "国家地理优人台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=112"
+    },
+    {
+      "num": 56114,
+      "chid": "gat",
+      "chname": "国家地理频道台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=113"
+    },
+    {
+      "num": 56115,
+      "chid": "gat",
+      "chname": "Discovery标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=114"
+    },
+    {
+      "num": 56116,
+      "chid": "gat",
+      "chname": "TLC标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=115"
+    },
+    {
+      "num": 56117,
+      "chid": "gat",
+      "chname": "动物星球台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=116"
+    },
+    {
+      "num": 56118,
+      "chid": "gat",
+      "chname": "卡通频道台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=117"
+    },
+    {
+      "num": 56119,
+      "chid": "gat",
+      "chname": "迪士尼频道台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=118"
+    },
+    {
+      "num": 56120,
+      "chid": "gat",
+      "chname": "MOMO亲子台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=119"
+    },
+    {
+      "num": 56121,
+      "chid": "gat",
+      "chname": "东森幼幼台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=120"
+    },
+    {
+      "num": 56122,
+      "chid": "gat",
+      "chname": "纬来综合台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=121"
+    },
+    {
+      "num": 56123,
+      "chid": "gat",
+      "chname": "八大第一台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=122"
+    },
+    {
+      "num": 56124,
+      "chid": "gat",
+      "chname": "八大综合台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=123"
+    },
+    {
+      "num": 56125,
+      "chid": "gat",
+      "chname": "三立台湾台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=124"
+    },
+    {
+      "num": 56126,
+      "chid": "gat",
+      "chname": "三立都会台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=125"
+    },
+    {
+      "num": 56127,
+      "chid": "gat",
+      "chname": "卫视中文台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=126"
+    },
+    {
+      "num": 56128,
+      "chid": "gat",
+      "chname": "东森综合台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=127"
+    },
+    {
+      "num": 56129,
+      "chid": "gat",
+      "chname": "超视台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=128"
+    },
+    {
+      "num": 56130,
+      "chid": "gat",
+      "chname": "ChannalM标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=129"
+    },
+    {
+      "num": 56131,
+      "chid": "gat",
+      "chname": "KMTV标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=130"
+    },
+    {
+      "num": 56132,
+      "chid": "gat",
+      "chname": "中天综合台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=131"
+    },
+    {
+      "num": 56133,
+      "chid": "gat",
+      "chname": "东风卫视台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=132"
+    },
+    {
+      "num": 56134,
+      "chid": "gat",
+      "chname": "MUCH台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=133"
+    },
+    {
+      "num": 56135,
+      "chid": "gat",
+      "chname": "中天娱乐台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=134"
+    },
+    {
+      "num": 56136,
+      "chid": "gat",
+      "chname": "东森戏剧台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=135"
+    },
+    {
+      "num": 56137,
+      "chid": "gat",
+      "chname": "八大戏剧台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=136"
+    },
+    {
+      "num": 56138,
+      "chid": "gat",
+      "chname": "TVBS欢乐台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=137"
+    },
+    {
+      "num": 56139,
+      "chid": "gat",
+      "chname": "纬来戏剧台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=138"
+    },
+    {
+      "num": 56140,
+      "chid": "gat",
+      "chname": "星卫娱乐台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=139"
+    },
+    {
+      "num": 56141,
+      "chid": "gat",
+      "chname": "卫视合家欢台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=140"
+    },
+    {
+      "num": 56142,
+      "chid": "gat",
+      "chname": "JET综合台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=141"
+    },
+    {
+      "num": 56143,
+      "chid": "gat",
+      "chname": "DIVA标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=142"
+    },
+    {
+      "num": 56144,
+      "chid": "gat",
+      "chname": "SYFY标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=143"
+    },
+    {
+      "num": 56145,
+      "chid": "gat",
+      "chname": "壹电视新闻台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=144"
+    },
+    {
+      "num": 56146,
+      "chid": "gat",
+      "chname": "年代新闻台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=145"
+    },
+    {
+      "num": 56147,
+      "chid": "gat",
+      "chname": "东森新闻台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=146"
+    },
+    {
+      "num": 56148,
+      "chid": "gat",
+      "chname": "中天新闻台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=147"
+    },
+    {
+      "num": 56149,
+      "chid": "gat",
+      "chname": "民视新闻台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=148"
+    },
+    {
+      "num": 56150,
+      "chid": "gat",
+      "chname": "三立新闻台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=149"
+    },
+    {
+      "num": 56151,
+      "chid": "gat",
+      "chname": "TVBS新闻台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=150"
+    },
+    {
+      "num": 56152,
+      "chid": "gat",
+      "chname": "TVBS台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=151"
+    },
+    {
+      "num": 56153,
+      "chid": "gat",
+      "chname": "东森财经新闻台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=152"
+    },
+    {
+      "num": 56154,
+      "chid": "gat",
+      "chname": "非凡新闻台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=153"
+    },
+    {
+      "num": 56155,
+      "chid": "gat",
+      "chname": "FOXCRIME标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=154"
+    },
+    {
+      "num": 56156,
+      "chid": "gat",
+      "chname": "FX标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=155"
+    },
+    {
+      "num": 56157,
+      "chid": "gat",
+      "chname": "卫视电影台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=156"
+    },
+    {
+      "num": 56158,
+      "chid": "gat",
+      "chname": "东森电影台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=157"
+    },
+    {
+      "num": 56159,
+      "chid": "gat",
+      "chname": "星卫电影台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=158"
+    },
+    {
+      "num": 56160,
+      "chid": "gat",
+      "chname": "美亚电影台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=159"
+    },
+    {
+      "num": 56161,
+      "chid": "gat",
+      "chname": "HBO标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=160"
+    },
+    {
+      "num": 56162,
+      "chid": "gat",
+      "chname": "东森洋片台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=161"
+    },
+    {
+      "num": 56163,
+      "chid": "gat",
+      "chname": "福斯家庭电影台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=162"
+    },
+    {
+      "num": 56164,
+      "chid": "gat",
+      "chname": "Universal标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=163"
+    },
+    {
+      "num": 56165,
+      "chid": "gat",
+      "chname": "StarMovies标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=164"
+    },
+    {
+      "num": 56166,
+      "chid": "gat",
+      "chname": "CINEMAX标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=165"
+    },
+    {
+      "num": 56167,
+      "chid": "gat",
+      "chname": "纬来育乐台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=166"
+    },
+    {
+      "num": 56168,
+      "chid": "gat",
+      "chname": "纬来体育台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=167"
+    },
+    {
+      "num": 56169,
+      "chid": "gat",
+      "chname": "FOX3标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=168"
+    },
+    {
+      "num": 56170,
+      "chid": "gat",
+      "chname": "卫视体育台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=169"
+    },
+    {
+      "num": 56171,
+      "chid": "gat",
+      "chname": "纬来日本台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=170"
+    },
+    {
+      "num": 56172,
+      "chid": "gat",
+      "chname": "爱尔达体育台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=171"
+    },
+    {
+      "num": 56173,
+      "chid": "gat",
+      "chname": "国兴卫视台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=172"
+    },
+    {
+      "num": 56174,
+      "chid": "gat",
+      "chname": "FOX标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=173"
+    },
+    {
+      "num": 56175,
+      "chid": "gat",
+      "chname": "HBO原创台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=174"
+    },
+    {
+      "num": 56176,
+      "chid": "gat",
+      "chname": "HBO强档台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=175"
+    },
+    {
+      "num": 56177,
+      "chid": "gat",
+      "chname": "HBO温馨台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=176"
+    },
+    {
+      "num": 56178,
+      "chid": "gat",
+      "chname": "博斯高球II台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=177"
+    },
+    {
+      "num": 56179,
+      "chid": "gat",
+      "chname": "博斯运动台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=178"
+    },
+    {
+      "num": 56180,
+      "chid": "gat",
+      "chname": "GOLFCHANNAL标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=179"
+    },
+    {
+      "num": 56181,
+      "chid": "gat",
+      "chname": "ASN全美运动标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=180"
+    },
+    {
+      "num": 56182,
+      "chid": "gat",
+      "chname": "BabyTV标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=181"
+    },
+    {
+      "num": 56183,
+      "chid": "gat",
+      "chname": "DisneyJunior标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=182"
+    },
+    {
+      "num": 56184,
+      "chid": "gat",
+      "chname": "MTV标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=183"
+    },
+    {
+      "num": 56185,
+      "chid": "gat",
+      "chname": "霹雳台湾台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=184"
+    },
+    {
+      "num": 56186,
+      "chid": "gat",
+      "chname": "罪桉侦缉频道标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=185"
+    },
+    {
+      "num": 56187,
+      "chid": "gat",
+      "chname": "NHK标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=186"
+    },
+    {
+      "num": 56188,
+      "chid": "gat",
+      "chname": "本港台标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=187"
+    },
+    {
+      "num": 56189,
+      "chid": "gat",
+      "chname": "测试-电影标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=188"
+    },
+    {
+      "num": 56190,
+      "chid": "gat",
+      "chname": "测试-冰与火之歌第一季标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=189"
+    },
+    {
+      "num": 56191,
+      "chid": "gat",
+      "chname": "测试-嘻哈帝国第一季标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=190"
+    },
+    {
+      "num": 56192,
+      "chid": "gat",
+      "chname": "测试-海贼王标清",
+      "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=191"
+    },
+    {
+      "num": 53197,
+      "chid": "uid2",
+      "chname": "韩-KCTVN",
+      "chlink": "http://122.202.129.136:1935/live/ch4/playlist.m3u8"
+    },
+    {
+      "num": 53198,
+      "chid": "uid2",
+      "chname": "韩-KTV",
+      "chlink": "http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8"
+    },
+    {
+      "num": 53199,
+      "chid": "uid2",
+      "chname": "韩-KNN",
+      "chlink": "http://211.220.195.200:1935/live/mp4:KnnTv.stream/playlist.m3u8"
+    },
+    {
+      "num": 53200,
+      "chid": "uid2",
+      "chname": "韩-CBS",
+      "chlink": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8"
+    },
+    {
+      "num": 53201,
+      "chid": "uid2",
+      "chname": "韩-PAX",
+      "chlink": "http://111.118.21.79/etv1sb/phd385/playlist.m3u8"
+    },
+    {
+      "num": 53202,
+      "chid": "uid2",
+      "chname": "韩-CBS",
+      "chlink": "http://123.108.164.71/etv2sb/phd27/playlist.m3u8"
+    },
+    {
+      "num": 53203,
+      "chid": "uid2",
+      "chname": "韩-GOODTV",
+      "chlink": "http://123.108.164.71/etv2sb/phd29/playlist.m3u8"
+    },
+    {
+      "num": 53204,
+      "chid": "uid2",
+      "chname": "韩-DONGATV19",
+      "chlink": "http://123.108.164.71/etv2sb/phd43/playlist.m3u8"
+    },
+    {
+      "num": 53205,
+      "chid": "uid2",
+      "chname": "韩-YTNWeather",
+      "chlink": "http://123.108.164.71/etv2sb/phd193/playlist.m3u8"
+    },
+    {
+      "num": 53206,
+      "chid": "uid2",
+      "chname": "韩-MOUNTAINTV",
+      "chlink": "http://123.108.164.71/etv2sb/phd337/playlist.m3u8"
+    },
+    {
+      "num": 53207,
+      "chid": "uid2",
+      "chname": "韩-eventTV",
+      "chlink": "http://123.108.164.71/etv2sb/phd389/playlist.m3u8"
+    },
+    {
+      "num": 53208,
+      "chid": "uid2",
+      "chname": "韩-KBS2",
+      "chlink": "http://123.108.164.71/etv2/phd847/playlist.m3u8"
+    },
+    {
+      "num": 53209,
+      "chid": "uid2",
+      "chname": "韩-BBC",
+      "chlink": "http://123.108.164.71/etv2sb/phd863/playlist.m3u82"
+    },
+    {
+      "num": 53210,
+      "chid": "uid2",
+      "chname": "韩-音乐",
+      "chlink": "http://123.108.164.71/etv2sb/phd4/playlist.m3u8"
+    },
+    {
+      "num": 53211,
+      "chid": "uid2",
+      "chname": "韩-SAFE",
+      "chlink": "http://123.108.164.71/etv2/phd109/playlist.m3u8"
+    },
+    {
+      "num": 53212,
+      "chid": "uid2",
+      "chname": "韩-KCTV",
+      "chlink": "http://111.118.21.79/etv1/phd555/playlist.m3u8"
+    },
+    {
+      "num": 53213,
+      "chid": "uid2",
+      "chname": "韩-KTV",
+      "chlink": "http://111.118.21.79/etv1/phd393/playlist.m3u8"
+    },
+    {
+      "num": 53214,
+      "chid": "uid2",
+      "chname": "韩-CTS",
+      "chlink": "http://111.118.21.79/etv1/phd28/playlist.m3u8"
+    },
+    {
+      "num": 53215,
+      "chid": "uid2",
+      "chname": "韩-OBS",
+      "chlink": "http://111.118.21.79/etv1sb/phd3/playlist.m3u8"
+    },
+    {
+      "num": 53216,
+      "chid": "uid2",
+      "chname": "韩-TVIS",
+      "chlink": "http://111.118.21.79/etv1sb/phd551/playlist.m3u8"
+    },
+    {
+      "num": 53217,
+      "chid": "uid2",
+      "chname": "韩-ETN",
+      "chlink": "http://123.108.164.71/etv2sb/phd2/playlist.m3u8"
+    },
+    {
+      "num": 53218,
+      "chid": "uid2",
+      "chname": "韩-KBSN",
+      "chlink": "http://123.108.164.71/etv2sb/phd852/playlist.m3u8"
+    },
+    {
+      "num": 53219,
+      "chid": "uid2",
+      "chname": "韩-HANWOON",
+      "chlink": "http://123.108.164.71/etv2sb/phd897/playlist.m3u8"
+    },
+    {
+      "num": 53220,
+      "chid": "uid2",
+      "chname": "韩-HCN",
+      "chlink": "http://123.108.164.71/etv2/phd951/playlist.m3u8"
+    },
+    {
+      "num": 53221,
+      "chid": "uid2",
+      "chname": "韩-Hpbs",
+      "chlink": "http://123.108.164.71/etv2/phd983/playlist.m3u8"
+    },
+    {
+      "num": 53222,
+      "chid": "uid2",
+      "chname": "韩-KIDSTV",
+      "chlink": "http://123.108.164.71/etv2/phd1043/playlist.m3u8"
+    },
+    {
+      "num": 53223,
+      "chid": "uid2",
+      "chname": "韩-新唐人TND",
+      "chlink": "http://123.108.164.71/etv2/phd1058/playlist.m3u8"
+    },
+    {
+      "num": 53224,
+      "chid": "uid2",
+      "chname": "韩-MTN",
+      "chlink": "http://111.118.21.79/etv1sb/phd18/playlist.m3u8"
+    },
+    {
+      "num": 53225,
+      "chid": "uid2",
+      "chname": "韩-RTNTV",
+      "chlink": "http://111.118.21.79/etv1sb/phd19/playlist.m3u8"
+    },
+    {
+      "num": 53226,
+      "chid": "uid2",
+      "chname": "韩-UPTV",
+      "chlink": "http://111.118.21.79/etv1/phd752/playlist.m3u8"
+    },
+    {
+      "num": 53227,
+      "chid": "uid2",
+      "chname": "韩-KBS1",
+      "chlink": "http://175.198.55.161:8871/KBS1_H"
+    },
+    {
+      "num": 53228,
+      "chid": "uid2",
+      "chname": "韩-KBS2",
+      "chlink": "http://175.198.55.161:8871/KBS2_H"
+    },
+    {
+      "num": 53229,
+      "chid": "uid2",
+      "chname": "韩-SBS",
+      "chlink": "http://175.198.55.161:8871/SBS_H"
+    },
+    {
+      "num": 53230,
+      "chid": "uid2",
+      "chname": "韩-MBC",
+      "chlink": "http://175.198.55.161:8871/MBC_H"
+    },
+    {
+      "num": 53231,
+      "chid": "uid2",
+      "chname": "韩-TVCHOSUN",
+      "chlink": "http://175.198.55.161:8871/TVCHOSUN_H"
+    },
+    {
+      "num": 53232,
+      "chid": "uid2",
+      "chname": "韩-TVN",
+      "chlink": "http://175.198.55.161:8871/TVN_H"
+    },
+    {
+      "num": 53233,
+      "chid": "uid2",
+      "chname": "韩-JTBC",
+      "chlink": "http://175.198.55.161:8871/JTBC_H"
+    },
+    {
+      "num": 53234,
+      "chid": "uid2",
+      "chname": "韩-Mnet",
+      "chlink": "http://175.198.55.161:8871/MNET_H"
+    },
+    {
+      "num": 53235,
+      "chid": "uid2",
+      "chname": "韩-Superaction",
+      "chlink": "http://175.198.55.161:8871/SUPERACTION_H"
+    },
+    {
+      "num": 53236,
+      "chid": "uid2",
+      "chname": "韩-OCN",
+      "chlink": "http://175.198.55.161:8871/OCN_H"
+    },
+    {
+      "num": 53237,
+      "chid": "uid2",
+      "chname": "韩-JEI",
+      "chlink": "http://175.198.55.161:8871/JEI_H"
+    },
+    {
+      "num": 53238,
+      "chid": "uid2",
+      "chname": "韩-YTN",
+      "chlink": "http://175.198.55.161:8871/YTN_H"
+    },
+    {
+      "num": 53239,
+      "chid": "uid2",
+      "chname": "韩-MBN",
+      "chlink": "http://175.198.55.161:8871/MBN_H"
+    },
+    {
+      "num": 53240,
+      "chid": "uid2",
+      "chname": "韩-ChannelA",
+      "chlink": "http://175.198.55.161:8871/CHANNELA_H"
+    },
+    {
+      "num": 53241,
+      "chid": "uid2",
+      "chname": "韩-SBSCNBC",
+      "chlink": "http://175.198.55.161:8871/CNBC_H"
+    },
+    {
+      "num": 53242,
+      "chid": "uid2",
+      "chname": "韩-FTV",
+      "chlink": "http://175.198.55.161:8871/FTV_H"
+    },
+    {
+      "num": 53243,
+      "chid": "uid2",
+      "chname": "韩-EBS1",
+      "chlink": "http://175.198.55.161:8871/EBS_H"
+    },
+    {
+      "num": 53244,
+      "chid": "uid2",
+      "chname": "韩-EBSi",
+      "chlink": "http://175.198.55.161:8871/EBS1_H"
+    },
+    {
+      "num": 53245,
+      "chid": "uid2",
+      "chname": "韩-SKY",
+      "chlink": "http://175.198.55.161:8871/SKY_H"
+    },
+    {
+      "num": 53246,
+      "chid": "uid2",
+      "chname": "韩-SBSGolf",
+      "chlink": "http://175.198.55.161:8871/SBSGOLF_H"
+    },
+    {
+      "num": 53247,
+      "chid": "uid2",
+      "chname": "韩-JGOLF",
+      "chlink": "http://175.198.55.161:8871/JGOLF_H"
+    },
+    {
+      "num": 58000,
+      "chid": "uid5",
+      "chname": "CCTV-1高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=79"
+    },
+    {
+      "num": 58001,
+      "chid": "uid5",
+      "chname": "CCTV-1高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=705"
+    },
+    {
+      "num": 58002,
+      "chid": "uid5",
+      "chname": "CCTV-1",
+      "chlink": "http://112.90.72.209:9009/live/chid=1"
+    },
+    {
+      "num": 58003,
+      "chid": "uid5",
+      "chname": "CCTV-2",
+      "chlink": "http://112.90.72.209:9009/live/chid=2"
+    },
+    {
+      "num": 58004,
+      "chid": "uid5",
+      "chname": "CCTV-2",
+      "chlink": "http://112.90.72.209:9009/live/chid=81"
+    },
+    {
+      "num": 58005,
+      "chid": "uid5",
+      "chname": "CCTV-3",
+      "chlink": "http://112.90.72.209:9009/live/chid=8"
+    },
+    {
+      "num": 58006,
+      "chid": "uid5",
+      "chname": "CCTV-4",
+      "chlink": "http://112.90.72.209:9009/live/chid=14"
+    },
+    {
+      "num": 58007,
+      "chid": "uid5",
+      "chname": "CCTV-5",
+      "chlink": "http://112.90.72.209:9009/live/chid=9"
+    },
+    {
+      "num": 58008,
+      "chid": "uid5",
+      "chname": "CCTV-5+高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=706"
+    },
+    {
+      "num": 58009,
+      "chid": "uid5",
+      "chname": "CCTV-5+高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=45"
+    },
+    {
+      "num": 58010,
+      "chid": "uid5",
+      "chname": "CCTV-5+高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=82"
+    },
+    {
+      "num": 58011,
+      "chid": "uid5",
+      "chname": "CCTV-6",
+      "chlink": "http://112.90.72.209:9009/live/chid=10"
+    },
+    {
+      "num": 58012,
+      "chid": "uid5",
+      "chname": "CCTV-7",
+      "chlink": "http://112.90.72.209:9009/live/chid=3"
+    },
+    {
+      "num": 58013,
+      "chid": "uid5",
+      "chname": "CCTV-8",
+      "chlink": "http://112.90.72.209:9009/live/chid=11"
+    },
+    {
+      "num": 58014,
+      "chid": "uid5",
+      "chname": "CCTV-9",
+      "chlink": "http://112.90.72.209:9009/live/chid=15"
+    },
+    {
+      "num": 58015,
+      "chid": "uid5",
+      "chname": "CCTV-10",
+      "chlink": "http://112.90.72.209:9009/live/chid=4"
+    },
+    {
+      "num": 58016,
+      "chid": "uid5",
+      "chname": "CCTV-11",
+      "chlink": "http://112.90.72.209:9009/live/chid=5"
+    },
+    {
+      "num": 58017,
+      "chid": "uid5",
+      "chname": "CCTV-12",
+      "chlink": "http://112.90.72.209:9009/live/chid=6"
+    },
+    {
+      "num": 58018,
+      "chid": "uid5",
+      "chname": "CCTV-13",
+      "chlink": "http://112.90.72.209:9009/live/chid=13"
+    },
+    {
+      "num": 58019,
+      "chid": "uid5",
+      "chname": "CCTV-14",
+      "chlink": "http://112.90.72.209:9009/live/chid=12"
+    },
+    {
+      "num": 58020,
+      "chid": "uid5",
+      "chname": "CCTV-15",
+      "chlink": "http://112.90.72.209:9009/live/chid=7"
+    },
+    {
+      "num": 58021,
+      "chid": "uid5",
+      "chname": "CCTV-NEWS",
+      "chlink": "http://112.90.72.209:9009/live/chid=55"
+    },
+    {
+      "num": 58022,
+      "chid": "uid5",
+      "chname": "CETV-1",
+      "chlink": "http://112.90.72.209:9009/live/chid=20"
+    },
+    {
+      "num": 58023,
+      "chid": "uid1",
+      "chname": "北京卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=708"
+    },
+    {
+      "num": 58024,
+      "chid": "uid1",
+      "chname": "北京卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=80"
+    },
+    {
+      "num": 58025,
+      "chid": "uid1",
+      "chname": "江苏卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=701"
+    },
+    {
+      "num": 58026,
+      "chid": "uid1",
+      "chname": "浙江卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=702"
+    },
+    {
+      "num": 58027,
+      "chid": "uid1",
+      "chname": "深圳卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=703"
+    },
+    {
+      "num": 58028,
+      "chid": "uid1",
+      "chname": "广东卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=704"
+    },
+    {
+      "num": 58029,
+      "chid": "uid1",
+      "chname": "湖南卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=707"
+    },
+    {
+      "num": 58030,
+      "chid": "uid1",
+      "chname": "东方卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=709"
+    },
+    {
+      "num": 58031,
+      "chid": "uid1",
+      "chname": "龙江卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=711"
+    },
+    {
+      "num": 58032,
+      "chid": "uid1",
+      "chname": "天津卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=716"
+    },
+    {
+      "num": 58033,
+      "chid": "uid1",
+      "chname": "山东卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=717"
+    },
+    {
+      "num": 58034,
+      "chid": "uid1",
+      "chname": "湖北卫视高清",
+      "chlink": "http://112.90.72.209:9009/live/chid=718"
+    },
+    {
+      "num": 58035,
+      "chid": "uid1",
+      "chname": "欧洲足球",
+      "chlink": "http://112.90.72.209:9009/live/chid=98"
+    },
+    {
+      "num": 58036,
+      "chid": "uid1",
+      "chname": "兵团卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=103"
+    },
+    {
+      "num": 58037,
+      "chid": "uid1",
+      "chname": "贵州卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=16"
+    },
+    {
+      "num": 58038,
+      "chid": "uid1",
+      "chname": "四川卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=17"
+    },
+    {
+      "num": 58039,
+      "chid": "uid1",
+      "chname": "湖南卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=18"
+    },
+    {
+      "num": 58040,
+      "chid": "uid1",
+      "chname": "广西卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=19"
+    },
+    {
+      "num": 58041,
+      "chid": "uid1",
+      "chname": "陕西卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=21"
+    },
+    {
+      "num": 58042,
+      "chid": "uid1",
+      "chname": "安徽卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=22"
+    },
+    {
+      "num": 58043,
+      "chid": "uid1",
+      "chname": "江苏卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=23"
+    },
+    {
+      "num": 58044,
+      "chid": "uid1",
+      "chname": "黑龙江卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=24"
+    },
+    {
+      "num": 58045,
+      "chid": "uid1",
+      "chname": "山东卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=25"
+    },
+    {
+      "num": 58046,
+      "chid": "uid1",
+      "chname": "吉林卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=26"
+    },
+    {
+      "num": 58047,
+      "chid": "uid1",
+      "chname": "天津卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=27"
+    },
+    {
+      "num": 58048,
+      "chid": "uid1",
+      "chname": "河南卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=28"
+    },
+    {
+      "num": 58049,
+      "chid": "uid1",
+      "chname": "北京卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=29"
+    },
+    {
+      "num": 58050,
+      "chid": "uid1",
+      "chname": "东南卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=30"
+    },
+    {
+      "num": 58051,
+      "chid": "uid1",
+      "chname": "江西卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=31"
+    },
+    {
+      "num": 58052,
+      "chid": "uid1",
+      "chname": "内蒙卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=32"
+    },
+    {
+      "num": 58053,
+      "chid": "uid1",
+      "chname": "重庆卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=33"
+    },
+    {
+      "num": 58054,
+      "chid": "uid1",
+      "chname": "云南卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=34"
+    },
+    {
+      "num": 58055,
+      "chid": "uid1",
+      "chname": "广东卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=35"
+    },
+    {
+      "num": 58056,
+      "chid": "uid1",
+      "chname": "深圳卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=36"
+    },
+    {
+      "num": 58057,
+      "chid": "uid1",
+      "chname": "浙江卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=41"
+    },
+    {
+      "num": 58058,
+      "chid": "uid1",
+      "chname": "东方卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=42"
+    },
+    {
+      "num": 58059,
+      "chid": "uid1",
+      "chname": "山西卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=43"
+    },
+    {
+      "num": 58060,
+      "chid": "uid1",
+      "chname": "西藏卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=44"
+    },
+    {
+      "num": 58061,
+      "chid": "uid1",
+      "chname": "青海卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=46"
+    },
+    {
+      "num": 58062,
+      "chid": "uid1",
+      "chname": "新疆卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=47"
+    },
+    {
+      "num": 58063,
+      "chid": "uid1",
+      "chname": "河北卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=48"
+    },
+    {
+      "num": 58064,
+      "chid": "uid1",
+      "chname": "湖北卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=49"
+    },
+    {
+      "num": 58065,
+      "chid": "uid1",
+      "chname": "旅游卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=50"
+    },
+    {
+      "num": 58066,
+      "chid": "uid1",
+      "chname": "宁夏卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=51"
+    },
+    {
+      "num": 58067,
+      "chid": "uid1",
+      "chname": "辽宁卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=52"
+    },
+    {
+      "num": 58068,
+      "chid": "uid1",
+      "chname": "金鹰卡通",
+      "chlink": "http://112.90.72.209:9009/live/chid=53"
+    },
+    {
+      "num": 58069,
+      "chid": "uid1",
+      "chname": "卡酷少儿",
+      "chlink": "http://112.90.72.209:9009/live/chid=54"
+    },
+    {
+      "num": 58070,
+      "chid": "uid1",
+      "chname": "广东体育",
+      "chlink": "http://112.90.72.209:9009/live/chid=56"
+    },
+    {
+      "num": 58071,
+      "chid": "uid1",
+      "chname": "广东珠江",
+      "chlink": "http://112.90.72.209:9009/live/chid=58"
+    },
+    {
+      "num": 58072,
+      "chid": "uid1",
+      "chname": "广东共公",
+      "chlink": "http://112.90.72.209:9009/live/chid=59"
+    },
+    {
+      "num": 58073,
+      "chid": "uid1",
+      "chname": "广东经科",
+      "chlink": "http://112.90.72.209:9009/live/chid=61"
+    },
+    {
+      "num": 58074,
+      "chid": "uid1",
+      "chname": "南方卫视",
+      "chlink": "http://112.90.72.209:9009/live/chid=62"
+    },
+    {
+      "num": 58075,
+      "chid": "uid1",
+      "chname": "广东综艺",
+      "chlink": "http://112.90.72.209:9009/live/chid=63"
+    },
+    {
+      "num": 58076,
+      "chid": "uid1",
+      "chname": "广东影视",
+      "chlink": "http://112.90.72.209:9009/live/chid=64"
+    },
+    {
+      "num": 58077,
+      "chid": "uid1",
+      "chname": "广东少儿",
+      "chlink": "http://112.90.72.209:9009/live/chid=65"
+    },
+    {
+      "num": 58078,
+      "chid": "uid1",
+      "chname": "广东新闻",
+      "chlink": "http://112.90.72.209:9009/live/chid=66"
+    },
+    {
+      "num": 58079,
+      "chid": "uid1",
+      "chname": "广州少儿",
+      "chlink": "http://112.90.72.209:9009/live/chid=57"
+    },
+    {
+      "num": 58080,
+      "chid": "uid1",
+      "chname": "广州生活",
+      "chlink": "http://112.90.72.209:9009/live/chid=67"
+    },
+    {
+      "num": 58081,
+      "chid": "uid1",
+      "chname": "广州综合",
+      "chlink": "http://112.90.72.209:9009/live/chid=68"
+    },
+    {
+      "num": 58082,
+      "chid": "uid1",
+      "chname": "广州经济",
+      "chlink": "http://112.90.72.209:9009/live/chid=69"
+    },
+    {
+      "num": 58083,
+      "chid": "uid1",
+      "chname": "广州新闻",
+      "chlink": "http://112.90.72.209:9009/live/chid=70"
+    },
+    {
+      "num": 58084,
+      "chid": "uid1",
+      "chname": "广州影视",
+      "chlink": "http://112.90.72.209:9009/live/chid=71"
+    },
+    {
+      "num": 58085,
+      "chid": "uid1",
+      "chname": "广州竞赛",
+      "chlink": "http://112.90.72.209:9009/live/chid=72"
+    },
+    {
+      "num": 58086,
+      "chid": "uid1",
+      "chname": "佳嘉卡通",
+      "chlink": "http://112.90.72.209:9009/live/chid=77"
+    },
+    {
+      "num": 58087,
+      "chid": "uid1",
+      "chname": "电影1",
+      "chlink": "http://112.90.72.209:9009/live/chid=501"
+    },
+    {
+      "num": 58088,
+      "chid": "uid1",
+      "chname": "动漫",
+      "chlink": "http://112.90.72.209:9009/live/chid=503"
+    },
+    {
+      "num": 58089,
+      "chid": "uid1",
+      "chname": "综艺",
+      "chlink": "http://112.90.72.209:9009/live/chid=504"
+    },
+    {
+      "num": 58090,
+      "chid": "uid1",
+      "chname": "电影2",
+      "chlink": "http://112.90.72.209:9009/live/chid=505"
+    },
+    {
+      "num": 58091,
+      "chid": "uid1",
+      "chname": "电影3",
+      "chlink": "http://112.90.72.209:9009/live/chid=506"
+    },
+    {
+      "num": 58092,
+      "chid": "uid1",
+      "chname": "电影4",
+      "chlink": "http://112.90.72.209:9009/live/chid=507"
+    },
+    {
+      "num": 58093,
+      "chid": "uid1",
+      "chname": "电视剧",
+      "chlink": "http://112.90.72.209:9009/live/chid=508"
+    },
+    {
+      "num": 58094,
+      "chid": "uid1",
+      "chname": "中国电影",
+      "chlink": "http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8"
+    },
+    {
+      "num": 58095,
+      "chid": "uid1",
+      "chname": "CIBN风尚",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNFSPD/800/vCIBNFSPD.m3u8"
+    },
+    {
+      "num": 58096,
+      "chid": "uid1",
+      "chname": "CIBN经典剧场",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNJDJC/800/vCIBNJDJC.m3u8"
+    },
+    {
+      "num": 58097,
+      "chid": "uid1",
+      "chname": "CIBN都市剧场",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNDSJC/800/vCIBNDSJC.m3u8"
+    },
+    {
+      "num": 58098,
+      "chid": "uid1",
+      "chname": "CIBN综艺",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNZYPD/800/vCIBNZYPD.m3u8"
+    },
+    {
+      "num": 58099,
+      "chid": "uid1",
+      "chname": "CIBN纪录片",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNJLPD/800/vCIBNJLPD.m3u8"
+    },
+    {
+      "num": 58100,
+      "chid": "uid1",
+      "chname": "CIBN动漫",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNDMPD/800/vCIBNDMPD.m3u8"
+    },
+    {
+      "num": 58101,
+      "chid": "uid1",
+      "chname": "CIBN音乐",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNYYPD/800/vCIBNYYPD.m3u8"
+    },
+    {
+      "num": 58102,
+      "chid": "uid1",
+      "chname": "CIBN微电影",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNWDYPD/800/vCIBNWDYPD.m3u8"
+    },
+    {
+      "num": 58103,
+      "chid": "uid1",
+      "chname": "CIBN热播剧场",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNRBJC/800/vCIBNRBJC.m3u8"
+    },
+    {
+      "num": 58104,
+      "chid": "uid1",
+      "chname": "CIBN华视院线",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNHSYX/800/vCIBNHSYX.m3u8"
+    },
+    {
+      "num": 58105,
+      "chid": "uid1",
+      "chname": "CIBN电影导视",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNDYDS/800/vCIBNDYDS.m3u8"
+    },
+    {
+      "num": 58106,
+      "chid": "uid1",
+      "chname": "CIBN电影",
+      "chlink": "http://cibn.peoplevideo.cn/hls/vCIBNDYPD/800/vCIBNDYPD.m3u8"
+    },
+    {
+      "num": 58107,
+      "chid": "uid1",
+      "chname": "好莱坞电影高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000204&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 58108,
+      "chid": "uid1",
+      "chname": "电影HD",
+      "chlink": "http://114.112.91.199:9009/live/chid=601"
+    },
+    {
+      "num": 58109,
+      "chid": "uid1",
+      "chname": "综艺",
+      "chlink": "http://114.112.91.199:9009/live/chid=604"
+    },
+    {
+      "num": 58110,
+      "chid": "uid1",
+      "chname": "电视剧1",
+      "chlink": "http://114.112.91.199:9009/live/chid=605"
+    },
+    {
+      "num": 58111,
+      "chid": "uid1",
+      "chname": "电视剧2",
+      "chlink": "http://114.112.91.199:9009/live/chid=606"
+    },
+    {
+      "num": 60000,
+      "chid": "qing",
+      "chname": "CHC高清电影",
+      "chlink": "http://116.211.76.43/live.aishang.ctlcdn.com/00000110240266_1/encoder/3/playlist.m3u8"
+    },
+    {
+      "num": 60001,
+      "chid": "qing",
+      "chname": "湖南台HD",
+      "chlink": "http://202.199.27.91/hunanhd.m3u8"
+    },
+    {
+      "num": 60002,
+      "chid": "qing",
+      "chname": "安徽HD",
+      "chlink": "http://202.199.27.91/ahhd.m3u8"
+    },
+    {
+      "num": 60003,
+      "chid": "qing",
+      "chname": "浙江HD",
+      "chlink": "http://202.199.27.91/zjhd.m3u8"
+    },
+    {
+      "num": 60004,
+      "chid": "qing",
+      "chname": "东方",
+      "chlink": "http://202.199.27.91/dfhd.m3u8"
+    },
+    {
+      "num": 60005,
+      "chid": "qing",
+      "chname": "深圳HD",
+      "chlink": "http://202.199.27.91/szhd.m3u8"
+    },
+    {
+      "num": 60006,
+      "chid": "qing",
+      "chname": "北京卫视",
+      "chlink": "http://202.199.27.91/btv1hd.m3u8"
+    },
+    {
+      "num": 60007,
+      "chid": "qing",
+      "chname": "江苏HD",
+      "chlink": "http://202.199.27.91/jshd.m3u8"
+    },
+    {
+      "num": 60008,
+      "chid": "qing",
+      "chname": "山东HD",
+      "chlink": "http://202.199.27.91/sdhd.m3u8"
+    },
+    {
+      "num": 60009,
+      "chid": "qing",
+      "chname": "天津HD",
+      "chlink": "http://202.199.27.91/tjhd.m3u8"
+    },
+    {
+      "num": 60010,
+      "chid": "qing",
+      "chname": "河北HD",
+      "chlink": "http://202.199.27.91/hbhd.m3u8"
+    },
+    {
+      "num": 60011,
+      "chid": "qing",
+      "chname": "广东卫视HD",
+      "chlink": "http://202.199.27.91/gdhd.m3u8"
+    },
+    {
+      "num": 60012,
+      "chid": "qing",
+      "chname": "黑龙江HD",
+      "chlink": "http://202.199.27.91/hljhd.m3u8"
+    },
+    {
+      "num": 60013,
+      "chid": "qing",
+      "chname": "北京文艺",
+      "chlink": "http://202.199.27.91/btv2hd.m3u8"
+    },
+    {
+      "num": 60014,
+      "chid": "qing",
+      "chname": "北京科教",
+      "chlink": "http://202.199.27.91/btv3.m3u8"
+    },
+    {
+      "num": 60015,
+      "chid": "qing",
+      "chname": "北京影视",
+      "chlink": "http://202.199.27.91/btv4.m3u8"
+    },
+    {
+      "num": 60016,
+      "chid": "qing",
+      "chname": "北京财经",
+      "chlink": "http://202.199.27.91/btv5.m3u8"
+    },
+    {
+      "num": 60017,
+      "chid": "qing",
+      "chname": "北京体育",
+      "chlink": "http://202.199.27.91/btv5.m3u8"
+    },
+    {
+      "num": 60018,
+      "chid": "qing",
+      "chname": "小小提示：",
+      "chlink": "http://202.199.27.91/btv6hd.m3u8"
+    },
+    {
+      "num": 60019,
+      "chid": "qing",
+      "chname": "此列表建议",
+      "chlink": "http://202.199.27.91/btv7.m3u8"
+    },
+    {
+      "num": 60020,
+      "chid": "qing",
+      "chname": "8M带宽以上食用",
+      "chlink": "http://202.199.27.91/btv9.m3u8"
+    },
+    {
+      "num": 60021,
+      "chid": "qing",
+      "chname": "北京少儿",
+      "chlink": "http://202.199.27.91/btv10.m3u8"
+    },
+    {
+      "num": 60022,
+      "chid": "qing",
+      "chname": "Btv纪实",
+      "chlink": "http://202.199.27.91/btv11.m3u8"
+    },
+    {
+      "num": 60023,
+      "chid": "qing",
+      "chname": "甘肃卫视HD",
+      "chlink": "http://202.199.27.91/gstv.m3u8"
+    },
+    {
+      "num": 60024,
+      "chid": "qing",
+      "chname": "陕西HD",
+      "chlink": "http://202.199.27.91/sxtv.m3u8"
+    },
+    {
+      "num": 60025,
+      "chid": "qing",
+      "chname": "东南HD",
+      "chlink": "http://202.199.27.91/dntv.m3u8"
+    },
+    {
+      "num": 60026,
+      "chid": "qing",
+      "chname": "重庆HD",
+      "chlink": "http://202.199.27.91/cqtv.m3u8"
+    },
+    {
+      "num": 60027,
+      "chid": "qing",
+      "chname": "吉林HD",
+      "chlink": "http://202.199.27.91/jltv.m3u8"
+    },
+    {
+      "num": 60028,
+      "chid": "qing",
+      "chname": "广西HD",
+      "chlink": "http://202.199.27.91/gxtv.m3u8"
+    },
+    {
+      "num": 60029,
+      "chid": "qing",
+      "chname": "河南HD",
+      "chlink": "http://202.199.27.91/hntv.m3u8"
+    },
+    {
+      "num": 60030,
+      "chid": "qing",
+      "chname": "宁夏HD",
+      "chlink": "http://202.199.27.91/nxtv.m3u8"
+    },
+    {
+      "num": 60031,
+      "chid": "qing",
+      "chname": "云南HD",
+      "chlink": "http://202.199.27.91/yntv.m3u8"
+    },
+    {
+      "num": 60032,
+      "chid": "qing",
+      "chname": "旅游卫视",
+      "chlink": "http://202.199.27.91/lytv.m3u8"
+    },
+    {
+      "num": 60033,
+      "chid": "qing",
+      "chname": "厦门卫视",
+      "chlink": "http://202.199.27.91/xmtv.m3u8"
+    },
+    {
+      "num": 60034,
+      "chid": "qing",
+      "chname": "兵团卫视",
+      "chlink": "http://202.199.27.91/bttv.m3u8"
+    },
+    {
+      "num": 60035,
+      "chid": "qing",
+      "chname": "河北卫视",
+      "chlink": "http://202.199.27.91/hebtv.m3u8"
+    },
+    {
+      "num": 60036,
+      "chid": "qing",
+      "chname": "CHC家庭影院",
+      "chlink": "http://125.88.39.84/live.aishang.ctlcdn.com/00000110240269_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 60037,
+      "chid": "qing",
+      "chname": "CHC动作电影",
+      "chlink": "http://125.88.39.84/live.aishang.ctlcdn.com/00000110240270_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40000,
+      "chid": "uidall",
+      "chname": "广东卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240036_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40001,
+      "chid": "uidall",
+      "chname": "广西卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240037_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40002,
+      "chid": "uidall",
+      "chname": "贵州卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240038_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40003,
+      "chid": "uidall",
+      "chname": "湖北卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240040_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40004,
+      "chid": "uidall",
+      "chname": "河南卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240041_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40005,
+      "chid": "uidall",
+      "chname": "黑龙江卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240042_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40006,
+      "chid": "uidall",
+      "chname": "湖北卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240043_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40007,
+      "chid": "uidall",
+      "chname": "吉林卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240046_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40008,
+      "chid": "uidall",
+      "chname": "江苏卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240048_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40009,
+      "chid": "uidall",
+      "chname": "江西卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240049_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40010,
+      "chid": "uidall",
+      "chname": "东方卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240011_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40011,
+      "chid": "uidall",
+      "chname": "重庆卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240012_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40012,
+      "chid": "uidall",
+      "chname": "浙江卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240013_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40013,
+      "chid": "uidall",
+      "chname": "辽宁卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240057_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40014,
+      "chid": "uidall",
+      "chname": "旅游卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240059_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40015,
+      "chid": "uidall",
+      "chname": "内蒙古卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240060_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40016,
+      "chid": "uidall",
+      "chname": "宁夏卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240061_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40017,
+      "chid": "uidall",
+      "chname": "青海卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240063_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40018,
+      "chid": "uidall",
+      "chname": "山东卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240064_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40019,
+      "chid": "uidall",
+      "chname": "山西卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240065_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40020,
+      "chid": "uidall",
+      "chname": "陕西卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240066_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40021,
+      "chid": "uidall",
+      "chname": "四川卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240071_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40022,
+      "chid": "uidall",
+      "chname": "天津卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240072_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40023,
+      "chid": "uidall",
+      "chname": "西藏卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240076_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40024,
+      "chid": "uidall",
+      "chname": "新疆卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240079_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40025,
+      "chid": "uidall",
+      "chname": "云南卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240082_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40026,
+      "chid": "uidall",
+      "chname": "厦门卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240159_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40027,
+      "chid": "uidall",
+      "chname": "兵团卫视",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240280_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40028,
+      "chid": "uidall",
+      "chname": "金鹰卡通",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240050_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40029,
+      "chid": "uidall",
+      "chname": "卡酷少儿",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240051_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40030,
+      "chid": "uidall",
+      "chname": "CCTVNEWS",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240021_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40031,
+      "chid": "uidall",
+      "chname": "相声",
+      "chlink": "http://dlhls.cdn.zhanqi.tv/zqlive/13393_Raq4m.m3u8"
+    },
+    {
+      "num": 40032,
+      "chid": "uidall",
+      "chname": "家庭影院",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40033,
+      "chid": "uidall",
+      "chname": "动作影院",
+      "chlink": "http://125.88.39.84/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40034,
+      "chid": "uidall",
+      "chname": "喜剧影院",
+      "chlink": "http://125.88.39.84/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40035,
+      "chid": "uidall",
+      "chname": "CHC动作电影",
+      "chlink": "http://61.129.131.55/live.aishang.ctlcdn.com/00000110240270_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": 40036,
+      "chid": "uid5",
+      "chname": "CCTV-1综合高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000064&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40037,
+      "chid": "uid5",
+      "chname": "CCTV-1综合高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000064&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40038,
+      "chid": "uid5",
+      "chname": "CCTV-3综艺高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000065&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40039,
+      "chid": "uid5",
+      "chname": "CCTV-5体育高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000066&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40040,
+      "chid": "uid5",
+      "chname": "CCTV-6电影高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000068&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40041,
+      "chid": "uid5",
+      "chname": "CCTV-7军事农业",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000083&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40042,
+      "chid": "uid5",
+      "chname": "CCTV-8电视剧高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000069&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40043,
+      "chid": "uid5",
+      "chname": "CCTV-11戏曲",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000086&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40044,
+      "chid": "uid5",
+      "chname": "CCTV-12社会与法",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000084&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40045,
+      "chid": "uid5",
+      "chname": "CCTV-14少儿",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000082&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40046,
+      "chid": "uid5",
+      "chname": "CCTV-15音乐",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000085&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40047,
+      "chid": "uidall",
+      "chname": "国防军事",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000114&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40048,
+      "chid": "uidall",
+      "chname": "辽宁卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000041&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40049,
+      "chid": "uidall",
+      "chname": "安徽卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000043&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40050,
+      "chid": "uidall",
+      "chname": "河南卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000044&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40051,
+      "chid": "uidall",
+      "chname": "河北卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000045&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40052,
+      "chid": "uidall",
+      "chname": "贵州卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000046&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40053,
+      "chid": "uidall",
+      "chname": "湖北卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000048&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40054,
+      "chid": "uidall",
+      "chname": "吉林卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000049&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40055,
+      "chid": "uidall",
+      "chname": "陕西卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000050&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40056,
+      "chid": "uidall",
+      "chname": "四川卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000051&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40057,
+      "chid": "uidall",
+      "chname": "内蒙古卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000053&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40058,
+      "chid": "uidall",
+      "chname": "青海卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000055&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40059,
+      "chid": "uidall",
+      "chname": "东南卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000056&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40060,
+      "chid": "uidall",
+      "chname": "新疆卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000058&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40061,
+      "chid": "uidall",
+      "chname": "西藏卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000059&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40062,
+      "chid": "uidall",
+      "chname": "兵团卫视",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000060&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40063,
+      "chid": "uidall",
+      "chname": "山东卫视高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000070&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40064,
+      "chid": "uidall",
+      "chname": "北京卫视高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000071&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40065,
+      "chid": "uidall",
+      "chname": "湖南卫视高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000072&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40066,
+      "chid": "uidall",
+      "chname": "浙江卫视高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000073&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40067,
+      "chid": "uidall",
+      "chname": "江苏卫视高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000074&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40068,
+      "chid": "uidall",
+      "chname": "东方卫视高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000075&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40069,
+      "chid": "uidall",
+      "chname": "黑龙江卫视高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000077&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40070,
+      "chid": "uidall",
+      "chname": "深圳卫视高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000078&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40071,
+      "chid": "uidall",
+      "chname": "广东卫视高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000079&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40072,
+      "chid": "uidall",
+      "chname": "金鹰卡通",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000080&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40073,
+      "chid": "uidall",
+      "chname": "卡酷少儿",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000081&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40074,
+      "chid": "uidall",
+      "chname": "好莱坞电影高清",
+      "chlink": "http://slave.dzcatv.com/playurl.m3u8?programid=4200000204&playtype=live&qamchname=undefined&auth=no"
+    },
+    {
+      "num": 40075,
+      "chid": "uid5",
+      "chname": "CCTV7HD",
+      "chlink": "http://live.xsjiptv.com:18006/live/mgtv/live/live.php?63a65b8dd2c501c1e76d70467bd99075"
+    },
+    {
+      "num": 40076,
+      "chid": "uid5",
+      "chname": "CCTV10HD",
+      "chlink": "http://live.xsjiptv.com:18006/live/mgtv/live/live.php?463ab10dca1404d556cc65f0d7220140"
+    },
+    {
+      "num": 40077,
+      "chid": "uid5",
+      "chname": "CCTV11HD",
+      "chlink": "http://live.xsjiptv.com:18006/live/mgtv/live/live.php?fcaa5ba17c70e7fef8a128b783fa1674"
+    },
+    {
+      "num": 40078,
+      "chid": "uid5",
+      "chname": "CCTV12HD",
+      "chlink": "http://live.xsjiptv.com:18006/live/mgtv/live/live.php?31626208384bae4b3e853203d28815cc"
+    },
+    {
+      "num": 40079,
+      "chid": "uid5",
+      "chname": "CCTV16HD",
+      "chlink": "http://live.xsjiptv.com:18006/live/mgtv/live/live.php?45f2f9efb83d9956fa0e85c16e986385"
+    },
+    {
+      "num": 40080,
+      "chid": "uidall",
+      "chname": "全球市场直播",
+      "chlink": "http://zb.v.qq.com:1863/?progid=100103700"
+    },
+    {
+      "num": 40081,
+      "chid": "uidall",
+      "chname": "河北卫视HD",
+      "chlink": "http://live01.hebtv.com/channels/hebtv/video_channel_04/ts:2000k/live"
+    },
+    {
+      "num": 40082,
+      "chid": "uidall",
+      "chname": "深圳公共",
+      "chlink": "rtmp://tv.sznews.com:1935/live/live_234_mc43"
+    },
+    {
+      "num": 40083,
+      "chid": "uidall",
+      "chname": "梧州新闻综合",
+      "chlink": "rtmp://202.103.212.146/livepkgr/live1"
+    },
+    {
+      "num": 40084,
+      "chid": "uidall",
+      "chname": "梧州公共",
+      "chlink": "rtmp://202.103.212.146/livepkgr/live2"
+    },
+    {
+      "num": 41000,
+      "chid": "TW",
+      "chname": "J2",
+      "chlink": "p2p://76.73.54.50:6001/56acb56d0007730220374dff3caf39c3.ts"
+    },
+    {
+      "num": 41007,
+      "chid": "TW",
+      "chname": "翡翠台",
+      "chlink": "p2p://76.73.54.50:6001/56acb55c000a0deb20370c43489107a5.ts"
+    },
+    {
+      "num": 41008,
+      "chid": "TW",
+      "chname": "高清翡翠台",
+      "chlink": "p2p://76.73.54.50:6001/56acb57d0002b25f20378b46558929f0.ts"
+    },
+    {
+      "num": 41009,
+      "chid": "TW",
+      "chname": "互动新闻",
+      "chlink": "p2p://76.73.54.50:6001/56acb5bc00074b0c20388287603768f4.ts"
+    },
+    {
+      "num": 41010,
+      "chid": "TW",
+      "chname": "明珠台★",
+      "chlink": "p2p://76.73.54.50:6001/56acb7080006f022203d933814a0218e.ts"
+    },
+    {
+      "num": 41011,
+      "chid": "TW",
+      "chname": "星河台",
+      "chlink": "p2p://76.73.54.50:6001/56acd616000949e520b6dd4571e75438.ts"
+    },
+    {
+      "num": 41012,
+      "chid": "TW",
+      "chname": "本港台",
+      "chlink": "p2p://76.73.54.50:6001/56acb58f000c7df02037d4173f7a596d.ts"
+    },
+    {
+      "num": 41013,
+      "chid": "TW",
+      "chname": "美亚电影台",
+      "chlink": "p2p://76.73.54.50:6001/56af970200045b872b77cc003c255b0d.ts"
+    },
+    {
+      "num": 41014,
+      "chid": "TW",
+      "chname": "HKC电影一台",
+      "chlink": "p2p://76.73.54.50:6001/56b1cb3d0006201600c8dae26c32409d.ts"
+    },
+    {
+      "num": 41015,
+      "chid": "TW",
+      "chname": "星卫娱乐",
+      "chlink": "p2p://76.73.54.50:6001/56af9840000eda1c2b7ca8733be14d89.ts"
+    },
+    {
+      "num": 41016,
+      "chid": "TW",
+      "chname": "靖天国际",
+      "chlink": "p2p://76.73.54.50:6001/56af985500080acd2b7cf8b5217d0403.ts"
+    },
+    {
+      "num": 41017,
+      "chid": "TW",
+      "chname": "靖天日本",
+      "chlink": "p2p://76.73.54.50:6001/56af98ab000a294c2b7e49130ce51633.ts"
+    },
+    {
+      "num": 41018,
+      "chid": "TW",
+      "chname": "靖天育乐",
+      "chlink": "p2p://76.73.54.50:6001/56af98860006a1092b7db7b014fe533b.ts"
+    },
+    {
+      "num": 41019,
+      "chid": "TW",
+      "chname": "靖洋戏剧",
+      "chlink": "p2p://76.73.54.50:6001/56af98c10007e46f2b7e9e67745e2d4c.ts"
+    },
+    {
+      "num": 41020,
+      "chid": "TW",
+      "chname": "东森新闻",
+      "chlink": "p2p://ccs.golivetv.tv:9906/5621ab6b0001acf219e0b26c3b2cd8f8.ts"
+    },
+    {
+      "num": 41021,
+      "chid": "TW",
+      "chname": "三立台湾",
+      "chlink": "p2p://76.73.54.50:6001/56acb3590007e22a202f301d0a0832b8.ts"
+    },
+    {
+      "num": 41022,
+      "chid": "TW",
+      "chname": "凤凰资讯",
+      "chlink": "p2p://ccs.golivetv.tv:9906/5621ab77000d387b19e0e44177c01317.ts"
+    },
+    {
+      "num": 41023,
+      "chid": "TW",
+      "chname": "凤凰香港",
+      "chlink": "p2p://ccs.golivetv.tv:9906/5621ab810004f78519e109341aa7605c.ts"
+    },
+    {
+      "num": 41024,
+      "chid": "TW",
+      "chname": "凤凰中文",
+      "chlink": "p2p://ccs.golivetv.tv:9906/5621ab77000a5a7819e0e385ad60bda1.ts"
+    },
+    {
+      "num": 41025,
+      "chid": "TW",
+      "chname": "星空台",
+      "chlink": "p2p://ccs.golivetv.tv:9906/5621ab770007d4f719e0e2e0f9bb115e.ts"
+    },
+    {
+      "num": 41026,
+      "chid": "TW",
+      "chname": "美食星球",
+      "chlink": "http://video01-lax.streamup.com/app/starfoods-stream/chunklist.m3u8"
+    },
+    {
+      "num": 41027,
+      "chid": "TW",
+      "chname": "好美味",
+      "chlink": "http://182.92.189.193:1935/live/h_food_1/playlist.m3u8"
+    },
+    {
+      "num": 57001,
+      "chid": "uid4",
+      "chname": "博斯运动综合",
+      "chlink": "p2p://76.73.57.138:9999/5448c579000006640162b2c11bb3ef76"
+    },
+    {
+      "num": 57002,
+      "chid": "uid4",
+      "chname": "博斯无限SD",
+      "chlink": "p2p://76.73.57.138:9999/5448c571000298a50162942aa035a2af"
+    },
+    {
+      "num": 57003,
+      "chid": "uid4",
+      "chname": "博斯网球",
+      "chlink": "p2p://76.73.57.138:9999/5448c568000eb9aa0162741d62146ec0"
+    },
+    {
+      "num": 57004,
+      "chid": "uid4",
+      "chname": "博斯足球",
+      "chlink": "p2p://76.73.57.138:9999/5448c569000d09bd01627796406ab572"
+    },
+    {
+      "num": 57005,
+      "chid": "uid4",
+      "chname": "博斯电玩台",
+      "chlink": "p2p://76.73.57.138:9999/54cef7a3000b7a79805e943d26709926"
+    },
+    {
+      "num": 57006,
+      "chid": "uid4",
+      "chname": "ASN",
+      "chlink": "p2p://76.73.57.138:9999/5448c57100049c55016294ae61fcb1dd"
+    },
+    {
+      "num": 57007,
+      "chid": "uid4",
+      "chname": "天映频道",
+      "chlink": "p2p://76.73.57.138:9999/53cd58d500060d40cbacdb3f49b92098"
+    },
+    {
+      "num": 57008,
+      "chid": "uid4",
+      "chname": "天映HD",
+      "chlink": "p2p://76.73.57.138:9999/53cd58f9000eb85ccbad6a1644cc3548"
+    },
+    {
+      "num": 57009,
+      "chid": "uid4",
+      "chname": "AEC HD",
+      "chlink": "p2p://76.73.57.138:9999/53c9ada700018eedbd5847011f8c7178"
+    },
+    {
+      "num": 57010,
+      "chid": "uid4",
+      "chname": "A全佳台HD",
+      "chlink": "p2p://76.73.57.138:9999/53ccbd2000052f71c94ca381346f4536"
+    },
+    {
+      "num": 57011,
+      "chid": "uid4",
+      "chname": "A华丽台HD",
+      "chlink": "p2p://76.73.57.138:9999/53cd76cc00068a06cc21e84c0f0468f1"
+    },
+    {
+      "num": 57012,
+      "chid": "uid4",
+      "chname": "A双星台",
+      "chlink": "p2p://76.73.57.138:9999/53ccbf0e0005d86bc9542d5804481caa"
+    },
+    {
+      "num": 57013,
+      "chid": "uid4",
+      "chname": "A欢喜台HD",
+      "chlink": "p2p://76.73.57.138:9999/53cab194000e7be1c14f990b2cd93ae7"
+    },
+    {
+      "num": 57014,
+      "chid": "uid4",
+      "chname": "Li时尚生活",
+      "chlink": "p2p://76.73.57.138:9999/53ccb2bd00078671c92415363f083b8a"
+    },
+    {
+      "num": 57015,
+      "chid": "uid4",
+      "chname": "A ON DEMAND HD",
+      "chlink": "p2p://76.73.57.138:9999/53c9ae1b000d64ecbd5a0f2f4c801ee0"
+    },
+    {
+      "num": 57016,
+      "chid": "uid4",
+      "chname": "SUPER SPORTS 1",
+      "chlink": "p2p://76.73.57.138:9999/53cd4d5e000edfb1cb8014a60454234a"
+    },
+    {
+      "num": 57017,
+      "chid": "uid4",
+      "chname": "SUPER SPORTS 2",
+      "chlink": "p2p://76.73.57.138:9999/53cd4d9000007b57cb80d44c3a3d0f2a"
+    },
+    {
+      "num": 57018,
+      "chid": "uid4",
+      "chname": "SUPER SPORTS 3",
+      "chlink": "p2p://76.73.57.138:9999/53cd4db70006c5b5cb816e3a164c3e4d"
+    },
+    {
+      "num": 57019,
+      "chid": "uid4",
+      "chname": "SUPER SPORTS 4",
+      "chlink": "p2p://76.73.57.138:9999/53cd4ef600003acacb864aa308933a27"
+    },
+    {
+      "num": 57020,
+      "chid": "uid4",
+      "chname": "美第奇艺术MedichArts",
+      "chlink": "p2p://76.73.57.138:9999/5448c56a0001d0400162789e078ef82c"
+    },
+    {
+      "num": 57021,
+      "chid": "uid4",
+      "chname": "Smart知识",
+      "chlink": "p2p://76.73.57.138:9999/5448c5550000bfbc016226519ad76094"
+    },
+    {
+      "num": 57022,
+      "chid": "uid4",
+      "chname": "半岛新闻",
+      "chlink": "p2p://76.73.57.138:9999/5448c56000017229016251765ce2e190"
+    },
+    {
+      "num": 57023,
+      "chid": "uid4",
+      "chname": "Aljazeera",
+      "chlink": "http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8"
+    },
+    {
+      "num": 57024,
+      "chid": "uid4",
+      "chname": "龙华电影HD",
+      "chlink": "p2p://76.73.57.138:9999/5448c55f0001a62e01624d9c10ed555c"
+    },
+    {
+      "num": 57025,
+      "chid": "uid4",
+      "chname": "龙华戏剧2台",
+      "chlink": "p2p://76.73.57.138:9999/5448c571000a590c016296263e329e4d"
+    },
+    {
+      "num": 57026,
+      "chid": "uid4",
+      "chname": "龙华电影3台",
+      "chlink": "p2p://76.73.57.138:9999/54bdc61a0003c0393d35131b0c8ae8ee"
+    },
+    {
+      "num": 57027,
+      "chid": "uid4",
+      "chname": "龙华电影4台",
+      "chlink": "p2p://76.73.57.138:9999/5448c571000e3ea40162972578468014"
+    },
+    {
+      "num": 57028,
+      "chid": "uid4",
+      "chname": "HKTV HD",
+      "chlink": "http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&uid=1&vid=1&mxres=720&s=f28849d9f4c57e9e93a5e77cc87c7338"
+    },
+    {
+      "num": 57029,
+      "chid": "uid4",
+      "chname": "澳亚卫视",
+      "chlink": "http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8"
+    },
+    {
+      "num": 57030,
+      "chid": "uid4",
+      "chname": "年代Much",
+      "chlink": "p2p://76.73.57.138:9999/5448c555000bae960162291d4981f64e"
+    },
+    {
+      "num": 57031,
+      "chid": "uid4",
+      "chname": "东森亚洲",
+      "chlink": "p2p://76.73.57.138:9999/5448c548000aace30161f6139aaf3e7e"
+    },
+    {
+      "num": 57032,
+      "chid": "uid4",
+      "chname": "亚洲旅游",
+      "chlink": "p2p://76.73.57.138:9999/5448c53f000bdb2d0161d3395baec7fa"
+    },
+    {
+      "num": 57033,
+      "chid": "uid4",
+      "chname": "亚洲旅游国际台",
+      "chlink": "p2p://76.73.57.138:9999/549d5984000cc39110dc69fc5348cf79"
+    },
+    {
+      "num": 57034,
+      "chid": "uid4",
+      "chname": "亚洲综合台",
+      "chlink": "p2p://76.73.57.138:9999/5448c5480004c8bd0161f491487ae777"
+    },
+    {
+      "num": 57035,
+      "chid": "uid4",
+      "chname": "寰宇新闻一台",
+      "chlink": "p2p://76.73.57.138:9999/5448c569000156db016274970a517af8"
+    },
+    {
+      "num": 57036,
+      "chid": "uid4",
+      "chname": "寰宇新闻二台",
+      "chlink": "p2p://76.73.57.138:9999/5448c55600024dc601622a9fa18c811c"
+    },
+    {
+      "num": 57037,
+      "chid": "uid4",
+      "chname": "龙华戏剧3台",
+      "chlink": "p2p://76.73.57.138:9999/5448c578000b84f30162b1cba7c0a960"
+    },
+    {
+      "num": 57038,
+      "chid": "uid4",
+      "chname": "龙华戏剧4台",
+      "chlink": "p2p://76.73.57.138:9999/5448c578000d72760162b249c30c0665"
+    },
+    {
+      "num": 57039,
+      "chid": "uid4",
+      "chname": "放送台",
+      "chlink": "p2p://76.73.57.138:9999/5448c5710006ab7c01629535053e67c4"
+    },
+    {
+      "num": 57040,
+      "chid": "uid4",
+      "chname": "幸福旅游",
+      "chlink": "p2p://76.73.57.138:9999/5448c5490008e6970161f9874e0390cf"
+    },
+    {
+      "num": 57041,
+      "chid": "uid4",
+      "chname": "人间卫视",
+      "chlink": "p2p://76.73.57.138:9999/5448c549000aa4e70161f9f94af53d03"
+    },
+    {
+      "num": 57042,
+      "chid": "uid4",
+      "chname": "迪斯尼卡通",
+      "chlink": "p2p://76.73.57.138:9999/56a905da0007fda617f99c5b46761480"
+    },
+    {
+      "num": 57043,
+      "chid": "uid4",
+      "chname": "BabyFirst",
+      "chlink": "p2p://76.73.57.138:9999/5448c55500030101016226e4fc5300c1"
+    },
+    {
+      "num": 57044,
+      "chid": "uid4",
+      "chname": "龙华动漫2台",
+      "chlink": "p2p://76.73.57.138:9999/5448c5720008a00c0162999dcaaaff9f"
+    },
+    {
+      "num": 61000,
+      "chid": "uid6",
+      "chname": "战旗动画1",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/41832_NfsIa"
+    },
+    {
+      "num": 61001,
+      "chid": "uid6",
+      "chname": "战旗动画2",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/62239_SzSMw"
+    },
+    {
+      "num": 61002,
+      "chid": "uid6",
+      "chname": "战旗动画3",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/36932_86KeS"
+    },
+    {
+      "num": 61003,
+      "chid": "uid6",
+      "chname": "战旗动画4",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/47163_0znQJ"
+    },
+    {
+      "num": 61004,
+      "chid": "uid6",
+      "chname": "CCTV新科动漫",
+      "chlink": "http://fms.cntv.lxdns.com/live/flv/channel179.flv"
+    },
+    {
+      "num": 61005,
+      "chid": "uid6",
+      "chname": "高清影院1",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/37047_KWOM9"
+    },
+    {
+      "num": 61006,
+      "chid": "uid6",
+      "chname": "高清影院3",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/2869_tUPFz"
+    },
+    {
+      "num": 61007,
+      "chid": "uid6",
+      "chname": "高清影院4",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC"
+    },
+    {
+      "num": 61008,
+      "chid": "uid6",
+      "chname": "高清影院7",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/35180_KUDhx"
+    },
+    {
+      "num": 61009,
+      "chid": "uid6",
+      "chname": "高清影院8",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/35349_iXsXw"
+    },
+    {
+      "num": 61010,
+      "chid": "uid6",
+      "chname": "高清影院9",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/43720_qvSDI"
+    },
+    {
+      "num": 61011,
+      "chid": "uid6",
+      "chname": "高清影院10",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/40051_ruOu5"
+    },
+    {
+      "num": 61012,
+      "chid": "uid6",
+      "chname": "高清影院11",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/45188_oT6Ed"
+    },
+    {
+      "num": 61013,
+      "chid": "uid6",
+      "chname": "高清影院12",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/49427_jmACJ"
+    },
+    {
+      "num": 61014,
+      "chid": "uid6",
+      "chname": "高清影院13",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/49858_wgGj1"
+    },
+    {
+      "num": 61015,
+      "chid": "uid6",
+      "chname": "高清影院14",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/53346_ESoth"
+    },
+    {
+      "num": 61016,
+      "chid": "uid6",
+      "chname": "高清影院15",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/54770_1aw2J"
+    },
+    {
+      "num": 61017,
+      "chid": "uid6",
+      "chname": "高清影院16",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/69178_YHRUs"
+    },
+    {
+      "num": 61018,
+      "chid": "uid6",
+      "chname": "高清影院17",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/71720_arek4"
+    },
+    {
+      "num": 61019,
+      "chid": "uid6",
+      "chname": "高清影院18",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/77596_7wfb1"
+    },
+    {
+      "num": 61020,
+      "chid": "uid6",
+      "chname": "高清影院19",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/93774_g0UdM"
+    },
+    {
+      "num": 61021,
+      "chid": "uid6",
+      "chname": "高清影院20",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/88780_QNQo0"
+    },
+    {
+      "num": 61022,
+      "chid": "uid6",
+      "chname": "高清影院21",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/92406_asJm0"
+    },
+    {
+      "num": 61023,
+      "chid": "uid6",
+      "chname": "高清影院22",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/90819_iMmHS"
+    },
+    {
+      "num": 61024,
+      "chid": "uid6",
+      "chname": "高清影院23",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/91580_YQvBT"
+    },
+    {
+      "num": 61025,
+      "chid": "uid6",
+      "chname": "高清影院25",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/100804_3yFeJ"
+    },
+    {
+      "num": 61026,
+      "chid": "uid6",
+      "chname": "高清影院26",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/101497_uqd0M"
+    },
+    {
+      "num": 61027,
+      "chid": "uid6",
+      "chname": "高清影院27",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/102444_ZGmRp"
+    },
+    {
+      "num": 61028,
+      "chid": "uid6",
+      "chname": "高清影院29",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/59855_yIWkv"
+    },
+    {
+      "num": 61029,
+      "chid": "uid6",
+      "chname": "高清影院30",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/73622_IIsRY"
+    },
+    {
+      "num": 61030,
+      "chid": "uid6",
+      "chname": "高清影院31",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE"
+    },
+    {
+      "num": 61031,
+      "chid": "uid6",
+      "chname": "高清剧集1",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/37196_7ec44"
+    },
+    {
+      "num": 61032,
+      "chid": "uid6",
+      "chname": "高清剧集2",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/18406_i2LzC"
+    },
+    {
+      "num": 61033,
+      "chid": "uid6",
+      "chname": "高清剧集3",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/34338_PVMT5"
+    },
+    {
+      "num": 61034,
+      "chid": "uid6",
+      "chname": "高清剧集7",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/12260_BG1BI"
+    },
+    {
+      "num": 61035,
+      "chid": "uid6",
+      "chname": "荒野求生",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/60238_lUgNk"
+    },
+    {
+      "num": 61036,
+      "chid": "uid6",
+      "chname": "预言家",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/36596_HD3eX"
+    },
+    {
+      "num": 61037,
+      "chid": "uid6",
+      "chname": "挑战日",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/17077_wwKaC"
+    },
+    {
+      "num": 61038,
+      "chid": "uid6",
+      "chname": "相声1",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/43626_vQOn9"
+    },
+    {
+      "num": 61039,
+      "chid": "uid6",
+      "chname": "相声2",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/104033_6y2qJ"
+    },
+    {
+      "num": 61040,
+      "chid": "uid6",
+      "chname": "相声3",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/13393_Raq4m"
+    },
+    {
+      "num": 61041,
+      "chid": "uid6",
+      "chname": "NBA",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/31351_Y7CIJ"
+    },
+    {
+      "num": 61042,
+      "chid": "uid6",
+      "chname": "魅力研习社",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/93282_CWqeM"
+    },
+    {
+      "num": 61043,
+      "chid": "uid6",
+      "chname": "主播",
+      "chlink": "rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/88945_Kligp"
+    },
+    {
+      "num": 70001,
+      "chid": "uid3",
+      "chname": "熊猫影院1",
+      "chlink": "http://pandatv.live.1009988.net/?hd=12043"
+    },
+    {
+      "num": 70002,
+      "chid": "uid3",
+      "chname": "熊猫影院2",
+      "chlink": "http://pandatv.live.1009988.net/?hd=11071"
+    },
+    {
+      "num": 70003,
+      "chid": "uid3",
+      "chname": "熊猫影院3",
+      "chlink": "http://pandatv.live.1009988.net/?hd=16383"
+    },
+    {
+      "num": 70004,
+      "chid": "uid3",
+      "chname": "熊猫影院4",
+      "chlink": "http://pandatv.live.1009988.net/?hd=13711"
+    },
+    {
+      "num": 70005,
+      "chid": "uid3",
+      "chname": "熊猫影院5",
+      "chlink": "http://pandatv.live.1009988.net/?hd=291089"
+    },
+    {
+      "num": 70006,
+      "chid": "uid3",
+      "chname": "熊猫影院6",
+      "chlink": "http://pandatv.live.1009988.net/?hd=13181"
+    },
+    {
+      "num": 70007,
+      "chid": "uid3",
+      "chname": "熊猫影院7",
+      "chlink": "http://pandatv.live.1009988.net/?hd=17379"
+    },
+    {
+      "num": 70008,
+      "chid": "uid3",
+      "chname": "熊猫影院8",
+      "chlink": "http://pandatv.live.1009988.net/?hd=47743"
+    },
+    {
+      "num": 70009,
+      "chid": "uid3",
+      "chname": "熊猫影院9",
+      "chlink": "http://pandatv.live.1009988.net/?hd=15841"
+    },
+    {
+      "num": 70010,
+      "chid": "uid3",
+      "chname": "熊猫影院10",
+      "chlink": "http://pandatv.live.1009988.net/?hd=43243"
+    },
+    {
+      "num": 70011,
+      "chid": "uid3",
+      "chname": "熊猫影院11",
+      "chlink": "http://pandatv.live.1009988.net/?hd=90443"
+    },
+    {
+      "num": 70012,
+      "chid": "uid3",
+      "chname": "熊猫影院12",
+      "chlink": "http://pandatv.live.1009988.net/?hd=11725"
+    },
+    {
+      "num": 70013,
+      "chid": "uid3",
+      "chname": "熊猫影院13",
+      "chlink": "http://pandatv.live.1009988.net/?hd=12045"
+    },
+    {
+      "num": 70014,
+      "chid": "uid3",
+      "chname": "熊猫影院14",
+      "chlink": "http://pandatv.live.1009988.net/?hd=36683"
+    },
+    {
+      "num": 70015,
+      "chid": "uid3",
+      "chname": "熊猫影院15",
+      "chlink": "http://pandatv.live.1009988.net/?hd=17791"
+    },
+    {
+      "num": 70016,
+      "chid": "uid3",
+      "chname": "熊猫影院16",
+      "chlink": "http://pandatv.live.1009988.net/?hd=13383"
+    },
+    {
+      "num": 70017,
+      "chid": "uid3",
+      "chname": "熊猫影院17",
+      "chlink": "http://pandatv.live.1009988.net/?hd=14815"
+    },
+    {
+      "num": 70018,
+      "chid": "uid3",
+      "chname": "熊猫影院18",
+      "chlink": "http://pandatv.live.1009988.net/?hd=99501"
+    },
+    {
+      "num": 70019,
+      "chid": "uid3",
+      "chname": "熊猫影院19",
+      "chlink": "http://pandatv.live.1009988.net/?hd=14341"
+    },
+    {
+      "num": 70020,
+      "chid": "uid3",
+      "chname": "熊猫影院20",
+      "chlink": "http://pandatv.live.1009988.net/?hd=295616"
+    },
+    {
+      "num": 70021,
+      "chid": "uid3",
+      "chname": "熊猫影院21",
+      "chlink": "http://pandatv.live.1009988.net/?hd=10635"
+    },
+    {
+      "num": 70022,
+      "chid": "uid3",
+      "chname": "熊猫影院22",
+      "chlink": "http://pandatv.live.1009988.net/?hd=196317"
+    },
+    {
+      "num": 70023,
+      "chid": "uid3",
+      "chname": "熊猫影院23",
+      "chlink": "http://pandatv.live.1009988.net/?hd=110505"
+    },
+    {
+      "num": 70024,
+      "chid": "uid3",
+      "chname": "熊猫影院24",
+      "chlink": "http://pandatv.live.1009988.net/?hd=146360"
+    },
+    {
+      "num": 70025,
+      "chid": "uid3",
+      "chname": "熊猫影院25",
+      "chlink": "http://pandatv.live.1009988.net/?hd=33611"
+    },
+    {
+      "num": 70026,
+      "chid": "uid3",
+      "chname": "熊猫影院26",
+      "chlink": "http://pandatv.live.1009988.net/?hd=20487"
+    },
+    {
+      "num": 70027,
+      "chid": "uid3",
+      "chname": "熊猫影院27",
+      "chlink": "http://pandatv.live.1009988.net/?hd=121485"
+    },
+    {
+      "num": 70028,
+      "chid": "uid3",
+      "chname": "熊猫影院28",
+      "chlink": "http://pandatv.live.1009988.net/?hd=236295"
+    },
+    {
+      "num": 70029,
+      "chid": "uid3",
+      "chname": "熊猫影院29",
+      "chlink": "http://pandatv.live.1009988.net/?hd=207033"
+    },
+    {
+      "num": 70030,
+      "chid": "uid3",
+      "chname": "熊猫影院30",
+      "chlink": "http://pandatv.live.1009988.net/?hd=237918"
+    }
+  ],
+  "type": [
+    {
+      "channels": "uid2",
+      "title": "1.小小韩国"
+    },
+    {
+      "channels": "uidall",
+      "title": "2.←小小TV→"
+    },
+    {
+      "channels": "uid6",
+      "title": "3.战旗专场"
+    },
+    {
+      "channels": "TW",
+      "title": "4.小小台湾"
+    },
+    {
+      "channels": "uid1",
+      "title": "5.左右换分类"
+    },
+    {
+      "channels": "uid5",
+      "title": "6.小小央视"
+    },
+    {
+      "channels": "uid3",
+      "title": "7.熊猫影院"
+    },
+    {
+      "channels": "qing",
+      "title": "8.小小独家高清"
+    },
+    {
+      "channels": "letvzh",
+      "title": "9.综合频道"
+    },
+    {
+      "channels": "letvkt",
+      "title": "10.卡通频道"
+    },
+    {
+      "channels": "letvjc",
+      "title": "11.电视剧场"
+    },
+    {
+      "channels": "letvmr",
+      "title": "12.名人专场"
+    },
+    {
+      "channels": "letvmsn",
+      "title": "13.美少女"
+    },
+    {
+      "channels": "letvty",
+      "chname": "14.体育频道"
+    },
+    {
+      "channels": "uid4",
+      "title": "15.华新TV"
+    },
+    {
+      "channels": "letvws",
+      "title": "16.卫视专用源"
+    },
+    {
+      "channels": "gat",
+      "title": "17.港澳（铁通专用）"
+    }
+  ]
+}
