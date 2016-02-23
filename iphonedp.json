@@ -4,8 +4,7 @@
 
 [
 
- 
-},
+
 {
 
       "title": "5.左右换分类",
@@ -14,7 +13,7 @@
 [
 {
 
-          "chid": "uid1",
+          "chid": "1",
           "chname": "好莱坞电影高清",
           "chlogo": "",
           "chenable": "",
@@ -24,7 +23,7 @@
 },
 {
 
-          "chid": "uid1",
+          "chid": "1",
           "chname": "电影HD",
           "chlogo": "",
           "chenable": "",
@@ -34,7 +33,7 @@
 },
 {
 
-          "chid": "uid1",
+          "chid": "1",
           "chname": "综艺",
           "chlogo": "",
           "chenable": "",
@@ -44,7 +43,7 @@
 },
 {
 
-          "chid": "uid1",
+          "chid": "1",
           "chname": "电视剧1",
           "chlogo": "",
           "chenable": "",
@@ -54,7 +53,7 @@
 },
 {
 
-          "chid": "uid1",
+          "chid": "1",
           "chname": "电视剧2",
           "chlogo": "",
           "chenable": "",
@@ -73,7 +72,7 @@
 
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-1综合高清",
           "chlogo": "",
           "chenable": "",
@@ -83,7 +82,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-1综合高清",
           "chlogo": "",
           "chenable": "",
@@ -93,7 +92,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-3综艺高清",
           "chlogo": "",
           "chenable": "",
@@ -103,7 +102,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-5体育高清",
           "chlogo": "",
           "chenable": "",
@@ -113,7 +112,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-6电影高清",
           "chlogo": "",
           "chenable": "",
@@ -123,7 +122,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-7军事农业",
           "chlogo": "",
           "chenable": "",
@@ -133,7 +132,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-8电视剧高清",
           "chlogo": "",
           "chenable": "",
@@ -143,7 +142,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-11戏曲",
           "chlogo": "",
           "chenable": "",
@@ -153,7 +152,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-12社会与法",
           "chlogo": "",
           "chenable": "",
@@ -163,7 +162,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-14少儿",
           "chlogo": "",
           "chenable": "",
@@ -173,7 +172,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-15音乐",
           "chlogo": "",
           "chenable": "",
@@ -183,7 +182,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV7HD",
           "chlogo": "",
           "chenable": "",
@@ -193,7 +192,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV10HD",
           "chlogo": "",
           "chenable": "",
@@ -203,7 +202,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV11HD",
           "chlogo": "",
           "chenable": "",
@@ -213,7 +212,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV12HD",
           "chlogo": "",
           "chenable": "",
@@ -223,7 +222,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV16HD",
           "chlogo": "",
           "chenable": "",
@@ -233,7 +232,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-1高清",
           "chlogo": "",
           "chenable": "",
@@ -243,7 +242,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-1高清",
           "chlogo": "",
           "chenable": "",
@@ -253,7 +252,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-1",
           "chlogo": "",
           "chenable": "",
@@ -263,7 +262,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-2",
           "chlogo": "",
           "chenable": "",
@@ -273,7 +272,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-2",
           "chlogo": "",
           "chenable": "",
@@ -283,7 +282,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-3",
           "chlogo": "",
           "chenable": "",
@@ -293,7 +292,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-4",
           "chlogo": "",
           "chenable": "",
@@ -303,7 +302,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-5",
           "chlogo": "",
           "chenable": "",
@@ -313,7 +312,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-5+高清",
           "chlogo": "",
           "chenable": "",
@@ -323,7 +322,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-5+高清",
           "chlogo": "",
           "chenable": "",
@@ -333,7 +332,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-5+高清",
           "chlogo": "",
           "chenable": "",
@@ -343,7 +342,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-6",
           "chlogo": "",
           "chenable": "",
@@ -353,7 +352,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-7",
           "chlogo": "",
           "chenable": "",
@@ -363,7 +362,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-8",
           "chlogo": "",
           "chenable": "",
@@ -373,7 +372,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-9",
           "chlogo": "",
           "chenable": "",
@@ -383,7 +382,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-10",
           "chlogo": "",
           "chenable": "",
@@ -393,7 +392,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-11",
           "chlogo": "",
           "chenable": "",
@@ -403,7 +402,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-12",
           "chlogo": "",
           "chenable": "",
@@ -413,7 +412,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-13",
           "chlogo": "",
           "chenable": "",
@@ -423,7 +422,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-14",
           "chlogo": "",
           "chenable": "",
@@ -433,7 +432,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-15",
           "chlogo": "",
           "chenable": "",
@@ -443,7 +442,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CCTV-NEWS",
           "chlogo": "",
           "chenable": "",
@@ -453,7 +452,7 @@
 },
 {
 
-          "chid": "uid5",
+          "chid": "1",
           "chname": "CETV-1",
           "chlogo": "",
           "chenable": "",
@@ -472,7 +471,7 @@
 
 {
 
-          "chid": "letvmsn",
+          "chid": "1",
           "chname": "SNH48",
           "chlogo": "",
           "chenable": "",
@@ -482,7 +481,7 @@
 },
 {
 
-          "chid": "letvmsn",
+          "chid": "1",
           "chname": "AKB48",
           "chlogo": "",
           "chenable": "",
@@ -492,7 +491,7 @@
 },
 {
 
-          "chid": "letvmsn",
+          "chid": "1",
           "chname": "曾艳芬美少女",
           "chlogo": "",
           "chenable": "",
@@ -502,7 +501,7 @@
 },
 {
 
-          "chid": "letvmsn",
+          "chid": "1",
           "chname": "李艺彤美少女",
           "chlogo": "",
           "chenable": "",
@@ -512,7 +511,7 @@
 },
 {
 
-          "chid": "letvmsn",
+          "chid": "1",
           "chname": "鞠婧祎美少女",
           "chlogo": "",
           "chenable": "",
@@ -522,7 +521,7 @@
 },
 {
 
-          "chid": "letvmsn",
+          "chid": "1",
           "chname": "赵粤美少女",
           "chlogo": "",
           "chenable": "",
@@ -532,7 +531,7 @@
 },
 {
 
-          "chid": "letvmsn",
+          "chid": "1",
           "chname": "赵嘉敏美少女",
           "chlogo": "",
           "chenable": "",
@@ -542,7 +541,7 @@
 },
 {
 
-          "chid": "letvmsn",
+          "chid": "1",
           "chname": "黄婷婷美少女",
           "chlogo": "",
           "chenable": "",
@@ -552,7 +551,7 @@
 },
 {
 
-          "chid": "letvmsn",
+          "chid": "1",
           "chname": "邱欣怡美少女",
           "chlogo": "",
           "chenable": "",
@@ -562,7 +561,7 @@
 },
 {
 
-          "chid": "letvmsn",
+          "chid": "1",
           "chname": "少女时代HD",
           "chlogo": "",
           "chenable": "",
@@ -2255,966 +2254,6 @@
           "chenable": "",
           "chnote": "",
           "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=94"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "测试-海贼王",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=95"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "CNN标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=96"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "BBC标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=97"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "公视HD标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=98"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "公视2标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=99"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "FSTV标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=100"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "民视标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=101"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "台视HD标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=102"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "台视综合标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=103"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "中视HD标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=104"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "BRAVO菁采台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=105"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "大爱HD标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=106"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "华视标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=107"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "探索科学台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=108"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "DMAX标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=109"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "EVE标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=110"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "国家地理野生台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=111"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "国家地理优人台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=112"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "国家地理频道台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=113"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "Discovery标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=114"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "TLC标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=115"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "动物星球台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=116"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "卡通频道台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=117"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "迪士尼频道台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=118"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "MOMO亲子台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=119"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "东森幼幼台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=120"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "纬来综合台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=121"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "八大第一台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=122"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "八大综合台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=123"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "三立台湾台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=124"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "三立都会台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=125"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "卫视中文台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=126"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "东森综合台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=127"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "超视台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=128"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "ChannalM标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=129"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "KMTV标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=130"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "中天综合台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=131"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "东风卫视台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=132"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "MUCH台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=133"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "中天娱乐台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=134"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "东森戏剧台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=135"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "八大戏剧台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=136"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "TVBS欢乐台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=137"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "纬来戏剧台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=138"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "星卫娱乐台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=139"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "卫视合家欢台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=140"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "JET综合台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=141"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "DIVA标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=142"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "SYFY标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=143"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "壹电视新闻台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=144"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "年代新闻台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=145"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "东森新闻台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=146"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "中天新闻台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=147"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "民视新闻台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=148"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "三立新闻台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=149"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "TVBS新闻台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=150"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "TVBS台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=151"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "东森财经新闻台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=152"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "非凡新闻台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=153"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "FOXCRIME标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=154"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "FX标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=155"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "卫视电影台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=156"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "东森电影台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=157"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "星卫电影台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=158"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "美亚电影台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=159"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "HBO标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=160"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "东森洋片台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=161"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "福斯家庭电影台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=162"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "Universal标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=163"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "StarMovies标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=164"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "CINEMAX标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=165"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "纬来育乐台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=166"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "纬来体育台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=167"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "FOX3标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=168"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "卫视体育台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=169"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "纬来日本台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=170"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "爱尔达体育台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=171"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "国兴卫视台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=172"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "FOX标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=173"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "HBO原创台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=174"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "HBO强档台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=175"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "HBO温馨台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=176"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "博斯高球II台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=177"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "博斯运动台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=178"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "GOLFCHANNAL标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=179"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "ASN全美运动标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=180"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "BabyTV标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=181"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "DisneyJunior标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=182"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "MTV标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=183"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "霹雳台湾台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=184"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "罪桉侦缉频道标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=185"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "NHK标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=186"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "本港台标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=187"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "测试-电影标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=188"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "测试-冰与火之歌第一季标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=189"
-       
-},
-{
-
-          "chid": "1",
-          "chname": "测试-嘻哈帝国第一季标清",
-          "chlogo": "",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://yingmaokeji.com/iptv/ootculb.php?id=190"
        
 },
 {
