@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="VIP电影", 电影院1
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影", 电影院2
+http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影", 电影院3
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影", 电影院4
+http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
+
+
 #EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV1HD
 http://lolbox.duapp.com/cmv.php?id=cctv1hd
 #EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV2

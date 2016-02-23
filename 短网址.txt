@@ -36,6 +36,8 @@ AW直播(新蕾壳)  http://7xk5xk.com1.z0.glb.clouddn.com/****.txt?active=11111
 
 粤海的高清直播  http://60.174.233.140:8010//tvlist/3_zh_CN.txt?random=0.04473588956221608
 
+芒果直播  http://7xntpz.com1.z0.glb.clouddn.com/mgzb.txt
+
 海纳宽屏   http://7xjgqr.com1.z0.glb.clouddn.com/hnhd.txt?active=1111111&pass=7FA8282AD93047A4D6FE6111C93B308A&mac=ecead0fb3c1d8c23
 
 雷锋宝  http://iwhole.oss-cn-shenzhen.aliyuncs.com/live/tv.php?active=1111111&pass=7FA8282AD93047A4D6FE6111C93B308A&mac=6f68159be1459850
