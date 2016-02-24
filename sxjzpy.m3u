@@ -303,6 +303,8 @@ http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000154&playty
 http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000155&playtype=live&qamname=undefined&auth=no
 #EXTINF:-1 group-title="平遥有线",平遥有线 - 凤凰香港HD
 http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000156&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥有线 - ATV亚洲台
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000148&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
 #EXTINF:-1 group-title="平遥有线",平遥有线 - 电影一台HD
 http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000157&playtype=live&qamname=undefined&auth=no
 #EXTINF:-1 group-title="平遥有线",平遥有线 - 综合高清
