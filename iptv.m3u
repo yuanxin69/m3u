@@ -544,7 +544,7 @@ http://120.205.13.197:5000/nn_live.ts?id=utv5m
 http://120.205.13.197:5000/nn_live.ts?id=utv6m
 
 
-#EXTM3U
+
 #EXTINF:-1 group-title="平遥有线",黄河电视
 http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000001&playtype=live&qamname=undefined&auth=no
 #EXTINF:-1 group-title="平遥有线",山西影视
@@ -887,3 +887,29 @@ http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000172&playty
 http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000173&playtype=live&qamname=undefined&auth=no
 #EXTINF:-1 group-title="平遥有线",平遥有线
 http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000174&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV怀旧剧场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000069&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",HKC电影一台HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000157&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",HKC电影一台HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000103&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",ATV亚洲台
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000148&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",TVB星河
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000107&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",金鹰卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000042&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",嘉佳卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000100&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",优漫卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000017&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",动漫秀场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000044&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",炫动卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000062&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",宝贝家
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000086&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",早期教育
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000083&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",新视觉HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000147&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
