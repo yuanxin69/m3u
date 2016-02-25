@@ -2581,7 +2581,7 @@ http://14.199.245.83:9981/stream/channelid/4?ticket=0E906BF19D32395536B73B3C9CC5
 http://14.199.245.83:9981/stream/channelid/5?ticket=01C7CC16EF8184CADA47403285FAB4F6C455A65D
 #EXTINF:-1 group-title="港澳台频道",台湾 - 互动新闻台
 http://14.199.245.83:9981/stream/channelid/6?ticket=729EF9DE7947825A395068527FE672A79769E9B0 
-#EXTINF:-1 group-title="港澳台频道",台湾 - 高清翡翠台
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://jdf.so:8880/hulutv/resource/images/www1/20150722/1437572018646.png",台湾 - 高清翡翠台
 http://14.199.245.83:9981/stream/channelid/7?ticket=E3E716B35E64EA4EC4044F8266289B450CB20C6E
 #EXTINF:-1 group-title="港澳台频道",台湾 - 本港亚洲台,
 http://14.199.245.83:9981/stream/channelid/8?ticket=679C8A2DAB5FCBB4067D5AF2EE0916561700C75C
