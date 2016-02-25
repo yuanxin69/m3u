@@ -1,5 +1,309 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 group-title="湖南芒果",CCTV-1HD
+http://113.247.251.13:5001/nn_live.ts?id=CCTV1HD
+#EXTINF:-1 group-title="湖南芒果",CCTV-2
+http://113.247.251.13:5001/nn_live.ts?id=CCTV2
+#EXTINF:-1 group-title="湖南芒果",CCTV-3HD
+http://113.247.251.13:5001/nn_live.ts?id=CCTV3
+#EXTINF:-1 group-title="湖南芒果",CCTV-4
+http://113.247.251.13:5001/nn_live.ts?id=CCTV4
+#EXTINF:-1 group-title="湖南芒果",CCTV-5HD
+http://113.247.251.13:5001/nn_live.ts?id=CCTV5
+#EXTINF:-1 group-title="湖南芒果",CCTV-6HD
+http://113.247.251.13:5001/nn_live.ts?id=CCTV6
+#EXTINF:-1 group-title="湖南芒果",CCTV-7
+http://113.247.251.13:5001/nn_live.ts?id=CCTV7
+#EXTINF:-1 group-title="湖南芒果",CCTV-8HD
+http://113.247.251.13:5001/nn_live.ts?id=CCTV8
+#EXTINF:-1 group-title="湖南芒果",CCTV-9
+http://113.247.251.13:5001/nn_live.ts?id=CCTV9ZW
+#EXTINF:-1 group-title="湖南芒果",CCTV-9(英)
+http://113.247.251.13:5001/nn_live.ts?id=CCTV9
+#EXTINF:-1 group-title="湖南芒果",CCTV-10
+http://113.247.251.13:5001/nn_live.ts?id=CCTV10
+#EXTINF:-1 group-title="湖南芒果",CCTV-11
+http://113.247.251.13:5001/nn_live.ts?id=CCTV11
+#EXTINF:-1 group-title="湖南芒果",CCTV-12
+http://113.247.251.13:5001/nn_live.ts?id=CCTV12
+#EXTINF:-1 group-title="湖南芒果",CCTV-13
+http://113.247.251.13:5001/nn_live.ts?id=CCTV13
+#EXTINF:-1 group-title="湖南芒果",CCTV-14
+http://113.247.251.13:5001/nn_live.ts?id=CCTV14
+#EXTINF:-1 group-title="湖南芒果",CCTV-15
+http://113.247.251.13:5001/nn_live.ts?id=CCTV15
+#EXTINF:-1 group-title="湖南芒果",潇湘电影
+http://113.247.251.13:5001/nn_live.ts?id=XXDY
+#EXTINF:-1 group-title="湖南芒果",凤凰中文
+http://113.247.251.13:5001/nn_live.ts?id=FHZW
+#EXTINF:-1 group-title="湖南芒果",凤凰资讯
+http://113.247.251.13:5001/nn_live.ts?id=FHZX
+#EXTINF:-1 group-title="湖南芒果",湖南卫视HD
+http://113.247.251.13:5001/nn_live.ts?id=HNWSHD
+#EXTINF:-1 group-title="湖南芒果",北京卫视HD
+http://113.247.251.13:5001/nn_live.ts?id=BJWSHD
+#EXTINF:-1 group-title="湖南芒果",江苏卫视HD
+http://113.247.251.13:5001/nn_live.ts?id=JSWSHD
+#EXTINF:-1 group-title="湖南芒果",东方卫视HD
+http://113.247.251.13:5001/nn_live.ts?id=DFWSHD
+#EXTINF:-1 group-title="湖南芒果",山东卫视HD
+http://113.247.251.13:5001/nn_live.ts?id=SDWSHD
+#EXTINF:-1 group-title="湖南芒果",深圳卫视HD
+http://113.247.251.13:5001/nn_live.ts?id=SZWSHD
+#EXTINF:-1 group-title="湖南芒果",浙江卫视HD
+http://113.247.251.13:5001/nn_live.ts?id=ZJWSHD
+#EXTINF:-1 group-title="湖南芒果",黑龙江卫视HD
+http://113.247.251.13:5001/nn_live.ts?id=HLJWSHD
+#EXTINF:-1 group-title="湖南芒果",云南卫视
+http://113.247.251.13:5001/nn_live.ts?id=YNWS
+#EXTINF:-1 group-title="湖南芒果",湖北卫视
+http://113.247.251.13:5001/nn_live.ts?id=HBWS
+#EXTINF:-1 group-title="湖南芒果",四川卫视
+http://113.247.251.13:5001/nn_live.ts?id=SCWS
+#EXTINF:-1 group-title="湖南芒果",辽宁卫视
+http://113.247.251.13:5001/nn_live.ts?id=LNWS
+#EXTINF:-1 group-title="湖南芒果",河北卫视
+http://113.247.251.13:5001/nn_live.ts?id=HBWS
+#EXTINF:-1 group-title="湖南芒果",天津卫视
+http://113.247.251.13:5001/nn_live.ts?id=TJWS
+#EXTINF:-1 group-title="湖南芒果",旅游卫视
+http://113.247.251.13:5001/nn_live.ts?id=LYWS
+#EXTINF:-1 group-title="湖南芒果",湖南经视HD
+http://113.247.251.13:5001/nn_live.ts?id=HNJSHD
+#EXTINF:-1 group-title="湖南芒果",湖南电视剧
+http://113.247.251.13:5001/nn_live.ts?id=HNDSJ
+#EXTINF:-1 group-title="湖南芒果",湖南娱乐
+http://113.247.251.13:5001/nn_live.ts?id=HNYL
+#EXTINF:-1 group-title="湖南芒果",湖南都视
+http://113.247.251.13:5001/nn_live.ts?id=HNDS
+#EXTINF:-1 group-title="湖南芒果",湖南公共
+http://113.247.251.13:5001/nn_live.ts?id=HNGG
+#EXTINF:-1 group-title="湖南芒果",湖南国际
+http://113.247.251.13:5001/nn_live.ts?id=GJPD
+#EXTINF:-1 group-title="湖南芒果",金鹰纪实
+http://113.247.251.13:5001/nn_live.ts?id=JYJS
+#EXTINF:-1 group-title="湖南芒果",金鹰卡通
+http://113.247.251.13:5001/nn_live.ts?id=JYKT
+#EXTINF:-1 group-title="湖南芒果",芒果纪实
+http://113.247.251.13:5001/nn_live.ts?id=MGJS
+#EXTINF:-1 group-title="湖南芒果",四海钓鱼
+http://113.247.251.13:5001/nn_live.ts?id=SHDY
+#EXTINF:-1 group-title="湖南芒果",快乐垂钓
+http://113.247.251.13:5001/nn_live.ts?id=KLCD
+#EXTINF:-1 group-title="湖南芒果",长沙新闻
+http://113.247.251.13:5001/nn_live.ts?id=CSXW
+#EXTINF:-1 group-title="湖南芒果",长沙经贸
+http://113.247.251.13:5001/nn_live.ts?id=CSJM
+#EXTINF:-1 group-title="湖南芒果",优漫卡通
+http://113.247.251.13:5001/nn_live.ts?id=YMKT
+#EXTINF:-1 group-title="湖南芒果",卡酷少儿
+http://113.247.251.13:5001/nn_live.ts?id=KKDH
+#EXTINF:-1 group-title="湖南芒果",IPTV热播剧场
+http://113.247.251.13:5001/nn_live.ts?id=RBJC
+#EXTINF:-1 group-title="湖南芒果",IPTV经典电影
+http://113.247.251.13:5001/nn_live.ts?id=JDDY
+#EXTINF:-1 group-title="湖南芒果",芒果电视剧
+http://113.247.251.13:5001/nn_live.ts?id=MGDSJ
+#EXTINF:-1 group-title="湖南芒果",芒果电影
+http://113.247.251.13:5001/nn_live.ts?id=MGDY
+#EXTINF:-1 group-title="湖南芒果",芒果教育
+http://113.247.251.13:5001/nn_live.ts?id=MGJY
+#EXTINF:-1 group-title="湖南芒果",芒果生活
+http://113.247.251.13:5001/nn_live.ts?id=MGSH
+#EXTINF:-1 group-title="湖南芒果",芒果综艺
+http://113.247.251.13:5001/nn_live.ts?id=MGZY
+#EXTINF:-1 group-title="湖南芒果",芒果音乐
+http://113.247.251.13:5001/nn_live.ts?id=MGYY
+#EXTINF:-1 group-title="湖南芒果",芒果动漫
+http://113.247.251.13:5001/nn_live.ts?id=MGDM
+#EXTINF:-1 group-title="湖南芒果",芒果体育
+http://113.247.251.13:5001/nn_live.ts?id=MGTY
+#EXTINF:-1 group-title="湖南芒果",芒果财经
+http://113.247.251.13:5001/nn_live.ts?id=MGCJ
+#EXTINF:-1 group-title="湖南芒果",芒果汽车
+http://113.247.251.13:5001/nn_live.ts?id=MGSH
+
+
+
+#EXTINF:-1 group-title="大明IPTV",高清翡翠
+http://58.218.152.98:7726/hls/hudongxw.m3u8
+#EXTINF:-1 group-title="大明IPTV",J2
+http://58.218.152.98:7726/hls/j2.m3u8
+#EXTINF:-1 group-title="大明IPTV",VB-J2
+http://httpdvb.slave.homed.me/playurl.m3u8?playtype=live&accesstoken=TOKEN50000003&username=guest&programid=4200851396&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="大明IPTV",民视1
+http://58.218.152.98:7726/hls/livestream2.m3u8
+#EXTINF:-1 group-title="大明IPTV",三立新闻台
+http://58.218.152.98:7726/hls/a7191-8191.m3u8
+#EXTINF:-1 group-title="大明IPTV",东森洋片
+http://58.218.152.98:7726/hls/v1bbc.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-1HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227692/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-2HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227666/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-4HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227721/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-5+HD
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227870/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-7HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227695/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-9HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227669/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-10HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227698/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-12HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227724/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-11HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227672/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-13HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227701/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-14HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227675/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-15HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227727/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",CCTV-NEWS
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227704/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",中国教育1台
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227737/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",湖南卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227866/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",广东卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227697/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",浙江卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227810/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",江苏卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227869/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",东方卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227841/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",安徽卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227813/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",北京卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227678/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",天津卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227730/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",山东卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227707/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",深圳卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227733/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",湖北卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227710/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",辽宁卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227684/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",黑龙江卫视HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227736/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",广东体育HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227703/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",广东经济科教HD(B)
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227803/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",财富天下
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227711/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",IPTV5+
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227923/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",IPTV6+
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227889/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",IPTV8+
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227920/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",IPTV相声小品
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227861/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",IPTV热播剧场
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227864/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",IPTV少儿动画
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227867/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",IPTV经典电影
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227892/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",IPTV春晚频道
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227895/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",IPTV魅力时尚
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227898/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",IPTV收视指南
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227926/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",南方卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227651/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",广东珠江
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227700/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",广东公共
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227645/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",广东少儿
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227654/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",广东新闻
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227674/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",广东国际
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227677/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",广东影视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227680/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",广东综艺
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227706/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",金鹰卡通
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227708/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",嘉佳卡通
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227709/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",北京卡酷少儿
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227734/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",山东教育
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227740/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",东方购物
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227683/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",厦门卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227760/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",四川卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227687/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",重庆卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227690/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",广西卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227693/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",山西卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227696/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",旅游卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227699/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",西藏卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227702/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",兵团卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227705/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",贵州卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227713/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",云南卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227716/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",英语辅导
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227718/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",东南卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227719/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",陕西卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227722/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",青海卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227725/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",宁夏卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227728/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",甘肃卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227731/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",河南卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227739/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",河北卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227742/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",吉林卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227745/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",健康卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227754/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",内蒙古卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227837/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",新疆卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227839/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",江西卫视
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227681/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",欧洲足球
+http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227657/index.m3u8
+#EXTINF:-1 group-title="大明IPTV",澳门莲花卫视
+http://58.218.152.98:7726/hls/livestream3-3108.ts
+#EXTINF:-1 group-title="大明IPTV",互动新闻
+http://58.218.152.98:7726/hls/hudongxw-2340.ts
+#EXTINF:-1 group-title="大明IPTV",国家地理优人
+http://58.218.152.98:7726/hls/a7170-8180h-2505.ts
+#EXTINF:-1 group-title="大明IPTV",EUROSPORT
+http://58.218.152.98:7726/hls/a7160-8160.m3u8
+#EXTINF:-1 group-title="大明IPTV",香港有线18台
+http://58.218.152.98:7726/hls/hkc18-2326.ts
+
+
+
 
 #EXTINF:-1 group-title="iPanel",CCTV-2
 http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851392&playtoken=&verifycode=&auth=no

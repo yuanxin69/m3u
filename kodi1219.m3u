@@ -8,6 +8,8 @@ http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist
 http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8
 #EXTINF:-1 group-title="VIP电影", 电影院4
 http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",潇湘电影
+http://113.247.251.13:5001/nn_live.ts?id=XXDY
 #EXTINF:-1 group-title="VIP电影",爱尚 - CHC高清电影
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240266_1/encoder/0/playlist.m3u8
 #EXTINF:-1 group-title="VIP电影",爱尚 - CHC家庭影院
@@ -1810,147 +1812,6 @@ http://124.160.124.24/bd_yzyy/z.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-1
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv1hd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-2
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv2
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-3
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv3
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-4(亚)
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv4
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-5
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv5
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-5+
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv5p
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-6
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv6
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-7
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv7
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-8
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv8
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-9
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv9
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-10
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv10
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-11
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv11
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-12
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv12
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-13
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv13
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-14
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv14
-#EXTINF:-1 group-title="芒果电视",芒果电视 - CCTV-15
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cctv15
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 潇湘电影
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=xxdy
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 凤凰中文
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=fhzw
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 凤凰资讯
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=fhzx
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 湖南卫视HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=hnwshd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 北京卫视HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=bjwshd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 深圳卫视HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=szwshd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 东方卫视HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=dfwshd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 浙江卫视HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=zjwshd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 山东卫视HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=sdwshd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 江苏卫视HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=jswshd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 黑龙江卫视HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=hljwshd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 湖南电视剧HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=HNDSJHD
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 湖南经视HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=hnjshd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 湖南娱乐HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=hnyl360
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 湖南娱乐HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=hnylhd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 湖南都市HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=hnds360
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 湖南公共
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=hngg
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 湖南国际HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=hngj360
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 金鹰纪实HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=jyjs360
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 金鹰卡通HD
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=jykt360
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 经典电影
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=jddy
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 热播剧场
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=rbjc
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 古装偶像
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=gzox
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 欧美专区
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=omzq
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 风云足球
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=fyzq
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 优漫卡通
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=ymkt
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 四海钓鱼
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=shdy
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 食品厨房
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=spcf
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 数码家电
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=smjd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 快乐垂钓
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=klcd
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 高尔夫
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=gef
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 云南卫视
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=ynws
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 重庆卫视
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=cqws
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 四川卫视
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=scws
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 辽宁卫视
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=lnws
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 天津卫视
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=tjws
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 安徽卫视
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=ahws
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 广西卫视
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=gxws
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 江西卫视
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=jxws
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 东南卫视
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=dnws
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 芒果电影
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=mgdy
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 芒果音乐
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=mgyy
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 芒果动漫
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=mgdm
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 芒果纪实
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=mgjs
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 芒果生活
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=mgsh
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 芒果教育
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=mgjy
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 芒果综艺
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=mgzy
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 芒果电视剧
-http://evansgs.xinxingkm.com/huo5/mgtv.php?liveId=mgdsj
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 芒果财经
-http://evansgs.xinxingkm.com/mgtv.php?liveId=mgcj
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 芒果体育
-http://evansgs.xinxingkm.com/mgtv.php?liveId=mgty
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 先锋乒羽
-http://pczhibo.imgo.tv/119s41fm
-#EXTINF:-1 group-title="芒果电视",芒果电视 - 先锋记录
-http://pczhibo.imgo.tv/119s31fm
-
-
-
 #EXTINF:-1 group-title="江苏移动",江苏移动 - CCTV-1
 http://183.207.249.7/PLTV/3/224/3221225530/index.m3u8
 #EXTINF:-1 group-title="江苏移动",江苏移动 - CCTV-2
@@ -2173,8 +2034,8 @@ rtmp://kv1.ts33.net/sat/hk011
 rtmp://kv1.ts33.net/sat/hk021
 #EXTINF:-1 group-title="港澳台频道",港澳 - 香港|HKTV
 http://14.198.245.129:8088/hktvlive/hktv_576p_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=2ab17bc1-2ee0-44d4-934e-053430671eb4&uid=1&vid=1&mxres=1920&s=0f9ab3830cf484d7f5843628b25eb9a7
-#EXTINF:-1 group-title="港澳台频道",港澳 - 翡翠台
-rtmp://183.238.77.4:1935/dvr/30182.stream
+#EXTINF:-1 group-title="港澳台频道",港澳 - J2
+http://58.218.152.98:7726/hls/j2.m3u8
 #EXTINF:-1 group-title="港澳台频道",港澳 - 明珠台
 rtmp://183.238.77.4:1935/dvr/30184.stream
 #EXTINF:-1 group-title="港澳台频道",台湾 - 美食星球
@@ -2190,17 +2051,9 @@ http://14.199.245.83:9981/stream/channelid/4?ticket=0E906BF19D32395536B73B3C9CC5
 #EXTINF:-1 group-title="港澳台频道",台湾 - TVB J2
 http://14.199.245.83:9981/stream/channelid/5?ticket=01C7CC16EF8184CADA47403285FAB4F6C455A65D
 #EXTINF:-1 group-title="港澳台频道",台湾 - 互动新闻台
-http://14.199.245.83:9981/stream/channelid/6?ticket=729EF9DE7947825A395068527FE672A79769E9B0 
+http://58.218.152.98:7726/hls/hudongxw.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="http://jdf.so:8880/hulutv/resource/images/www1/20150722/1437572018646.png",台湾 - 高清翡翠台
-http://14.199.245.83:9981/stream/channelid/7?ticket=E3E716B35E64EA4EC4044F8266289B450CB20C6E
-#EXTINF:-1 group-title="港澳台频道",台湾 - 本港亚洲台,
-http://14.199.245.83:9981/stream/channelid/8?ticket=679C8A2DAB5FCBB4067D5AF2EE0916561700C75C
-#EXTINF:-1 group-title="港澳台频道",台湾 - ATV岁月留声
-http://14.199.245.83:9981/stream/channelid/9?ticket=2662780DA2E65C6001A530F5C305525889E14ECB 
-#EXTINF:-1 group-title="港澳台频道",台湾 - ATV,
-http://14.199.245.83:9981/stream/channelid/10?ticket=679C8A2DAB5FCBB4067D5AF2EE0916561700C75C
-#EXTINF:-1 group-title="港澳台频道",台湾 - 深圳卫视
-http://14.199.245.83:9981/stream/channelid/11?ticket=981D4665979C9EBF81D19CD4F4F3C55CE96F4917
+http://58.218.152.98:7726/hls/hudongxw.m3u8
 #EXTINF:-1 group-title="港澳台频道",台湾民视HD
 http://59.120.43.180:17334
 #EXTINF:-1 group-title="港澳台频道",台湾民视新闻HD
@@ -2397,16 +2250,12 @@ rtmp://kv3.ts33.net/sat/tv572
 http://210.200.79.26:1935/live/tvbsnhd/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="港澳台频道",TVBS创富新闻
 http://210.200.79.26:1935/live/tvbs_sp.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="港澳台频道",年代新闻
-http://streamup.global.ssl.fastly.net/app/wjj-eras-channel/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="港澳台频道",三立新闻台
-http://streamup.global.ssl.fastly.net/app/mirror582sts-channel/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="港澳台频道",非凡商业
 http://210.200.79.26:1935/live/ustvc_sp.sdp/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="港澳台频道",非凡新闻
 http://210.200.79.26:1935/live/ustvn_sp.sdp/chunklist.m3u8
-
-
+#EXTINF:-1 $ExtFilter="港澳台频道",三立新闻台
+http://58.218.152.98:7726/hls/a7191-8191.m3u8
 
 
 #EXTINF:-1 group-title="CCTV",CCTV-1HD
