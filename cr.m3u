@@ -212,6 +212,12 @@ http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8
 http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8
 #EXTINF:-1 group-title="成人频道",午夜6
 http://cr.stream.omc.hk/etv2/phd1005/chunklist_w2141649816.m3u8
+#EXTINF:-1 group-title="日本",全球ASIAN PORN
+http://luckyiptv.ddns.net:23000/live/OLINTO/olinto/12618.m3u8
+#EXTINF:-1 group-title="日本",全球ASIAN PORN 1
+http://luckyiptv.ddns.net:23000/live/OLINTO/olinto/12617.m3u8
+#EXTINF:-1 group-title="日本",全球ASIAN PORN 2
+http://luckyiptv.ddns.net:23000/live/OLINTO/olinto/12616.m3u8
 #EXTINF:-1 group-title="成人频道",日韩CR电影4
 rtmp://123.108.164.71/etv2/phd1003
 #EXTINF:-1 group-title="韩国",韩国01
