@@ -8,6 +8,23 @@ http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist
 http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8
 #EXTINF:-1 group-title="VIP电影", 电影院4
 http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",CHC高清电影
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240266_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",CHC家庭影院
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240269_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",CHC动作电影
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240270_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",精选电影
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",喜剧影院
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",动作影院
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",家庭影院
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",星影
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="咪咕直播", 咪咕 - CCTV1HD
@@ -371,390 +388,7 @@ http://180.100.7.2/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m
 
 
 
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - CNN
-http://yingmaokeji.com/iptv/ootculb.php?id=0
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BBC
-http://yingmaokeji.com/iptv/ootculb.php?id=1
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 公視HD
-http://yingmaokeji.com/iptv/ootculb.php?id=2
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 公視
-http://yingmaokeji.com/iptv/ootculb.php?id=3
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FSTVHD
-http://yingmaokeji.com/iptv/ootculb.php?id=4
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 民視HD
-http://yingmaokeji.com/iptv/ootculb.php?id=5
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 台視HD
-http://yingmaokeji.com/iptv/ootculb.php?id=6
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 台視綜合台
-http://yingmaokeji.com/iptv/ootculb.php?id=7
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中視HD
-http://yingmaokeji.com/iptv/ootculb.php?id=8
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BRAVO菁采台
-http://yingmaokeji.com/iptv/ootculb.php?id=9
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 大愛HD
-http://yingmaokeji.com/iptv/ootculb.php?id=10
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 華視
-http://yingmaokeji.com/iptv/ootculb.php?id=11
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 探索科學台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=12
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DMAXHD
-http://yingmaokeji.com/iptv/ootculb.php?id=13
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - EVEHD
-http://yingmaokeji.com/iptv/ootculb.php?id=14
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理野生台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=15
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理優人台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=16
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理頻道台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=17
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DiscoveryHD
-http://yingmaokeji.com/iptv/ootculb.php?id=18
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TLC
-http://yingmaokeji.com/iptv/ootculb.php?id=19
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 動物星球台
-http://yingmaokeji.com/iptv/ootculb.php?id=20
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 卡通頻道台
-http://yingmaokeji.com/iptv/ootculb.php?id=21
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 迪士尼頻道台
-http://yingmaokeji.com/iptv/ootculb.php?id=22
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MOMO親子台
-http://yingmaokeji.com/iptv/ootculb.php?id=23
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森幼幼台
-http://yingmaokeji.com/iptv/ootculb.php?id=24
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來綜合台
-http://yingmaokeji.com/iptv/ootculb.php?id=25
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大第一台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=26
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大綜合台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=27
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立台灣台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=28
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立都會台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=29
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視中文台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=30
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森綜合台
-http://yingmaokeji.com/iptv/ootculb.php?id=31
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森超視台
-http://yingmaokeji.com/iptv/ootculb.php?id=32
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - ChannalMHD
-http://yingmaokeji.com/iptv/ootculb.php?id=33
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - KMTVHD
-http://yingmaokeji.com/iptv/ootculb.php?id=34
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天綜合台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=35
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東風衛視台
-http://yingmaokeji.com/iptv/ootculb.php?id=36
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MUCH台
-http://yingmaokeji.com/iptv/ootculb.php?id=37
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天娛樂台
-http://yingmaokeji.com/iptv/ootculb.php?id=38
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森戲劇台
-http://yingmaokeji.com/iptv/ootculb.php?id=39
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大戲劇台
-http://yingmaokeji.com/iptv/ootculb.php?id=40
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS歡樂台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=41
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來戲劇台
-http://yingmaokeji.com/iptv/ootculb.php?id=42
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 星衛娛樂台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=43
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視合家歡台
-http://yingmaokeji.com/iptv/ootculb.php?id=44
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - JET綜合台
-http://yingmaokeji.com/iptv/ootculb.php?id=45
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DIVAHD
-http://yingmaokeji.com/iptv/ootculb.php?id=46
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - SYFYHD
-http://yingmaokeji.com/iptv/ootculb.php?id=47
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 壹電視新聞台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=48
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 年代新聞台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=49
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森新聞台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=50
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天新聞台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=51
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 民視新聞台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=52
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立新聞台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=53
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS新聞台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=54
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=55
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森財經新聞台
-http://yingmaokeji.com/iptv/ootculb.php?id=56
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 非凡新聞台
-http://yingmaokeji.com/iptv/ootculb.php?id=57
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOXCRIMEHD
-http://yingmaokeji.com/iptv/ootculb.php?id=58
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FXHD
-http://yingmaokeji.com/iptv/ootculb.php?id=59
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視電影台
-http://yingmaokeji.com/iptv/ootculb.php?id=60
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森電影台
-http://yingmaokeji.com/iptv/ootculb.php?id=61
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 星衛電影台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=62
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 美亞電影台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=63
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBOHD
-http://yingmaokeji.com/iptv/ootculb.php?id=64
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森洋片台
-http://yingmaokeji.com/iptv/ootculb.php?id=65
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 福斯家庭電影台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=66
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - UniversalHD
-http://yingmaokeji.com/iptv/ootculb.php?id=67
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - StarMoviesHD
-http://yingmaokeji.com/iptv/ootculb.php?id=68
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - CINEMAX
-http://yingmaokeji.com/iptv/ootculb.php?id=69
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來育樂台
-http://yingmaokeji.com/iptv/ootculb.php?id=70
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來體育台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=71
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOX3HD
-http://yingmaokeji.com/iptv/ootculb.php?id=72
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視體育台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=73
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來日本台
-http://yingmaokeji.com/iptv/ootculb.php?id=74
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 愛爾達體育台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=75
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國興衛視台
-http://yingmaokeji.com/iptv/ootculb.php?id=76
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOXHD
-http://yingmaokeji.com/iptv/ootculb.php?id=77
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO原創HD
-http://yingmaokeji.com/iptv/ootculb.php?id=78
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO強檔HD
-http://yingmaokeji.com/iptv/ootculb.php?id=79
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO溫馨HD
-http://yingmaokeji.com/iptv/ootculb.php?id=80
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 博斯高球II台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=81
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 博斯運動台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=82
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - GOLFCHANNALHD
-http://yingmaokeji.com/iptv/ootculb.php?id=83
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - ASN全美運動台HD
-http://yingmaokeji.com/iptv/ootculb.php?id=84
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BabyTVHD
-http://yingmaokeji.com/iptv/ootculb.php?id=85
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DisneyJunior
-http://yingmaokeji.com/iptv/ootculb.php?id=86
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MTVHD
-http://yingmaokeji.com/iptv/ootculb.php?id=87
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 霹靂台灣台
-http://yingmaokeji.com/iptv/ootculb.php?id=88
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 罪案偵緝頻道HD
-http://yingmaokeji.com/iptv/ootculb.php?id=89
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - NHK
-http://yingmaokeji.com/iptv/ootculb.php?id=90
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 本港台
-http://yingmaokeji.com/iptv/ootculb.php?id=91
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-電影
-http://yingmaokeji.com/iptv/ootculb.php?id=92
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-冰與火之歌第一季
-http://yingmaokeji.com/iptv/ootculb.php?id=93
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-嘻哈帝國第一季
-http://yingmaokeji.com/iptv/ootculb.php?id=94
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-海賊王
-http://yingmaokeji.com/iptv/ootculb.php?id=95
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - CNN標清
-http://yingmaokeji.com/iptv/ootculb.php?id=96
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BBC標清
-http://yingmaokeji.com/iptv/ootculb.php?id=97
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 公視HD標清
-http://yingmaokeji.com/iptv/ootculb.php?id=98
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 公視2標清
-http://yingmaokeji.com/iptv/ootculb.php?id=99
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FSTV標清
-http://yingmaokeji.com/iptv/ootculb.php?id=100
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 民視標清
-http://yingmaokeji.com/iptv/ootculb.php?id=101
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 台視HD標清
-http://yingmaokeji.com/iptv/ootculb.php?id=102
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 台視綜合標清
-http://yingmaokeji.com/iptv/ootculb.php?id=103
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中視HD標清
-http://yingmaokeji.com/iptv/ootculb.php?id=104
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BRAVO菁采台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=105
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 大愛HD標清
-http://yingmaokeji.com/iptv/ootculb.php?id=106
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 華視標清
-http://yingmaokeji.com/iptv/ootculb.php?id=107
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 探索科學台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=108
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DMAX標清
-http://yingmaokeji.com/iptv/ootculb.php?id=109
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - EVE標清
-http://yingmaokeji.com/iptv/ootculb.php?id=110
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理野生台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=111
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理優人台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=112
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理頻道台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=113
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - Discovery標清
-http://yingmaokeji.com/iptv/ootculb.php?id=114
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TLC標清
-http://yingmaokeji.com/iptv/ootculb.php?id=115
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 動物星球台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=116
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 卡通頻道台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=117
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 迪士尼頻道台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=118
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MOMO親子台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=119
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森幼幼台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=120
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來綜合台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=121
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大第一台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=122
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大綜合台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=123
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立台灣台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=124
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立都會台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=125
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視中文台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=126
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森綜合台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=127
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 超視台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=128
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - ChannalM標清
-http://yingmaokeji.com/iptv/ootculb.php?id=129
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - KMTV標清
-http://yingmaokeji.com/iptv/ootculb.php?id=130
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天綜合台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=131
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東風衛視台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=132
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MUCH台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=133
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天娛樂台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=134
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森戲劇台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=135
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大戲劇台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=136
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS歡樂台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=137
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來戲劇台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=138
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 星衛娛樂台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=139
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視合家歡台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=140
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - JET綜合台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=141
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DIVA標清
-http://yingmaokeji.com/iptv/ootculb.php?id=142
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - SYFY標清
-http://yingmaokeji.com/iptv/ootculb.php?id=143
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 壹電視新聞台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=144
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 年代新聞台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=145
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森新聞台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=146
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天新聞台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=147
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 民視新聞台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=148
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立新聞台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=149
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS新聞台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=150
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=151
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森財經新聞台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=152
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 非凡新聞台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=153
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOXCRIME標清
-http://yingmaokeji.com/iptv/ootculb.php?id=154
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FX標清
-http://yingmaokeji.com/iptv/ootculb.php?id=155
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視電影台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=156
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森電影台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=157
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 星衛電影台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=158
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 美亞電影台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=159
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO標清
-http://yingmaokeji.com/iptv/ootculb.php?id=160
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森洋片台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=161
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 福斯家庭電影台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=162
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - Universal標清
-http://yingmaokeji.com/iptv/ootculb.php?id=163
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - StarMovies標清
-http://yingmaokeji.com/iptv/ootculb.php?id=164
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - CINEMAX標清
-http://yingmaokeji.com/iptv/ootculb.php?id=165
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來育樂台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=166
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來體育台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=167
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOX3標清
-http://yingmaokeji.com/iptv/ootculb.php?id=168
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視體育台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=169
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來日本台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=170
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 愛爾達體育台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=171
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國興衛視台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=172
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOX標清
-http://yingmaokeji.com/iptv/ootculb.php?id=173
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO原創台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=174
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO強檔台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=175
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO溫馨台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=176
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 博斯高球II台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=177
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 博斯運動台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=178
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - GOLFCHANNAL標清
-http://yingmaokeji.com/iptv/ootculb.php?id=179
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - ASN全美運動標清
-http://yingmaokeji.com/iptv/ootculb.php?id=180
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BabyTV標清
-http://yingmaokeji.com/iptv/ootculb.php?id=181
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DisneyJunior標清
-http://yingmaokeji.com/iptv/ootculb.php?id=182
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MTV標清
-http://yingmaokeji.com/iptv/ootculb.php?id=183
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 霹靂台灣台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=184
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 罪案偵緝頻道標清
-http://yingmaokeji.com/iptv/ootculb.php?id=185
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - NHK標清
-http://yingmaokeji.com/iptv/ootculb.php?id=186
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 本港台標清
-http://yingmaokeji.com/iptv/ootculb.php?id=187
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-電影標清
-http://yingmaokeji.com/iptv/ootculb.php?id=188
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-冰與火之歌第一季標清
-http://yingmaokeji.com/iptv/ootculb.php?id=189
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-嘻哈帝國第一季標清
-http://yingmaokeji.com/iptv/ootculb.php?id=190
-#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-海賊王標清
-http://yingmaokeji.com/iptv/ootculb.php?id=191
+
 
 
 #EXTINF:-1 group-title="海外中文香港站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - CNN
@@ -1186,297 +820,201 @@ http://live.xsjiptv.com:18006/live/mgtv/live/live.php?9644cc2c48bc400b32642f1501
 http://live.xsjiptv.com:18006/live/mgtv/live/live.php?45f2f9efb83d9956fa0e85c16e986385
 
 
-#EXTINF:-1 group-title="代理台湾", 华视HD
-http://116.251.217.91:443/live2/hd2_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 公视HD
-http://116.251.217.91:443/live2/ch542_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 中视HD
-http://116.251.217.91:443/live2/hd3_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 台视HD
-http://116.251.217.91:443/live2/hd1_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 民视HD
-http://116.251.217.91:443/live2/hd4_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 民视综合
-http://116.251.217.91:443/live2/ch7_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 中视
-http://116.251.217.91:443/live2/ch233_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 华视
-http://116.251.217.91:443/live2/ch9_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 公视
-http://116.251.217.91:443/live2/ch5_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", TVBS
-http://116.251.217.91:443/live2/ch571_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", TVBS-N
-http://116.251.217.91:443/live2/ch77_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", TVBS欢乐
-http://116.251.217.91:443/live2/ch582_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 东森电影
-http://116.251.217.91:443/live2/ch62_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 东森戏剧
-http://116.251.217.91:443/live2/ch60_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 纬来电影
-http://116.251.217.91:443/live2/ch63_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 纬来戏剧
-http://116.251.217.91:443/live2/ch43_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 八大戏剧
-http://116.251.217.91:443/live2/ch441_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 东森洋片
-http://116.251.217.91:443/live2/ch68_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 中天综合
-http://116.251.217.91:443/live2/ch19_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 中天娱乐
-http://116.251.217.91:443/live2/ch39_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 三立台湾
-http://116.251.217.91:443/live2/ch28_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 三立都会
-http://116.251.217.91:443/live2/ch29_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 东风37台
-http://116.251.217.91:443/live2/ch37_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 霹雳台湾
-http://116.251.217.91:443/live2/ch191_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 三立新闻
-http://116.251.217.91:443/live2/ch72_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 民视新闻
-http://116.251.217.91:443/live2/ch71_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 东森新闻
-http://116.251.217.91:443/live2/ch73_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 中天新闻
-http://116.251.217.91:443/live2/ch74_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 年代新闻
-http://116.251.217.91:443/live2/ch75_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 非凡新闻
-http://116.251.217.91:443/live2/ch76_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 东森财经新闻
-http://116.251.217.91:443/live2/ch78_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 国家地理
-http://116.251.217.91:443/live2/ch1873_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 旅游生活
-http://116.251.217.91:443/live2/ch20_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", JET综合
-http://116.251.217.91:443/live2/ch26_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 东森综合
-http://116.251.217.91:443/live2/ch3302_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 纬来综合
-http://116.251.217.91:443/live2/ch83_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 八大第一
-http://116.251.217.91:443/live2/ch84_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 八大综合
-http://116.251.217.91:443/live2/ch18_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 卫视中文
-http://116.251.217.91:443/live2/ch3301_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 爱尔达HD
-http://116.251.217.91:443/live2/ch2405_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 客家电视
-http://116.251.217.91:443/live2/ch17_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", FOX-2
-http://116.251.217.91:443/live2/ch80_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 超视
-http://116.251.217.91:443/live2/ch85_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 东森幼幼
-http://116.251.217.91:443/live2/ch25_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", MOMO
-http://116.251.217.91:443/live2/ch16_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", MUCH-TV
-http://116.251.217.91:443/live2/ch38_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 国兴日本
-http://116.251.217.91:443/live2/ch30_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
-#EXTINF:-1 group-title="代理台湾", 纬来日本
-http://116.251.217.91:443/live2/ch31_1/playlist.m3u8?wowzasessionid=1265904493&ZIF927qqlKlSIXXWp49s7A%3d%3d
 
 
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTV1综合HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTV1综合HD
 http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/cctv1hd/as/live/cctv1hd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTV2财经
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTV2财经
 http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/cctv2/as/live/cctv2_3.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTV3综艺HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTV3综艺HD
 http://ktv003.cdnak.ds.kylintv.net/nlds/kylin/cctv3hd/as/live/cctv3hd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTV4中文
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTV4中文
 http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/cctv4/as/live/cctv4_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTV8电视剧HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTV8电视剧HD
 http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/cctv8hd/as/live/cctv8hd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTV9记录
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTV9记录
 http://ktv011.cdnak.ds.kylintv.net/nlds/kylin/cctvdoc/as/live/cctvdoc_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTV10科教
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTV10科教
 http://ktv012.cdnak.ds.kylintv.net/nlds/kylin/cctv10/as/live/cctv10_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTV11戏曲
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTV11戏曲
 http://ktv038.cdnak.ds.kylintv.net/nlds/kylin/cctvopera/as/live/cctvopera_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTV12社会与法
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTV12社会与法
 http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv13/as/live/cctv13_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTV13新闻
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTV13新闻
 http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv9/as/live/cctv9_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTVnews
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTVnews
 http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv9/as/live/cctv9_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CCTV娱乐
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CCTV娱乐
 http://ktv007.cdnak.ds.kylintv.net/nlds/kylin/cctvent/as/live/cctvent_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 发现之旅
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 发现之旅
 http://ktv012.cdnak.ds.kylintv.net/nlds/kylin/discovery/as/live/discovery_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - CETV-4空中课堂
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - CETV-4空中课堂
 http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/clcchannel/as/live/clcchannel_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 中国电影
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 中国电影
 http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 湖南卫视HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 湖南卫视HD
 http://ktv012.cdnak.ds.kylintv.net/nlds/kylin/huntvhd/as/live/huntvhd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 江苏卫视高HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 江苏卫视高HD
 http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 天津卫视HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 天津卫视HD
 http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 广东卫视HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 广东卫视HD
 http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/gdtvhd/as/live/gdtvhd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 浙江卫视HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 浙江卫视HD
 http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 深圳卫视HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 深圳卫视HD
 http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/sztvhd/as/live/sztvhd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 山东卫视HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 山东卫视HD
 http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 东方卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 东方卫视
 http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/dragontv/as/live/dragontv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 北京卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 北京卫视
 http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 旅游卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 旅游卫视
 http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/as/live/traveltv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 深圳卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 深圳卫视
 http://ktv016.cdnak.ds.kylintv.net/nlds/kylin/sztv/as/live/sztv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 南方卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 南方卫视
 http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/tvs/as/live/tvs_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 厦门卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 厦门卫视
 http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/xmtv/as/live/xmtv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - X海峽卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - X海峽卫视
 http://ktv034.cdnak.ds.kylintv.net/nlds/kylin/fjstv/as/live/fjstv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 湖南国际
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 湖南国际
 http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 河南国际
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 河南国际
 http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/henantv/as/live/henantv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 浙江国际
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 浙江国际
 http://ktv038.cdnak.ds.kylintv.net/nlds/kylin/zhejtv/as/live/zhejtv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 江苏国际
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 江苏国际
 http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/jstv/as/live/jstv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 天津国际
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 天津国际
 http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 广东国际
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 广东国际
 http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/gdtvi/as/live/gdtvi_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 广西国际
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 广西国际
 http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/gxtv/as/live/gxtv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 安徽国际
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 安徽国际
 http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/ahtv/as/live/ahtv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 重庆国际
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 重庆国际
 http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/cqtvi/as/live/cqtvi_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 四川国际
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 四川国际
 http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/sctv/as/live/sctv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 山东国际
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 山东国际
 http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/sdtvi/as/live/sdtvi_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 雲南國際
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 雲南國際
 http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/yunnantv/as/live/yunnantv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 第一财经
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 第一财经
 http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 光线新娱乐
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 光线新娱乐
 http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/xyl/as/live/xyl_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 中国黄河
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 中国黄河
 http://ktv034.cdnak.ds.kylintv.net/nlds/kylin/cyrtv/as/live/cyrtv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 北京文艺
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 北京文艺
 http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_5/20150814/12/3340.mp4
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 北京文艺
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 北京文艺
 http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_5.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 北京时尚生活
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 北京生活时尚
 http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 麒麟直播HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 麒麟直播HD
 http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 麒麟綜藝HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 麒麟綜藝HD
 http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 麒麟儿童
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 麒麟儿童
 http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 麒麟时尚
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 麒麟时尚
 http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 昆仑剧场
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 昆仑剧场
 http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/kunlunhd/as/live/kunlunhd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 长江剧场
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 长江剧场
 http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/yangtse/as/live/yangtse_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 凤凰卫视HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 凤凰卫视HD
 http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 凤凰资讯HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 凤凰资讯HD
 http://ktv005.ds.kylintv.net/nlds/kylin/pxinhd/droid/live/pxinhd_2.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 凤凰资讯HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 凤凰资讯HD
 http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 凤凰香港
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 凤凰香港
 http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 凤凰美洲
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 凤凰美洲
 http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 华语电视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 华语电视
 http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 华语电视2
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 华语电视2
 http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/hyds/as/live/hyds_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 华夏电视台
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 华夏电视台
 http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 亚洲联合卫视HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 亚洲联合卫视HD
 http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/unbtv/as/live/unbtv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 本港台
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 本港台
 http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 本港亚洲
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 本港亚洲
 http://ktv002.ds.kylintv.net/nlds/kylin/asiatv/droid/live/asiatv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 华视高清
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 华视高清
 http://ktv037.cdnllnwnl.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_3.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 民视HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 民视HD
 http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 民视无线高清
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 民视无线高清
 http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 澳亚卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 澳亚卫视
 http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 东森幼幼
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 东森幼幼
 http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 台视美洲
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 台视美洲
 http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 东森新闻美洲
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 东森新闻美洲
 http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 宏观卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 宏观卫视
 http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/as/live/mactv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 阳光卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 阳光卫视
 http://ktv007.cdnak.ds.kylintv.net/nlds/kylin/chann7/as/live/chann7_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 阳光卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 阳光卫视
 http://ktv011.cdnak.ds.kylintv.net/nlds/kylin/chann7/as/live/chann7_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - ICN国际卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - ICN国际卫视
 http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 莲花卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 莲花卫视
 http://ktv039.ds.kylintv.net/nlds/kylin/lotustv/droid/live/lotustv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 环球东方卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 环球东方卫视
 http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/getv/as/live/getv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 汉天卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 汉天卫视
 http://ktv031.cdnak.ds.kylintv.net/nlds/kylin/httv/as/live/httv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 台视美洲
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 台视美洲
 http://ktv042.ds.kylintv.net/nlds/kylin/ttv/droid/live/ttv_2.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 东森卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 东森卫视
 http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 东森美洲
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 东森美洲
 http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 吉本东风
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 吉本东风
 http://ktv038.cdnak.ds.kylintv.net/nlds/kylin/aziotv/as/live/aziotv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 大爱
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 大爱
 http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 人间卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 人间卫视
 http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 好消息2
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 好消息2
 http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 华藏卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 华藏卫视
 http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/hztv/as/live/hztv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 美国中文
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 美国中文
 http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 天下卫视
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 天下卫视
 http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/skylink1/as/live/skylink1_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 天下卫视2
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 天下卫视2
 http://ktv006.cdnak.ds.kylintv.net/nlds/kylin/skylink2/as/live/skylink2_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - TVB1
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - TVB1
 http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/tvbj1/as/live/tvbj1_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - TVBe
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - TVBe
 http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/tvbent/as/live/tvbent_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - TVBe
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - TVBe
 http://ktv032.ds.kylintv.net/nlds/kylin/tvbent/droid/live/tvbent_2.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - TVB
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - TVB
 http://ktv002.ds.kylintv.net/nlds/kylin/tvbj1/droid/live/tvbj1_2.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - TVB剧集二台
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - TVB剧集二台
 http://ktv028.ds.kylintv.net/nlds/kylin/tvbj2/droid/live/tvbj2_2.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 隆华时光
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 隆华时光
 http://ktv027.ds.kylintv.net/nlds/kylin/bltv/droid/live/bltv_4.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 高清HD
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 高清HD
 http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/kunlunhd/as/live/kunlunhd_5.m3u8
-#EXTINF:-1 group-title="麒麟电视",麒麟电视 - 中华美食频道
+#EXTINF:-1 group-title="麒麟套餐",麒麟电视 - 中华美食频道
 http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/chinafood/as/live/chinafood_4.m3u8
 
 
@@ -2479,370 +2017,273 @@ http://218.203.106.12:5580/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8
 #EXTINF:-1 group-title="易视腾",易视腾 - CIBN完美游戏
 http://218.203.106.12:5580/ysten-businessmobile/live/wmyx/yst.m3u8
 
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 体育资讯
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 体育资讯
 http://icntv.xyz/letv/lb_tyzx_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 完美游戏
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 完美游戏
 http://icntv.xyz/letv/lb_wmyx_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 体育
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 体育
 http://icntv.xyz/letv/lb_sports_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 体育2
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 体育2
 http://icntv.xyz/letv/lb_tiyu2_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 体育+
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 体育+
 http://icntv.xyz/letv/lb_tyzx_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 四海钓鱼
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 四海钓鱼
 http://jyzx8.com/tv/m3u8/mg.php?id=shdy
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 快乐垂钓
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 快乐垂钓
 http://jyzx8.com/tv/m3u8/mg.php?id=klcd
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 高尔夫一台
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 高尔夫一台
 http://jyzx8.com/tv/m3u8/mg.php?id=gef
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 高尔夫
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 高尔夫
 http://icntv.xyz/letv/lb_golf_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 高尔夫大满贯
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 高尔夫大满贯
 http://icntv.xyz/letv/lb_gefdmg_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 高尔夫欧巡赛
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 高尔夫欧巡赛
 http://icntv.xyz/letv/lb_gefoxs_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 高尔夫美巡赛
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 高尔夫美巡赛
 http://icntv.xyz/letv/lb_gefmxs_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 羽毛球
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 羽毛球
 http://icntv.xyz/letv/lb_ymq_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 橄榄球
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 橄榄球
 http://icntv.xyz/letv/lb_glq_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 台球
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 台球
 http://icntv.xyz/letv/lb_taiqiu_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 网球
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 网球
 http://icntv.xyz/letv/lb_wangqiu_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 篮球
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 篮球
 http://icntv.xyz/letv/lb_lanqiu_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 广厦篮球频道
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 广厦篮球频道
 http://icntv.xyz/letv/lb_gslqpd_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 欧冠
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 欧冠
 http://icntv.xyz/letv/lb_ouguan_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 足球
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 足球
 http://icntv.xyz/letv/lb_zuqiu_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 风云足球
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 风云足球
 http://jyzx8.com/tv/m3u8/mg.php?id=fyzq
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 河南足球
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 河南足球
 http://icntv.xyz/letv/lb_hnzq_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 亚洲足球
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 亚洲足球
 http://icntv.xyz/letv/lb_yzzq_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 欧洲足球
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 欧洲足球
 http://icntv.xyz/letv/lb_ozzq_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 国安
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 国安
 http://icntv.xyz/letv/lb_guoan_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 西甲
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 西甲
 http://icntv.xyz/letv/lb_lb_xijia_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 德甲
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 德甲
 http://icntv.xyz/letv/lb_lb_dejia_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 意甲
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 意甲
 http://icntv.xyz/letv/lb_lb_yijia_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 英超
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 英超
 http://icntv.xyz/letv/lb_lb_yingchao_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 法甲
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 法甲
 http://icntv.xyz/letv/lb_lb_fajia_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 体育资讯
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 体育资讯
 http://icntv.xyz/letv/lb_tyzx_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 汽车频道
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 汽车频道
 http://icntv.xyz/letv/lb_autolive.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 赛车
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 赛车
 http://icntv.xyz/letv/lb_F1_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 自行车
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 自行车
 http://icntv.xyz/letv/lb_zixingche_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 跑步
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 跑步
 http://icntv.xyz/letv/lb_paobu_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 搏击
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 搏击
 http://icntv.xyz/letv/lb_boji_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 乐视游戏
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 乐视游戏
 http://icntv.xyz/letv/lb_lsyx_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 乐视生态
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 乐视生态
 http://icntv.xyz/letv/lb_lsst_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - GTV游戏竞技
+#EXTINF:-1 group-title="体育套餐",乐视体育 - GTV游戏竞技
 http://icntv.xyz/letv/lb_GTVyxjj_800.m3u8#http://icntv.xyz/letv/lb_GTVyxjj
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - GTV合作
+#EXTINF:-1 group-title="体育套餐",乐视体育 - GTV合作
 http://icntv.xyz/letv/lb_gtv_800.m3u8#http://icntv.xyz/letv/lb_gtv_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 电子竞技
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 电子竞技
 http://icntv.xyz/letv/lb_dzjj_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 极限运动
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 极限运动
 http://icntv.xyz/letv/lb_jxyd_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 美洲杯
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 美洲杯
 http://icntv.xyz/letv/lb_mzb_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 女足世界杯
+#EXTINF:-1 group-title="体育套餐",乐视体育 - 女足世界杯
 http://icntv.xyz/letv/lb_nzsjb_1300.m3u8
 
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 江苏卫视高清1
+#EXTINF:-1 group-title="乐视套餐",乐视 - 江苏卫视高清1
 http://icntv.xyz/letv/jiangsuHD_1800.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 北京卫视高清
+#EXTINF:-1 group-title="乐视套餐",乐视 - 北京卫视高清
 http://icntv.xyz/letv/bjwsHD_1800.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 湖南卫视高清
+#EXTINF:-1 group-title="乐视套餐",乐视 - 湖南卫视高清
 http://icntv.xyz/letv/ws_hunanwsHD_1300.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视综合
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视综合
 http://icntv.xyz/letv/lb_zonghe_1000.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 北京卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 北京卫视
 http://icntv.xyz/letv/bjws.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 安徽卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 安徽卫视
 http://icntv.xyz/letv/anhui.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 天津卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 天津卫视
 http://icntv.xyz/letv/tianjin.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 江苏卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 江苏卫视
 http://icntv.xyz/letv/jiangsu.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 山西卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 山西卫视
 http://icntv.xyz/letv/shanxi_350.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 甘肃卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 甘肃卫视
 http://icntv.xyz/letv/gansu.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 东南卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 东南卫视
 http://icntv.xyz/letv/dongnan.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 湖北卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 湖北卫视
 http://icntv.xyz/letv/hubei.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 云南卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 云南卫视
 http://icntv.xyz/letv/yunnan.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 黑龙江卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 黑龙江卫视
 http://icntv.xyz/letv/heilongjiang.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 贵州卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 贵州卫视
 http://icntv.xyz/letv/guizhou.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 广西卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 广西卫视
 http://icntv.xyz/letv/guangxi.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 河南卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 河南卫视
 http://icntv.xyz/letv/henan.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 旅游卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 旅游卫视
 http://icntv.xyz/letv/lvyou.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 深圳卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 深圳卫视
 http://icntv.xyz/letv/shenzhen.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 内蒙古卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 内蒙古卫视
 http://icntv.xyz/letv/neimenggu_350.m3u8  
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 新疆卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 新疆卫视
 http://icntv.xyz/letv/xinjiang_350.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 陕西卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 陕西卫视
 http://icntv.xyz/letv/shanxi1.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 重庆卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 重庆卫视
 http://icntv.xyz/letv/chongqing.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 吉林卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 吉林卫视
 http://icntv.xyz/letv/jilin.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 辽宁卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 辽宁卫视
 http://icntv.xyz/letv/liaoning.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 江西卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 江西卫视
 http://icntv.xyz/letv/jiangxi.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 青海卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 青海卫视
 http://icntv.xyz/letv/qinghai.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 炫动卡通
+#EXTINF:-1 group-title="乐视套餐",乐视 - 炫动卡通
 http://icntv.xyz/letv/xdkt.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 四川卫视
+#EXTINF:-1 group-title="乐视套餐",乐视 - 四川卫视
 http://icntv.xyz/letv/sichuan.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视电影
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视电影
 http://icntv.xyz/letv/lb_movie_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视1080P
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视1080P
 http://icntv.xyz/letv/lb_1080P_1080p3m.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视音乐
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视音乐
 http://icntv.xyz/letv/lb_music_350.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视电视剧
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视电视剧
 http://icntv.xyz/letv/lb_tv_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视动漫
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视动漫
 http://icntv.xyz/letv/lb_comic_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视体育
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视体育
 http://icntv.xyz/letv/lb_sports_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 科教.纪录片
+#EXTINF:-1 group-title="乐视套餐",乐视 - 科教.纪录片
 http://icntv.xyz/letv/lb_jilu_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 电影片花
+#EXTINF:-1 group-title="乐视套餐",乐视 - 电影片花
 http://icntv.xyz/letv/lb_trailer_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视综艺
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视综艺
 http://icntv.xyz/letv/lb_ent_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视自制剧
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视自制剧
 http://icntv.xyz/letv/lb_make_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视韩剧
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视韩剧
 http://icntv.xyz/letv/lb_koreatv_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视高尔夫
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视高尔夫
 http://icntv.xyz/letv/lb_golf_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视网球
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视网球
 http://icntv.xyz/letv/lb_wangqiu_1000.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视甄嬛传
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视甄嬛传
 http://icntv.xyz/letv/lb_zhenhuan_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视亲子
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视亲子
 http://icntv.xyz/letv/lb_qinzi_1300.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视足球
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视足球
 http://icntv.xyz/letv/lb_zuqiu_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视演唱会
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视演唱会
 http://icntv.xyz/letv/lb_concert_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视篮球
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视篮球
 http://icntv.xyz/letv/lb_lanqiu_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视娱乐
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视娱乐
 http://icntv.xyz/letv/lb_yule_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视MV
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视MV
 http://icntv.xyz/letv/lb_mv_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视风尚
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视风尚
 http://icntv.xyz/letv/lb_fengshang_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 古典音乐
+#EXTINF:-1 group-title="乐视套餐",乐视 - 古典音乐
 http://icntv.xyz/letv/lb_classical_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视戏曲
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视戏曲
 http://icntv.xyz/letv/lb_xiqu_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 我是歌手NEW
+#EXTINF:-1 group-title="乐视套餐",乐视 - 我是歌手NEW
 http://icntv.xyz/letv/lb_imsinger_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视垫播
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视垫播
 http://icntv.xyz/letv/lb_lssd_350.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视盛典
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视盛典
 http://icntv.xyz/letv/lb_lssd_1300.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视儿歌
+#EXTINF:-1 group-title="乐视套餐",乐视 - 乐视儿歌
 http://icntv.xyz/letv/lb_erge_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 动作电影
+#EXTINF:-1 group-title="乐视套餐",乐视 - 动作电影
 http://icntv.xyz/letv/lb_dzdy_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 电影
+#EXTINF:-1 group-title="乐视套餐",乐视 - 电影
 http://icntv.xyz/letv/lb_zpw_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 国际时装周
+#EXTINF:-1 group-title="乐视套餐",乐视 - 国际时装周
 http://icntv.xyz/letv/lb_shizhuang_720p.m3u8
 
 
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-1
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv1.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-1HD
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv1hd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-2
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv2.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-3
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv3.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-4
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv4.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-5
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv5.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-5HD
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv5hd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-5+
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv5p.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-6
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv6.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-7
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv8.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-8
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv8.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-9
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv9.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-10
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv10.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-11
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv11.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-12
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv12.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-13
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv13.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-14
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv14.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-15
-http://sohucao.duapp.com/proxy/ewwasu.php/cctv15.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-发现之旅
-http://sohucao.duapp.com/proxy/ewwasu.php/fxzl.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-风云足球
-http://sohucao.duapp.com/proxy/ewwasu.php/fyzq.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CHC动作影院
-http://sohucao.duapp.com/proxy/sohuwasu.php/dzdy.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CHC家庭影院
-http://sohucao.duapp.com/proxy/sohuwasu.php/jtyy.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 求索科学HD
-http://sohucao.duapp.com/proxy/ewwasu.php/qskx.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 求索纪录HD
-http://sohucao.duapp.com/proxy/ewwasu.php/qsjl.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 求索生活HD
-http://sohucao.duapp.com/proxy/ewwasu.php/qssh.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 求索动物HD
-http://sohucao.duapp.com/proxy/ewwasu.php/qsdw.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 湖南卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/hnwshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 北京卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/bjwshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 深圳卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/szwshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 广东卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/gdwshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 安徽卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/ahwshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 东方卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/dfwshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 天津卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/tjwshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 浙江卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/zjwshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 江苏卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/jswshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 湖北卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/hbwshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 山东卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/sdwshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 黑龙江卫视HD
-http://sohucao.duapp.com/proxy/ewwasu.php/hljwshd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 华数电视
-http://sohucao.duapp.com/proxy/ewwasu.php/wasutv.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 社会纪实
-http://sohucao.duapp.com/proxy/ewwasu.php/shjs.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 综艺晚会
-http://sohucao.duapp.com/proxy/ewwasu.php/zywh.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 人文纪录
-http://sohucao.duapp.com/proxy/ewwasu.php/rwjl.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 寰宇探奇
-http://sohucao.duapp.com/proxy/ewwasu.php/hytq.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 优优宝贝
-http://sohucao.duapp.com/proxy/ewwasu.php/yybb.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 收藏天下
-http://sohucao.duapp.com/proxy/ewwasu.php/sctx.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 车迷频道
-http://sohucao.duapp.com/proxy/ewwasu.php/cmpd.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 环球奇观
-http://sohucao.duapp.com/proxy/ewwasu.php/hqqg.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 欧洲足球
-http://sohucao.duapp.com/proxy/ewwasu.php/ozzq.m3u8
-#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 茶频道
-http://sohucao.duapp.com/proxy/sohuwasu.php/cpd.m3u8
 
 
-#EXTINF:-1 group-title="华数222",华数222 - CCTV-1
+
+#EXTINF:-1 group-title="华数套餐",华数 - CCTV-1
 http://222.246.232.154/live01.cache.m.wasu.com/cctv1/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - CCTV-2
+#EXTINF:-1 group-title="华数套餐",华数 - CCTV-2
 http://222.246.232.154/live01.cache.m.wasu.com/cctv2/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - CCTV-3
+#EXTINF:-1 group-title="华数套餐",华数 - CCTV-3
 http://222.246.232.154/live01.cache.m.wasu.com/cctv3/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - CCTV-4(亚)
+#EXTINF:-1 group-title="华数套餐",华数 - CCTV-4(亚)
 http://222.246.232.154/live01.cache.m.wasu.com/cctv4/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - CCTV-5
+#EXTINF:-1 group-title="华数套餐",华数 - CCTV-5
 http://222.246.232.154/live01.cache.m.wasu.com/cctv5/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - CCTV-6
+#EXTINF:-1 group-title="华数套餐",华数 - CCTV-6
 http://222.246.232.154/live01.cache.m.wasu.com/cctv6/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - CCTV-7
+#EXTINF:-1 group-title="华数套餐",华数 - CCTV-7
 http://222.246.232.154/live01.cache.m.wasu.com/cctv7/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - CCTV-8
+#EXTINF:-1 group-title="华数套餐",华数 - CCTV-8
 http://222.246.232.154/live01.cache.m.wasu.com/cctv8/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - CHC动作电影
+#EXTINF:-1 group-title="华数套餐",华数 - CHC动作电影
 http://222.246.232.154/live01.cache.m.wasu.com/dongzuody/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - CHC家庭影院
+#EXTINF:-1 group-title="华数套餐",华数 - CHC家庭影院
 http://222.246.232.154/live01.cache.m.wasu.com/jiatingyy/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - CCTV-风云足球
+#EXTINF:-1 group-title="华数套餐",华数 - CCTV-风云足球
 http://222.246.232.154/live01.cache.m.wasu.com/fengyunzq/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - CCTV-发现之旅
+#EXTINF:-1 group-title="华数套餐",华数 - CCTV-发现之旅
 http://222.246.232.154/live01.cache.m.wasu.com/faxianzl/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 寰宇探奇
+#EXTINF:-1 group-title="华数套餐",华数 - 寰宇探奇
 http://222.246.232.154/live01.cache.m.wasu.com/huanyutq/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 环球奇观
+#EXTINF:-1 group-title="华数套餐",华数 - 环球奇观
 http://222.246.232.154/live01.cache.m.wasu.com/huanqiuqg/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 车迷频道
+#EXTINF:-1 group-title="华数套餐",华数 - 车迷频道
 http://222.246.232.154/live01.cache.m.wasu.com/chemipd/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 快乐宠物
+#EXTINF:-1 group-title="华数套餐",华数 - 快乐宠物
 http://222.246.232.154/live01.cache.m.wasu.com/kuailecw/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 人文纪录
+#EXTINF:-1 group-title="华数套餐",华数 - 人文纪录
 http://222.246.232.154/live01.cache.m.wasu.com/cctv9-w1/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 综艺晚会
+#EXTINF:-1 group-title="华数套餐",华数 - 综艺晚会
 http://222.246.232.154/live01.cache.m.wasu.com/zongyiwh/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 戏曲联播
+#EXTINF:-1 group-title="华数套餐",华数 - 戏曲联播
 http://222.246.232.154/live01.cache.m.wasu.com/xiqulb/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 历史剧场
+#EXTINF:-1 group-title="华数套餐",华数 - 历史剧场
 http://222.246.232.154/live01.cache.m.wasu.com/lishijc/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 情感剧场
+#EXTINF:-1 group-title="华数套餐",华数 - 情感剧场
 http://222.246.232.154/live01.cache.m.wasu.com/qingganjc/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 偶像剧场
+#EXTINF:-1 group-title="华数套餐",华数 - 偶像剧场
 http://222.246.232.154/live01.cache.m.wasu.com/ouxiangjc/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 男人剧场
+#EXTINF:-1 group-title="华数套餐",华数 - 男人剧场
 http://222.246.232.154live01.cache.m.wasu.com/nanrenjc/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 港台剧场
+#EXTINF:-1 group-title="华数套餐",华数 - 港台剧场
 http://222.246.232.154/live01.cache.m.wasu.com/gangtaijc/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 日韩剧场
+#EXTINF:-1 group-title="华数套餐",华数 - 日韩剧场
 http://222.246.232.154/live01.cache.m.wasu.com/rihanjc/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 亚洲影院
+#EXTINF:-1 group-title="华数套餐",华数 - 亚洲影院
 http://222.246.232.154/live01.cache.m.wasu.com/yazhouyy/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 欧美影院
+#EXTINF:-1 group-title="华数套餐",华数 - 欧美影院
 http://222.246.232.154/live01.cache.m.wasu.com/oumeiyy/z.m3u8
-#EXTINF:-1 group-title="华数222",华数222 - 亚洲影院心月
+#EXTINF:-1 group-title="华数套餐",华数 - 亚洲影院心月
 http://124.160.124.24/bd_yzyy/z.m3u8
 
 
@@ -3147,233 +2588,300 @@ http://183.207.249.7/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 group-title="江苏移动",江苏移动 - CIBN精品大剧
 http://183.207.249.7/PLTV/3/224/3221225569/index.m3u8
 
-#EXTINF:-1 group-title="台湾频道",台湾 - 美食星球
+
+
+
+#EXTINF:-1 group-title="港澳台频道",港澳 - 凤凰中文HD
+http://111.20.115.242/live/stream5.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 凤凰资讯HD
+http://111.20.115.242/live/stream7.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 凤凰香港台
+http://111.20.115.242/live/stream1.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 星空电视
+rtmp://flash.supersky.ch/live/supersky/livestream
+#EXTINF:-1 group-title="港澳台频道",港澳 - 香港卫视
+rtmp://live.hkstv.hk.lxdns.com/live/hks
+#EXTINF:-1 group-title="港澳台频道",港澳 - UNb亚洲联合卫视
+http://tv.unbtv.tv/app_2/ls_1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 香港电视HKTV
+http://14.198.245.114:8088/hktvlive/hktv_576p_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=5e431c85-2915-40a9-9246-0b5e494700e5&uid=1&vid=1&mxres=1920&s=cba70a883505956ec617bc36aace7886
+#EXTINF:-1 group-title="港澳台频道",港澳 - 亚太第一卫视One TV
+rtmp://v1.one-tv.com:1935/live/mpegts.stream
+#EXTINF:-1 group-title="港澳台频道",港澳 - 华娱卫视
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 阳光卫视
+rtmp://www.isuntv.com/live/ts.stream
+#EXTINF:-1 group-title="港澳台频道",港澳 - 本港台
+http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 本港台不同节目
+rtmp://kv1.ts33.net/sat/hk031
+#EXTINF:-1 group-title="港澳台频道",港澳 - 本港国际台
+rtmp://183.238.77.4:1935/dvr/30185.stream
+#EXTINF:-1 group-title="港澳台频道",港澳 - 澳亚卫视
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 凤凰资讯
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 凤凰香港
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 凤凰美洲
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 凤凰中文
+http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 华夏电视台
+http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 华语电视1台
+http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/hyds/as/live/hyds_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 华语电视2台
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 澳门博览
+rtmp://kv1.ts33.net/sat/hk041
+#EXTINF:-1 group-title="港澳台频道",港澳 - 澳门莲花卫视
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",港澳 - 澳视澳门
+rtmp://live4.tdm.com.mo:80/tv/ch1.live
+#EXTINF:-1 group-title="港澳台频道",港澳 - 澳门-Macau
+rtmp://live2.tdm.com.mo:80/tv/ch3.live
+#EXTINF:-1 group-title="港澳台频道",港澳 - 新唐人电视(国语)
+rtmp://123.108.164.71/etv2/phd1058
+#EXTINF:-1 group-title="港澳台频道",港澳 - 新唐人亚太台
+rtmp://123.108.164.71/etv2/phd926
+#EXTINF:-1 group-title="港澳台频道",港澳 - 有线体育
+rtmp://kv1.ts33.net/sat/hk011
+#EXTINF:-1 group-title="港澳台频道",港澳 - 有线足球
+rtmp://kv1.ts33.net/sat/hk021
+#EXTINF:-1 group-title="港澳台频道",港澳 - 香港|HKTV
+http://14.198.245.129:8088/hktvlive/hktv_576p_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=2ab17bc1-2ee0-44d4-934e-053430671eb4&uid=1&vid=1&mxres=1920&s=0f9ab3830cf484d7f5843628b25eb9a7
+#EXTINF:-1 group-title="港澳台频道",港澳 - 翡翠台
+rtmp://183.238.77.4:1935/dvr/30182.stream
+#EXTINF:-1 group-title="港澳台频道",港澳 - 明珠台
+rtmp://183.238.77.4:1935/dvr/30184.stream
+#EXTINF:-1 group-title="港澳台频道",台湾 - 美食星球
 http://video01-lax.streamup.com/app/starfoods-stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - TVB明珠台
+#EXTINF:-1 group-title="港澳台频道",台湾 - TVB明珠台
 http://14.199.245.83:9981/stream/channelid/1?ticket=03A82DEB272A1C135DD06C126A04007CBCFEDF75
-#EXTINF:-1 group-title="台湾频道",台湾 - ATV World
+#EXTINF:-1 group-title="港澳台频道",台湾 - ATV World
 http://14.199.245.83:9981/stream/channelid/2?ticket=DD50BA211BD7AB995B4927031D35D239156B545A
-#EXTINF:-1 group-title="台湾频道",台湾 - TVB翡翠台
+#EXTINF:-1 group-title="港澳台频道",台湾 - TVB翡翠台
 http://14.199.245.83:9981/stream/channelid/3?ticket=F0059C53696F2212AAE520A46F1D1A38DCA14B43
-#EXTINF:-1 group-title="台湾频道",台湾 - 本港台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 本港台
 http://14.199.245.83:9981/stream/channelid/4?ticket=0E906BF19D32395536B73B3C9CC5619788723E87
-#EXTINF:-1 group-title="台湾频道",台湾 - TVB J2
+#EXTINF:-1 group-title="港澳台频道",台湾 - TVB J2
 http://14.199.245.83:9981/stream/channelid/5?ticket=01C7CC16EF8184CADA47403285FAB4F6C455A65D
-#EXTINF:-1 group-title="台湾频道",台湾 - 互动新闻台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 互动新闻台
 http://14.199.245.83:9981/stream/channelid/6?ticket=729EF9DE7947825A395068527FE672A79769E9B0 
-#EXTINF:-1 group-title="台湾频道",台湾 - 高清翡翠台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 高清翡翠台
 http://14.199.245.83:9981/stream/channelid/7?ticket=E3E716B35E64EA4EC4044F8266289B450CB20C6E
-#EXTINF:-1 group-title="台湾频道",台湾 - 本港亚洲台,
+#EXTINF:-1 group-title="港澳台频道",台湾 - 本港亚洲台,
 http://14.199.245.83:9981/stream/channelid/8?ticket=679C8A2DAB5FCBB4067D5AF2EE0916561700C75C
-#EXTINF:-1 group-title="台湾频道",台湾 - ATV岁月留声
+#EXTINF:-1 group-title="港澳台频道",台湾 - ATV岁月留声
 http://14.199.245.83:9981/stream/channelid/9?ticket=2662780DA2E65C6001A530F5C305525889E14ECB 
-#EXTINF:-1 group-title="台湾频道",台湾 - ATV,
+#EXTINF:-1 group-title="港澳台频道",台湾 - ATV,
 http://14.199.245.83:9981/stream/channelid/10?ticket=679C8A2DAB5FCBB4067D5AF2EE0916561700C75C
-#EXTINF:-1 group-title="台湾频道",台湾 - 深圳卫视
+#EXTINF:-1 group-title="港澳台频道",台湾 - 深圳卫视
 http://14.199.245.83:9981/stream/channelid/11?ticket=981D4665979C9EBF81D19CD4F4F3C55CE96F4917
-#EXTINF:-1 group-title="台湾频道",台湾民视HD
+#EXTINF:-1 group-title="港澳台频道",台湾民视HD
 http://59.120.43.180:17334
-#EXTINF:-1 group-title="台湾频道",台湾民视新闻HD
+#EXTINF:-1 group-title="港澳台频道",台湾民视新闻HD
 http://59.120.43.180:17355
-#EXTINF:-1 group-title="台湾频道",台湾非凡商业
+#EXTINF:-1 group-title="港澳台频道",台湾非凡商业
 http://59.120.43.180:17366
-#EXTINF:-1 group-title="台湾频道",台湾台视HD
+#EXTINF:-1 group-title="港澳台频道",台湾台视HD
 http://59.120.43.180:17822
-#EXTINF:-1 group-title="台湾频道",台湾中视
+#EXTINF:-1 group-title="港澳台频道",台湾中视
 http://59.120.43.180:17837
-#EXTINF:-1 $ExtFilter="台湾新闻",中天新闻
+#EXTINF:-1 $ExtFilter="港澳台频道",中天新闻
 http://59.120.43.180:17824
-#EXTINF:-1 $ExtFilter="台湾新闻",中视新闻
+#EXTINF:-1 $ExtFilter="港澳台频道",中视新闻
 http://59.120.43.180:17838
-#EXTINF:-1 group-title="台湾频道",台湾 - 本港台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 本港台
 http://218.65.131.178:1935/www.zbatv.com1/www.zbatv.com/playlist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - BBC WORLDHD
+#EXTINF:-1 group-title="港澳台频道",台湾 - BBC WORLDHD
 http://220.228.38.7/live/fet001/chunklist_wlive.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 民视新闻台HD
+#EXTINF:-1 group-title="港澳台频道",台湾 - 民视新闻台HD
 http://220.228.38.7/live/fet002/chunklist_wlive.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 东森新闻 HD
+#EXTINF:-1 group-title="港澳台频道",台湾 - 东森新闻 HD
 http://220.228.38.7/live/fet003/chunklist_wlive.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 东森财经新闻
+#EXTINF:-1 group-title="港澳台频道",台湾 - 东森财经新闻
 http://220.228.38.7/live/fet004/chunklist_wlive.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - TVBS新闻台HD
+#EXTINF:-1 group-title="港澳台频道",台湾 - TVBS新闻台HD
 http://220.228.49.7/live/fet005/chunklist_wlive.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 中天新闻台HD
+#EXTINF:-1 group-title="港澳台频道",台湾 - 中天新闻台HD
 http://220.228.38.7/live/fet006/chunklist_wlive.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 远传Friday影视
+#EXTINF:-1 group-title="港澳台频道",台湾 - 远传Friday影视
 http://220.228.38.7/live/fet007/chunklist_wlive.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 壹电视新闻
+#EXTINF:-1 group-title="港澳台频道",台湾 - 壹电视新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 台视
+#EXTINF:-1 group-title="港澳台频道",台湾 - 台视
 http://210.200.79.26:1935/live/ttv.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 台视综合
+#EXTINF:-1 group-title="港澳台频道",台湾 - 台视综合
 http://210.200.79.26:1935/live/tcch10/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 台视美洲
+#EXTINF:-1 group-title="港澳台频道",台湾 - 台视美洲
 http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 中视1
+#EXTINF:-1 group-title="港澳台频道",台湾 - 中视1
 http://210.200.79.26:1935/live/ctv.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 中视2(节目有不同)
+#EXTINF:-1 group-title="港澳台频道",台湾 - 中视2(节目有不同)
 http://210.200.79.26:1935/live/ctvhd/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 中视综艺
+#EXTINF:-1 group-title="港澳台频道",台湾 - 中视综艺
 http://210.200.79.26:1935/live/ctv_all.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 华视
+#EXTINF:-1 group-title="港澳台频道",台湾 - 华视
 http://210.200.79.26:1935/live/cts.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 华视综合娱乐
+#EXTINF:-1 group-title="港澳台频道",台湾 - 华视综合娱乐
 http://210.200.79.26:1935/live/ctshd/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 民视1
+#EXTINF:-1 group-title="港澳台频道",台湾 - 民视1
 http://210.200.79.26:1935/live/ftvw_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 民视2(节目有不同)
+#EXTINF:-1 group-title="港澳台频道",台湾 - 民视2(节目有不同)
 http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 民视四季
+#EXTINF:-1 group-title="港澳台频道",台湾 - 民视四季
 http://210.200.79.26:1935/live/hotmoviehd/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 数位四季台FASTV
+#EXTINF:-1 group-title="港澳台频道",台湾 - 数位四季台FASTV
 http://210.200.79.26:1935/live/fourCZn/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 民视旅游台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 民视旅游台
 http://210.200.79.26:1935/live/ftvtravel_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 民视综艺
+#EXTINF:-1 group-title="港澳台频道",台湾 - 民视综艺
 http://210.200.79.26:1935/live/program_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 民视戏剧
+#EXTINF:-1 group-title="港澳台频道",台湾 - 民视戏剧
 http://210.200.79.26:1935/live/drama_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 民视交通
+#EXTINF:-1 group-title="港澳台频道",台湾 - 民视交通
 http://210.200.79.26:1935/live/ftvm_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 纬来精采
+#EXTINF:-1 group-title="港澳台频道",台湾 - 纬来精采
 rtmp://kv3.ts33.net:1935/sat/us172
-#EXTINF:-1 group-title="台湾频道",台湾 - 纬来综合台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 纬来综合台
 rtmp://kv3.ts33.net/sat/tv262
-#EXTINF:-1 group-title="台湾频道",台湾 - 纬来育乐台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 纬来育乐台
 rtmp://kv3.ts33.net/sat/tv702
-#EXTINF:-1 group-title="台湾频道",台湾 - 纬来体育台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 纬来体育台
 rtmp://kv3.ts33.net/sat/tv722
-#EXTINF:-1 group-title="台湾频道",台湾 - 纬来电影台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 纬来电影台
 rtsp://u2.itvitv.com/vlm.ppkjpkmagwtdnhgb
-#EXTINF:-1 group-title="台湾频道",台湾 - 八大第一台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 八大第一台
 http://210.200.79.26:1935/live/gtv_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 东森美洲
+#EXTINF:-1 group-title="港澳台频道",台湾 - 东森美洲
 http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 东森幼幼
+#EXTINF:-1 group-title="港澳台频道",台湾 - 东森幼幼
 http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - TVBS欢乐台
+#EXTINF:-1 group-title="港澳台频道",台湾 - TVBS欢乐台
 rtmp://kv3.ts33.net/sat/tv422
-#EXTINF:-1 group-title="台湾频道",台湾 - 中天娱乐
+#EXTINF:-1 group-title="港澳台频道",台湾 - 中天娱乐
 rtmp://kv3.ts33.net/sat/tv392
-#EXTINF:-1 group-title="台湾频道",台湾 - 中天综合
+#EXTINF:-1 group-title="港澳台频道",台湾 - 中天综合
 http://210.200.79.26:1935/live/cti1_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 哈电影1
+#EXTINF:-1 group-title="港澳台频道",台湾 - 哈电影1
 http://210.200.79.26:1935/live/hotmovie_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 哈电影2
+#EXTINF:-1 group-title="港澳台频道",台湾 - 哈电影2
 http://210.200.79.26:1935/live/hotmoviehd/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 猪哥秀
+#EXTINF:-1 group-title="港澳台频道",台湾 - 猪哥秀
 http://210.200.79.26:1935/live/pig_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 卫视中文台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 卫视中文台
 http://stream.connectcast.tv:1935/live/mp4:CC-99C4B86D-DF51-EC78-B359-8FD7D6358B1F-16658/chunklist_w479465325.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 三立台湾台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 三立台湾台
 rtmp://kv3.ts33.net:1935/sat/tv292
-#EXTINF:-1 group-title="台湾频道",台湾 - 非凡新闻台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 非凡新闻台
 http://streamup.global.ssl.fastly.net/app/wgg-ubns-channel/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - catchply西片台
+#EXTINF:-1 group-title="港澳台频道",台湾 - catchply西片台
 http://210.200.79.26:1935/live/CPWestern/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - catchply亚洲台
+#EXTINF:-1 group-title="港澳台频道",台湾 - catchply亚洲台
 http://210.200.79.26:1935/live/CPAsian/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - catchply电影台
+#EXTINF:-1 group-title="港澳台频道",台湾 - catchply电影台
 http://210.200.79.26:1935/live/chply/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 核能小清新(韩主播)
+#EXTINF:-1 group-title="港澳台频道",台湾 - 核能小清新(韩主播)
 http://dlhls.cdn.zhanqi.tv/zqlive/88945_Kligp.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 韩国少女MV
+#EXTINF:-1 group-title="港澳台频道",台湾 - 韩国少女MV
 http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - FOX-1
+#EXTINF:-1 group-title="港澳台频道",台湾 - FOX-1
 rtmp://kv3.ts33.net/sat/tv732
-#EXTINF:-1 group-title="台湾频道",台湾 - FOX-2
+#EXTINF:-1 group-title="港澳台频道",台湾 - FOX-2
 rtmp://kv3.ts33.net/sat/tv742
-#EXTINF:-1 group-title="台湾频道",台湾 - 现在电视 EVE
+#EXTINF:-1 group-title="港澳台频道",台湾 - 现在电视 EVE
 http://210.200.79.26:1935/live/Dhome_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 博斯运动
+#EXTINF:-1 group-title="港澳台频道",台湾 - 博斯运动
 rtmp://kv3.ts33.net:1935/sat/us172
-#EXTINF:-1 group-title="台湾频道",台湾 - 博斯足球
+#EXTINF:-1 group-title="港澳台频道",台湾 - 博斯足球
 rtmp://lv1.ts33.net:1935/sat/us292
-#EXTINF:-1 group-title="台湾频道",台湾 - 爱尔达育乐台
+#EXTINF:-1 group-title="港澳台频道",台湾 - 爱尔达育乐台
 rtmp://kv3.ts33.net/sat/us162
-#EXTINF:-1 group-title="台湾频道",台湾 - HIM 华研音乐
+#EXTINF:-1 group-title="港澳台频道",台湾 - HIM 华研音乐
 http://210.200.79.26:1935/live/himmusichd/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - CN卡通
+#EXTINF:-1 group-title="港澳台频道",台湾 - CN卡通
 http://210.200.79.26:1935/live/cncartoon_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 爱放动漫
+#EXTINF:-1 group-title="港澳台频道",台湾 - 爱放动漫
 http://210.200.79.26:1935/live/ifunhd/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 爱放卡通2
+#EXTINF:-1 group-title="港澳台频道",台湾 - 爱放卡通2
 http://210.200.79.26:1935/live/tcch03/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 靖洋卡通
+#EXTINF:-1 group-title="港澳台频道",台湾 - 靖洋卡通
 http://210.200.79.26:1935/live/tcch16/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - UDN电视
+#EXTINF:-1 group-title="港澳台频道",台湾 - UDN电视
 http://210.200.79.26:1935/live/tcch06/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 靖天映画
+#EXTINF:-1 group-title="港澳台频道",台湾 - 靖天映画
 http://210.200.79.26:1935/live/gd_image.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 靖天电影
+#EXTINF:-1 group-title="港澳台频道",台湾 - 靖天电影
 http://210.200.79.26:1935/live/gd_movie.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 靖天育乐
+#EXTINF:-1 group-title="港澳台频道",台湾 - 靖天育乐
 http://210.200.79.26:1935/live/tcch14/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 靖天NlCE
+#EXTINF:-1 group-title="港澳台频道",台湾 - 靖天NlCE
 http://210.200.79.26:1935/live/tcch17/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 靖洋戏剧
+#EXTINF:-1 group-title="港澳台频道",台湾 - 靖洋戏剧
 http://210.200.79.26:1935/live/tcch13/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 靖天综合
+#EXTINF:-1 group-title="港澳台频道",台湾 - 靖天综合
 http://210.200.79.26:1935/live/tcch08/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 靖天日本
+#EXTINF:-1 group-title="港澳台频道",台湾 - 靖天日本
 http://210.200.79.26:1935/live/tcch11/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 靖天演唱会
+#EXTINF:-1 group-title="港澳台频道",台湾 - 靖天演唱会
 http://210.200.79.26:1935/live/tcch18/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 靖天音乐1
+#EXTINF:-1 group-title="港澳台频道",台湾 - 靖天音乐1
 http://210.200.79.26:1935/live/tcch19/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 靖天音乐2
+#EXTINF:-1 group-title="港澳台频道",台湾 - 靖天音乐2
 http://210.200.79.26:1935/live/tcch20/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 人间卫视
+#EXTINF:-1 group-title="港澳台频道",台湾 - 人间卫视
 http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 公视
+#EXTINF:-1 group-title="港澳台频道",台湾 - 公视
 http://streamup.global.ssl.fastly.net/app/tvb8s-stream/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - LamigoTV棒球台
+#EXTINF:-1 group-title="港澳台频道",台湾 - LamigoTV棒球台
 http://210.200.79.26:1935/live/lmgtv/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - sundance日舞电影台
+#EXTINF:-1 group-title="港澳台频道",台湾 - sundance日舞电影台
 http://210.200.79.26:1935/live/usun.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - CHC动作电影
+#EXTINF:-1 group-title="港澳台频道",台湾 - CHC动作电影
 http://live.cdn.cmvideo.cn:8088/ws_x/heshijie2m/2000/01.m3u8?msisdn=2175555665365&mdspid=&spid=699013&netType=6&sid=2202264749&pid=2028593060&timestamp=20151201065605&Channel_ID=3012_40060000000&ProgramID=603428105&ParentNodeID=7&encrypt=7ce2eded8ac371261dfb9866dd2674af&date=121221312301001066423330&nphaid=155_0
-#EXTINF:-1 group-title="台湾频道",台湾 - 连文西教学
+#EXTINF:-1 group-title="港澳台频道",台湾 - 连文西教学
 http://210.200.79.26:1935/live/udavinci.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - edge极限
+#EXTINF:-1 group-title="港澳台频道",台湾 - edge极限
 http://210.200.79.26:1935/live/uedge.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - WOWO故事屋
+#EXTINF:-1 group-title="港澳台频道",台湾 - WOWO故事屋
 http://210.200.79.26:1935/live/wowostoryc/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 认识台湾
+#EXTINF:-1 group-title="港澳台频道",台湾 - 认识台湾
 http://210.200.79.26:1935/live/tcch05/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 原视
+#EXTINF:-1 group-title="港澳台频道",台湾 - 原视
 http://210.200.79.26:1935/live/tcch09/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 大爱2
+#EXTINF:-1 group-title="港澳台频道",台湾 - 大爱2
 http://210.200.79.26:1935/live/Di_sp.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 好消息
+#EXTINF:-1 group-title="港澳台频道",台湾 - 好消息
 http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
-#EXTINF:-1 group-title="台湾频道",台湾 - 宏观卫视
+#EXTINF:-1 group-title="港澳台频道",台湾 - 宏观卫视
 http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/as/live/mactv_4.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",台视新闻台
+#EXTINF:-1 $ExtFilter="港澳台频道",台视新闻台
 http://210.200.79.26:1935/live/tcch07/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",台视财经
+#EXTINF:-1 $ExtFilter="港澳台频道",台视财经
 http://210.200.79.26:1935/live/ttv_fin.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",华视新闻资讯
+#EXTINF:-1 $ExtFilter="港澳台频道",华视新闻资讯
 http://210.200.79.26:1935/live/cts_news.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",民视新闻
+#EXTINF:-1 $ExtFilter="港澳台频道",民视新闻
 http://210.200.79.26:1935/live/ftvn_sp.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",东森新闻HD
+#EXTINF:-1 $ExtFilter="港澳台频道",东森新闻HD
 http://210.200.79.26:1935/live/swente/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",东森美洲新闻台
+#EXTINF:-1 $ExtFilter="港澳台频道",东森美洲新闻台
 http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",东森财经新闻
+#EXTINF:-1 $ExtFilter="港澳台频道",东森财经新闻
 rtmp://kv3.ts33.net/sat/tv572
-#EXTINF:-1 $ExtFilter="台湾新闻",TVBS新闻
+#EXTINF:-1 $ExtFilter="港澳台频道",TVBS新闻
 http://210.200.79.26:1935/live/tvbsnhd/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",TVBS创富新闻
+#EXTINF:-1 $ExtFilter="港澳台频道",TVBS创富新闻
 http://210.200.79.26:1935/live/tvbs_sp.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",年代新闻
+#EXTINF:-1 $ExtFilter="港澳台频道",年代新闻
 http://streamup.global.ssl.fastly.net/app/wjj-eras-channel/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",三立新闻台
+#EXTINF:-1 $ExtFilter="港澳台频道",三立新闻台
 http://streamup.global.ssl.fastly.net/app/mirror582sts-channel/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",非凡商业
+#EXTINF:-1 $ExtFilter="港澳台频道",非凡商业
 http://210.200.79.26:1935/live/ustvc_sp.sdp/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="台湾新闻",非凡新闻
+#EXTINF:-1 $ExtFilter="港澳台频道",非凡新闻
 http://210.200.79.26:1935/live/ustvn_sp.sdp/chunklist.m3u8
 
 
@@ -3428,35 +2936,37 @@ http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv9/as/live/cctv9_4.m3u8
 
 
 
-#EXTINF:-1 group-title="实施生活",实施生活 - 实施生活ashion TV
+#EXTINF:-1 group-title="生活时尚",生活时尚 - 生活时尚ashion TV
 rtsp://edgeb.streaming.sk:554/fashiontv/mp4:fashiontv.stream
-#EXTINF:-1 group-title="实施生活",实施生活 - 芭莎TV
+#EXTINF:-1 group-title="生活时尚",生活时尚 - 芭莎TV
 http://icntv.xyz/letv/lb_bsTV_1300.m3u8
-#EXTINF:-1 group-title="实施生活",实施生活 - 中国国际时装周
+#EXTINF:-1 group-title="生活时尚",生活时尚 - 中国国际时装周
 http://icntv.xyz/letv/lb_shizhuang_1000.m3u8
-#EXTINF:-1 group-title="实施生活",实施生活 - FTV热电视
+#EXTINF:-1 group-title="生活时尚",生活时尚 - FTV热电视
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/ftv_hot-tablet.3gp/ftv_hot-tablet.3gp-mr648k.m3u8?
-#EXTINF:-1 group-title="实施生活",实施生活 - 世界报电视Kayhan TV
+#EXTINF:-1 group-title="生活时尚",生活时尚 - 世界报电视Kayhan TV
 rtmp://playout395.livestreamingcdn.com/live//Stream1
-#EXTINF:-1 group-title="实施生活",实施生活 - 法国时尚娱乐
+#EXTINF:-1 group-title="生活时尚",生活时尚 - 法国时尚娱乐
 http://210.200.79.26:1935/live/ufash.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="实施生活",实施生活 - 印度mtv频道
+#EXTINF:-1 group-title="生活时尚",生活时尚 - 印度mtv频道
 http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/index_1100_av-b.m3u8
-#EXTINF:-1 group-title="实施生活",实施生活 - 音乐BIGPOND MUSIC 1
+#EXTINF:-1 group-title="生活时尚",生活时尚 - 音乐BIGPOND MUSIC 1
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
-#EXTINF:-1 group-title="实施生活",实施生活 - 音乐-EskaTV 2
+#EXTINF:-1 group-title="生活时尚",生活时尚 - 音乐-EskaTV 2
 rtmp://stream.smcloud.net:1935/live2/eskatv/eskatv_360p
-#EXTINF:-1 group-title="实施生活",实施生活 - 音乐-TV7Plus 3
+#EXTINF:-1 group-title="生活时尚",生活时尚 - 音乐-TV7Plus 3
 rtmp://vod.tv7.fi:1935/tv7plus-web/_definst_/mp4:tv7plus.stream_360p
-#EXTINF:-1 group-title="实施生活",实施生活 - M20音乐频道
+#EXTINF:-1 group-title="生活时尚",生活时尚 - M20音乐频道
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 group-title="实施生活",实施生活 - 好美味
+#EXTINF:-1 group-title="生活时尚",生活时尚 - 好美味
 http://182.92.189.193:1935/live/h_food_1/playlist.m3u8
-#EXTINF:-1 group-title="实施生活",实施生活 - 时尚19
+#EXTINF:-1 group-title="生活时尚",中华美食
+http://61.189.255.152/live.aishang.ctlcdn.com/00000110240271_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="生活时尚",生活时尚 - 时尚19
 rtmp://edge2.everyon.tv/etv2/pld24
-#EXTINF:-1 group-title="实施生活",实施生活 - 时尚生活Pik-TV HD
+#EXTINF:-1 group-title="生活时尚",生活时尚 - Pik-TV HD
 rtsp://fms.pik-tv.com/live/piktv3pik3tv
-#EXTINF:-1 group-title="实施生活",实施生活 - FTV HD
+#EXTINF:-1 group-title="生活时尚",生活时尚 - FTV HD
 rtmp://95.67.8.43:1935/live/fashionhd
 
 #EXTINF:-1 group-title="日本频道",日本直播
@@ -3470,168 +2980,104 @@ http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
 #EXTINF:-1 group-title="日本频道",日本购物4
 http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 
-#EXTINF:-1 group-title="港澳频道",港澳 - 凤凰中文HD
-http://111.20.115.242/live/stream5.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 凤凰资讯HD
-http://111.20.115.242/live/stream7.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 凤凰香港台
-http://111.20.115.242/live/stream1.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 星空电视
-rtmp://flash.supersky.ch/live/supersky/livestream
-#EXTINF:-1 group-title="港澳频道",港澳 - 香港卫视
-rtmp://live.hkstv.hk.lxdns.com/live/hks
-#EXTINF:-1 group-title="港澳频道",港澳 - UNb亚洲联合卫视
-http://tv.unbtv.tv/app_2/ls_1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 香港电视HKTV
-http://14.198.245.114:8088/hktvlive/hktv_576p_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=5e431c85-2915-40a9-9246-0b5e494700e5&uid=1&vid=1&mxres=1920&s=cba70a883505956ec617bc36aace7886
-#EXTINF:-1 group-title="港澳频道",港澳 - 亚太第一卫视One TV
-rtmp://v1.one-tv.com:1935/live/mpegts.stream
-#EXTINF:-1 group-title="港澳频道",港澳 - 华娱卫视
-http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 阳光卫视
-rtmp://www.isuntv.com/live/ts.stream
-#EXTINF:-1 group-title="港澳频道",港澳 - 本港台
-http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 本港台不同节目
-rtmp://kv1.ts33.net/sat/hk031
-#EXTINF:-1 group-title="港澳频道",港澳 - 本港国际台
-rtmp://183.238.77.4:1935/dvr/30185.stream
-#EXTINF:-1 group-title="港澳频道",港澳 - 澳亚卫视
-http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 凤凰资讯
-http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 凤凰香港
-http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 凤凰美洲
-http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 凤凰中文
-http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 华夏电视台
-http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 华语电视1台
-http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/hyds/as/live/hyds_4.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 华语电视2台
-http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 澳门博览
-rtmp://kv1.ts33.net/sat/hk041
-#EXTINF:-1 group-title="港澳频道",港澳 - 澳门莲花卫视
-http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8
-#EXTINF:-1 group-title="港澳频道",港澳 - 澳视澳门
-rtmp://live4.tdm.com.mo:80/tv/ch1.live
-#EXTINF:-1 group-title="港澳频道",港澳 - 澳门-Macau
-rtmp://live2.tdm.com.mo:80/tv/ch3.live
-#EXTINF:-1 group-title="港澳频道",港澳 - 新唐人电视(国语)
-rtmp://123.108.164.71/etv2/phd1058
-#EXTINF:-1 group-title="港澳频道",港澳 - 新唐人亚太台
-rtmp://123.108.164.71/etv2/phd926
-#EXTINF:-1 group-title="港澳频道",港澳 - 有线体育
-rtmp://kv1.ts33.net/sat/hk011
-#EXTINF:-1 group-title="港澳频道",港澳 - 有线足球
-rtmp://kv1.ts33.net/sat/hk021
-#EXTINF:-1 group-title="港澳频道",港澳 - 香港|HKTV
-http://14.198.245.129:8088/hktvlive/hktv_576p_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=2ab17bc1-2ee0-44d4-934e-053430671eb4&uid=1&vid=1&mxres=1920&s=0f9ab3830cf484d7f5843628b25eb9a7
-#EXTINF:-1 group-title="港澳频道",港澳 - 翡翠台
-rtmp://183.238.77.4:1935/dvr/30182.stream
-#EXTINF:-1 group-title="港澳频道",港澳 - 明珠台
-rtmp://183.238.77.4:1935/dvr/30184.stream
 
 
 
 
-#EXTINF:-1 group-title="战旗频道",战旗 - 韩国少女MV
-http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
-#EXTINF:-1 group-title="战旗频道",战旗 - 韩国娱乐KMTV
-http://210.200.79.26:1935/live/ukmtv.sdp/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="韩国频道",韩国 - KTVHD高清1920*1080
+#EXTINF:-1 group-title="韩国套餐",韩国 - KTVHD高清1920*1080
 rtmp://218.38.152.31:1935/klive/klive.stream
-#EXTINF:-1 group-title="韩国频道",韩国 - SBS HD
+#EXTINF:-1 group-title="韩国套餐",韩国 - SBS HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs
-#EXTINF:-1 group-title="韩国频道",韩国 - MBC HD
+#EXTINF:-1 group-title="韩国套餐",韩国 - MBC HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_mbc
-#EXTINF:-1 group-title="韩国频道",韩国 - KBS1 HD
+#EXTINF:-1 group-title="韩国套餐",韩国 - KBS1 HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs1
-#EXTINF:-1 group-title="韩国频道",韩国 - KBS1新闻
+#EXTINF:-1 group-title="韩国套餐",韩国 - KBS1新闻
 http://123.108.164.71/etv2sb/phd852/playlist.m3u8
-#EXTINF:-1 group-title="韩国频道",韩国 - KBS2 HD
+#EXTINF:-1 group-title="韩国套餐",韩国 - KBS2 HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs2
-#EXTINF:-1 group-title="韩国频道",韩国 - MBC MUSIC
+#EXTINF:-1 group-title="韩国套餐",韩国 - MBC MUSIC
 rtmp://rtmpplay3.idol001.com:1935/live/korea_mbcmusic
-#EXTINF:-1 group-title="韩国频道",韩国 - Mnet HD
+#EXTINF:-1 group-title="韩国套餐",韩国 - Mnet HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_mnet
-#EXTINF:-1 group-title="韩国频道",韩国 - TVN HD
+#EXTINF:-1 group-title="韩国套餐",韩国 - TVN HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_tvn
-#EXTINF:-1 group-title="韩国频道",韩国 - arirang HD
+#EXTINF:-1 group-title="韩国套餐",韩国 - arirang HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_arirang
-#EXTINF:-1 group-title="韩国频道",韩国 - SBS MTV HD
+#EXTINF:-1 group-title="韩国套餐",韩国 - SBS MTV HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_sbsmtv
-#EXTINF:-1 group-title="韩国频道",韩国 - MBC every1 HD
+#EXTINF:-1 group-title="韩国套餐",韩国 - MBC every1 HD
 rtmp://rtmpplay3.idol001.com:1935/live/korea_mbceveryone
-#EXTINF:-1 group-title="韩国频道",韩国 - KBS2娱乐
+#EXTINF:-1 group-title="韩国套餐",韩国 - KBS2娱乐
 http://123.108.164.71/etv2/phd847/playlist.m3u8
-#EXTINF:-1 group-title="韩国频道",韩国 - BBC
+#EXTINF:-1 group-title="韩国套餐",韩国 - BBC
 http://123.108.164.71/etv2sb/phd863/playlist.m3u8
-#EXTINF:-1 group-title="韩国频道",韩国 - 音乐
+#EXTINF:-1 group-title="韩国套餐",韩国 - 音乐
 http://123.108.164.71/etv2sb/phd4/playlist.m3u8
-#EXTINF:-1 group-title="韩国频道",韩国 - 动画片
+#EXTINF:-1 group-title="韩国套餐",韩国 - 动画片
 http://123.108.164.71/etv2sb/phd507/playlist.m3u8
-#EXTINF:-1 group-title="韩国频道",韩国 - 电视剧
+#EXTINF:-1 group-title="韩国套餐",韩国 - 电视剧
 http://123.108.164.71/etv2sb/phd509/playlist.m3u8
-#EXTINF:-1 group-title="韩国频道",韩国 - 电影
+#EXTINF:-1 group-title="韩国套餐",韩国 - 电影
 http://123.108.164.71/etv2/phd723/playlist.m3u8
-#EXTINF:-1 group-title="韩国频道",韩国 - SAFE
+#EXTINF:-1 group-title="韩国套餐",韩国 - SAFE
 http://123.108.164.71/etv2/phd109/playlist.m3u8
-#EXTINF:-1 group-title="韩国频道",韩国 - 中文电视剧
+#EXTINF:-1 group-title="韩国套餐",韩国 - 中文电视剧
 http://123.108.164.71/etv2/phd505/playlist.m3u8
-#EXTINF:-1 group-title="韩国频道",韩国 - 新唐人TND
+#EXTINF:-1 group-title="韩国套餐",韩国 - 新唐人TND
 http://123.108.164.71/etv2/phd1058/playlist.m3u8
-#EXTINF:-1 group-title="韩国频道",韩国 - 家装故事
+#EXTINF:-1 group-title="韩国套餐",韩国 - 家装故事
 rtmp://edge1.everyon.tv/etv1/phd1001
-#EXTINF:-1 group-title="韩国频道",韩国 - HomeStory HD
+#EXTINF:-1 group-title="韩国套餐",韩国 - HomeStory HD
 rtmp://edge1.everyon.tv/etv1/phd1016
-#EXTINF:-1 group-title="韩国频道",韩国 - 内衣秀
+#EXTINF:-1 group-title="韩国套餐",韩国 - 内衣秀
 rtmp://123.108.164.71/etv2sb/phd43
-#EXTINF:-1 group-title="韩国频道",韩国 - KBS1
+#EXTINF:-1 group-title="韩国套餐",韩国 - KBS1
 http://175.198.55.161:8871/KBS1_H
-#EXTINF:-1 group-title="韩国频道",韩国 - KBS2
+#EXTINF:-1 group-title="韩国套餐",韩国 - KBS2
 http://175.198.55.161:8871/KBS2_H
-#EXTINF:-1 group-title="韩国频道",韩国 - SBS
+#EXTINF:-1 group-title="韩国套餐",韩国 - SBS
 http://175.198.55.161:8871/SBS_H
-#EXTINF:-1 group-title="韩国频道",韩国 - MBC
+#EXTINF:-1 group-title="韩国套餐",韩国 - MBC
 http://175.198.55.161:8871/MBC_H
-#EXTINF:-1 group-title="韩国频道",韩国 - TVCHOSUN
+#EXTINF:-1 group-title="韩国套餐",韩国 - TVCHOSUN
 http://175.198.55.161:8871/TVCHOSUN_H
-#EXTINF:-1 group-title="韩国频道",韩国 - TVN
+#EXTINF:-1 group-title="韩国套餐",韩国 - TVN
 http://175.198.55.161:8871/TVN_H
-#EXTINF:-1 group-title="韩国频道",韩国 - JTBC
+#EXTINF:-1 group-title="韩国套餐",韩国 - JTBC
 http://175.198.55.161:8871/JTBC_H
-#EXTINF:-1 group-title="韩国频道",韩国 - Mnet
+#EXTINF:-1 group-title="韩国套餐",韩国 - Mnet
 http://175.198.55.161:8871/MNET_H
-#EXTINF:-1 group-title="韩国频道",韩国 - Superaction
+#EXTINF:-1 group-title="韩国套餐",韩国 - Superaction
 http://175.198.55.161:8871/SUPERACTION_H
-#EXTINF:-1 group-title="韩国频道",韩国 - OCN
+#EXTINF:-1 group-title="韩国套餐",韩国 - OCN
 http://175.198.55.161:8871/OCN_H
-#EXTINF:-1 group-title="韩国频道",韩国 - JEI
+#EXTINF:-1 group-title="韩国套餐",韩国 - JEI
 http://175.198.55.161:8871/JEI_H
-#EXTINF:-1 group-title="韩国频道",韩国 - YTN
+#EXTINF:-1 group-title="韩国套餐",韩国 - YTN
 http://175.198.55.161:8871/YTN_H
-#EXTINF:-1 group-title="韩国频道",韩国 - MBN
+#EXTINF:-1 group-title="韩国套餐",韩国 - MBN
 http://175.198.55.161:8871/MBN_H
-#EXTINF:-1 group-title="韩国频道",韩国 - Channel A
+#EXTINF:-1 group-title="韩国套餐",韩国 - Channel A
 http://175.198.55.161:8871/CHANNELA_H
-#EXTINF:-1 group-title="韩国频道",韩国 - SBS CNBC
+#EXTINF:-1 group-title="韩国套餐",韩国 - SBS CNBC
 http://175.198.55.161:8871/CNBC_H
-#EXTINF:-1 group-title="韩国频道",韩国 - FTV
+#EXTINF:-1 group-title="韩国套餐",韩国 - FTV
 http://175.198.55.161:8871/FTV_H
-#EXTINF:-1 group-title="韩国频道",韩国 - EBS1
+#EXTINF:-1 group-title="韩国套餐",韩国 - EBS1
 http://175.198.55.161:8871/EBS_H
-#EXTINF:-1 group-title="韩国频道",韩国 - EBSi
+#EXTINF:-1 group-title="韩国套餐",韩国 - EBSi
 http://175.198.55.161:8871/EBS1_H
-#EXTINF:-1 group-title="韩国频道",韩国 - SKY
+#EXTINF:-1 group-title="韩国套餐",韩国 - SKY
 http://175.198.55.161:8871/SKY_H
-#EXTINF:-1 group-title="韩国频道",韩国 - SBS Golf
+#EXTINF:-1 group-title="韩国套餐",韩国 - SBS Golf
 http://175.198.55.161:8871/SBSGOLF_H
-#EXTINF:-1 group-title="韩国频道",韩国 - JGOLF
+#EXTINF:-1 group-title="韩国套餐",韩国 - JGOLF
 http://175.198.55.161:8871/JGOLF_H
+#EXTINF:-1 group-title="韩国套餐",韩国 - J韩国少女MV
+http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
+#EXTINF:-1 group-title="韩国套餐",韩国 - J韩国娱乐KMTV
+http://210.200.79.26:1935/live/ukmtv.sdp/chunklist.m3u8

@@ -1,3 +1,598 @@
+20160225
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - CNN
+http://yingmaokeji.com/iptv/ootculb.php?id=0
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BBC
+http://yingmaokeji.com/iptv/ootculb.php?id=1
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 公視HD
+http://yingmaokeji.com/iptv/ootculb.php?id=2
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 公視
+http://yingmaokeji.com/iptv/ootculb.php?id=3
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FSTVHD
+http://yingmaokeji.com/iptv/ootculb.php?id=4
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 民視HD
+http://yingmaokeji.com/iptv/ootculb.php?id=5
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 台視HD
+http://yingmaokeji.com/iptv/ootculb.php?id=6
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 台視綜合台
+http://yingmaokeji.com/iptv/ootculb.php?id=7
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中視HD
+http://yingmaokeji.com/iptv/ootculb.php?id=8
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BRAVO菁采台
+http://yingmaokeji.com/iptv/ootculb.php?id=9
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 大愛HD
+http://yingmaokeji.com/iptv/ootculb.php?id=10
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 華視
+http://yingmaokeji.com/iptv/ootculb.php?id=11
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 探索科學台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=12
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DMAXHD
+http://yingmaokeji.com/iptv/ootculb.php?id=13
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - EVEHD
+http://yingmaokeji.com/iptv/ootculb.php?id=14
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理野生台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=15
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理優人台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=16
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理頻道台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=17
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DiscoveryHD
+http://yingmaokeji.com/iptv/ootculb.php?id=18
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TLC
+http://yingmaokeji.com/iptv/ootculb.php?id=19
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 動物星球台
+http://yingmaokeji.com/iptv/ootculb.php?id=20
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 卡通頻道台
+http://yingmaokeji.com/iptv/ootculb.php?id=21
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 迪士尼頻道台
+http://yingmaokeji.com/iptv/ootculb.php?id=22
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MOMO親子台
+http://yingmaokeji.com/iptv/ootculb.php?id=23
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森幼幼台
+http://yingmaokeji.com/iptv/ootculb.php?id=24
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來綜合台
+http://yingmaokeji.com/iptv/ootculb.php?id=25
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大第一台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=26
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大綜合台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=27
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立台灣台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=28
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立都會台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=29
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視中文台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=30
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森綜合台
+http://yingmaokeji.com/iptv/ootculb.php?id=31
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森超視台
+http://yingmaokeji.com/iptv/ootculb.php?id=32
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - ChannalMHD
+http://yingmaokeji.com/iptv/ootculb.php?id=33
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - KMTVHD
+http://yingmaokeji.com/iptv/ootculb.php?id=34
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天綜合台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=35
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東風衛視台
+http://yingmaokeji.com/iptv/ootculb.php?id=36
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MUCH台
+http://yingmaokeji.com/iptv/ootculb.php?id=37
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天娛樂台
+http://yingmaokeji.com/iptv/ootculb.php?id=38
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森戲劇台
+http://yingmaokeji.com/iptv/ootculb.php?id=39
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大戲劇台
+http://yingmaokeji.com/iptv/ootculb.php?id=40
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS歡樂台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=41
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來戲劇台
+http://yingmaokeji.com/iptv/ootculb.php?id=42
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 星衛娛樂台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=43
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視合家歡台
+http://yingmaokeji.com/iptv/ootculb.php?id=44
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - JET綜合台
+http://yingmaokeji.com/iptv/ootculb.php?id=45
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DIVAHD
+http://yingmaokeji.com/iptv/ootculb.php?id=46
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - SYFYHD
+http://yingmaokeji.com/iptv/ootculb.php?id=47
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 壹電視新聞台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=48
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 年代新聞台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=49
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森新聞台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=50
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天新聞台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=51
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 民視新聞台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=52
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立新聞台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=53
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS新聞台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=54
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=55
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森財經新聞台
+http://yingmaokeji.com/iptv/ootculb.php?id=56
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 非凡新聞台
+http://yingmaokeji.com/iptv/ootculb.php?id=57
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOXCRIMEHD
+http://yingmaokeji.com/iptv/ootculb.php?id=58
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FXHD
+http://yingmaokeji.com/iptv/ootculb.php?id=59
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視電影台
+http://yingmaokeji.com/iptv/ootculb.php?id=60
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森電影台
+http://yingmaokeji.com/iptv/ootculb.php?id=61
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 星衛電影台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=62
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 美亞電影台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=63
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBOHD
+http://yingmaokeji.com/iptv/ootculb.php?id=64
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森洋片台
+http://yingmaokeji.com/iptv/ootculb.php?id=65
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 福斯家庭電影台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=66
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - UniversalHD
+http://yingmaokeji.com/iptv/ootculb.php?id=67
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - StarMoviesHD
+http://yingmaokeji.com/iptv/ootculb.php?id=68
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - CINEMAX
+http://yingmaokeji.com/iptv/ootculb.php?id=69
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來育樂台
+http://yingmaokeji.com/iptv/ootculb.php?id=70
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來體育台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=71
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOX3HD
+http://yingmaokeji.com/iptv/ootculb.php?id=72
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視體育台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=73
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來日本台
+http://yingmaokeji.com/iptv/ootculb.php?id=74
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 愛爾達體育台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=75
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國興衛視台
+http://yingmaokeji.com/iptv/ootculb.php?id=76
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOXHD
+http://yingmaokeji.com/iptv/ootculb.php?id=77
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO原創HD
+http://yingmaokeji.com/iptv/ootculb.php?id=78
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO強檔HD
+http://yingmaokeji.com/iptv/ootculb.php?id=79
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO溫馨HD
+http://yingmaokeji.com/iptv/ootculb.php?id=80
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 博斯高球II台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=81
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 博斯運動台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=82
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - GOLFCHANNALHD
+http://yingmaokeji.com/iptv/ootculb.php?id=83
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - ASN全美運動台HD
+http://yingmaokeji.com/iptv/ootculb.php?id=84
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BabyTVHD
+http://yingmaokeji.com/iptv/ootculb.php?id=85
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DisneyJunior
+http://yingmaokeji.com/iptv/ootculb.php?id=86
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MTVHD
+http://yingmaokeji.com/iptv/ootculb.php?id=87
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 霹靂台灣台
+http://yingmaokeji.com/iptv/ootculb.php?id=88
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 罪案偵緝頻道HD
+http://yingmaokeji.com/iptv/ootculb.php?id=89
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - NHK
+http://yingmaokeji.com/iptv/ootculb.php?id=90
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 本港台
+http://yingmaokeji.com/iptv/ootculb.php?id=91
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-電影
+http://yingmaokeji.com/iptv/ootculb.php?id=92
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-冰與火之歌第一季
+http://yingmaokeji.com/iptv/ootculb.php?id=93
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-嘻哈帝國第一季
+http://yingmaokeji.com/iptv/ootculb.php?id=94
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-海賊王
+http://yingmaokeji.com/iptv/ootculb.php?id=95
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - CNN標清
+http://yingmaokeji.com/iptv/ootculb.php?id=96
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BBC標清
+http://yingmaokeji.com/iptv/ootculb.php?id=97
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 公視HD標清
+http://yingmaokeji.com/iptv/ootculb.php?id=98
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 公視2標清
+http://yingmaokeji.com/iptv/ootculb.php?id=99
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FSTV標清
+http://yingmaokeji.com/iptv/ootculb.php?id=100
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 民視標清
+http://yingmaokeji.com/iptv/ootculb.php?id=101
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 台視HD標清
+http://yingmaokeji.com/iptv/ootculb.php?id=102
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 台視綜合標清
+http://yingmaokeji.com/iptv/ootculb.php?id=103
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中視HD標清
+http://yingmaokeji.com/iptv/ootculb.php?id=104
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BRAVO菁采台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=105
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 大愛HD標清
+http://yingmaokeji.com/iptv/ootculb.php?id=106
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 華視標清
+http://yingmaokeji.com/iptv/ootculb.php?id=107
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 探索科學台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=108
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DMAX標清
+http://yingmaokeji.com/iptv/ootculb.php?id=109
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - EVE標清
+http://yingmaokeji.com/iptv/ootculb.php?id=110
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理野生台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=111
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理優人台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=112
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國家地理頻道台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=113
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - Discovery標清
+http://yingmaokeji.com/iptv/ootculb.php?id=114
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TLC標清
+http://yingmaokeji.com/iptv/ootculb.php?id=115
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 動物星球台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=116
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 卡通頻道台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=117
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 迪士尼頻道台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=118
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MOMO親子台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=119
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森幼幼台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=120
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來綜合台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=121
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大第一台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=122
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大綜合台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=123
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立台灣台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=124
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立都會台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=125
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視中文台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=126
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森綜合台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=127
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 超視台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=128
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - ChannalM標清
+http://yingmaokeji.com/iptv/ootculb.php?id=129
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - KMTV標清
+http://yingmaokeji.com/iptv/ootculb.php?id=130
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天綜合台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=131
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東風衛視台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=132
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MUCH台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=133
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天娛樂台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=134
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森戲劇台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=135
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 八大戲劇台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=136
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS歡樂台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=137
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來戲劇台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=138
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 星衛娛樂台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=139
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視合家歡台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=140
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - JET綜合台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=141
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DIVA標清
+http://yingmaokeji.com/iptv/ootculb.php?id=142
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - SYFY標清
+http://yingmaokeji.com/iptv/ootculb.php?id=143
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 壹電視新聞台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=144
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 年代新聞台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=145
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森新聞台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=146
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 中天新聞台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=147
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 民視新聞台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=148
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 三立新聞台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=149
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS新聞台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=150
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - TVBS台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=151
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森財經新聞台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=152
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 非凡新聞台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=153
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOXCRIME標清
+http://yingmaokeji.com/iptv/ootculb.php?id=154
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FX標清
+http://yingmaokeji.com/iptv/ootculb.php?id=155
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視電影台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=156
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森電影台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=157
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 星衛電影台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=158
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 美亞電影台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=159
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO標清
+http://yingmaokeji.com/iptv/ootculb.php?id=160
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森洋片台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=161
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 福斯家庭電影台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=162
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - Universal標清
+http://yingmaokeji.com/iptv/ootculb.php?id=163
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - StarMovies標清
+http://yingmaokeji.com/iptv/ootculb.php?id=164
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - CINEMAX標清
+http://yingmaokeji.com/iptv/ootculb.php?id=165
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來育樂台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=166
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來體育台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=167
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOX3標清
+http://yingmaokeji.com/iptv/ootculb.php?id=168
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視體育台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=169
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 緯來日本台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=170
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 愛爾達體育台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=171
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 國興衛視台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=172
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOX標清
+http://yingmaokeji.com/iptv/ootculb.php?id=173
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO原創台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=174
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO強檔台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=175
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO溫馨台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=176
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 博斯高球II台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=177
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 博斯運動台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=178
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - GOLFCHANNAL標清
+http://yingmaokeji.com/iptv/ootculb.php?id=179
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - ASN全美運動標清
+http://yingmaokeji.com/iptv/ootculb.php?id=180
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - BabyTV標清
+http://yingmaokeji.com/iptv/ootculb.php?id=181
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - DisneyJunior標清
+http://yingmaokeji.com/iptv/ootculb.php?id=182
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - MTV標清
+http://yingmaokeji.com/iptv/ootculb.php?id=183
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 霹靂台灣台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=184
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 罪案偵緝頻道標清
+http://yingmaokeji.com/iptv/ootculb.php?id=185
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - NHK標清
+http://yingmaokeji.com/iptv/ootculb.php?id=186
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 本港台標清
+http://yingmaokeji.com/iptv/ootculb.php?id=187
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-電影標清
+http://yingmaokeji.com/iptv/ootculb.php?id=188
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-冰與火之歌第一季標清
+http://yingmaokeji.com/iptv/ootculb.php?id=189
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-嘻哈帝國第一季標清
+http://yingmaokeji.com/iptv/ootculb.php?id=190
+#EXTINF:-1 group-title="海外中文瑞士站" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 測試-海賊王標清
+http://yingmaokeji.com/iptv/ootculb.php?id=191
+
+==咪咕==
+CCTV_1,http://huo5.tdic.cn/huo5/lovev.php?id=601394895
+CCTV1,http://huo5.tdic.cn/huo5/lovev.php?id=600989647
+CCTV_2,http://huo5.tdic.cn/huo5/lovev.php?id=603337102
+CCTV_3,http://huo5.tdic.cn/huo5/lovev.php?id=600989932
+CCTV_4(亚),http://huo5.tdic.cn/huo5/lovev.php?id=603336906
+CCTV_4(欧),http://huo5.tdic.cn/huo5/lovev.php?id=600620986
+CCTV_4(美),http://huo5.tdic.cn/huo5/lovev.php?id=600621117
+CCTV_5,http://huo5.tdic.cn/huo5/lovev.php?id=603547989
+CCTV_6,http://huo5.tdic.cn/huo5/lovev.php?id=600873350
+CCTV_7,http://huo5.tdic.cn/huo5/lovev.php?id=603336897
+CCTV_8,http://huo5.tdic.cn/huo5/lovev.php?id=600873386
+CCTV_9,http://huo5.tdic.cn/huo5/lovev.php?id=600508084
+CCTV_9(英),http://huo5.tdic.cn/huo5/lovev.php?id=600621139
+CCTV_10,http://huo5.tdic.cn/huo5/lovev.php?id=604417054
+CCTV_11,http://huo5.tdic.cn/huo5/lovev.php?id=603336887
+CCTV_12,http://huo5.tdic.cn/huo5/lovev.php?id=603336881
+CCTV_13,http://huo5.tdic.cn/huo5/lovev.php?id=603336878
+CCTV_14,http://huo5.tdic.cn/huo5/lovev.php?id=603253329
+CCTV_15,http://huo5.tdic.cn/huo5/lovev.php?id=603336870
+CCTV-阿拉伯语,http://huo5.tdic.cn/huo5/lovev.php?id=600620961
+CCTV-俄语,http://huo5.tdic.cn/huo5/lovev.php?id=600621025
+CCTV-法语,http://huo5.tdic.cn/huo5/lovev.php?id=600620997
+CCTV-西班牙语,http://huo5.tdic.cn/huo5/lovev.php?id=600621053
+CCTV-NEWS,http://huo5.tdic.cn/huo5/lovev.php?id=603337115
+中国教育1,http://huo5.tdic.cn/huo5/lovev.php?id=603553451
+in乐台,http://huo5.tdic.cn/huo5/lovev.php?id=607083101
+e娱乐,http://huo5.tdic.cn/huo5/lovev.php?id=607084238
+动作影院HD,http://huo5.tdic.cn/huo5/lovev.php?id=603428105
+正青春,http://huo5.tdic.cn/huo5/lovev.php?id=607549775
+天津妞吐槽,http://huo5.tdic.cn/huo5/lovev.php?id=604342199
+咪咕动作影院,http://huo5.tdic.cn/huo5/lovev.php?id=603428105
+湖南卫视HD,http://huo5.tdic.cn/huo5/lovev.php?id=608207858
+深圳卫视HD,http://huo5.tdic.cn/huo5/lovev.php?id=604342200
+北京卫视HD,http://huo5.tdic.cn/huo5/lovev.php?id=604389757
+江苏卫视HD,http://huo5.tdic.cn/huo5/lovev.php?id=607552835
+山东卫视HD,http://huo5.tdic.cn/huo5/lovev.php?id=604389586
+东方卫视HD,http://huo5.tdic.cn/huo5/lovev.php?id=601427148
+浙江卫视HD,http://huo5.tdic.cn/huo5/lovev.php?id=603279992
+天津卫视HD,http://huo5.tdic.cn/huo5/lovev.php?id=601427226
+广东卫视HD,http://huo5.tdic.cn/huo5/lovev.php?id=604342205
+黑龙江卫视HD,http://huo5.tdic.cn/huo5/lovev.php?id=604389593
+黑龙江卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600481292
+湖南卫视,http://huo5.tdic.cn/huo5/lovev.php?id=611444877
+天津卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600481279
+安徽卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600421690
+江苏卫视,http://huo5.tdic.cn/huo5/lovev.php?id=607552532
+东方卫视,http://huo5.tdic.cn/huo5/lovev.php?id=601277667
+四川卫视,http://huo5.tdic.cn/huo5/lovev.php?id=604320191
+浙江卫视,http://huo5.tdic.cn/huo5/lovev.php?id=603279993
+广东卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600481240
+深圳卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600592266
+山东卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600421731
+北京卫视,http://huo5.tdic.cn/huo5/lovev.php?id=604389738
+江西卫视,http://huo5.tdic.cn/huo5/lovev.php?id=604320195
+东南卫视,http://huo5.tdic.cn/huo5/lovev.php?id=601277676
+湖北卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600481248
+厦门卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600667567
+内蒙古卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600507212
+内蒙古卫视蒙语,http://huo5.tdic.cn/huo5/lovev.php?id=600691971
+新疆3套哈语综合,http://huo5.tdic.cn/huo5/lovev.php?id=600692428
+延边卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600563573
+陕西卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600481294
+重庆卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600498410
+云南卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600481315
+新疆卫视,http://huo5.tdic.cn/huo5/lovev.php?id=603553460
+甘肃卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600481296
+山西卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600498469
+西藏卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600563535
+青海卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600507319
+宁夏卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600507287
+旅游卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600481298
+辽宁卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600481268
+康巴卫视,http://huo5.tdic.cn/huo5/lovev.php?id=603548072
+贵州卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600421698
+河北卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600498470
+河南卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600481286
+吉林卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600498482
+广西卫视,http://huo5.tdic.cn/huo5/lovev.php?id=600481291
+北京科教,http://huo5.tdic.cn/huo5/lovev.php?id=603553479
+北京文艺,http://huo5.tdic.cn/huo5/lovev.php?id=600667403
+北京新闻,http://huo5.tdic.cn/huo5/lovev.php?id=600667476
+北京影视,http://huo5.tdic.cn/huo5/lovev.php?id=603553480
+北京青少,http://huo5.tdic.cn/huo5/lovev.php?id=600667333
+北京体育,http://huo5.tdic.cn/huo5/lovev.php?id=600667384
+北京财经,http://huo5.tdic.cn/huo5/lovev.php?id=600667234
+北京生活,http://huo5.tdic.cn/huo5/lovev.php?id=603333418
+山东教育,http://huo5.tdic.cn/huo5/lovev.php?id=600713678
+上海新闻综合,http://huo5.tdic.cn/huo5/lovev.php?id=601279857
+上海纪实,http://huo5.tdic.cn/huo5/lovev.php?id=604006099
+上海新娱乐,http://huo5.tdic.cn/huo5/lovev.php?id=601277655
+上海电视剧,http://huo5.tdic.cn/huo5/lovev.php?id=603996497
+上海星尚,http://huo5.tdic.cn/huo5/lovev.php?id=604006087
+上海艺术人文,http://huo5.tdic.cn/huo5/lovev.php?id=604006053
+上海ICS,http://huo5.tdic.cn/huo5/lovev.php?id=604006014
+第一财经,http://huo5.tdic.cn/huo5/lovev.php?id=603553531
+炫动卡通,http://huo5.tdic.cn/huo5/lovev.php?id=603996510
+成都新闻综合,http://huo5.tdic.cn/huo5/lovev.php?id=600713669
+成都公共,http://huo5.tdic.cn/huo5/lovev.php?id=600713647
+厦门一套,http://huo5.tdic.cn/huo5/lovev.php?id=600713641
+厦门二套,http://huo5.tdic.cn/huo5/lovev.php?id=600713608
+湖北垄上,http://huo5.tdic.cn/huo5/lovev.php?id=600713323
+湖北荆州新闻,http://huo5.tdic.cn/huo5/lovev.php?id=600713369
+Letv体育,http://huo5.tdic.cn/huo5/lovev.php?id=604320099
+CIBN华视院线,http://huo5.tdic.cn/huo5/lovev.php?id=604614265
+CIBN电影,http://huo5.tdic.cn/huo5/lovev.php?id=604443671
+CIBN经典剧场,http://huo5.tdic.cn/huo5/lovev.php?id=604614394
+CIBN都市剧场,http://huo5.tdic.cn/huo5/lovev.php?id=604614018
+
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-1
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv1.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-1HD
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv1hd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-2
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv2.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-3
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv3.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-4
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv4.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-5
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv5.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-5HD
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv5hd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-5+
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv5p.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-6
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv6.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-7
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv8.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-8
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv8.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-9
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv9.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-10
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv10.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-11
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv11.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-12
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv12.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-13
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv13.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-14
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv14.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-15
+http://sohucao.duapp.com/proxy/ewwasu.php/cctv15.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-发现之旅
+http://sohucao.duapp.com/proxy/ewwasu.php/fxzl.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-风云足球
+http://sohucao.duapp.com/proxy/ewwasu.php/fyzq.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CHC动作影院
+http://sohucao.duapp.com/proxy/sohuwasu.php/dzdy.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CHC家庭影院
+http://sohucao.duapp.com/proxy/sohuwasu.php/jtyy.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 求索科学HD
+http://sohucao.duapp.com/proxy/ewwasu.php/qskx.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 求索纪录HD
+http://sohucao.duapp.com/proxy/ewwasu.php/qsjl.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 求索生活HD
+http://sohucao.duapp.com/proxy/ewwasu.php/qssh.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 求索动物HD
+http://sohucao.duapp.com/proxy/ewwasu.php/qsdw.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 湖南卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/hnwshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 北京卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/bjwshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 深圳卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/szwshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 广东卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/gdwshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 安徽卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/ahwshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 东方卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/dfwshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 天津卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/tjwshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 浙江卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/zjwshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 江苏卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/jswshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 湖北卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/hbwshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 山东卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/sdwshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 黑龙江卫视HD
+http://sohucao.duapp.com/proxy/ewwasu.php/hljwshd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 华数电视
+http://sohucao.duapp.com/proxy/ewwasu.php/wasutv.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 社会纪实
+http://sohucao.duapp.com/proxy/ewwasu.php/shjs.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 综艺晚会
+http://sohucao.duapp.com/proxy/ewwasu.php/zywh.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 人文纪录
+http://sohucao.duapp.com/proxy/ewwasu.php/rwjl.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 寰宇探奇
+http://sohucao.duapp.com/proxy/ewwasu.php/hytq.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 优优宝贝
+http://sohucao.duapp.com/proxy/ewwasu.php/yybb.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 收藏天下
+http://sohucao.duapp.com/proxy/ewwasu.php/sctx.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 车迷频道
+http://sohucao.duapp.com/proxy/ewwasu.php/cmpd.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 环球奇观
+http://sohucao.duapp.com/proxy/ewwasu.php/hqqg.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 欧洲足球
+http://sohucao.duapp.com/proxy/ewwasu.php/ozzq.m3u8
+#EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 茶频道
+http://sohucao.duapp.com/proxy/sohuwasu.php/cpd.m3u8
+
+
 20160224
 
 日本读卖ytv★,p2p://121.17.126.83:8906/532ac046000dbe9fefe14d6d5f191b47.ts
