@@ -8,22 +8,79 @@ http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist
 http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8
 #EXTINF:-1 group-title="VIP电影", 电影院4
 http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
-#EXTINF:-1 group-title="VIP电影",CHC高清电影
+#EXTINF:-1 group-title="VIP电影",爱尚 - CHC高清电影
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240266_1/encoder/0/playlist.m3u8
-#EXTINF:-1 group-title="VIP电影",CHC家庭影院
+#EXTINF:-1 group-title="VIP电影",爱尚 - CHC家庭影院
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240269_1/encoder/0/playlist.m3u8
-#EXTINF:-1 group-title="VIP电影",CHC动作电影
+#EXTINF:-1 group-title="VIP电影",爱尚 - CHC动作电影
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240270_1/encoder/0/playlist.m3u8
-#EXTINF:-1 group-title="VIP电影",精选电影
+#EXTINF:-1 group-title="VIP电影",爱尚 - 精选电影
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8
-#EXTINF:-1 group-title="VIP电影",喜剧影院
+#EXTINF:-1 group-title="VIP电影",爱尚 - 喜剧影院
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
-#EXTINF:-1 group-title="VIP电影",动作影院
+#EXTINF:-1 group-title="VIP电影",爱尚 - 动作影院
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8
-#EXTINF:-1 group-title="VIP电影",家庭影院
+#EXTINF:-1 group-title="VIP电影",爱尚 - 家庭影院
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
-#EXTINF:-1 group-title="VIP电影",星影
+#EXTINF:-1 group-title="VIP电影",爱尚 - 星影
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 明星大片
+http://183.207.249.6/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 惊悚悬疑
+http://183.207.249.6/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 精品大剧
+http://183.207.249.6/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 精品电影
+http://183.207.249.6/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 精品记录
+http://183.207.249.6/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 精品体育
+http://183.207.249.6/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 军旅剧场
+http://183.207.249.6/PLTV/3/224/3221225531/index.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 家庭剧场
+http://183.207.249.6/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 古装剧场
+http://183.207.249.6/PLTV/3/224/3221225527/index.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 海外剧场
+http://183.207.249.6/PLTV/3/224/3221225547/index.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 动作电影
+http://183.207.249.6/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:-1 group-title="VIP电影",南京移动IPTV - 爱情喜剧
+http://183.207.249.6/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOXCRIMEHD
+http://yhlfs.cn/iptv/ootculb.php?id=58
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FXHD
+http://yhlfs.cn/iptv/ootculb.php?id=59
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視電影台
+http://yhlfs.cn/iptv/ootculb.php?id=60
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森電影台
+http://yhlfs.cn/iptv/ootculb.php?id=61
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 星衛電影台HD
+http://yhlfs.cn/iptv/ootculb.php?id=62
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 美亞電影台HD
+http://yhlfs.cn/iptv/ootculb.php?id=63
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBOHD
+http://yhlfs.cn/iptv/ootculb.php?id=64
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森洋片台
+http://yhlfs.cn/iptv/ootculb.php?id=65
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 福斯家庭電影台HD
+http://yhlfs.cn/iptv/ootculb.php?id=66
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - UniversalHD
+http://yhlfs.cn/iptv/ootculb.php?id=67
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - StarMoviesHD
+http://yhlfs.cn/iptv/ootculb.php?id=68
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - CINEMAX
+http://yhlfs.cn/iptv/ootculb.php?id=69
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOXHD
+http://yhlfs.cn/iptv/ootculb.php?id=77
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO原創HD
+http://yhlfs.cn/iptv/ootculb.php?id=78
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO強檔HD
+http://yhlfs.cn/iptv/ootculb.php?id=79
+#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO溫馨HD
+http://yhlfs.cn/iptv/ootculb.php?id=80
+
 
 
 
