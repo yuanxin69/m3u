@@ -14,6 +14,10 @@ http://61.189.255.152/live.aishang.ctlcdn.com/00000110240266_1/encoder/0/playlis
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240269_1/encoder/0/playlist.m3u8
 #EXTINF:-1 group-title="VIP电影",爱尚 - CHC动作电影
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240270_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",平遥有线 - 天映电影
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000105&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="VIP电影",平遥有线 - HBO
+http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000123&playtype=live&qamname=undefined&auth=no
 #EXTINF:-1 group-title="VIP电影",爱尚 - 精选电影
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8
 #EXTINF:-1 group-title="VIP电影",爱尚 - 喜剧影院
@@ -24,6 +28,10 @@ http://61.189.255.152/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlis
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
 #EXTINF:-1 group-title="VIP电影",爱尚 - 星影
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="VIP电影",麒麟- 中国电影
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+#EXTINF:-1 group-title="VIP电影",天华探索高清
+http://116.77.70.98:5080/hls/wn5fsvdn.m3u8
 #EXTINF:-1 group-title="VIP电影",南京移动IPTV - 明星大片
 http://183.207.249.6/PLTV/3/224/3221225535/index.m3u8
 #EXTINF:-1 group-title="VIP电影",南京移动IPTV - 惊悚悬疑
