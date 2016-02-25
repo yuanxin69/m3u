@@ -2987,7 +2987,14 @@ http://sohucao.duapp.com/proxy/ewwasu.php/qsjl.m3u8
 http://sohucao.duapp.com/proxy/ewwasu.php/qssh.m3u8
 #EXTINF:-1 group-title="生活时尚",求索动物HD
 http://sohucao.duapp.com/proxy/ewwasu.php/qsdw.m3u8
-
+#EXTINF:-1 group-title="生活时尚",求索记录HD
+http://url.52itv.cn/vlive/wasutv/hd_qsjl@1.m3u8
+#EXTINF:-1 group-title="生活时尚",求索生活HD
+http://url.52itv.cn/vlive/wasutv/hd_qssh@1.m3u8
+#EXTINF:-1 group-title="生活时尚",求索动物HD
+http://url.52itv.cn/vlive/wasutv/hd_qsdw@1.m3u8
+#EXTINF:-1 group-title="生活时尚",求索科学HD
+http://url.52itv.cn/vlive/wasutv/hd_qspd@1.m3u8
 
 
 #EXTINF:-1 group-title="生活时尚",生活时尚 - 生活时尚ashion TV
