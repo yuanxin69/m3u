@@ -56,38 +56,7 @@ http://183.207.249.6/PLTV/3/224/3221225547/index.m3u8
 http://183.207.249.6/PLTV/3/224/3221225529/index.m3u8
 #EXTINF:-1 group-title="VIP电影",南京移动IPTV - 爱情喜剧
 http://183.207.249.6/PLTV/3/224/3221225525/index.m3u8
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOXCRIMEHD
-http://yhlfs.cn/iptv/ootculb.php?id=58
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FXHD
-http://yhlfs.cn/iptv/ootculb.php?id=59
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 衛視電影台
-http://yhlfs.cn/iptv/ootculb.php?id=60
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森電影台
-http://yhlfs.cn/iptv/ootculb.php?id=61
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 星衛電影台HD
-http://yhlfs.cn/iptv/ootculb.php?id=62
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 美亞電影台HD
-http://yhlfs.cn/iptv/ootculb.php?id=63
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBOHD
-http://yhlfs.cn/iptv/ootculb.php?id=64
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 東森洋片台
-http://yhlfs.cn/iptv/ootculb.php?id=65
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - 福斯家庭電影台HD
-http://yhlfs.cn/iptv/ootculb.php?id=66
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - UniversalHD
-http://yhlfs.cn/iptv/ootculb.php?id=67
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - StarMoviesHD
-http://yhlfs.cn/iptv/ootculb.php?id=68
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - CINEMAX
-http://yhlfs.cn/iptv/ootculb.php?id=69
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - FOXHD
-http://yhlfs.cn/iptv/ootculb.php?id=77
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO原創HD
-http://yhlfs.cn/iptv/ootculb.php?id=78
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO強檔HD
-http://yhlfs.cn/iptv/ootculb.php?id=79
-#EXTINF:-1 group-title="VIP电影" tvg-logo="http://droidvision.co.uk//api/channelworld/flags/united-states.jpg", 港澳台 - HBO溫馨HD
-http://yhlfs.cn/iptv/ootculb.php?id=80
+
 
 
 
@@ -2978,23 +2947,6 @@ http://183.232.54.209:1935/live/hcctv_114/chunklist.m3u8
 http://183.232.54.209:1935/live/hcctv_115/chunklist.m3u8
 
 
-
-#EXTINF:-1 group-title="生活时尚",求索科学HD
-http://sohucao.duapp.com/proxy/ewwasu.php/qskx.m3u8
-#EXTINF:-1 group-title="生活时尚",求索纪录HD
-http://sohucao.duapp.com/proxy/ewwasu.php/qsjl.m3u8
-#EXTINF:-1 group-title="生活时尚",求索生活HD
-http://sohucao.duapp.com/proxy/ewwasu.php/qssh.m3u8
-#EXTINF:-1 group-title="生活时尚",求索动物HD
-http://sohucao.duapp.com/proxy/ewwasu.php/qsdw.m3u8
-#EXTINF:-1 group-title="生活时尚",求索记录HD
-http://url.52itv.cn/vlive/wasutv/hd_qsjl@1.m3u8
-#EXTINF:-1 group-title="生活时尚",求索生活HD
-http://url.52itv.cn/vlive/wasutv/hd_qssh@1.m3u8
-#EXTINF:-1 group-title="生活时尚",求索动物HD
-http://url.52itv.cn/vlive/wasutv/hd_qsdw@1.m3u8
-#EXTINF:-1 group-title="生活时尚",求索科学HD
-http://url.52itv.cn/vlive/wasutv/hd_qspd@1.m3u8
 
 
 #EXTINF:-1 group-title="生活时尚",生活时尚 - 生活时尚ashion TV

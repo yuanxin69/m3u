@@ -1,6 +1,102 @@
 ﻿#EXTM3U
 
 
+#EXTINF:-1 group-title="iPanel",CCTV-2
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851392&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV-4
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851393&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV-7
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851357&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV-9(英)
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851358&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV-10
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851359&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV-12
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851361&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV-15
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851415&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV-NEWS
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851413&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV法语
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851364&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV西班牙语
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851365&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV俄语
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851366&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV阿拉伯语
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851367&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",CCTV戏曲
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851368&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",金鹰卡通
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851369&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",炫动卡通
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851370&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",优漫卡通
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851371&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",北京国际
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851372&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",浙江卫视HD
+http://httpdvb.slave.homed.me/playurl.m3u8?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851349&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",东方卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851373&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",江苏国际
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851374&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",湖南国际
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851375&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",海峡卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851376&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",TVS2广东南方卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851377&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",深圳卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851378&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",康巴卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851379&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",北京卡酷少儿
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851380&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",广东卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851401&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",江苏卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851402&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",广西卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851403&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",北京卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851404&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",湖南卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851405&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",湖南卫视HD
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851445&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",东方卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851406&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",黑龙江卫视HD
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851411&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",厦门卫视
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851414&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",深圳电视剧
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851444&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",iPanel电影
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851442&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",iPanel教学
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851443&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",iPanel频道
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851356&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",iPanel电影
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851446&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",iPanel人文
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851447&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",iPanel少儿
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851448&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",iPanel纪实
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851449&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",iPanel公司介绍
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851450&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",iPanel选台
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851454&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",iPanel选台
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851455&playtoken=&verifycode=&auth=no
+#EXTINF:-1 group-title="iPanel",iPanel选台
+http://httpdvb.slave.homed.me/playurl?playtype=live&accesstoken=TOKEN50000004&username=guest&programid=4200851457&playtoken=&verifycode=&auth=no
+
+
 #EXTINF:-1 group-title="小埋IPTV",306CCTV-1综合
 http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=5068253659616166748&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
 #EXTINF:-1 group-title="小埋IPTV",307CCTV-2财经
@@ -1291,3 +1387,80 @@ http://evansgs.xinxingkm.com/huo5/migu.php?id=607084239
 http://evansgs.xinxingkm.com/huo5/migu.php?id=607083102
 #EXTINF:-1 group-title="咪咕套餐", 咪咕 - 法治天地
 http://evansgs.xinxingkm.com/huo5/migu.php?id=603694914
+
+#EXTINF:-1 group-title="广州电信",广州电信 - 广东新闻
+http://121.33.74.227:9903/hls/live-gdxw-002/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 广东卫视
+http://121.33.74.227:9903/hls/live-gdws-003/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 广东体育
+http://121.33.74.227:9903/hls/live-gdty-004/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 广东公共
+http://121.33.74.227:9903/hls/live-gdgg-005/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 嘉佳卡通
+http://121.33.74.227:9903/hls/live-jjkt-039/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 南方经济
+http://121.33.74.227:9903/hls/live-nfjs-006/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 南方卫视
+http://121.33.74.227:9903/hls/live-nfws-007/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 南方综艺
+http://121.33.74.227:9903/hls/live-nfzy-008/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 南方影视
+http://121.33.74.227:9903/hls/live-nfys-009/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 广州综合
+http://121.33.74.227:9903/hls/live-gzzh-010/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 广州影视
+http://121.33.74.227:9903/hls/live-gzys-014/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 广州经济
+http://121.33.74.227:9903/hls/live-gzjj-011/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 广州新闻
+http://121.33.74.227:9903/hls/live-gzxw-013/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 广州英语
+http://121.33.74.227:9903/hls/live-gzyy-012/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 安徽卫视
+http://121.33.74.227:9903/hls/live-ahws-042/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 江苏卫视
+http://121.33.74.227:9903/hls/live-jsws-043/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 广西卫视
+http://121.33.74.227:9903/hls/live-gxws-015/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 陕西卫视
+http://121.33.74.227:9903/hls/live-sxws-016/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 黑龙江卫视
+http://121.33.74.227:9903/hls/live-hljws-017/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 山东卫视
+http://121.33.74.227:9903/hls/live-sdws-018/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 吉林卫视
+http://121.33.74.227:9903/hls/live-jlws-019/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 湖北卫视
+http://121.33.74.227:9903/hls/live-hbws-020/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 四川卫视
+http://121.33.74.227:9903/hls/live-scws-021/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 东南卫视
+http://121.33.74.227:9903/hls/live-dnws-023/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 甘肃卫视
+http://121.33.74.227:9903/hls/live-gsws-024/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 重庆卫视
+http://121.33.74.227:9903/hls/live-cqws-025/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 内蒙古卫视
+http://121.33.74.227:9903/hls/live-nmgws-026/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 云南卫视
+http://121.33.74.227:9903/hls/live-ynws-027/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 河北卫视
+http://121.33.74.227:9903/hls/live-hbws-028/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 贵州卫视
+http://121.33.74.227:9903/hls/live-gzws-029/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 深圳卫视
+http://121.33.74.227:9903/hls/live-szws-030/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 浙江卫视
+http://121.33.74.227:9903/hls/live-zjws-031/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 新疆卫视
+http://121.33.74.227:9903/hls/live-xjws-032/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 东方卫视
+http://121.33.74.227:9903/hls/live-dfws-034/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 炫动卡通
+http://121.33.74.227:9903/hls/live-xdkt-035/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 宁夏卫视
+http://121.33.74.227:9903/hls/live-nxws-036/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 旅游卫视
+http://121.33.74.227:9903/hls/live-hnws-037/stream800/index.m3u8
+#EXTINF:-1 group-title="广州电信",广州电信 - 青海卫视
+http://121.33.74.227:9903/hls/live-qhws-040/stream800/index.m3u8
