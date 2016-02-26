@@ -1,5 +1,158 @@
 ﻿#EXTM3U
 
+
+#EXTINF:-1 group-title="湖南电信",CCTV1
+http://www.sjdshd.com/mgtv.php?id=CCTV1
+#EXTINF:-1 group-title="湖南电信",CCTV2
+http://www.sjdshd.com/mgtv.php?id=CCTV2
+#EXTINF:-1 group-title="湖南电信",CCTV3
+http://www.sjdshd.com/mgtv.php?id=CCTV3
+#EXTINF:-1 group-title="湖南电信",CCTV4
+http://www.sjdshd.com/mgtv.php?id=CCTV4
+#EXTINF:-1 group-title="湖南电信",CCTV5
+http://www.sjdshd.com/mgtv.php?id=CCTV5
+#EXTINF:-1 group-title="湖南电信",CCTV6
+http://www.sjdshd.com/mgtv.php?id=CCTV6
+#EXTINF:-1 group-title="湖南电信",CCTV7
+http://www.sjdshd.com/mgtv.php?id=CCTV7
+#EXTINF:-1 group-title="湖南电信",CCTV8
+http://www.sjdshd.com/mgtv.php?id=CCTV8
+#EXTINF:-1 group-title="湖南电信",CCTV9
+http://www.sjdshd.com/mgtv.php?id=CCTV9
+#EXTINF:-1 group-title="湖南电信",CCTV10
+http://www.sjdshd.com/mgtv.php?id=CCTV10
+#EXTINF:-1 group-title="湖南电信",CCTV11
+http://www.sjdshd.com/mgtv.php?id=CCTV11
+#EXTINF:-1 group-title="湖南电信",CCTV12
+http://www.sjdshd.com/mgtv.php?id=CCTV12
+#EXTINF:-1 group-title="湖南电信",CCTV13
+http://www.sjdshd.com/mgtv.php?id=CCTV13
+#EXTINF:-1 group-title="湖南电信",CCTV14
+http://www.sjdshd.com/mgtv.php?id=CCTV14
+#EXTINF:-1 group-title="湖南电信",CCTV15
+http://www.sjdshd.com/mgtv.php?id=CCTV15
+#EXTINF:-1 group-title="湖南电信",浙江卫视
+http://www.sjdshd.com/mgtv.php?id=ZJWS
+#EXTINF:-1 group-title="湖南电信",山东卫视
+http://www.sjdshd.com/mgtv.php?id=SDWS
+#EXTINF:-1 group-title="湖南电信",辽宁卫视
+http://www.sjdshd.com/mgtv.php?id=LNWS
+#EXTINF:-1 group-title="湖南电信",广东卫视
+http://www.sjdshd.com/mgtv.php?id=GDWS
+#EXTINF:-1 group-title="湖南电信",深圳卫视
+http://www.sjdshd.com/mgtv.php?id=SZWS
+#EXTINF:-1 group-title="湖南电信",江苏卫视
+http://www.sjdshd.com/mgtv.php?id=JSWS
+#EXTINF:-1 group-title="湖南电信",黑龙江卫视
+http://www.sjdshd.com/mgtv.php?id=HLJWS
+#EXTINF:-1 group-title="湖南电信",安徽卫视
+http://www.sjdshd.com/mgtv.php?id=AHWS
+#EXTINF:-1 group-title="湖南电信",天津卫视
+http://www.sjdshd.com/mgtv.php?id=TJWS
+#EXTINF:-1 group-title="湖南电信",东方卫视
+http://www.sjdshd.com/mgtv.php?id=DFWS
+#EXTINF:-1 group-title="湖南电信",北京卫视
+http://www.sjdshd.com/mgtv.php?id=BJWS
+#EXTINF:-1 group-title="湖南电信",重庆卫视
+http://www.sjdshd.com/mgtv.php?id=CQWS
+#EXTINF:-1 group-title="湖南电信",贵州卫视
+http://www.sjdshd.com/mgtv.php?id=GZWS
+#EXTINF:-1 group-title="湖南电信",云南卫视
+http://www.sjdshd.com/mgtv.php?id=YNWS
+#EXTINF:-1 group-title="湖南电信",四川卫视
+http://www.sjdshd.com/mgtv.php?id=SCWS
+#EXTINF:-1 group-title="湖南电信",广西卫视
+http://www.sjdshd.com/mgtv.php?id=GXWS
+#EXTINF:-1 group-title="湖南电信",宁夏卫视
+http://www.sjdshd.com/mgtv.php?id=NXWS
+#EXTINF:-1 group-title="湖南电信",旅游卫视
+http://www.sjdshd.com/mgtv.php?id=LYWS
+#EXTINF:-1 group-title="湖南电信",江西卫视
+http://www.sjdshd.com/mgtv.php?id=JXWS
+#EXTINF:-1 group-title="湖南电信",东南卫视
+http://www.sjdshd.com/mgtv.php?id=DNWS
+#EXTINF:-1 group-title="湖南电信",湖南电影
+http://www.sjdshd.com/mgtv.php?id=XXDY
+#EXTINF:-1 group-title="湖南电信",湖南都市
+http://www.sjdshd.com/mgtv.php?id=HNDS
+#EXTINF:-1 group-title="湖南电信",湖南公共
+http://www.sjdshd.com/mgtv.php?id=HNGG
+#EXTINF:-1 group-title="湖南电信",湖南娱乐
+http://www.sjdshd.com/mgtv.php?id=HNYL
+#EXTINF:-1 group-title="湖南电信",湖南电视剧
+http://www.sjdshd.com/mgtv.php?id=HNDSJ
+#EXTINF:-1 group-title="湖南电信",金鹰纪实
+http://www.sjdshd.com/mgtv.php?id=JYJS
+#EXTINF:-1 group-title="湖南电信",湖南经视
+http://www.sjdshd.com/mgtv.php?id=HNJS
+#EXTINF:-1 group-title="湖南电信",湖南卫视
+http://www.sjdshd.com/mgtv.php?id=HNWS
+#EXTINF:-1 group-title="湖南电信",金鹰卡通
+http://www.sjdshd.com/mgtv.php?id=JYKT
+#EXTINF:-1 group-title="湖南电信",快乐垂钓
+http://www.sjdshd.com/mgtv.php?id=KLCD
+#EXTINF:-1 group-title="湖南电信",长沙新闻
+http://www.sjdshd.com/mgtv.php?id=CHCDZ
+#EXTINF:-1 group-title="湖南电信",长沙经贸
+http://www.sjdshd.com/mgtv.php?id=CSJM
+#EXTINF:-1 group-title="湖南电信",湖南經視頻道
+http://hlstest.imgo.tv/hva4/index_512k.m3u8
+#EXTINF:-1 group-title="湖南电信",湖南娛樂頻道
+http://hlstest.imgo.tv/hva8/index_512k.m3u8
+#EXTINF:-1 group-title="湖南电信",湖南都市頻道
+http://hlstest.imgo.tv/hva6/index_512k.m3u8
+#EXTINF:-1 group-title="湖南电信",湖南公共頻道
+http://hlstest.imgo.tv/hvb2/index_512k.m3u8
+#EXTINF:-1 group-title="湖南电信",湖南電視劇頻道
+http://hlstest.imgo.tv/hva7/index_512k.m3u8
+#EXTINF:-1 group-title="湖南电信",金鹰纪实频道
+http://hlstest.imgo.tv/hva5/index_512k.m3u8
+#EXTINF:-1 group-title="湖南电信",湖南國際頻道
+http://hlstest.imgo.tv/hva3/index_512k.m3u8
+#EXTINF:-1 group-title="湖南电信",株洲新闻综合
+http://live.zzbtv.com/live/live122/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="湖南电信",株洲公共民生
+http://live.zzbtv.com/live/live123/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="湖南电信",株洲法制频道
+http://live.zzbtv.com/live/live124/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="湖南电信",株洲商务频道
+http://live.zzbtv.com/live/live125/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="湖南电信",株洲房产频道
+http://live.zzbtv.com/live/live126/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="湖南电信",怀化新闻频道
+http://live1.0745tv.com/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="湖南电信",怀化经济频道
+http://live1.0745tv.com/jjpd/sd/live.m3u8
+#EXTINF:-1 group-title="湖南电信",怀化移动频道
+http://live1.0745tv.com/ydpd/sd/live.m3u8
+#EXTINF:-1 group-title="湖南电信",常德新闻综合
+rtmp://www.cdgdj.com:1935/live/xinwen
+#EXTINF:-1 group-title="湖南电信",常德新闻综合
+http://www.cdgdj.com:1935/live/_definst_/xinwen/playlist.m3u8
+#EXTINF:-1 group-title="湖南电信",常德公共频道
+rtmp://www.cdgdj.com:1935/live/gonggong
+#EXTINF:-1 group-title="湖南电信",常德公共频道
+http://www.cdgdj.com:1935/live/_definst_/gonggong/playlist.m3u8
+#EXTINF:-1 group-title="湖南电信",常德都市频道
+rtmp://www.cdgdj.com:1935/live/dushi
+#EXTINF:-1 group-title="湖南电信",常德都市频道
+http://www.cdgdj.com:1935/live/_definst_/dushi/playlist.m3u8
+#EXTINF:-1 group-title="湖南电信",常德武陵频道
+rtmp://www.cdgdj.com:1935/live/wuling
+#EXTINF:-1 group-title="湖南电信",常德武陵频道
+http://www.cdgdj.com:1935/live/_definst_/wuling/playlist.m3u8
+#EXTINF:-1 group-title="湖南电信",长沙电视台新农村频道 
+http://223.255.29.9/data/live/cstv10.m3u8
+#EXTINF:-1 group-title="湖南电信",丽购 
+http://223.255.29.9/data/live/cstv1.m3u8
+#EXTINF:-1 group-title="湖南电信",FTV  HD
+http://edge2.everyon.tv/etv2/phd12/huraivza.m3u8
+#EXTINF:-1 group-title="湖南电信",潇湘电影
+http://175.6.15.18:8080/nn_live/nn_x64/aWQ9WFhEWSZ1cmxfYzE9MjAwMCZubl9haz0wMTgxZDU5MmM1ZWNlYWY5NWJjN2VmMzA4NGY5ZDAxYmU1Jm50dGw9MyZucGlwcz0yMTEuMTUxLjEzMS4xMDQ6ODAmbmNtc2lkPTExMDI0MDEwJm5ncz01NmJkYzc1MDAwMDg3ZjA4MzAxYTg4NGNkYTFhOWM4MSZubmQ9emdkeC5odW5hbi5jaGVuemhvdSZubl90aW1lX2xlbj0wJm5uX3VzZXJfaWQ9MCZuZGk9MTAmbmR2PTIwMTUwNjA0LjEmbmR0PXBob25lJm5lYT0lMjZubl90aW1lX2xlbiUzZDAmbmVzPTY3OGEzNThjZGYyNzBhNmZmN2Q1Y2IyMzFhOWU1MDI0Jm5hbD0wMTUwYzdiZDU2MDYwNzdjMmMyZGEyYzQyOTA2YTVmOTBjOGZmNGI0NWI5MDc3/XXDY.m3u8
+
+
+
+
 #EXTINF:-1 group-title="湖南芒果",CCTV-1HD
 http://113.247.251.13:5001/nn_live.ts?id=CCTV1HD
 #EXTINF:-1 group-title="湖南芒果",CCTV-2
