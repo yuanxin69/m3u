@@ -4158,7 +4158,31 @@
     "name":"香港HKTV,
     "urllist":"http://14.198.245.129:8088/hktvlive/hktv_576p_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=2ab17bc1-2ee0-44d4-934e-053430671eb4&uid=1&vid=1&mxres=1920&s=0f9ab3830cf484d7f5843628b25eb9a7"
   },
-   {
+  {
+    "num":40011,
+    "itemid":"TW",
+    "name":"本港台",
+    "urllist":"http://14.199.245.83:9981/stream/channelid/4?ticket=0E906BF19D32395536B73B3C9CC5619788723E87"
+  },
+  {
+    "num":40012,
+    "itemid":"TW",
+    "name":"ATVWorld",
+    "urllist":"http://14.199.245.83:9981/stream/channelid/2?ticket=DD50BA211BD7AB995B4927031D35D239156B545A"
+  },
+  {
+    "num":40013,
+    "itemid":"TW",
+    "name":"高清翡翠台",
+    "urllist":"http://14.199.245.83:9981/stream/channelid/3?ticket=F0059C53696F2212AAE520A46F1D1A38DCA14B43"
+  },
+  {
+    "num":40014,
+    "itemid":"TW",
+    "name":"互动新闻",
+    "urllist":"p2p://76.73.54.50:6001/56acb5bc00074b0c20388287603768f4.ts"
+  },
+  {
     "num":40015,
     "itemid":"TW",
     "name":"HKC电影一台",
