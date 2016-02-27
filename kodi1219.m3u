@@ -2220,7 +2220,7 @@ http://live.cdn.cmvideo.cn:8088/ws_x/heshijie2m/2000/01.m3u8?msisdn=217555566536
 http://210.200.79.26:1935/live/udavinci.sdp/chunklist.m3u8
 #EXTINF:-1group-title="港澳台频道",台湾-edge极限
 http://210.200.79.26:1935/live/uedge.sdp/chunklist.m3u8
-#EXTINF:-1group-title="港澳台频道",台湾-WOWO故事屋
+#EXTINF:-1group-title="港澳台频道",台湾-WOWO故事屋1
 http://210.200.79.26:1935/live/wowostoryc/chunklist.m3u8
 #EXTINF:-1group-title="港澳台频道",台湾-认识台湾
 http://210.200.79.26:1935/live/tcch05/chunklist.m3u8
