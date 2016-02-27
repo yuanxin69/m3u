@@ -2432,6 +2432,8 @@ rtmp://vod.tv7.fi:1935/tv7plus-web/_definst_/mp4:tv7plus.stream_360p
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1group-title="生活时尚",生活时尚-好美味
 http://182.92.189.193:1935/live/h_food_1/playlist.m3u8
+#EXTINF:-1group-title="生活时尚",生活时尚-汉亚星空
+http://182.92.189.193:1935/live/h_hanya_1/playlist.m3u8
 #EXTINF:-1group-title="生活时尚",中华美食
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240271_1/encoder/0/playlist.m3u8
 #EXTINF:-1group-title="生活时尚",生活时尚-时尚19

@@ -4114,7 +4114,7 @@
     "num":40003,
     "itemid":"TW",
     "name":"澳门莲花卫视",
-    "urllist":"http://58.218.152.98:7726/hls/livestream3-3108.ts"
+    "urllist":"http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8"
   },
   {
     "num":40004,
@@ -4125,8 +4125,8 @@
   {
     "num":40005,
     "itemid":"TW",
-    "name":"国家地理优人",
-    "urllist":"http://58.218.152.98:7726/hls/a7170-8180h-2505.ts"
+    "name":"汉亚星空",
+    "urllist":"http://182.92.189.193:1935/live/h_hanya_1/playlist.m3u8"
   },
   {
     "num":40006,
@@ -4155,34 +4155,10 @@
   {
     "num":40010,
     "itemid":"TW",
-    "name":"香港有线18台",
-    "urllist":"http://58.218.152.98:7726/hls/hkc18-2326.ts"
+    "name":"香港HKTV,
+    "urllist":"http://14.198.245.129:8088/hktvlive/hktv_576p_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=2ab17bc1-2ee0-44d4-934e-053430671eb4&uid=1&vid=1&mxres=1920&s=0f9ab3830cf484d7f5843628b25eb9a7"
   },
-  {
-    "num":40011,
-    "itemid":"TW",
-    "name":"J2",
-    "urllist":"p2p://76.73.54.50:6001/56acb56d0007730220374dff3caf39c3.ts"
-  },
-  {
-    "num":40012,
-    "itemid":"TW",
-    "name":"翡翠台",
-    "urllist":"p2p://76.73.54.50:6001/56acb55c000a0deb20370c43489107a5.ts"
-  },
-  {
-    "num":40013,
-    "itemid":"TW",
-    "name":"高清翡翠台",
-    "urllist":"p2p://76.73.54.50:6001/56acb57d0002b25f20378b46558929f0.ts"
-  },
-  {
-    "num":40014,
-    "itemid":"TW",
-    "name":"互动新闻",
-    "urllist":"p2p://76.73.54.50:6001/56acb5bc00074b0c20388287603768f4.ts"
-  },
-  {
+   {
     "num":40015,
     "itemid":"TW",
     "name":"HKC电影一台",
