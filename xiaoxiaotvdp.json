@@ -5338,13 +5338,13 @@
       "num": 890,
       "itemid": "dy",
       "name": "天映电影",
-      "urllist": "http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000105&playtype=live&qamname=undefined&auth=no"
+      "urllist": "http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000105&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no"
     },
     {
       "num": 891,
       "itemid": "dy",
       "name": "HBO",
-      "urllist": "http://httpdvb.slave.pygdzhcs.com:13160/playurl.m3u8?programid=4200000123&playtype=live&qamname=undefined&auth=no"
+      "urllist": "http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000123&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no"
     },
     {
       "num": 892,
@@ -5398,67 +5398,67 @@
       "num": 900,
       "itemid": "dy",
       "name": "惊悚悬疑",
-      "urllist": "http://183.207.249.6/PLTV/3/224/3221225561/index.m3u8"
+      "urllist": "http://218.203.106.12:5580/ysten-businessmobile/live/jingsongxy/yst.m3u8"
     },
     {
       "num": 901,
       "itemid": "dy",
       "name": "精品大剧",
-      "urllist": "http://183.207.249.6/PLTV/3/224/3221225569/index.m3u8"
+      "urllist": "http://218.203.106.12:5580/ysten-businessmobile/live/jdaju/yst.m3u8"
     },
     {
       "num": 902,
       "itemid": "dy",
       "name": "精品电影",
-      "urllist": "http://183.207.249.6/PLTV/3/224/3221225567/index.m3u8"
+      "urllist": "http://218.203.106.12:5580/ysten-businessmobile/live/jdianying/yst.m3u8"
     },
     {
       "num": 903,
       "itemid": "dy",
       "name": "精品记录",
-      "urllist": "http://183.207.249.6/PLTV/3/224/3221225557/index.m3u8"
+      "urllist": "http://218.203.106.12:5580/ysten-businessmobile/live/jingpinjl/yst.m3u8"
     },
     {
       "num": 904,
       "itemid": "dy",
       "name": "精品体育",
-      "urllist": "http://183.207.249.6/PLTV/3/224/3221225543/index.m3u8"
+      "urllist": "http://218.203.106.12:5580/ysten-businessmobile/live/jtiyu/yst.m3u8"
     },
     {
       "num": 905,
       "itemid": "dy",
       "name": "军旅剧场",
-      "urllist": "http://183.207.249.6/PLTV/3/224/3221225531/index.m3u8"
+      "urllist": "http://218.203.106.12:5580/ysten-businessmobile/live/junlvjc/yst.m3u8"
     },
     {
       "num": 906,
       "itemid": "dy",
       "name": "家庭剧场",
-      "urllist": "http://183.207.249.6/PLTV/3/224/3221225549/index.m3u8"
+      "urllist": "http://218.203.106.12:5580/ysten-businessmobile/live/jiatingjc/yst.m3u8"
     },
     {
       "num": 907,
       "itemid": "dy",
       "name": "古装剧场",
-      "urllist": "http://183.207.249.6/PLTV/3/224/3221225527/index.m3u8"
+      "urllist": "http://218.203.106.12:5580/ysten-businessmobile/live/guzhuangjc/yst.m3u8"
     },
     {
       "num": 908,
       "itemid": "dy",
       "name": "海外剧场",
-      "urllist": "http://183.207.249.6/PLTV/3/224/3221225547/index.m3u8"
+      "urllist": "http://218.203.106.12:5580/ysten-businessmobile/live/xiqumd/yst.m3u8"
     },
     {
       "num": 909,
       "itemid": "dy",
       "name": "动作电影",
-      "urllist": "http://183.207.249.6/PLTV/3/224/3221225529/index.m3u8"
+      "urllist": "http://218.203.106.12:5580/ysten-businessmobile/live/dongzuody/yst.m3u8"
     },
     {
       "num": 910,
       "itemid": "dy",
       "name": "爱情喜剧",
-      "urllist": "http://183.207.249.6/PLTV/3/224/3221225525/index.m3u8"
+      "urllist": "http://218.203.106.12:5580/ysten-businessmobile/live/aiqingxj/yst.m3u8"
     },
     {
       "num": 911,
