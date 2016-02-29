@@ -1,5 +1,278 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-1HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000133&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-3HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000134&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-5HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000135&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-5+HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000138&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-6HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000136&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-8HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000137&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 大连-1HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000132&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 湖南卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000140&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 重庆卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000222&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 安徽卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000148&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 北京卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000147&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 广东卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000145&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 江苏卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000142&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 辽宁卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000139&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 山东卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000221&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 东方卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000141&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 深圳卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000146&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 天津卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000149&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 浙江卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000143&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 黑龙江卫视HD
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000144&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 大连导视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000131&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 高清剧场
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000164&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 高清军事
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000168&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 高清少儿
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000169&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 高清时尚
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000167&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 高清影院
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000166&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 老年福
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000210&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 法治天地
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000192&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 梨园频道
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000067&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 七彩戏剧
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000209&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 动漫秀场
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000211&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 金色频道
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000212&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 彩民在线
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000200&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-1
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000010&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-2
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000011&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-3
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000012&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-4
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000013&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-5
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000014&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-6
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000015&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-7
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000016&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-8
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000017&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-9
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000018&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-10
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000019&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-11
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000020&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-12
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000021&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-13
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000022&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-14
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000023&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-15
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000024&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-NEWS
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000061&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-中学生
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000082&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-女性时尚
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000069&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-现代女性
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000074&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-央视台球
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000198&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-央视文化精品
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000071&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-电视指南
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000207&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-高尔夫网球
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000216&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 中央教育1
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000062&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 交通旅游
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000080&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 中国气象
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000076&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 职业指南
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000078&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 天元围棋
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000205&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 网络棋牌
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000075&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 文物宝库
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000204&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 武术世界
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000202&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 留学世界
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000068&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 考试在线
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000077&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 电子体育
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000081&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - DV生活
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000206&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 快乐垂钓
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000199&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 靓装
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000073&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 茶频道
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000079&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 城市建设
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000201&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 导视频道
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000009&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 环球购物
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000031&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 环球影院
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000058&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 极速汽车
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000208&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 汽摩频道
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000072&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 家政频道
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000215&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 时代风尚
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000066&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 快乐宠物
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000070&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 幼儿教育
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000214&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 卡酷卡通
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000196&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 嘉佳卡通
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000194&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 金鹰卡通
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000193&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 新科动漫
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000203&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 炫动卡通
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000195&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 优漫卡通
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000197&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 吉林卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000050&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 安徽卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000037&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 新疆卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000060&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 北京卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000051&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 兵团卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000189&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 福建东南卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000053&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 甘肃卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000065&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 广东卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000032&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 广西卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000034&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 河北卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000048&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 贵州卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000049&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 河南卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000046&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 黑龙江卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000045&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 湖北卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000044&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 湖南卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000059&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 江苏卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000042&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 江西卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000055&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 辽宁卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000025&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 旅游卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000188&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 内蒙古卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000040&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 宁夏卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000056&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 山东卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000033&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 山西卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000054&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 陕西卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000036&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 东方卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000038&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 深圳卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000039&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 四川卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000047&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 云南卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000052&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 天津卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000041&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 西藏卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000063&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 浙江卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000035&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 重庆卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000043&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 青海卫视
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000057&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 大连-1
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000001&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 大连-2
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000002&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 大连-3
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000003&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 大连-4
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000004&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 大连-5
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000005&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 大连-6
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000006&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 大连-7
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000007&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 大连-8
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000008&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 辽宁都市
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000026&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 辽宁影视剧
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000027&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 辽宁体育
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000028&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 辽宁北方
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000030&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 辽宁公共
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000064&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 辽宁青少
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000191&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 辽宁生活
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000190&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="大连天涂",大连天涂 - 辽宁宜家购物
+http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000029&playtype=live&qamname=undefined&auth=no
+
 #EXTINF:-1group-title="芒果套餐1",CCTV-1
 http://ybxc.xinxingkm.com/zb_fire/mgtv.php?liveId=cctv1hd
 #EXTINF:-1group-title="芒果套餐1",CCTV-2
@@ -1640,6 +1913,350 @@ http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&acce
 http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000083&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
 #EXTINF:-1 group-title="平遥有线",新视觉HD
 http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000147&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+
+
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV1HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000158&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV2HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000139&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV3HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000152&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV4HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000140&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV5HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000151&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV5+HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000160&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV6HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000159&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV7HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000141&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV8HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000150&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV9HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000142&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV10HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000143&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV12HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000144&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV14HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000145&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 东方卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000161&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 天津卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000162&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 山东卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000163&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 湖北卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000164&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 安徽卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000165&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 湖南卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000166&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 浙江卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000167&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 江苏卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000168&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 北京卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000169&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 重庆卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000170&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 黑龙江卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000171&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 广东卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000172&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 深圳卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000173&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 辽宁卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000137&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 四川卫视高清
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000138&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 金鹰纪实
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000134&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 北京纪实
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000135&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 上海纪实
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000136&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 高清影视HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000146&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 新视觉HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000147&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - ATV亚洲台
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000148&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 高清纪实
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000149&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 3D体验频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000153&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 凤凰资讯HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000154&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 凤凰卫视HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000155&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 凤凰香港HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000156&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - HKC电影一台HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000157&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - HKC电影一台HD
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000103&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 高清影视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000102&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 中国电影
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000104&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV1
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000007&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV2
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000008&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV3
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000018&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV4
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000014&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV5
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000019&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV6
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000020&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV7
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000009&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV8
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000021&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV9
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000022&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV10
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000010&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV11
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000011&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV12
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000012&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV13
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000023&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV14
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000024&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV15
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000013&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CCTV NEWS
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000016&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 中国气象频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000015&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 早期教育
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000083&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 中学生
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000130&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CETV1
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000061&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CETV2
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000132&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - CETV4
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000133&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 山东教育
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000106&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 新华中文
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000126&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 中国黄河
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000113&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 黄河卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000001&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 安徽卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000114&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 河南卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000116&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 宁夏卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000117&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 四川卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000118&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 江西卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000119&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 陕西卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000120&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 农林卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000121&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 甘肃卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000122&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 北京卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000025&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 天津卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000026&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 山西卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000027&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 山东卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000028&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 河北卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000029&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 浙江卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000030&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 旅游卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000031&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 黑龙江卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000032&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 吉林卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000033&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 延边卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000034&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 西藏卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000035&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 新疆卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000036&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 东南卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000037&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 贵州卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000038&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 江苏卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000039&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 辽宁卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000041&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 青海卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000059&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 湖北卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000060&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 东方卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000063&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 内蒙古卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000064&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 广西卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000096&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 广东卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000097&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 云南卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000098&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 深圳卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000099&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 兵团卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000101&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 嘉佳卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000100&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 金鹰卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000042&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 优漫卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000017&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 炫动卡通
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000062&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 新科动漫
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000128&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 动漫秀场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000044&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 世界地理
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000065&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 国防军事
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000066&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 风云音乐
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000067&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 央视文化精品
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000068&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 怀旧剧场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000069&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 风云足球
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000070&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 风云剧场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000071&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 第一剧场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000072&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 劲爆体育
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000045&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 全纪实
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000046&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 东方财经
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000047&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 老年福
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000048&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 幸福彩
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000049&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 游戏风云
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000050&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 发现之旅
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000051&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 环球奇观
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000052&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 老故事
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000053&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 书法
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000054&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 女性时尚
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000055&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 现代女性
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000056&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 中视购物
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000057&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 卫生健康
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000058&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 文物宝库
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000131&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 靓妆
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000073&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 留学世界
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000074&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 梨园频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000075&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 游戏竟技
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000076&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 茶频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000077&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - DV生活
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000078&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 围棋
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000079&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 汽摩
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000080&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 摄影频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000081&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 英语辅导
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000082&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 彩民在线
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000084&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 武术世界
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000085&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - U BABY TV
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000086&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 城市建设
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000087&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 法制天地
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000088&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 欢笑剧场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000089&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 魅力音乐
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000090&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 七彩戏剧
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000091&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 金色频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000092&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 生活时尚
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000093&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 极速汽车
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000094&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 都市剧场
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000095&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 天映频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000105&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - TVB星河
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000107&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 阳光卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000108&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 澳门莲花
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000109&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 凤凰资讯
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000110&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 凤凰卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000111&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - HBO
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000123&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 星空卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000124&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 华娱卫视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000125&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 国学频道
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000127&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 快乐垂钓
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000129&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 山西影视
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000002&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 山西公共
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000003&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 山西科教
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000004&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 山西少儿
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000005&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 晋中新闻
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000006&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 平遥电视台
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000043&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线2",平遥有线2 - 平遥资讯
+http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000174&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
 
 
 #EXTINF:-1 group-title="代理台湾", 华视HD
