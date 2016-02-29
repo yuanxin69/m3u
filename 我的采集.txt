@@ -1,5 +1,6 @@
 20160228
-爱尚IP:
+SBS,rtmp://rtmpplay-kw.idol001.com/live/korea_sbs
+爱尚IP:点这个http://live.aishang.ctlcdn.com/ 获取ip
 CCTV5-体育,http://180.100.7.2/live.aishang.ctlcdn.com/00000110240260_1/encoder/0/playlist.m3u8
 cctv2hd,http://116.211.76.51/live.aishang.ctlcdn.com/00000110240244_1/encoder/3/playlist.m3u8
 20160218
