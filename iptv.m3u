@@ -1,5 +1,312 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-1HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000064&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-3HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000065&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-5HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000066&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-5+HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000067&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-6HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000068&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-8HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000069&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CHC家庭影院
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000116&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CHC动作电影
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000117&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 尚.TVHD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000222&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 幸福彩HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000220&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 新视觉HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000217&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 劲爆体育HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000216&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 动漫视界HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000228&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 动漫秀场HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000229&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 北京纪实HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000231&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 上海纪实HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000232&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 山东卫视HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000070&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 北京卫视HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000071&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 湖南卫视HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000072&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 浙江卫视HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000073&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 江苏卫视HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000074&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 东方卫视HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000075&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 黑龙江卫视HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000077&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 深圳卫视HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000078&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 广东卫视HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000079&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 动画高清
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000139&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 旅游频道HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000140&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 探索频道HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000141&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 探索发现HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000218&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 自然传奇HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000219&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 生活时尚HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000221&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 美食之旅HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000223&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 环球新艺HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000224&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 演唱会HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000225&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 音乐会HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000226&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 音乐电视HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000227&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 天天精选HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000203&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 高清影视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000138&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 好莱坞电影HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000204&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 院线电影HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000205&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 悬疑电影HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000206&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 经典电影HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000207&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 欧美电影HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000208&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 亚洲电影HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000209&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 热播美剧HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000210&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 影像英伦HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000211&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 韩流新映HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000212&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 宝岛宜家HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000213&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 同步剧场HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000214&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 紫荆剧场HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000215&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 沙发电影1HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000177&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 沙发电影2HD
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000178&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 垫片1
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000179&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 垫片2
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000180&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 垫片3
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000181&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - ChannelV
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000191&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 星空卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000192&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 凤凰中文
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000193&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 凤凰资讯
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000194&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 澳亚卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000197&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-2
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000017&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-4
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000019&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-7
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000083&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-9
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000023&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-10
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000024&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-11
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000086&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-12
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000084&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-13
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000016&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-14
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000158&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-14
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000082&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-15
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000085&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTNEWS
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000087&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-老故事
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000142&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-国防军事
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000114&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-第一剧场
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000145&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-风云剧场
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000150&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-怀旧剧场
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000151&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-风云足球
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000153&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-发现之旅
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000164&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-电视指南
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000093&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-世界地理
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000163&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-新科动漫
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000160&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - CCTV-英语辅导
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000155&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 中国教育1
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000091&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 中国教育2
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000092&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 中国教育4
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000111&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 先锋羽乒
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000118&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 收藏天下
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000124&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 中华美食
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000119&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 早期教育
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000159&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 优优宝贝
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000122&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 时代风尚
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000125&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 环球奇观
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000162&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 车迷频道
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000126&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 时代美食
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000127&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 时代出行
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000133&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 环球旅游
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000128&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 电子体育
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000112&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 考试在线
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000123&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 时代家居
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000131&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 四海钓鱼
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000132&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 留学世界
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000156&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 快乐宠物
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000136&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 茶频道
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000152&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 小学一年级
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000184&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 小学二年级
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000185&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 小学三年级
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000186&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 小学四年级
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000187&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 小学五年级
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000188&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 小学六年级
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000189&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 宝贝家
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000157&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 早幼教
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000183&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 金鹰卡通
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000080&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 卡酷少儿
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000081&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 炫动卡通
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000143&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 山东齐鲁
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000007&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 山东影视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000008&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 山东体育
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000009&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 山东生活
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000010&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 山东综艺
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000011&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 山东少儿
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000012&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 山东公共
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000013&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 山东农科
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000014&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 山东教育
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000015&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 德州新闻
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000003&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 德州生活
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000004&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 德州娱乐
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000005&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 德州时尚
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000190&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 吉林篮球
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000154&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 东方购物
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000054&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 天津卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000031&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 重庆卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000033&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 云南卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000034&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 江西卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000035&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 广西卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000038&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 辽宁卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000041&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 安徽卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000043&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 河南卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000044&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 河北卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000045&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 贵州卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000046&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 湖北卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000048&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 吉林卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000049&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 陕西卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000050&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 四川卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000051&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 山西卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000052&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 内蒙古卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000053&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 青海卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000055&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 东南卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000056&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 旅游卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000144&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 新疆卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000058&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 西藏卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000059&playtype=live&qamname=undefined&auth=no
+#EXTINF:-1 group-title="山东有线",山东 - 新疆兵团卫视
+http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000060&playtype=live&qamname=undefined&auth=no
+
+
+
 #EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-1HD
 http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000133&playtype=live&qamname=undefined&auth=no
 #EXTINF:-1 group-title="大连天涂",大连天涂 - CCTV-3HD
