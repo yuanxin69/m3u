@@ -2002,6 +2002,9 @@ http://218.203.106.12:5580/ysten-businessmobile/live/ljiankangyouyue/yst.m3u8
 #EXTINF:-1group-title="易视腾",易视腾-CIBN完美游戏
 http://218.203.106.12:5580/ysten-businessmobile/live/wmyx/yst.m3u8
 
+
+#EXTINF:-1group-title="体育套餐",NBA篮球
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1group-title="体育套餐",乐视体育-体育资讯
 http://icntv.xyz/letv/lb_tyzx_1300.m3u8
 #EXTINF:-1group-title="体育套餐",乐视体育-完美游戏
