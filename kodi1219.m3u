@@ -2742,8 +2742,12 @@ http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000059&playtype=live&qa
 #EXTINF:-1 group-title="山东有线",山东 - 新疆兵团卫视
 http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000060&playtype=live&qamname=undefined&auth=no
 
-
-
+#EXTINF:-1group-title="港澳台频道",港澳-高清翡翠台
+http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil
+#EXTINF:-1group-title="港澳台频道",港澳-翡翠台HD
+http://token.tvb.com/stream/live/hls/mobilehd_jade.smil
+#EXTINF:-1group-title="港澳台频道",港澳-j2台
+http://token.tvb.com/stream/live/hls/mobilehd_j2.smil
 #EXTINF:-1group-title="港澳台频道",港澳-凤凰中文HD
 http://111.20.115.242/live/stream5.m3u8
 #EXTINF:-1group-title="港澳台频道",港澳-凤凰资讯HD
