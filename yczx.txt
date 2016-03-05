@@ -1,4 +1,5 @@
 ﻿YCZX
+CCTV,http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_1300&tag=live&ext=m3u8&sign=live_tv
 互动新闻,http://58.218.152.98:7726/hls/hudongxw.m3u8
 J2,http://58.218.152.98:7726/hls/j2.m3u8
 澳门莲花卫视,http://58.218.152.98:7726/hls/livestream3-3108.ts
