@@ -3890,3804 +3890,3948 @@
   },
   {
     "num":649,
-    "itemid":"qing",
-    "name":"湖南台HD",
-    "urllist":"http://202.199.27.91/hunanhd.m3u8"
-  },
-  {
-    "num":650,
-    "itemid":"qing",
-    "name":"安徽HD",
-    "urllist":"http://202.199.27.91/ahhd.m3u8"
-  },
-  {
-    "num":651,
-    "itemid":"qing",
-    "name":"浙江HD",
-    "urllist":"http://202.199.27.91/zjhd.m3u8"
-  },
-  {
-    "num":652,
-    "itemid":"qing",
-    "name":"东方",
-    "urllist":"http://202.199.27.91/dfhd.m3u8"
-  },
-  {
-    "num":653,
-    "itemid":"qing",
-    "name":"深圳HD",
-    "urllist":"http://202.199.27.91/szhd.m3u8"
-  },
-  {
-    "num":654,
-    "itemid":"qing",
-    "name":"北京卫视",
-    "urllist":"http://202.199.27.91/btv1hd.m3u8"
-  },
-  {
-    "num":655,
-    "itemid":"qing",
-    "name":"江苏HD",
-    "urllist":"http://202.199.27.91/jshd.m3u8"
-  },
-  {
-    "num":656,
-    "itemid":"qing",
-    "name":"山东HD",
-    "urllist":"http://202.199.27.91/sdhd.m3u8"
-  },
-  {
-    "num":657,
-    "itemid":"qing",
-    "name":"天津HD",
-    "urllist":"http://202.199.27.91/tjhd.m3u8"
-  },
-  {
-    "num":658,
-    "itemid":"qing",
-    "name":"河北HD",
-    "urllist":"http://202.199.27.91/hbhd.m3u8"
-  },
-  {
-    "num":659,
-    "itemid":"qing",
-    "name":"广东卫视HD",
-    "urllist":"http://202.199.27.91/gdhd.m3u8"
-  },
-  {
-    "num":660,
-    "itemid":"qing",
-    "name":"黑龙江HD",
-    "urllist":"http://202.199.27.91/hljhd.m3u8"
-  },
-  {
-    "num":661,
-    "itemid":"qing",
-    "name":"北京文艺",
-    "urllist":"http://202.199.27.91/btv2hd.m3u8"
-  },
-  {
-    "num":662,
-    "itemid":"qing",
-    "name":"北京科教",
-    "urllist":"http://202.199.27.91/btv3.m3u8"
-  },
-  {
-    "num":663,
-    "itemid":"qing",
-    "name":"北京影视",
-    "urllist":"http://202.199.27.91/btv4.m3u8"
-  },
-  {
-    "num":664,
-    "itemid":"qing",
-    "name":"北京财经",
-    "urllist":"http://202.199.27.91/btv5.m3u8"
-  },
-  {
-    "num":665,
-    "itemid":"qing",
-    "name":"北京体育",
-    "urllist":"http://202.199.27.91/btv5.m3u8"
-  },
-  {
-    "num":666,
-    "itemid":"qing",
-    "name":"小小提示：",
-    "urllist":"http://202.199.27.91/btv6hd.m3u8"
-  },
-  {
-    "num":667,
-    "itemid":"qing",
-    "name":"此列表建议",
-    "urllist":"http://202.199.27.91/btv7.m3u8"
-  },
-  {
-    "num":668,
-    "itemid":"qing",
-    "name":"8M带宽以上食用",
-    "urllist":"http://202.199.27.91/btv9.m3u8"
-  },
-  {
-    "num":669,
-    "itemid":"qing",
-    "name":"北京少儿",
-    "urllist":"http://202.199.27.91/btv10.m3u8"
-  },
-  {
-    "num":670,
-    "itemid":"qing",
-    "name":"Btv纪实",
-    "urllist":"http://202.199.27.91/btv11.m3u8"
-  },
-  {
-    "num":671,
-    "itemid":"qing",
-    "name":"甘肃卫视HD",
-    "urllist":"http://202.199.27.91/gstv.m3u8"
-  },
-  {
-    "num":672,
-    "itemid":"qing",
-    "name":"陕西HD",
-    "urllist":"http://202.199.27.91/sxtv.m3u8"
-  },
-  {
-    "num":673,
-    "itemid":"qing",
-    "name":"东南HD",
-    "urllist":"http://202.199.27.91/dntv.m3u8"
-  },
-  {
-    "num":674,
-    "itemid":"qing",
-    "name":"重庆HD",
-    "urllist":"http://202.199.27.91/cqtv.m3u8"
-  },
-  {
-    "num":675,
-    "itemid":"qing",
-    "name":"吉林HD",
-    "urllist":"http://202.199.27.91/jltv.m3u8"
-  },
-  {
-    "num":676,
-    "itemid":"qing",
-    "name":"广西HD",
-    "urllist":"http://202.199.27.91/gxtv.m3u8"
-  },
-  {
-    "num":677,
-    "itemid":"qing",
-    "name":"河南HD",
-    "urllist":"http://202.199.27.91/hntv.m3u8"
-  },
-  {
-    "num":678,
-    "itemid":"qing",
-    "name":"宁夏HD",
-    "urllist":"http://202.199.27.91/nxtv.m3u8"
-  },
-  {
-    "num":679,
-    "itemid":"qing",
-    "name":"云南HD",
-    "urllist":"http://202.199.27.91/yntv.m3u8"
-  },
-  {
-    "num":680,
-    "itemid":"qing",
-    "name":"旅游卫视",
-    "urllist":"http://202.199.27.91/lytv.m3u8"
-  },
-  {
-    "num":681,
-    "itemid":"qing",
-    "name":"厦门卫视",
-    "urllist":"http://202.199.27.91/xmtv.m3u8"
-  },
-  {
-    "num":682,
-    "itemid":"qing",
-    "name":"兵团卫视",
-    "urllist":"http://202.199.27.91/bttv.m3u8"
-  },
-  {
-    "num":683,
-    "itemid":"qing",
-    "name":"河北卫视",
-    "urllist":"http://202.199.27.91/hebtv.m3u8"
-  },
-  {
-    "num":684,
     "itemid":"TW",
     "name":"互动新闻",
     "urllist":"http://58.218.152.98:7726/hls/hudongxw.m3u8"
   },
   {
-    "num":685,
+    "num":650,
     "itemid":"TW",
     "name":"J2",
     "urllist":"http://58.218.152.98:7726/hls/j2.m3u8"
   },
   {
-    "num":686,
+    "num":651,
     "itemid":"TW",
     "name":"澳门莲花卫视",
     "urllist":"http://58.218.152.98:7726/hls/livestream3-3108.ts"
   },
   {
-    "num":687,
+    "num":652,
     "itemid":"TW",
     "name":"民视1",
     "urllist":"http://58.218.152.98:7726/hls/livestream2.m3u8"
   },
   {
-    "num":688,
+    "num":653,
     "itemid":"TW",
     "name":"三立新闻台",
     "urllist":"http://58.218.152.98:7726/hls/a7191-8191.m3u8"
   },
   {
-    "num":689,
+    "num":654,
     "itemid":"TW",
     "name":"东森洋片",
     "urllist":"http://58.218.152.98:7726/hls/v1bbc.m3u8"
   },
   {
-    "num":690,
+    "num":655,
     "itemid":"TW",
     "name":"EUROSPORT",
     "urllist":"http://58.218.152.98:7726/hls/a7160-8160.m3u8"
   },
   {
-    "num":691,
+    "num":656,
     "itemid":"TW",
     "name":"HKC电影一台",
     "urllist":"p2p://76.73.54.50:6001/56b1cb3d0006201600c8dae26c32409d   "
   },
   {
-    "num":692,
+    "num":657,
     "itemid":"TW",
     "name":"HKC电影二台",
     "urllist":"p2p://76.73.54.50:6001/56b1cb4d000c30c800c91ae92e2d0130                               "
   },
   {
-    "num":693,
+    "num":658,
     "itemid":"TW",
     "name":"HKC私人影院HD",
     "urllist":"p2p://76.73.54.50:6001/56b1cb1800069a6400c84a8938dc5603.ts"
   },
   {
-    "num":694,
+    "num":659,
     "itemid":"TW",
     "name":"HKC剧集台213HD",
     "urllist":"p2p://76.73.54.50:6001/56b1cb060007eb0e00c804973fb23e7d.ts"
   },
   {
-    "num":695,
+    "num":660,
     "itemid":"TW",
     "name":"HKC娱乐台212HD",
     "urllist":"p2p://76.73.54.50:6001/56b1cae1000ac77a00c774da38b45e2f.ts"
   },
   {
-    "num":696,
+    "num":661,
     "itemid":"TW",
     "name":"HKC财经资讯台",
     "urllist":"p2p://76.73.54.50:6001/56b1caf600043bf100c7c52c5f4a6f2c.ts"
   },
   {
-    "num":697,
+    "num":662,
     "itemid":"TW",
     "name":"HKC新闻台",
     "urllist":"p2p://76.73.54.50:6001/56b1cad1000794c800c7358f43d461f1.ts"
   },
   {
-    "num":698,
+    "num":663,
     "itemid":"TW",
     "name":"HKC体育202HD ",
     "urllist":"p2p://76.73.54.50:6001/56b1caaf00079d7000c6b0ce40002e27.ts"
   },
   {
-    "num":699,
+    "num":664,
     "itemid":"TW",
     "name":"HKC足球201HD",
     "urllist":"p2p://76.73.54.50:6001/56b1ca95000bc0da00c64c57407615a6.ts "
   },
   {
-    "num":700,
+    "num":665,
     "itemid":"TW",
     "name":"凤凰资讯★",
     "urllist":"p2p://ccs.golivetv.tv:9906/5621ab77000d387b19e0e44177c01317.ts"
   },
   {
-    "num":701,
+    "num":666,
     "itemid":"TW",
     "name":"凤凰香港★",
     "urllist":"p2p://ccs.golivetv.tv:9906/5621ab810004f78519e109341aa7605c.ts"
   },
   {
-    "num":702,
+    "num":667,
     "itemid":"TW",
     "name":"凤凰中文★",
     "urllist":"p2p://ccs.golivetv.tv:9906/5621ab77000a5a7819e0e385ad60bda1.ts"
   },
   {
-    "num":703,
+    "num":668,
     "itemid":"TW",
     "name":"星空台★",
     "urllist":"p2p://ccs.golivetv.tv:9906/5621ab770007d4f719e0e2e0f9bb115e.ts"
   },
   {
-    "num":704,
+    "num":669,
     "itemid":"TW",
     "name":"美食星球",
     "urllist":"http://video01-lax.streamup.com/app/starfoods-stream/chunklist.m3u8"
   },
   {
-    "num":705,
+    "num":670,
     "itemid":"TW",
     "name":"博斯运动综合",
     "urllist":"p2p://76.73.57.138:9999/5448c579000006640162b2c11bb3ef76"
   },
   {
-    "num":706,
+    "num":671,
     "itemid":"TW",
     "name":"博斯无限SD",
     "urllist":"p2p://76.73.57.138:9999/5448c571000298a50162942aa035a2af"
   },
   {
-    "num":707,
+    "num":672,
     "itemid":"TW",
     "name":"博斯网球",
     "urllist":"p2p://76.73.57.138:9999/5448c568000eb9aa0162741d62146ec0"
   },
   {
-    "num":708,
+    "num":673,
     "itemid":"TW",
     "name":"博斯足球",
     "urllist":"p2p://76.73.57.138:9999/5448c569000d09bd01627796406ab572"
   },
   {
-    "num":709,
+    "num":674,
     "itemid":"TW",
     "name":"博斯电玩台",
     "urllist":"p2p://76.73.57.138:9999/54cef7a3000b7a79805e943d26709926"
   },
   {
-    "num":710,
+    "num":675,
     "itemid":"TW",
     "name":"ASN",
     "urllist":"p2p://76.73.57.138:9999/5448c57100049c55016294ae61fcb1dd"
   },
   {
-    "num":711,
+    "num":676,
     "itemid":"TW",
     "name":"美第奇艺术MedichArts",
     "urllist":"p2p://76.73.57.138:9999/5448c56a0001d0400162789e078ef82c"
   },
   {
-    "num":712,
+    "num":677,
     "itemid":"TW",
     "name":"Smart知识",
     "urllist":"p2p://76.73.57.138:9999/5448c5550000bfbc016226519ad76094"
   },
   {
-    "num":713,
+    "num":678,
     "itemid":"TW",
     "name":"半岛新闻",
     "urllist":"p2p://76.73.57.138:9999/5448c56000017229016251765ce2e190"
   },
   {
-    "num":714,
+    "num":679,
     "itemid":"TW",
     "name":"Aljazeera",
     "urllist":"http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8"
   },
   {
-    "num":715,
+    "num":680,
     "itemid":"TW",
     "name":"龙华电影HD★",
     "urllist":"p2p://76.73.57.138:9999/5448c55f0001a62e01624d9c10ed555c"
   },
   {
-    "num":716,
+    "num":681,
     "itemid":"TW",
     "name":"龙华戏剧2台★",
     "urllist":"p2p://76.73.57.138:9999/5448c571000a590c016296263e329e4d"
   },
   {
-    "num":717,
+    "num":682,
     "itemid":"TW",
     "name":"龙华电影3台★",
     "urllist":"p2p://76.73.57.138:9999/54bdc61a0003c0393d35131b0c8ae8ee"
   },
   {
-    "num":718,
+    "num":683,
     "itemid":"TW",
     "name":"龙华电影4台★",
     "urllist":"p2p://76.73.57.138:9999/5448c571000e3ea40162972578468014"
   },
   {
-    "num":719,
+    "num":684,
     "itemid":"TW",
     "name":"HKTV HD",
     "urllist":"http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&uid=1&vid=1&mxres=720&s=f28849d9f4c57e9e93a5e77cc87c7338"
   },
   {
-    "num":720,
+    "num":685,
     "itemid":"TW",
     "name":"澳亚卫视",
     "urllist":"http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8"
   },
   {
-    "num":721,
+    "num":686,
     "itemid":"TW",
     "name":"年代Much★",
     "urllist":"p2p://76.73.57.138:9999/5448c555000bae960162291d4981f64e"
   },
   {
-    "num":722,
+    "num":687,
     "itemid":"TW",
     "name":"东森亚洲★",
     "urllist":"p2p://76.73.57.138:9999/5448c548000aace30161f6139aaf3e7e"
   },
   {
-    "num":723,
+    "num":688,
     "itemid":"TW",
     "name":"亚洲旅游★",
     "urllist":"p2p://76.73.57.138:9999/5448c53f000bdb2d0161d3395baec7fa"
   },
   {
-    "num":724,
+    "num":689,
     "itemid":"TW",
     "name":"亚洲旅游国际台★",
     "urllist":"p2p://76.73.57.138:9999/549d5984000cc39110dc69fc5348cf79"
   },
   {
-    "num":725,
+    "num":690,
     "itemid":"TW",
     "name":"亚洲综合台★",
     "urllist":"p2p://76.73.57.138:9999/5448c5480004c8bd0161f491487ae777"
   },
   {
-    "num":726,
+    "num":691,
     "itemid":"TW",
     "name":"寰宇新闻一台★",
     "urllist":"p2p://76.73.57.138:9999/5448c569000156db016274970a517af8"
   },
   {
-    "num":727,
+    "num":692,
     "itemid":"TW",
     "name":"寰宇新闻二台★",
     "urllist":"p2p://76.73.57.138:9999/5448c55600024dc601622a9fa18c811c"
   },
   {
-    "num":728,
+    "num":693,
     "itemid":"TW",
     "name":"龙华戏剧3台★",
     "urllist":"p2p://76.73.57.138:9999/5448c578000b84f30162b1cba7c0a960"
   },
   {
-    "num":729,
+    "num":694,
     "itemid":"TW",
     "name":"龙华戏剧4台★",
     "urllist":"p2p://76.73.57.138:9999/5448c578000d72760162b249c30c0665"
   },
   {
-    "num":730,
+    "num":695,
     "itemid":"TW",
     "name":"放送台★",
     "urllist":"p2p://76.73.57.138:9999/5448c5710006ab7c01629535053e67c4"
   },
   {
-    "num":731,
+    "num":696,
     "itemid":"TW",
     "name":"幸福旅游★",
     "urllist":"p2p://76.73.57.138:9999/5448c5490008e6970161f9874e0390cf"
   },
   {
-    "num":732,
+    "num":697,
     "itemid":"TW",
     "name":"人间卫视★",
     "urllist":"p2p://76.73.57.138:9999/5448c549000aa4e70161f9f94af53d03"
   },
   {
-    "num":733,
+    "num":698,
     "itemid":"TW",
     "name":"迪斯尼卡通★",
     "urllist":"p2p://76.73.57.138:9999/56a905da0007fda617f99c5b46761480"
   },
   {
-    "num":734,
+    "num":699,
     "itemid":"TW",
     "name":"BabyFirst★",
     "urllist":"p2p://76.73.57.138:9999/5448c55500030101016226e4fc5300c1"
   },
   {
-    "num":735,
+    "num":700,
     "itemid":"TW",
     "name":"龙华动漫2台★",
     "urllist":"p2p://76.73.57.138:9999/5448c5720008a00c0162999dcaaaff9f"
   },
   {
-    "num":736,
+    "num":701,
     "itemid":"uid4",
     "name":"战旗动画1",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/41832_NfsIa"
   },
   {
-    "num":737,
+    "num":702,
     "itemid":"uid4",
     "name":"战旗动画2",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/62239_SzSMw"
   },
   {
-    "num":738,
+    "num":703,
     "itemid":"uid4",
     "name":"战旗动画3",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/36932_86KeS"
   },
   {
-    "num":739,
+    "num":704,
     "itemid":"uid4",
     "name":"战旗动画4",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/47163_0znQJ"
   },
   {
-    "num":740,
+    "num":705,
     "itemid":"uid4",
     "name":"高清影院1",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/37047_KWOM9"
   },
   {
-    "num":741,
+    "num":706,
     "itemid":"uid4",
     "name":"高清影院3",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/2869_tUPFz"
   },
   {
-    "num":742,
+    "num":707,
     "itemid":"uid4",
     "name":"高清影院4",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC"
   },
   {
-    "num":743,
+    "num":708,
     "itemid":"uid4",
     "name":"高清影院7",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/35180_KUDhx"
   },
   {
-    "num":744,
+    "num":709,
     "itemid":"uid4",
     "name":"高清影院8",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/35349_iXsXw"
   },
   {
-    "num":745,
+    "num":710,
     "itemid":"uid4",
     "name":"高清影院9",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/43720_qvSDI"
   },
   {
-    "num":746,
+    "num":711,
     "itemid":"uid4",
     "name":"高清影院10",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/40051_ruOu5"
   },
   {
-    "num":747,
+    "num":712,
     "itemid":"uid4",
     "name":"高清影院11",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/45188_oT6Ed"
   },
   {
-    "num":748,
+    "num":713,
     "itemid":"uid4",
     "name":"高清影院12",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/49427_jmACJ"
   },
   {
-    "num":749,
+    "num":714,
     "itemid":"uid4",
     "name":"高清影院13",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/49858_wgGj1"
   },
   {
-    "num":750,
+    "num":715,
     "itemid":"uid4",
     "name":"高清影院14",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/53346_ESoth"
   },
   {
-    "num":751,
+    "num":716,
     "itemid":"uid4",
     "name":"高清影院15",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/54770_1aw2J"
   },
   {
-    "num":752,
+    "num":717,
     "itemid":"uid4",
     "name":"高清影院16",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/69178_YHRUs"
   },
   {
-    "num":753,
+    "num":718,
     "itemid":"uid4",
     "name":"高清影院17",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/71720_arek4"
   },
   {
-    "num":754,
+    "num":719,
     "itemid":"uid4",
     "name":"高清影院18",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/77596_7wfb1"
   },
   {
-    "num":755,
+    "num":720,
     "itemid":"uid4",
     "name":"高清影院19",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/93774_g0UdM"
   },
   {
-    "num":756,
+    "num":721,
     "itemid":"uid4",
     "name":"高清影院20",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/88780_QNQo0"
   },
   {
-    "num":757,
+    "num":722,
     "itemid":"uid4",
     "name":"高清影院21",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/92406_asJm0"
   },
   {
-    "num":758,
+    "num":723,
     "itemid":"uid4",
     "name":"高清影院22",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/90819_iMmHS"
   },
   {
-    "num":759,
+    "num":724,
     "itemid":"uid4",
     "name":"高清影院23",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/91580_YQvBT"
   },
   {
-    "num":760,
+    "num":725,
     "itemid":"uid4",
     "name":"高清影院25",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/100804_3yFeJ"
   },
   {
-    "num":761,
+    "num":726,
     "itemid":"uid4",
     "name":"高清影院26",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/101497_uqd0M"
   },
   {
-    "num":762,
+    "num":727,
     "itemid":"uid4",
     "name":"高清影院27",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/102444_ZGmRp"
   },
   {
-    "num":763,
+    "num":728,
     "itemid":"uid4",
     "name":"高清影院29",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/59855_yIWkv"
   },
   {
-    "num":764,
+    "num":729,
     "itemid":"uid4",
     "name":"高清影院30",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/73622_IIsRY"
   },
   {
-    "num":765,
+    "num":730,
     "itemid":"uid4",
     "name":"高清影院31",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE"
   },
   {
-    "num":766,
+    "num":731,
     "itemid":"uid4",
     "name":"高清剧集1",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/37196_7ec44"
   },
   {
-    "num":767,
+    "num":732,
     "itemid":"uid4",
     "name":"高清剧集2",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/18406_i2LzC"
   },
   {
-    "num":768,
+    "num":733,
     "itemid":"uid4",
     "name":"高清剧集3",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/34338_PVMT5"
   },
   {
-    "num":769,
+    "num":734,
     "itemid":"uid4",
     "name":"高清剧集7",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/12260_BG1BI"
   },
   {
-    "num":770,
+    "num":735,
     "itemid":"uid4",
     "name":"荒野求生",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/60238_lUgNk"
   },
   {
-    "num":771,
+    "num":736,
     "itemid":"uid4",
     "name":"预言家",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/36596_HD3eX"
   },
   {
-    "num":772,
+    "num":737,
     "itemid":"uid4",
     "name":"挑战日",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/17077_wwKaC"
   },
   {
-    "num":773,
+    "num":738,
     "itemid":"uid4",
     "name":"相声1",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/43626_vQOn9"
   },
   {
-    "num":774,
+    "num":739,
     "itemid":"uid4",
     "name":"相声2",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/104033_6y2qJ"
   },
   {
-    "num":775,
+    "num":740,
     "itemid":"uid4",
     "name":"相声3",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/13393_Raq4m"
   },
   {
-    "num":776,
+    "num":741,
     "itemid":"uid4",
     "name":"NBA",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/31351_Y7CIJ"
   },
   {
-    "num":777,
+    "num":742,
     "itemid":"uid4",
     "name":"魅力研习社",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/93282_CWqeM"
   },
   {
-    "num":778,
+    "num":743,
     "itemid":"uid4",
     "name":"主播",
     "urllist":"rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/88945_Kligp"
   },
   {
-    "num":779,
+    "num":744,
     "itemid":"uid3",
     "name":"熊猫影院1",
     "urllist":"http://pandatv.live.1009988.net/?hd=12043"
   },
   {
-    "num":780,
+    "num":745,
     "itemid":"uid3",
     "name":"熊猫影院2",
     "urllist":"http://pandatv.live.1009988.net/?hd=11071"
   },
   {
-    "num":781,
+    "num":746,
     "itemid":"uid3",
     "name":"熊猫影院3",
     "urllist":"http://pandatv.live.1009988.net/?hd=16383"
   },
   {
-    "num":782,
+    "num":747,
     "itemid":"uid3",
     "name":"熊猫影院4",
     "urllist":"http://pandatv.live.1009988.net/?hd=13711"
   },
   {
-    "num":783,
+    "num":748,
     "itemid":"uid3",
     "name":"熊猫影院5",
     "urllist":"http://pandatv.live.1009988.net/?hd=291089"
   },
   {
-    "num":784,
+    "num":749,
     "itemid":"uid3",
     "name":"熊猫影院6",
     "urllist":"http://pandatv.live.1009988.net/?hd=13181"
   },
   {
-    "num":785,
+    "num":750,
     "itemid":"uid3",
     "name":"熊猫影院7",
     "urllist":"http://pandatv.live.1009988.net/?hd=17379"
   },
   {
-    "num":786,
+    "num":751,
     "itemid":"uid3",
     "name":"熊猫影院8",
     "urllist":"http://pandatv.live.1009988.net/?hd=47743"
   },
   {
-    "num":787,
+    "num":752,
     "itemid":"uid3",
     "name":"熊猫影院9",
     "urllist":"http://pandatv.live.1009988.net/?hd=15841"
   },
   {
-    "num":788,
+    "num":753,
     "itemid":"uid3",
     "name":"熊猫影院10",
     "urllist":"http://pandatv.live.1009988.net/?hd=43243"
   },
   {
-    "num":789,
+    "num":754,
     "itemid":"uid3",
     "name":"熊猫影院11",
     "urllist":"http://pandatv.live.1009988.net/?hd=90443"
   },
   {
-    "num":790,
+    "num":755,
     "itemid":"uid3",
     "name":"熊猫影院12",
     "urllist":"http://pandatv.live.1009988.net/?hd=11725"
   },
   {
-    "num":791,
+    "num":756,
     "itemid":"uid3",
     "name":"熊猫影院13",
     "urllist":"http://pandatv.live.1009988.net/?hd=12045"
   },
   {
-    "num":792,
+    "num":757,
     "itemid":"uid3",
     "name":"熊猫影院14",
     "urllist":"http://pandatv.live.1009988.net/?hd=36683"
   },
   {
-    "num":793,
+    "num":758,
     "itemid":"uid3",
     "name":"熊猫影院15",
     "urllist":"http://pandatv.live.1009988.net/?hd=17791"
   },
   {
-    "num":794,
+    "num":759,
     "itemid":"uid3",
     "name":"熊猫影院16",
     "urllist":"http://pandatv.live.1009988.net/?hd=13383"
   },
   {
-    "num":795,
+    "num":760,
     "itemid":"uid3",
     "name":"熊猫影院17",
     "urllist":"http://pandatv.live.1009988.net/?hd=14815"
   },
   {
-    "num":796,
+    "num":761,
     "itemid":"uid3",
     "name":"熊猫影院18",
     "urllist":"http://pandatv.live.1009988.net/?hd=99501"
   },
   {
-    "num":797,
+    "num":762,
     "itemid":"uid3",
     "name":"熊猫影院19",
     "urllist":"http://pandatv.live.1009988.net/?hd=14341"
   },
   {
-    "num":798,
+    "num":763,
     "itemid":"uid3",
     "name":"熊猫影院20",
     "urllist":"http://pandatv.live.1009988.net/?hd=295616"
   },
   {
-    "num":799,
+    "num":764,
     "itemid":"uid3",
     "name":"熊猫影院21",
     "urllist":"http://pandatv.live.1009988.net/?hd=10635"
   },
   {
-    "num":800,
+    "num":765,
     "itemid":"uid3",
     "name":"熊猫影院22",
     "urllist":"http://pandatv.live.1009988.net/?hd=196317"
   },
   {
-    "num":801,
+    "num":766,
     "itemid":"uid3",
     "name":"熊猫影院23",
     "urllist":"http://pandatv.live.1009988.net/?hd=110505"
   },
   {
-    "num":802,
+    "num":767,
     "itemid":"uid3",
     "name":"熊猫影院24",
     "urllist":"http://pandatv.live.1009988.net/?hd=146360"
   },
   {
-    "num":803,
+    "num":768,
     "itemid":"uid3",
     "name":"熊猫影院25",
     "urllist":"http://pandatv.live.1009988.net/?hd=33611"
   },
   {
-    "num":804,
+    "num":769,
     "itemid":"uid3",
     "name":"熊猫影院26",
     "urllist":"http://pandatv.live.1009988.net/?hd=20487"
   },
   {
-    "num":805,
+    "num":770,
     "itemid":"uid3",
     "name":"熊猫影院27",
     "urllist":"http://pandatv.live.1009988.net/?hd=121485"
   },
   {
-    "num":806,
+    "num":771,
     "itemid":"uid3",
     "name":"熊猫影院28",
     "urllist":"http://pandatv.live.1009988.net/?hd=236295"
   },
   {
-    "num":807,
+    "num":772,
     "itemid":"uid3",
     "name":"熊猫影院29",
     "urllist":"http://pandatv.live.1009988.net/?hd=207033"
   },
   {
-    "num":808,
+    "num":773,
     "itemid":"uid3",
     "name":"熊猫影院30",
     "urllist":"http://pandatv.live.1009988.net/?hd=237918"
   },
   {
+    "num":774,
+    "itemid":"dm",
+    "name":"CCTV-1HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000133&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":775,
+    "itemid":"dm",
+    "name":"CCTV-3HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000134&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":776,
+    "itemid":"dm",
+    "name":"CCTV-5HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000135&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":777,
+    "itemid":"dm",
+    "name":"CCTV-5+HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000138&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":778,
+    "itemid":"dm",
+    "name":"CCTV-6HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000136&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":779,
+    "itemid":"dm",
+    "name":"CCTV-8HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000137&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":780,
+    "itemid":"dm",
+    "name":"大连-1HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000132&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":781,
+    "itemid":"dm",
+    "name":"湖南卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000140&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":782,
+    "itemid":"dm",
+    "name":"重庆卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000222&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":783,
+    "itemid":"dm",
+    "name":"安徽卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000148&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":784,
+    "itemid":"dm",
+    "name":"北京卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000147&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":785,
+    "itemid":"dm",
+    "name":"广东卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000145&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":786,
+    "itemid":"dm",
+    "name":"江苏卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000142&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":787,
+    "itemid":"dm",
+    "name":"辽宁卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000139&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":788,
+    "itemid":"dm",
+    "name":"山东卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000221&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":789,
+    "itemid":"dm",
+    "name":"东方卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000141&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":790,
+    "itemid":"dm",
+    "name":"深圳卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000146&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":791,
+    "itemid":"dm",
+    "name":"天津卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000149&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":792,
+    "itemid":"dm",
+    "name":"浙江卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000143&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":793,
+    "itemid":"dm",
+    "name":"黑龙江卫视HD",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000144&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":794,
+    "itemid":"dm",
+    "name":"CCTV-1",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000010&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":795,
+    "itemid":"dm",
+    "name":"CCTV-2",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000011&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":796,
+    "itemid":"dm",
+    "name":"CCTV-3",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000012&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":797,
+    "itemid":"dm",
+    "name":"CCTV-4",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000013&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":798,
+    "itemid":"dm",
+    "name":"CCTV-5",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000014&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":799,
+    "itemid":"dm",
+    "name":"CCTV-6",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000015&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":800,
+    "itemid":"dm",
+    "name":"CCTV-7",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000016&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":801,
+    "itemid":"dm",
+    "name":"CCTV-8",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000017&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":802,
+    "itemid":"dm",
+    "name":"CCTV-9",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000018&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":803,
+    "itemid":"dm",
+    "name":"CCTV-10",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000019&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":804,
+    "itemid":"dm",
+    "name":"CCTV-11",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000020&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":805,
+    "itemid":"dm",
+    "name":"CCTV-12",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000021&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":806,
+    "itemid":"dm",
+    "name":"CCTV-13",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000022&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":807,
+    "itemid":"dm",
+    "name":"CCTV-14",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000023&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":808,
+    "itemid":"dm",
+    "name":"CCTV-15",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000024&playtype=live&qamname=undefined&auth=no"
+  },
+  {
     "num":809,
     "itemid":"dm",
-    "name":"CCTV-1HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227692/index.m3u8"
+    "name":"CCTV-NEWS",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000061&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":810,
     "itemid":"dm",
-    "name":"CCTV-2HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227666/index.m3u8"
+    "name":"CCTV-中学生",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000082&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":811,
     "itemid":"dm",
-    "name":"CCTV-4HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227721/index.m3u8"
+    "name":"CCTV-女性时尚",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000069&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":812,
     "itemid":"dm",
-    "name":"CCTV-5+HD",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227870/index.m3u8"
+    "name":"CCTV-现代女性",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000074&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":813,
     "itemid":"dm",
-    "name":"CCTV-7HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227695/index.m3u8"
+    "name":"CCTV-央视台球",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000198&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":814,
     "itemid":"dm",
-    "name":"CCTV-9HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227669/index.m3u8"
+    "name":"CCTV-央视文化精品",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000071&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":815,
     "itemid":"dm",
-    "name":"CCTV-10HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227698/index.m3u8"
+    "name":"CCTV-电视指南",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000207&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":816,
     "itemid":"dm",
-    "name":"CCTV-12HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227724/index.m3u8"
+    "name":"CCTV-高尔夫网球",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000216&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":817,
     "itemid":"dm",
-    "name":"CCTV-11HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227672/index.m3u8"
+    "name":"吉林卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000050&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":818,
     "itemid":"dm",
-    "name":"CCTV-13HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227701/index.m3u8"
+    "name":"安徽卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000037&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":819,
     "itemid":"dm",
-    "name":"CCTV-14HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227675/index.m3u8"
+    "name":"新疆卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000060&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":820,
     "itemid":"dm",
-    "name":"CCTV-15HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227727/index.m3u8"
+    "name":"北京卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000051&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":821,
     "itemid":"dm",
-    "name":"CCTV-NEWS",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227704/index.m3u8"
+    "name":"兵团卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000189&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":822,
     "itemid":"dm",
-    "name":"中国教育1台",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227737/index.m3u8"
+    "name":"福建东南卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000053&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":823,
     "itemid":"dm",
-    "name":"湖南卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227866/index.m3u8"
+    "name":"甘肃卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000065&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":824,
     "itemid":"dm",
-    "name":"广东卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227697/index.m3u8"
+    "name":"广东卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000032&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":825,
     "itemid":"dm",
-    "name":"浙江卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227810/index.m3u8"
+    "name":"广西卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000034&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":826,
     "itemid":"dm",
-    "name":"江苏卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227869/index.m3u8"
+    "name":"河北卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000048&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":827,
     "itemid":"dm",
-    "name":"东方卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227841/index.m3u8"
+    "name":"贵州卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000049&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":828,
     "itemid":"dm",
-    "name":"安徽卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227813/index.m3u8"
+    "name":"河南卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000046&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":829,
     "itemid":"dm",
-    "name":"北京卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227678/index.m3u8"
+    "name":"黑龙江卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000045&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":830,
     "itemid":"dm",
-    "name":"天津卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227730/index.m3u8"
+    "name":"湖北卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000044&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":831,
     "itemid":"dm",
-    "name":"山东卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227707/index.m3u8"
+    "name":"湖南卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000059&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":832,
     "itemid":"dm",
-    "name":"深圳卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227733/index.m3u8"
+    "name":"江苏卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000042&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":833,
     "itemid":"dm",
-    "name":"湖北卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227710/index.m3u8"
+    "name":"江西卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000055&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":834,
     "itemid":"dm",
-    "name":"辽宁卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227684/index.m3u8"
+    "name":"辽宁卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000025&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":835,
     "itemid":"dm",
-    "name":"黑龙江卫视HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227736/index.m3u8"
+    "name":"旅游卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000188&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":836,
     "itemid":"dm",
-    "name":"广东体育HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227703/index.m3u8"
+    "name":"内蒙古卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000040&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":837,
     "itemid":"dm",
-    "name":"广东经济科教HD(B)",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227803/index.m3u8"
+    "name":"宁夏卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000056&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":838,
     "itemid":"dm",
-    "name":"财富天下",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227711/index.m3u8"
+    "name":"山东卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000033&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":839,
     "itemid":"dm",
-    "name":"IPTV5+",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227923/index.m3u8"
+    "name":"山西卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000054&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":840,
     "itemid":"dm",
-    "name":"IPTV6+",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227889/index.m3u8"
+    "name":"陕西卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000036&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":841,
     "itemid":"dm",
-    "name":"IPTV8+",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227920/index.m3u8"
+    "name":"东方卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000038&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":842,
     "itemid":"dm",
-    "name":"IPTV相声小品",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227861/index.m3u8"
+    "name":"深圳卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000039&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":843,
     "itemid":"dm",
-    "name":"IPTV热播剧场",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227864/index.m3u8"
+    "name":"四川卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000047&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":844,
     "itemid":"dm",
-    "name":"IPTV少儿动画",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227867/index.m3u8"
+    "name":"云南卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000052&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":845,
     "itemid":"dm",
-    "name":"IPTV经典电影",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227892/index.m3u8"
+    "name":"天津卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000041&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":846,
     "itemid":"dm",
-    "name":"IPTV春晚频道",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227895/index.m3u8"
+    "name":"西藏卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000063&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":847,
     "itemid":"dm",
-    "name":"IPTV魅力时尚",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227898/index.m3u8"
+    "name":"浙江卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000035&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":848,
     "itemid":"dm",
-    "name":"IPTV收视指南",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227926/index.m3u8"
+    "name":"重庆卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000043&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":849,
     "itemid":"dm",
-    "name":"南方卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227651/index.m3u8"
+    "name":"青海卫视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000057&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":850,
     "itemid":"dm",
-    "name":"广东珠江",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227700/index.m3u8"
+    "name":"大连导视",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000131&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":851,
     "itemid":"dm",
-    "name":"广东公共",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227645/index.m3u8"
+    "name":"高清剧场",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000164&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":852,
     "itemid":"dm",
-    "name":"广东少儿",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227654/index.m3u8"
+    "name":"高清军事",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000168&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":853,
     "itemid":"dm",
-    "name":"广东新闻",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227674/index.m3u8"
+    "name":"高清少儿",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000169&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":854,
     "itemid":"dm",
-    "name":"广东国际",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227677/index.m3u8"
+    "name":"高清时尚",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000167&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":855,
     "itemid":"dm",
-    "name":"广东影视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227680/index.m3u8"
+    "name":"高清影院",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000166&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":856,
     "itemid":"dm",
-    "name":"广东综艺",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227706/index.m3u8"
+    "name":"老年福",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000210&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":857,
     "itemid":"dm",
-    "name":"金鹰卡通",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227708/index.m3u8"
+    "name":"法治天地",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000192&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":858,
     "itemid":"dm",
-    "name":"嘉佳卡通",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227709/index.m3u8"
+    "name":"梨园频道",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000067&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":859,
     "itemid":"dm",
-    "name":"北京卡酷少儿",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227734/index.m3u8"
+    "name":"七彩戏剧",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000209&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":860,
     "itemid":"dm",
-    "name":"山东教育",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227740/index.m3u8"
+    "name":"动漫秀场",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000211&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":861,
     "itemid":"dm",
-    "name":"东方购物",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227683/index.m3u8"
+    "name":"金色频道",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000212&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":862,
     "itemid":"dm",
-    "name":"厦门卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227760/index.m3u8"
+    "name":"彩民在线",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000200&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":863,
     "itemid":"dm",
-    "name":"四川卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227687/index.m3u8"
+    "name":"中央教育1",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000062&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":864,
     "itemid":"dm",
-    "name":"重庆卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227690/index.m3u8"
+    "name":"交通旅游",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000080&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":865,
     "itemid":"dm",
-    "name":"广西卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227693/index.m3u8"
+    "name":"中国气象",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000076&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":866,
     "itemid":"dm",
-    "name":"山西卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227696/index.m3u8"
+    "name":"职业指南",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000078&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":867,
     "itemid":"dm",
-    "name":"旅游卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227699/index.m3u8"
+    "name":"天元围棋",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000205&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":868,
     "itemid":"dm",
-    "name":"西藏卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227702/index.m3u8"
+    "name":"网络棋牌",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000075&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":869,
     "itemid":"dm",
-    "name":"兵团卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227705/index.m3u8"
+    "name":"文物宝库",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000204&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":870,
     "itemid":"dm",
-    "name":"贵州卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227713/index.m3u8"
+    "name":"武术世界",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000202&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":871,
     "itemid":"dm",
-    "name":"云南卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227716/index.m3u8"
+    "name":"留学世界",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000068&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":872,
     "itemid":"dm",
-    "name":"英语辅导",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227718/index.m3u8"
+    "name":"考试在线",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000077&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":873,
     "itemid":"dm",
-    "name":"东南卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227719/index.m3u8"
+    "name":"电子体育",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000081&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":874,
     "itemid":"dm",
-    "name":"陕西卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227722/index.m3u8"
+    "name":"DV生活",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000206&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":875,
     "itemid":"dm",
-    "name":"青海卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227725/index.m3u8"
+    "name":"快乐垂钓",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000199&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":876,
     "itemid":"dm",
-    "name":"宁夏卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227728/index.m3u8"
+    "name":"靓装",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000073&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":877,
     "itemid":"dm",
-    "name":"甘肃卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227731/index.m3u8"
+    "name":"茶频道",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000079&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":878,
     "itemid":"dm",
-    "name":"河南卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227739/index.m3u8"
+    "name":"城市建设",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000201&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":879,
     "itemid":"dm",
-    "name":"河北卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227742/index.m3u8"
+    "name":"导视频道",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000009&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":880,
     "itemid":"dm",
-    "name":"吉林卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227745/index.m3u8"
+    "name":"环球购物",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000031&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":881,
     "itemid":"dm",
-    "name":"健康卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227754/index.m3u8"
+    "name":"环球影院",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000058&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":882,
     "itemid":"dm",
-    "name":"内蒙古卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227837/index.m3u8"
+    "name":"极速汽车",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000208&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":883,
     "itemid":"dm",
-    "name":"新疆卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227839/index.m3u8"
+    "name":"汽摩频道",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000072&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":884,
     "itemid":"dm",
-    "name":"江西卫视",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227681/index.m3u8"
+    "name":"家政频道",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000215&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":885,
     "itemid":"dm",
-    "name":"欧洲足球",
-    "urllist":"http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227657/index.m3u8"
+    "name":"时代风尚",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000066&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":886,
+    "itemid":"dm",
+    "name":"快乐宠物",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000070&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":887,
+    "itemid":"dm",
+    "name":"幼儿教育",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000214&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":888,
+    "itemid":"dm",
+    "name":"卡酷卡通",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000196&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":889,
+    "itemid":"dm",
+    "name":"嘉佳卡通",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000194&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":890,
+    "itemid":"dm",
+    "name":"金鹰卡通",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000193&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":891,
+    "itemid":"dm",
+    "name":"新科动漫",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000203&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":892,
+    "itemid":"dm",
+    "name":"炫动卡通",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000195&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":893,
+    "itemid":"dm",
+    "name":"优漫卡通",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000197&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":894,
+    "itemid":"dm",
+    "name":"大连-1",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000001&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":895,
+    "itemid":"dm",
+    "name":"大连-2",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000002&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":896,
+    "itemid":"dm",
+    "name":"大连-3",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000003&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":897,
+    "itemid":"dm",
+    "name":"大连-4",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000004&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":898,
+    "itemid":"dm",
+    "name":"大连-5",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000005&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":899,
+    "itemid":"dm",
+    "name":"大连-6",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000006&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":900,
+    "itemid":"dm",
+    "name":"大连-7",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000007&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":901,
+    "itemid":"dm",
+    "name":"大连-8",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000008&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":902,
+    "itemid":"dm",
+    "name":"辽宁都市",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000026&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":903,
+    "itemid":"dm",
+    "name":"辽宁影视剧",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000027&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":904,
+    "itemid":"dm",
+    "name":"辽宁体育",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000028&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":905,
+    "itemid":"dm",
+    "name":"辽宁北方",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000030&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":906,
+    "itemid":"dm",
+    "name":"辽宁公共",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000064&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":907,
+    "itemid":"dm",
+    "name":"辽宁青少",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000191&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":908,
+    "itemid":"dm",
+    "name":"辽宁生活",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000190&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":909,
+    "itemid":"dm",
+    "name":"辽宁宜家购物",
+    "urllist":"http://httpdvb.slave.ttcatv.tv:13160/playurl?&accesstoken=TOKEN50003415&programid=4200000029&playtype=live&qamname=undefined&auth=no"
+  },
+  {
+    "num":910,
     "itemid":"dy",
     "name":"潇湘电影",
     "urllist":"http://113.247.251.13:5001/nn_live.ts?id=XXDY"
   },
   {
-    "num":887,
+    "num":911,
     "itemid":"dy",
     "name":"CHC高清电影",
     "urllist":"http://116.211.76.43/live.aishang.ctlcdn.com/00000110240266_1/encoder/3/playlist.m3u8"
   },
   {
-    "num":888,
+    "num":912,
     "itemid":"dy",
     "name":"CHC家庭影院",
     "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240269_1/encoder/0/playlist.m3u8"
   },
   {
-    "num":889,
+    "num":913,
     "itemid":"dy",
     "name":"CHC动作电影",
     "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240270_1/encoder/0/playlist.m3u8"
   },
   {
-    "num":890,
+    "num":914,
     "itemid":"dy",
     "name":"天映电影",
     "urllist":"http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000105&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no"
   },
   {
-    "num":891,
+    "num":915,
     "itemid":"dy",
     "name":"HBO",
     "urllist":"http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000123&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no"
   },
   {
-    "num":892,
+    "num":916,
     "itemid":"dy",
     "name":"精选电影",
     "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8"
   },
   {
-    "num":893,
+    "num":917,
     "itemid":"dy",
     "name":"喜剧影院",
     "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8"
   },
   {
-    "num":894,
+    "num":918,
     "itemid":"dy",
     "name":"动作影院",
     "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8"
   },
   {
-    "num":895,
+    "num":919,
     "itemid":"dy",
     "name":"家庭影院",
     "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8"
   },
   {
-    "num":896,
+    "num":920,
     "itemid":"dy",
     "name":"星影",
     "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8"
   },
   {
-    "num":897,
+    "num":921,
     "itemid":"dy",
     "name":"中国电影",
     "urllist":"http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8"
   },
   {
-    "num":898,
+    "num":922,
     "itemid":"dy",
     "name":"天华探索高清",
     "urllist":"http://116.77.70.98:5080/hls/wn5fsvdn.m3u8"
   },
   {
-    "num":899,
+    "num":923,
     "itemid":"dy",
     "name":"明星大片",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/mingxingdp/yst.m3u8"
   },
   {
-    "num":900,
+    "num":924,
     "itemid":"dy",
     "name":"惊悚悬疑",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/jingsongxy/yst.m3u8"
   },
   {
-    "num":901,
+    "num":925,
     "itemid":"dy",
     "name":"精品大剧",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/jdaju/yst.m3u8"
   },
   {
-    "num":902,
+    "num":926,
     "itemid":"dy",
     "name":"精品电影",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/jdianying/yst.m3u8"
   },
   {
-    "num":903,
+    "num":927,
     "itemid":"dy",
     "name":"精品记录",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/jingpinjl/yst.m3u8"
   },
   {
-    "num":904,
+    "num":928,
     "itemid":"dy",
     "name":"精品体育",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/jtiyu/yst.m3u8"
   },
   {
-    "num":905,
+    "num":929,
     "itemid":"dy",
     "name":"军旅剧场",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/junlvjc/yst.m3u8"
   },
   {
-    "num":906,
+    "num":930,
     "itemid":"dy",
     "name":"家庭剧场",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/jiatingjc/yst.m3u8"
   },
   {
-    "num":907,
+    "num":931,
     "itemid":"dy",
     "name":"古装剧场",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/guzhuangjc/yst.m3u8"
   },
   {
-    "num":908,
+    "num":932,
     "itemid":"dy",
     "name":"海外剧场",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/xiqumd/yst.m3u8"
   },
   {
-    "num":909,
+    "num":933,
     "itemid":"dy",
     "name":"动作电影",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/dongzuody/yst.m3u8"
   },
   {
-    "num":910,
+    "num":934,
     "itemid":"dy",
     "name":"爱情喜剧",
     "urllist":"http://218.203.106.12:5580/ysten-businessmobile/live/aiqingxj/yst.m3u8"
   },
   {
-    "num":911,
+    "num":935,
     "itemid":"dy",
     "name":"家庭影院1",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000093.m3u8"
   },
   {
-    "num":912,
+    "num":936,
     "itemid":"dy",
     "name":"家庭影院2",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000097.m3u8"
   },
   {
-    "num":913,
+    "num":937,
     "itemid":"dy",
     "name":"家庭影院3",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000099.m3u8"
   },
   {
-    "num":914,
+    "num":938,
     "itemid":"dy",
     "name":"家庭影院4",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000118.m3u8"
   },
   {
-    "num":915,
+    "num":939,
     "itemid":"dy",
     "name":"老电影",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000102.m3u8"
   },
   {
-    "num":916,
+    "num":940,
     "itemid":"dy",
     "name":"家庭剧场1",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000103.m3u8"
   },
   {
-    "num":917,
+    "num":941,
     "itemid":"dy",
     "name":"家庭剧场2",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000114.m3u8"
   },
   {
-    "num":918,
+    "num":942,
     "itemid":"dy",
     "name":"家庭剧场3",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000117.m3u8"
   },
   {
-    "num":919,
+    "num":943,
     "itemid":"dy",
     "name":"大众影视",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000138.m3u8"
   },
   {
-    "num":920,
+    "num":944,
     "itemid":"dy",
     "name":"刑侦剧场",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000121.m3u8"
   },
   {
-    "num":921,
+    "num":945,
     "itemid":"dy",
     "name":"海外剧场",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000124.m3u8"
   },
   {
-    "num":922,
+    "num":946,
     "itemid":"dy",
     "name":"卡通剧场",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000126.m3u8"
   },
   {
-    "num":923,
+    "num":947,
     "itemid":"dy",
     "name":"纪录片",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000129.m3u8"
   },
   {
-    "num":924,
+    "num":948,
     "itemid":"dy",
     "name":"探索集锦",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000131.m3u8"
   },
   {
-    "num":925,
+    "num":949,
     "itemid":"dy",
     "name":"地理杂志",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000134.m3u8"
   },
   {
-    "num":926,
+    "num":950,
     "itemid":"dy",
     "name":"家庭生活",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000140.m3u8"
   },
   {
-    "num":927,
+    "num":951,
     "itemid":"dy",
     "name":"城市电视",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000143.m3u8"
   },
   {
-    "num":928,
+    "num":952,
     "itemid":"dy",
     "name":"交通旅游",
     "urllist":"http://liveapi.bobuc.net/lntvch/01000000000000000000000000000145.m3u8"
   },
   {
-    "num":929,
+    "num":953,
     "itemid":"dy",
     "name":"天天精选HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000203&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":930,
+    "num":954,
     "itemid":"dy",
     "name":"高清影视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000138&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":931,
+    "num":955,
     "itemid":"dy",
     "name":"好莱坞电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000204&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":932,
+    "num":956,
     "itemid":"dy",
     "name":"院线电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000205&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":933,
+    "num":957,
     "itemid":"dy",
     "name":"悬疑电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000206&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":934,
+    "num":958,
     "itemid":"dy",
     "name":"经典电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000207&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":935,
+    "num":959,
     "itemid":"dy",
     "name":"欧美电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000208&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":936,
+    "num":960,
     "itemid":"dy",
     "name":"亚洲电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000209&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":937,
+    "num":961,
     "itemid":"dy",
     "name":"热播美剧HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000210&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":938,
+    "num":962,
     "itemid":"dy",
     "name":"影像英伦HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000211&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":939,
+    "num":963,
     "itemid":"dy",
     "name":"韩流新映HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000212&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":940,
+    "num":964,
     "itemid":"dy",
     "name":"宝岛宜家HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000213&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":941,
+    "num":965,
     "itemid":"dy",
     "name":"同步剧场HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000214&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":942,
+    "num":966,
     "itemid":"dy",
     "name":"紫荆剧场HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000215&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":943,
+    "num":967,
     "itemid":"dy",
     "name":"沙发电影1HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000177&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":944,
+    "num":968,
     "itemid":"dy",
     "name":"沙发电影2HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000178&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":945,
+    "num":969,
     "itemid":"uid5",
     "name":"CNN",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c175.stream"
   },
   {
-    "num":946,
+    "num":970,
     "itemid":"uid5",
     "name":"BBC",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c177.stream"
   },
   {
-    "num":947,
+    "num":971,
     "itemid":"uid5",
     "name":"公視HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c229.stream"
   },
   {
-    "num":948,
+    "num":972,
     "itemid":"uid5",
     "name":"公視",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c239.stream"
   },
   {
-    "num":949,
+    "num":973,
     "itemid":"uid5",
     "name":"FSTVHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c193.stream"
   },
   {
-    "num":950,
+    "num":974,
     "itemid":"uid5",
     "name":"民視HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c192.stream"
   },
   {
-    "num":951,
+    "num":975,
     "itemid":"uid5",
     "name":"台視HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c240.stream"
   },
   {
-    "num":952,
+    "num":976,
     "itemid":"uid5",
     "name":"台視綜合台",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c171.stream"
   },
   {
-    "num":953,
+    "num":977,
     "itemid":"uid5",
     "name":"中視HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c174.stream"
   },
   {
-    "num":954,
+    "num":978,
     "itemid":"uid5",
     "name":"BRAVO菁采台",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c201.stream"
   },
   {
-    "num":955,
+    "num":979,
     "itemid":"uid5",
     "name":"大愛HD",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c059.stream"
   },
   {
-    "num":956,
+    "num":980,
     "itemid":"uid5",
     "name":"探索科學台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c247.stream"
   },
   {
-    "num":957,
+    "num":981,
     "itemid":"uid5",
     "name":"DMAXHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c200.stream"
   },
   {
-    "num":958,
+    "num":982,
     "itemid":"uid5",
     "name":"EVEHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c243.stream"
   },
   {
-    "num":959,
+    "num":983,
     "itemid":"uid5",
     "name":"國家地理野生台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c207.stream"
   },
   {
-    "num":960,
+    "num":984,
     "itemid":"uid5",
     "name":"國家地理優人台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c245.stream"
   },
   {
-    "num":961,
+    "num":985,
     "itemid":"uid5",
     "name":"國家地理頻道台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c206.stream"
   },
   {
-    "num":962,
+    "num":986,
     "itemid":"uid5",
     "name":"DiscoveryHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c244.stream"
   },
   {
-    "num":963,
+    "num":987,
     "itemid":"uid5",
     "name":"TLC",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c170.stream"
   },
   {
-    "num":964,
+    "num":988,
     "itemid":"uid5",
     "name":"動物星球台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c176.stream"
   },
   {
-    "num":965,
+    "num":989,
     "itemid":"uid5",
     "name":"卡通頻道台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c178.stream"
   },
   {
-    "num":966,
+    "num":990,
     "itemid":"uid5",
     "name":"迪士尼頻道台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c198.stream"
   },
   {
-    "num":967,
+    "num":991,
     "itemid":"uid5",
     "name":"MOMO 親子台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c168.stream"
   },
   {
-    "num":968,
+    "num":992,
     "itemid":"uid5",
     "name":"東森幼幼台",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c227.stream"
   },
   {
-    "num":969,
+    "num":993,
     "itemid":"uid5",
     "name":"緯來綜合台",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c235.stream"
   },
   {
-    "num":970,
+    "num":994,
     "itemid":"uid5",
     "name":"八大第一台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c157.stream"
   },
   {
-    "num":971,
+    "num":995,
     "itemid":"uid5",
     "name":"八大綜合台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c197.stream"
   },
   {
-    "num":972,
+    "num":996,
     "itemid":"uid5",
     "name":"三立台灣台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c196.stream"
   },
   {
-    "num":973,
+    "num":997,
     "itemid":"uid5",
     "name":"衛視中文台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c158.stream"
   },
   {
-    "num":974,
+    "num":998,
     "itemid":"uid5",
     "name":"美亞電影台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c204.stream"
   },
   {
-    "num":975,
+    "num":999,
     "itemid":"uid5",
     "name":"星衛電影台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c205.stream"
   },
   {
-    "num":976,
+    "num":1000,
     "itemid":"uid5",
     "name":"東森綜合台",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c237.stream"
   },
   {
-    "num":977,
+    "num":1001,
     "itemid":"uid5",
     "name":"東森超視台",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c195.stream"
   },
   {
-    "num":978,
+    "num":1002,
     "itemid":"uid5",
     "name":"Channal MHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c219.stream"
   },
   {
-    "num":979,
+    "num":1003,
     "itemid":"uid5",
     "name":"KMTVHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c218.stream"
   },
   {
-    "num":980,
+    "num":1004,
     "itemid":"uid5",
     "name":"中天綜合台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c220.stream"
   },
   {
-    "num":981,
+    "num":1005,
     "itemid":"uid5",
     "name":"東風衛視台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c214.stream"
   },
   {
-    "num":982,
+    "num":1006,
     "itemid":"uid5",
     "name":"MUCH台",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c226.stream"
   },
   {
-    "num":983,
+    "num":1007,
     "itemid":"uid5",
     "name":"中天娛樂台",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c228.stream"
   },
   {
-    "num":984,
+    "num":1008,
     "itemid":"uid5",
     "name":"東森戲劇台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c169.stream"
   },
   {
-    "num":985,
+    "num":1009,
     "itemid":"uid5",
     "name":"八大戲劇台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c215.stream"
   },
   {
-    "num":986,
+    "num":1010,
     "itemid":"uid5",
     "name":"TVBS歡樂台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c160.stream"
   },
   {
-    "num":987,
+    "num":1011,
     "itemid":"uid5",
     "name":"緯來戲劇台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c210.stream"
   },
   {
-    "num":988,
+    "num":1012,
     "itemid":"uid5",
     "name":"星衛娛樂台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c242.stream"
   },
   {
-    "num":989,
+    "num":1013,
     "itemid":"uid5",
     "name":"衛視合家歡台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c211.stream"
   },
   {
-    "num":990,
+    "num":1014,
     "itemid":"uid5",
     "name":"JET綜合台",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c225.stream"
   },
   {
-    "num":991,
+    "num":1015,
     "itemid":"uid5",
     "name":"DIVAHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c156.stream"
   },
   {
-    "num":992,
+    "num":1016,
     "itemid":"uid5",
     "name":"SYFYHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c216.stream"
   },
   {
-    "num":993,
+    "num":1017,
     "itemid":"uid5",
     "name":"壹電視新聞台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c232.stream"
   },
   {
-    "num":994,
+    "num":1018,
     "itemid":"uid5",
     "name":"年代新聞台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c236.stream"
   },
   {
-    "num":995,
+    "num":1019,
     "itemid":"uid5",
     "name":"東森新聞台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c191.stream"
   },
   {
-    "num":996,
+    "num":1020,
     "itemid":"uid5",
     "name":"中天新聞台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c188.stream"
   },
   {
-    "num":997,
+    "num":1021,
     "itemid":"uid5",
     "name":"民視新聞台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c187.stream"
   },
   {
-    "num":998,
+    "num":1022,
     "itemid":"uid5",
     "name":"三立新聞台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c161.stream"
   },
   {
-    "num":999,
+    "num":1023,
     "itemid":"uid5",
     "name":"TVBS新聞台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c162.stream"
   },
   {
-    "num":1000,
+    "num":1024,
     "itemid":"uid5",
     "name":"TVBS台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c189.stream"
   },
   {
-    "num":1001,
+    "num":1025,
     "itemid":"uid5",
     "name":"東森財經新聞台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c233.stream"
   },
   {
-    "num":1002,
+    "num":1026,
     "itemid":"uid5",
     "name":"非凡新聞台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c212.stream"
   },
   {
-    "num":1003,
+    "num":1027,
     "itemid":"uid5",
     "name":"FOX CRIMEHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c155.stream"
   },
   {
-    "num":1004,
+    "num":1028,
     "itemid":"uid5",
     "name":"FXHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c238.stream"
   },
   {
-    "num":1005,
+    "num":1029,
     "itemid":"uid5",
     "name":"衛視電影台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c167.stream"
   },
   {
-    "num":1006,
+    "num":1030,
     "itemid":"uid5",
     "name":"東森電影台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c234.stream"
   },
   {
-    "num":1007,
+    "num":1031,
     "itemid":"uid5",
     "name":"HBOHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c185.stream"
   },
   {
-    "num":1008,
+    "num":1032,
     "itemid":"uid5",
     "name":"東森洋片台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c194.stream"
   },
   {
-    "num":1009,
+    "num":1033,
     "itemid":"uid5",
     "name":"UniversalHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c203.stream"
   },
   {
-    "num":1010,
+    "num":1034,
     "itemid":"uid5",
     "name":"Star MoviesHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c246.stream"
   },
   {
-    "num":1011,
+    "num":1035,
     "itemid":"uid5",
     "name":"CINEMAX",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c199.stream"
   },
   {
-    "num":1012,
+    "num":1036,
     "itemid":"uid5",
     "name":"緯來育樂台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c166.stream"
   },
   {
-    "num":1013,
+    "num":1037,
     "itemid":"uid5",
     "name":"緯來體育台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c163.stream"
   },
   {
-    "num":1014,
+    "num":1038,
     "itemid":"uid5",
     "name":"FOX3HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c230.stream"
   },
   {
-    "num":1015,
+    "num":1039,
     "itemid":"uid5",
     "name":"衛視體育台HD",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c165.stream"
   },
   {
-    "num":1016,
+    "num":1040,
     "itemid":"uid5",
     "name":"緯來日本台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c164.stream"
   },
   {
-    "num":1017,
+    "num":1041,
     "itemid":"uid5",
     "name":"愛爾達體育台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c217.stream"
   },
   {
-    "num":1018,
+    "num":1042,
     "itemid":"uid5",
     "name":"國興衛視台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c213.stream"
   },
   {
-    "num":1019,
+    "num":1043,
     "itemid":"uid5",
     "name":"FOXHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c231.stream"
   },
   {
-    "num":1020,
+    "num":1044,
     "itemid":"uid5",
     "name":"HBO原創HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c190.stream"
   },
   {
-    "num":1021,
+    "num":1045,
     "itemid":"uid5",
     "name":"HBO強檔HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c184.stream"
   },
   {
-    "num":1022,
+    "num":1046,
     "itemid":"uid5",
     "name":"HBO溫馨HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c186.stream"
   },
   {
-    "num":1023,
+    "num":1047,
     "itemid":"uid5",
     "name":"博斯高球II台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c209.stream"
   },
   {
-    "num":1024,
+    "num":1048,
     "itemid":"uid5",
     "name":"博斯運動台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c208.stream"
   },
   {
-    "num":1025,
+    "num":1049,
     "itemid":"uid5",
     "name":"GOLF CHANNALHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c222.stream"
   },
   {
-    "num":1026,
+    "num":1050,
     "itemid":"uid5",
     "name":"ASN全美運動台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c221.stream"
   },
   {
-    "num":1027,
+    "num":1051,
     "itemid":"uid5",
     "name":"BabyTVHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c224.stream"
   },
   {
-    "num":1028,
+    "num":1052,
     "itemid":"uid5",
     "name":"Disney Junior",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c223.stream"
   },
   {
-    "num":1029,
+    "num":1053,
     "itemid":"uid5",
     "name":"MTVHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c241.stream"
   },
   {
-    "num":1030,
+    "num":1054,
     "itemid":"uid5",
     "name":"霹靂台灣台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c173.stream"
   },
   {
-    "num":1031,
+    "num":1055,
     "itemid":"uid5",
     "name":"罪案偵緝頻道HD",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c058.stream"
   },
   {
-    "num":1032,
+    "num":1056,
     "itemid":"uid5",
     "name":"本港台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c057.stream"
   },
   {
-    "num":1033,
+    "num":1057,
     "itemid":"uid5",
     "name":"NHK",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c060.stream"
   },
   {
-    "num":1034,
+    "num":1058,
     "itemid":"uid5",
     "name":"測試-電影",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c987.stream"
   },
   {
-    "num":1035,
+    "num":1059,
     "itemid":"uid5",
     "name":"測試-冰與火之歌第一季",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c981.stream"
   },
   {
-    "num":1036,
+    "num":1060,
     "itemid":"uid5",
     "name":"測試-嘻哈帝國第一季",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c982.stream"
   },
   {
-    "num":1037,
+    "num":1061,
     "itemid":"uid5",
     "name":"測試-海賊王",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c307.stream"
   },
   {
-    "num":1038,
+    "num":1062,
     "itemid":"uid5",
     "name":"CNN",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c675.stream"
   },
   {
-    "num":1039,
+    "num":1063,
     "itemid":"uid5",
     "name":"BBC",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c677.stream"
   },
   {
-    "num":1040,
+    "num":1064,
     "itemid":"uid5",
     "name":"公視HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c729.stream"
   },
   {
-    "num":1041,
+    "num":1065,
     "itemid":"uid5",
     "name":"公視",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c739.stream"
   },
   {
-    "num":1042,
+    "num":1066,
     "itemid":"uid5",
     "name":"FSTVHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c693.stream"
   },
   {
-    "num":1043,
+    "num":1067,
     "itemid":"uid5",
     "name":"民視HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c692.stream"
   },
   {
-    "num":1044,
+    "num":1068,
     "itemid":"uid5",
     "name":"台視HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c740.stream"
   },
   {
-    "num":1045,
+    "num":1069,
     "itemid":"uid5",
     "name":"台視綜合台",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c671.stream"
   },
   {
-    "num":1046,
+    "num":1070,
     "itemid":"uid5",
     "name":"中視HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c674.stream"
   },
   {
-    "num":1047,
+    "num":1071,
     "itemid":"uid5",
     "name":"BRAVO菁采台",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c701.stream"
   },
   {
-    "num":1048,
+    "num":1072,
     "itemid":"uid5",
     "name":"大愛HD",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c559.stream"
   },
   {
-    "num":1049,
+    "num":1073,
     "itemid":"uid5",
     "name":"探索科學台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c747.stream"
   },
   {
-    "num":1050,
+    "num":1074,
     "itemid":"uid5",
     "name":"DMAXHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c700.stream"
   },
   {
-    "num":1051,
+    "num":1075,
     "itemid":"uid5",
     "name":"EVEHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c743.stream"
   },
   {
-    "num":1052,
+    "num":1076,
     "itemid":"uid5",
     "name":"國家地理野生台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c707.stream"
   },
   {
-    "num":1053,
+    "num":1077,
     "itemid":"uid5",
     "name":"國家地理優人台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c745.stream"
   },
   {
-    "num":1054,
+    "num":1078,
     "itemid":"uid5",
     "name":"國家地理頻道台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c706.stream"
   },
   {
-    "num":1055,
+    "num":1079,
     "itemid":"uid5",
     "name":"DiscoveryHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c744.stream"
   },
   {
-    "num":1056,
+    "num":1080,
     "itemid":"uid5",
     "name":"TLC",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c670.stream"
   },
   {
-    "num":1057,
+    "num":1081,
     "itemid":"uid5",
     "name":"動物星球台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c676.stream"
   },
   {
-    "num":1058,
+    "num":1082,
     "itemid":"uid5",
     "name":"卡通頻道台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c678.stream"
   },
   {
-    "num":1059,
+    "num":1083,
     "itemid":"uid5",
     "name":"迪士尼頻道台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c698.stream"
   },
   {
-    "num":1060,
+    "num":1084,
     "itemid":"uid5",
     "name":"MOMO 親子台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c668.stream"
   },
   {
-    "num":1061,
+    "num":1085,
     "itemid":"uid5",
     "name":"東森幼幼台",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c727.stream"
   },
   {
-    "num":1062,
+    "num":1086,
     "itemid":"uid5",
     "name":"緯來綜合台",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c735.stream"
   },
   {
-    "num":1063,
+    "num":1087,
     "itemid":"uid5",
     "name":"八大第一台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c657.stream"
   },
   {
-    "num":1064,
+    "num":1088,
     "itemid":"uid5",
     "name":"八大綜合台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c697.stream"
   },
   {
-    "num":1065,
+    "num":1089,
     "itemid":"uid5",
     "name":"三立台灣台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c696.stream"
   },
   {
-    "num":1066,
+    "num":1090,
     "itemid":"uid5",
     "name":"衛視中文台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c658.stream"
   },
   {
-    "num":1067,
+    "num":1091,
     "itemid":"uid5",
     "name":"美亞電影台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c704.stream"
   },
   {
-    "num":1068,
+    "num":1092,
     "itemid":"uid5",
     "name":"星衛電影台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c705.stream"
   },
   {
-    "num":1069,
+    "num":1093,
     "itemid":"uid5",
     "name":"東森綜合台",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c737.stream"
   },
   {
-    "num":1070,
+    "num":1094,
     "itemid":"uid5",
     "name":"東森超視台",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c695.stream"
   },
   {
-    "num":1071,
+    "num":1095,
     "itemid":"uid5",
     "name":"Channal MHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c719.stream"
   },
   {
-    "num":1072,
+    "num":1096,
     "itemid":"uid5",
     "name":"KMTVHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c718.stream"
   },
   {
-    "num":1073,
+    "num":1097,
     "itemid":"uid5",
     "name":"中天綜合台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c720.stream"
   },
   {
-    "num":1074,
+    "num":1098,
     "itemid":"uid5",
     "name":"東風衛視台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c714.stream"
   },
   {
-    "num":1075,
+    "num":1099,
     "itemid":"uid5",
     "name":"MUCH台",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c726.stream"
   },
   {
-    "num":1076,
+    "num":1100,
     "itemid":"uid5",
     "name":"中天娛樂台",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c728.stream"
   },
   {
-    "num":1077,
+    "num":1101,
     "itemid":"uid5",
     "name":"東森戲劇台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c669.stream"
   },
   {
-    "num":1078,
+    "num":1102,
     "itemid":"uid5",
     "name":"八大戲劇台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c715.stream"
   },
   {
-    "num":1079,
+    "num":1103,
     "itemid":"uid5",
     "name":"TVBS歡樂台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c660.stream"
   },
   {
-    "num":1080,
+    "num":1104,
     "itemid":"uid5",
     "name":"緯來戲劇台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c710.stream"
   },
   {
-    "num":1081,
+    "num":1105,
     "itemid":"uid5",
     "name":"星衛娛樂台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c742.stream"
   },
   {
-    "num":1082,
+    "num":1106,
     "itemid":"uid5",
     "name":"衛視合家歡台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c711.stream"
   },
   {
-    "num":1083,
+    "num":1107,
     "itemid":"uid5",
     "name":"JET綜合台",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c725.stream"
   },
   {
-    "num":1084,
+    "num":1108,
     "itemid":"uid5",
     "name":"DIVAHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c656.stream"
   },
   {
-    "num":1085,
+    "num":1109,
     "itemid":"uid5",
     "name":"SYFYHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c716.stream"
   },
   {
-    "num":1086,
+    "num":1110,
     "itemid":"uid5",
     "name":"壹電視新聞台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c732.stream"
   },
   {
-    "num":1087,
+    "num":1111,
     "itemid":"uid5",
     "name":"年代新聞台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c736.stream"
   },
   {
-    "num":1088,
+    "num":1112,
     "itemid":"uid5",
     "name":"東森新聞台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c691.stream"
   },
   {
-    "num":1089,
+    "num":1113,
     "itemid":"uid5",
     "name":"中天新聞台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c688.stream"
   },
   {
-    "num":1090,
+    "num":1114,
     "itemid":"uid5",
     "name":"民視新聞台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c687.stream"
   },
   {
-    "num":1091,
+    "num":1115,
     "itemid":"uid5",
     "name":"三立新聞台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c661.stream"
   },
   {
-    "num":1092,
+    "num":1116,
     "itemid":"uid5",
     "name":"TVBS新聞台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c662.stream"
   },
   {
-    "num":1093,
+    "num":1117,
     "itemid":"uid5",
     "name":"TVBS台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c689.stream"
   },
   {
-    "num":1094,
+    "num":1118,
     "itemid":"uid5",
     "name":"東森財經新聞台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c733.stream"
   },
   {
-    "num":1095,
+    "num":1119,
     "itemid":"uid5",
     "name":"非凡新聞台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c712.stream"
   },
   {
-    "num":1096,
+    "num":1120,
     "itemid":"uid5",
     "name":"FOX CRIMEHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c655.stream"
   },
   {
-    "num":1097,
+    "num":1121,
     "itemid":"uid5",
     "name":"FXHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c738.stream"
   },
   {
-    "num":1098,
+    "num":1122,
     "itemid":"uid5",
     "name":"衛視電影台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c667.stream"
   },
   {
-    "num":1099,
+    "num":1123,
     "itemid":"uid5",
     "name":"東森電影台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c734.stream"
   },
   {
-    "num":1100,
+    "num":1124,
     "itemid":"uid5",
     "name":"HBOHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c685.stream"
   },
   {
-    "num":1101,
+    "num":1125,
     "itemid":"uid5",
     "name":"東森洋片台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c694.stream"
   },
   {
-    "num":1102,
+    "num":1126,
     "itemid":"uid5",
     "name":"UniversalHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c703.stream"
   },
   {
-    "num":1103,
+    "num":1127,
     "itemid":"uid5",
     "name":"Star MoviesHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c746.stream"
   },
   {
-    "num":1104,
+    "num":1128,
     "itemid":"uid5",
     "name":"CINEMAX",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c699.stream"
   },
   {
-    "num":1105,
+    "num":1129,
     "itemid":"uid5",
     "name":"緯來育樂台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c666.stream"
   },
   {
-    "num":1106,
+    "num":1130,
     "itemid":"uid5",
     "name":"緯來體育台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c663.stream"
   },
   {
-    "num":1107,
+    "num":1131,
     "itemid":"uid5",
     "name":"FOX3HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c730.stream"
   },
   {
-    "num":1108,
+    "num":1132,
     "itemid":"uid5",
     "name":"衛視體育台HD",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c665.stream"
   },
   {
-    "num":1109,
+    "num":1133,
     "itemid":"uid5",
     "name":"緯來日本台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c664.stream"
   },
   {
-    "num":1110,
+    "num":1134,
     "itemid":"uid5",
     "name":"愛爾達體育台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c717.stream"
   },
   {
-    "num":1111,
+    "num":1135,
     "itemid":"uid5",
     "name":"國興衛視台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c713.stream"
   },
   {
-    "num":1112,
+    "num":1136,
     "itemid":"uid5",
     "name":"FOXHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c731.stream"
   },
   {
-    "num":1113,
+    "num":1137,
     "itemid":"uid5",
     "name":"HBO原創HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c690.stream"
   },
   {
-    "num":1114,
+    "num":1138,
     "itemid":"uid5",
     "name":"HBO強檔HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c684.stream"
   },
   {
-    "num":1115,
+    "num":1139,
     "itemid":"uid5",
     "name":"HBO溫馨HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c686.stream"
   },
   {
-    "num":1116,
+    "num":1140,
     "itemid":"uid5",
     "name":"博斯高球II台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c709.stream"
   },
   {
-    "num":1117,
+    "num":1141,
     "itemid":"uid5",
     "name":"博斯運動台HD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c708.stream"
   },
   {
-    "num":1118,
+    "num":1142,
     "itemid":"uid5",
     "name":"GOLF CHANNALHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c722.stream"
   },
   {
-    "num":1119,
+    "num":1143,
     "itemid":"uid5",
     "name":"ASN全美運動台HD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c721.stream"
   },
   {
-    "num":1120,
+    "num":1144,
     "itemid":"uid5",
     "name":"BabyTVHD",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c724.stream"
   },
   {
-    "num":1121,
+    "num":1145,
     "itemid":"uid5",
     "name":"Disney Junior",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c723.stream"
   },
   {
-    "num":1122,
+    "num":1146,
     "itemid":"uid5",
     "name":"MTVHD",
     "urllist":"rtmp://s03.ottclub.info:1935/live/c741.stream"
   },
   {
-    "num":1123,
+    "num":1147,
     "itemid":"uid5",
     "name":"霹靂台灣台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c673.stream"
   },
   {
-    "num":1124,
+    "num":1148,
     "itemid":"uid5",
     "name":"罪案偵緝頻道HD",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c558.stream"
   },
   {
-    "num":1125,
+    "num":1149,
     "itemid":"uid5",
     "name":"本港台",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c557.stream"
   },
   {
-    "num":1126,
+    "num":1150,
     "itemid":"uid5",
     "name":"NHK",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c560.stream"
   },
   {
-    "num":1127,
+    "num":1151,
     "itemid":"uid5",
     "name":"測試-電影",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c987.stream"
   },
   {
-    "num":1128,
+    "num":1152,
     "itemid":"uid5",
     "name":"測試-冰與火之歌第一季",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c981.stream"
   },
   {
-    "num":1129,
+    "num":1153,
     "itemid":"uid5",
     "name":"測試-嘻哈帝國第一季",
     "urllist":"rtmp://s02.ottclub.info:1935/live/c982.stream"
   },
   {
-    "num":1130,
+    "num":1154,
     "itemid":"uid5",
     "name":"測試-海賊王",
     "urllist":"rtmp://s01.ottclub.info:1935/live/c307.stream"
   },
   {
-    "num":1131,
+    "num":1155,
     "itemid":"uid6",
     "name":"CCTV-1HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000064&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1132,
+    "num":1156,
     "itemid":"uid6",
     "name":"CCTV-3HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000065&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1133,
+    "num":1157,
     "itemid":"uid6",
     "name":"CCTV-5HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000066&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1134,
+    "num":1158,
     "itemid":"uid6",
     "name":"CCTV-5+HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000067&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1135,
+    "num":1159,
     "itemid":"uid6",
     "name":"CCTV-6HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000068&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1136,
+    "num":1160,
     "itemid":"uid6",
     "name":"CCTV-8HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000069&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1137,
+    "num":1161,
     "itemid":"uid6",
     "name":"CHC家庭影院",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000116&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1138,
+    "num":1162,
     "itemid":"uid6",
     "name":"CHC动作电影",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000117&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1139,
+    "num":1163,
     "itemid":"uid6",
     "name":"尚.TVHD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000222&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1140,
+    "num":1164,
     "itemid":"uid6",
     "name":"幸福彩HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000220&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1141,
+    "num":1165,
     "itemid":"uid6",
     "name":"新视觉HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000217&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1142,
+    "num":1166,
     "itemid":"uid6",
     "name":"劲爆体育HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000216&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1143,
+    "num":1167,
     "itemid":"uid6",
     "name":"动漫视界HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000228&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1144,
+    "num":1168,
     "itemid":"uid6",
     "name":"动漫秀场HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000229&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1145,
+    "num":1169,
     "itemid":"uid6",
     "name":"北京纪实HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000231&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1146,
+    "num":1170,
     "itemid":"uid6",
     "name":"上海纪实HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000232&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1147,
+    "num":1171,
     "itemid":"uid6",
     "name":"山东卫视HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000070&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1148,
+    "num":1172,
     "itemid":"uid6",
     "name":"北京卫视HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000071&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1149,
+    "num":1173,
     "itemid":"uid6",
     "name":"湖南卫视HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000072&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1150,
+    "num":1174,
     "itemid":"uid6",
     "name":"浙江卫视HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000073&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1151,
+    "num":1175,
     "itemid":"uid6",
     "name":"江苏卫视HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000074&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1152,
+    "num":1176,
     "itemid":"uid6",
     "name":"东方卫视HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000075&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1153,
+    "num":1177,
     "itemid":"uid6",
     "name":"黑龙江卫视HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000077&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1154,
+    "num":1178,
     "itemid":"uid6",
     "name":"深圳卫视HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000078&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1155,
+    "num":1179,
     "itemid":"uid6",
     "name":"广东卫视HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000079&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1156,
+    "num":1180,
     "itemid":"uid6",
     "name":"动画高清",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000139&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1157,
+    "num":1181,
     "itemid":"uid6",
     "name":"旅游频道HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000140&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1158,
+    "num":1182,
     "itemid":"uid6",
     "name":"探索频道HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000141&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1159,
+    "num":1183,
     "itemid":"uid6",
     "name":"探索发现HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000218&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1160,
+    "num":1184,
     "itemid":"uid6",
     "name":"自然传奇HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000219&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1161,
+    "num":1185,
     "itemid":"uid6",
     "name":"生活时尚HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000221&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1162,
+    "num":1186,
     "itemid":"uid6",
     "name":"美食之旅HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000223&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1163,
+    "num":1187,
     "itemid":"uid6",
     "name":"环球新艺HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000224&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1164,
+    "num":1188,
     "itemid":"uid6",
     "name":"演唱会HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000225&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1165,
+    "num":1189,
     "itemid":"uid6",
     "name":"音乐会HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000226&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1166,
+    "num":1190,
     "itemid":"uid6",
     "name":"音乐电视HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000227&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1167,
+    "num":1191,
     "itemid":"uid6",
     "name":"天天精选HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000203&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1168,
+    "num":1192,
     "itemid":"uid6",
     "name":"高清影视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000138&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1169,
+    "num":1193,
     "itemid":"uid6",
     "name":"好莱坞电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000204&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1170,
+    "num":1194,
     "itemid":"uid6",
     "name":"院线电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000205&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1171,
+    "num":1195,
     "itemid":"uid6",
     "name":"悬疑电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000206&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1172,
+    "num":1196,
     "itemid":"uid6",
     "name":"经典电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000207&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1173,
+    "num":1197,
     "itemid":"uid6",
     "name":"欧美电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000208&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1174,
+    "num":1198,
     "itemid":"uid6",
     "name":"亚洲电影HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000209&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1175,
+    "num":1199,
     "itemid":"uid6",
     "name":"热播美剧HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000210&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1176,
+    "num":1200,
     "itemid":"uid6",
     "name":"影像英伦HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000211&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1177,
+    "num":1201,
     "itemid":"uid6",
     "name":"韩流新映HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000212&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1178,
+    "num":1202,
     "itemid":"uid6",
     "name":"宝岛宜家HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000213&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1179,
+    "num":1203,
     "itemid":"uid6",
     "name":"同步剧场HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000214&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1180,
+    "num":1204,
     "itemid":"uid6",
     "name":"紫荆剧场HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000215&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1181,
+    "num":1205,
     "itemid":"uid6",
     "name":"沙发电影1HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000177&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1182,
+    "num":1206,
     "itemid":"uid6",
     "name":"沙发电影2HD",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000178&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1183,
+    "num":1207,
     "itemid":"uid6",
     "name":"垫片1",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000179&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1184,
+    "num":1208,
     "itemid":"uid6",
     "name":"垫片2",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000180&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1185,
+    "num":1209,
     "itemid":"uid6",
     "name":"垫片3",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000181&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1186,
+    "num":1210,
     "itemid":"uid6",
     "name":"ChannelV",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000191&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1187,
+    "num":1211,
     "itemid":"uid6",
     "name":"星空卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000192&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1188,
+    "num":1212,
     "itemid":"uid6",
     "name":"凤凰中文",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000193&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1189,
+    "num":1213,
     "itemid":"uid6",
     "name":"凤凰资讯",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000194&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1190,
+    "num":1214,
     "itemid":"uid6",
     "name":"澳亚卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000197&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1191,
+    "num":1215,
     "itemid":"uid6",
     "name":"CCTV-2",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000017&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1192,
+    "num":1216,
     "itemid":"uid6",
     "name":"CCTV-4",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000019&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1193,
+    "num":1217,
     "itemid":"uid6",
     "name":"CCTV-7",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000083&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1194,
+    "num":1218,
     "itemid":"uid6",
     "name":"CCTV-9",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000023&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1195,
+    "num":1219,
     "itemid":"uid6",
     "name":"CCTV-10",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000024&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1196,
+    "num":1220,
     "itemid":"uid6",
     "name":"CCTV-11",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000086&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1197,
+    "num":1221,
     "itemid":"uid6",
     "name":"CCTV-12",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000084&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1198,
+    "num":1222,
     "itemid":"uid6",
     "name":"CCTV-13",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000016&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1199,
+    "num":1223,
     "itemid":"uid6",
     "name":"CCTV-14",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000158&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1200,
+    "num":1224,
     "itemid":"uid6",
     "name":"CCTV-14",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000082&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1201,
+    "num":1225,
     "itemid":"uid6",
     "name":"CCTV-15",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000085&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1202,
+    "num":1226,
     "itemid":"uid6",
     "name":"CCTNEWS",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000087&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1203,
+    "num":1227,
     "itemid":"uid6",
     "name":"CCTV-老故事",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000142&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1204,
+    "num":1228,
     "itemid":"uid6",
     "name":"CCTV-国防军事",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000114&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1205,
+    "num":1229,
     "itemid":"uid6",
     "name":"CCTV-第一剧场",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000145&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1206,
+    "num":1230,
     "itemid":"uid6",
     "name":"CCTV-风云剧场",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000150&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1207,
+    "num":1231,
     "itemid":"uid6",
     "name":"CCTV-怀旧剧场",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000151&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1208,
+    "num":1232,
     "itemid":"uid6",
     "name":"CCTV-风云足球",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000153&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1209,
+    "num":1233,
     "itemid":"uid6",
     "name":"CCTV-发现之旅",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000164&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1210,
+    "num":1234,
     "itemid":"uid6",
     "name":"CCTV-电视指南",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000093&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1211,
+    "num":1235,
     "itemid":"uid6",
     "name":"CCTV-世界地理",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000163&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1212,
+    "num":1236,
     "itemid":"uid6",
     "name":"CCTV-新科动漫",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000160&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1213,
+    "num":1237,
     "itemid":"uid6",
     "name":"CCTV-英语辅导",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000155&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1214,
+    "num":1238,
     "itemid":"uid6",
     "name":"中国教育1",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000091&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1215,
+    "num":1239,
     "itemid":"uid6",
     "name":"中国教育2",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000092&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1216,
+    "num":1240,
     "itemid":"uid6",
     "name":"中国教育4",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000111&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1217,
+    "num":1241,
     "itemid":"uid6",
     "name":"先锋羽乒",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000118&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1218,
+    "num":1242,
     "itemid":"uid6",
     "name":"收藏天下",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000124&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1219,
+    "num":1243,
     "itemid":"uid6",
     "name":"中华美食",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000119&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1220,
+    "num":1244,
     "itemid":"uid6",
     "name":"早期教育",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000159&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1221,
+    "num":1245,
     "itemid":"uid6",
     "name":"优优宝贝",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000122&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1222,
+    "num":1246,
     "itemid":"uid6",
     "name":"时代风尚",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000125&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1223,
+    "num":1247,
     "itemid":"uid6",
     "name":"环球奇观",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000162&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1224,
+    "num":1248,
     "itemid":"uid6",
     "name":"车迷频道",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000126&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1225,
+    "num":1249,
     "itemid":"uid6",
     "name":"时代美食",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000127&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1226,
+    "num":1250,
     "itemid":"uid6",
     "name":"时代出行",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000133&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1227,
+    "num":1251,
     "itemid":"uid6",
     "name":"环球旅游",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000128&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1228,
+    "num":1252,
     "itemid":"uid6",
     "name":"电子体育",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000112&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1229,
+    "num":1253,
     "itemid":"uid6",
     "name":"考试在线",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000123&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1230,
+    "num":1254,
     "itemid":"uid6",
     "name":"时代家居",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000131&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1231,
+    "num":1255,
     "itemid":"uid6",
     "name":"四海钓鱼",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000132&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1232,
+    "num":1256,
     "itemid":"uid6",
     "name":"留学世界",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000156&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1233,
+    "num":1257,
     "itemid":"uid6",
     "name":"快乐宠物",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000136&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1234,
+    "num":1258,
     "itemid":"uid6",
     "name":"茶频道",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000152&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1235,
+    "num":1259,
     "itemid":"uid6",
     "name":"小学一年级",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000184&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1236,
+    "num":1260,
     "itemid":"uid6",
     "name":"小学二年级",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000185&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1237,
+    "num":1261,
     "itemid":"uid6",
     "name":"小学三年级",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000186&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1238,
+    "num":1262,
     "itemid":"uid6",
     "name":"小学四年级",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000187&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1239,
+    "num":1263,
     "itemid":"uid6",
     "name":"小学五年级",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000188&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1240,
+    "num":1264,
     "itemid":"uid6",
     "name":"小学六年级",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000189&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1241,
+    "num":1265,
     "itemid":"uid6",
     "name":"宝贝家",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000157&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1242,
+    "num":1266,
     "itemid":"uid6",
     "name":"早幼教",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000183&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1243,
+    "num":1267,
     "itemid":"uid6",
     "name":"金鹰卡通",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000080&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1244,
+    "num":1268,
     "itemid":"uid6",
     "name":"卡酷少儿",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000081&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1245,
+    "num":1269,
     "itemid":"uid6",
     "name":"炫动卡通",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000143&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1246,
+    "num":1270,
     "itemid":"uid6",
     "name":"山东齐鲁",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000007&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1247,
+    "num":1271,
     "itemid":"uid6",
     "name":"山东影视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000008&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1248,
+    "num":1272,
     "itemid":"uid6",
     "name":"山东体育",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000009&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1249,
+    "num":1273,
     "itemid":"uid6",
     "name":"山东生活",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000010&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1250,
+    "num":1274,
     "itemid":"uid6",
     "name":"山东综艺",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000011&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1251,
+    "num":1275,
     "itemid":"uid6",
     "name":"山东少儿",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000012&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1252,
+    "num":1276,
     "itemid":"uid6",
     "name":"山东公共",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000013&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1253,
+    "num":1277,
     "itemid":"uid6",
     "name":"山东农科",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000014&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1254,
+    "num":1278,
     "itemid":"uid6",
     "name":"山东教育",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000015&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1255,
+    "num":1279,
     "itemid":"uid6",
     "name":"德州新闻",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000003&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1256,
+    "num":1280,
     "itemid":"uid6",
     "name":"德州生活",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000004&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1257,
+    "num":1281,
     "itemid":"uid6",
     "name":"德州娱乐",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000005&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1258,
+    "num":1282,
     "itemid":"uid6",
     "name":"德州时尚",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000190&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1259,
+    "num":1283,
     "itemid":"uid6",
     "name":"吉林篮球",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000154&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1260,
+    "num":1284,
     "itemid":"uid6",
     "name":"东方购物",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000054&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1261,
+    "num":1285,
     "itemid":"uid6",
     "name":"天津卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000031&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1262,
+    "num":1286,
     "itemid":"uid6",
     "name":"重庆卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000033&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1263,
+    "num":1287,
     "itemid":"uid6",
     "name":"云南卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000034&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1264,
+    "num":1288,
     "itemid":"uid6",
     "name":"江西卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000035&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1265,
+    "num":1289,
     "itemid":"uid6",
     "name":"广西卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000038&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1266,
+    "num":1290,
     "itemid":"uid6",
     "name":"辽宁卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000041&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1267,
+    "num":1291,
     "itemid":"uid6",
     "name":"安徽卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000043&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1268,
+    "num":1292,
     "itemid":"uid6",
     "name":"河南卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000044&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1269,
+    "num":1293,
     "itemid":"uid6",
     "name":"河北卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000045&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1270,
+    "num":1294,
     "itemid":"uid6",
     "name":"贵州卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000046&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1271,
+    "num":1295,
     "itemid":"uid6",
     "name":"湖北卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000048&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1272,
+    "num":1296,
     "itemid":"uid6",
     "name":"吉林卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000049&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1273,
+    "num":1297,
     "itemid":"uid6",
     "name":"陕西卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000050&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1274,
+    "num":1298,
     "itemid":"uid6",
     "name":"四川卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000051&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1275,
+    "num":1299,
     "itemid":"uid6",
     "name":"山西卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000052&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1276,
+    "num":1300,
     "itemid":"uid6",
     "name":"内蒙古卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000053&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1277,
+    "num":1301,
     "itemid":"uid6",
     "name":"青海卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000055&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1278,
+    "num":1302,
     "itemid":"uid6",
     "name":"东南卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000056&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1279,
+    "num":1303,
     "itemid":"uid6",
     "name":"旅游卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000144&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1280,
+    "num":1304,
     "itemid":"uid6",
     "name":"新疆卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000058&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1281,
+    "num":1305,
     "itemid":"uid6",
     "name":"西藏卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000059&playtype=live&qamname=undefined&auth=no"
   },
   {
-    "num":1282,
+    "num":1306,
     "itemid":"uid6",
     "name":"新疆兵团卫视",
     "urllist":"http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000060&playtype=live&qamname=undefined&auth=no"
@@ -7723,44 +7867,40 @@
       "name": "6.熊猫影院"
     },
     {
-      "id": "qing",
-      "name": "7.小小独家高清"
-    },
-    {
       "id": "letvzh",
-      "name": "8.综合频道"
+      "name": "7.综合频道"
     },
     {
       "id": "letvkt",
-      "name": "9.卡通频道"
+      "name": "8.卡通频道"
     },
     {
       "id": "letvjc",
-      "name": "10.电视剧场"
+      "name": "9.电视剧场"
     },
     {
       "id": "letvmr",
-      "name": "11.名人专场"
+      "name": "10.名人专场"
     },
     {
       "id": "letvmsn",
-      "name": "12.美少女"
+      "name": "11.美少女"
     },
     {
       "id": "letvty",
-      "name": "13.体育频道"
+      "name": "12.体育频道"
     },
     {
       "id": "dm",
-      "name": "14.大明TV"
+      "name": "13.大连天涂"
     },
     {
       "id": "letvws",
-      "name": "15.卫视专用源"
+      "name": "14.卫视专用源"
     },
     {
       "id": "uid6",
-      "name": "16.山东有线"
+      "name": "15.山东有线"
     }
   ]
 }
