@@ -2593,6 +2593,180 @@
     "urllist":"http://icntv.xyz/letv/lb_nzsjb_1300.m3u8"
   },
   {
+    "num":433,
+    "itemid":"letvws",
+    "name":"江苏卫视高清1",
+    "urllist":"http://icntv.xyz/letv/jiangsuHD_1800.m3u8"
+  },
+  {
+    "num":434,
+    "itemid":"letvws",
+    "name":"北京卫视高清",
+    "urllist":"http://icntv.xyz/letv/bjwsHD_1800.m3u8"
+  },
+  {
+    "num":435,
+    "itemid":"letvws",
+    "name":"湖南卫视高清",
+    "urllist":"http://icntv.xyz/letv/ws_hunanwsHD_1300.m3u8"
+  },
+  {
+    "num":436,
+    "itemid":"letvws",
+    "name":"综合",
+    "urllist":"http://icntv.xyz/letv/lb_zonghe_1000.m3u8"
+  },
+  {
+    "num":437,
+    "itemid":"letvws",
+    "name":"北京卫视",
+    "urllist":"http://icntv.xyz/letv/bjws.m3u8"
+  },
+  {
+    "num":438,
+    "itemid":"letvws",
+    "name":"安徽卫视",
+    "urllist":"http://icntv.xyz/letv/anhui.m3u8"
+  },
+  {
+    "num":439,
+    "itemid":"letvws",
+    "name":"天津卫视",
+    "urllist":"http://icntv.xyz/letv/tianjin.m3u8"
+  },
+  {
+    "num":440,
+    "itemid":"letvws",
+    "name":"江苏卫视",
+    "urllist":"http://icntv.xyz/letv/jiangsu.m3u8"
+  },
+  {
+    "num":441,
+    "itemid":"letvws",
+    "name":"山西卫视",
+    "urllist":"http://icntv.xyz/letv/shanxi_350.m3u8"
+  },
+  {
+    "num":442,
+    "itemid":"letvws",
+    "name":"甘肃卫视",
+    "urllist":"http://icntv.xyz/letv/gansu.m3u8"
+  },
+  {
+    "num":443,
+    "itemid":"letvws",
+    "name":"东南卫视",
+    "urllist":"http://icntv.xyz/letv/dongnan.m3u8"
+  },
+  {
+    "num":444,
+    "itemid":"letvws",
+    "name":"湖北卫视",
+    "urllist":"http://icntv.xyz/letv/hubei.m3u8"
+  },
+  {
+    "num":445,
+    "itemid":"letvws",
+    "name":"云南卫视",
+    "urllist":"http://icntv.xyz/letv/yunnan.m3u8"
+  },
+  {
+    "num":446,
+    "itemid":"letvws",
+    "name":"黑龙江卫视",
+    "urllist":"http://icntv.xyz/letv/heilongjiang.m3u8"
+  },
+  {
+    "num":447,
+    "itemid":"letvws",
+    "name":"贵州卫视",
+    "urllist":"http://icntv.xyz/letv/guizhou.m3u8"
+  },
+  {
+    "num":448,
+    "itemid":"letvws",
+    "name":"广西卫视",
+    "urllist":"http://icntv.xyz/letv/guangxi.m3u8"
+  },
+  {
+    "num":449,
+    "itemid":"letvws",
+    "name":"河南卫视",
+    "urllist":"http://icntv.xyz/letv/henan.m3u8"
+  },
+  {
+    "num":450,
+    "itemid":"letvws",
+    "name":"旅游卫视",
+    "urllist":"http://icntv.xyz/letv/lvyou.m3u8"
+  },
+  {
+    "num":451,
+    "itemid":"letvws",
+    "name":"深圳卫视",
+    "urllist":"http://icntv.xyz/letv/shenzhen.m3u8"
+  },
+  {
+    "num":452,
+    "itemid":"letvws",
+    "name":"内蒙古卫视",
+    "urllist":"http://icntv.xyz/letv/neimenggu_350.m3u8  "
+  },
+  {
+    "num":453,
+    "itemid":"letvws",
+    "name":"新疆卫视",
+    "urllist":"http://icntv.xyz/letv/xinjiang_350.m3u8"
+  },
+  {
+    "num":454,
+    "itemid":"letvws",
+    "name":"陕西卫视",
+    "urllist":"http://icntv.xyz/letv/shanxi1.m3u8"
+  },
+  {
+    "num":455,
+    "itemid":"letvws",
+    "name":"重庆卫视",
+    "urllist":"http://icntv.xyz/letv/chongqing.m3u8"
+  },
+  {
+    "num":456,
+    "itemid":"letvws",
+    "name":"吉林卫视",
+    "urllist":"http://icntv.xyz/letv/jilin.m3u8"
+  },
+  {
+    "num":457,
+    "itemid":"letvws",
+    "name":"辽宁卫视",
+    "urllist":"http://icntv.xyz/letv/liaoning.m3u8"
+  },
+  {
+    "num":458,
+    "itemid":"letvws",
+    "name":"江西卫视",
+    "urllist":"http://icntv.xyz/letv/jiangxi.m3u8"
+  },
+  {
+    "num":459,
+    "itemid":"letvws",
+    "name":"青海卫视",
+    "urllist":"http://icntv.xyz/letv/qinghai.m3u8"
+  },
+  {
+    "num":460,
+    "itemid":"letvws",
+    "name":"炫动卡通",
+    "urllist":"http://icntv.xyz/letv/xdkt.m3u8"
+  },
+  {
+    "num":461,
+    "itemid":"letvws",
+    "name":"四川卫视",
+    "urllist":"http://icntv.xyz/letv/sichuan.m3u8"
+  },
+  {
     "num":462,
     "itemid":"letvws",
     "name":"乐视电影",
@@ -8520,14 +8694,14 @@
     },
     {
       "id": "letvws",
-      "name": "14.乐视专用源"
+      "name": "14.卫视专用源"
     },
     {
       "id": "uid6",
       "name": "15.山东有线"
     },
-    {
-      "id": "YH",
+ {
+      "id": "uid6",
       "name": "16.YH有线"
     }
   ]
