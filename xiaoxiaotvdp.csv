@@ -649,7 +649,7 @@ num,itemid,name,urllist
 648,uid1,电视剧2,http://114.112.91.199:9009/live/chid=606
 649,TW,互动新闻,http://58.218.152.98:7726/hls/hudongxw.m3u8|
 650,TW,J2,http://58.218.152.98:7726/hls/j2.m3u8|http://token.tvb.com/stream/live/hls/mobilehd_j2.smil
-651,TW,高清翡翠台,http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil
+651,TW,J5,http://58.218.152.98:7726/hls/feichui.m3u8
 652,TW,翡翠台HD,http://token.tvb.com/stream/live/hls/mobilehd_jade.smil
 653,TW,东森洋片,http://58.218.152.98:7726/hls/v1bbc.m3u8
 654,TW,凤凰直播台★,http://58.218.152.98:7726/hls/livestream4.m3u8

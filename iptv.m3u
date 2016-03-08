@@ -1451,8 +1451,8 @@ http://183.207.249.7/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1group-title="江苏移动",江苏移动-CIBN精品大剧
 http://183.207.249.7/PLTV/3/224/3221225569/index.m3u8
 
-#EXTINF:-1group-title="港澳台频道",港澳-高清翡翠台
-http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil
+#EXTINF:-1group-title="港澳台频道",港澳-翡翠J5
+http://58.218.152.98:7726/hls/feichui.m3u8
 #EXTINF:-1group-title="港澳台频道",港澳-翡翠台HD
 http://token.tvb.com/stream/live/hls/mobilehd_jade.smil
 #EXTINF:-1group-title="港澳台频道",港澳-j2台
@@ -3142,7 +3142,8 @@ http://113.247.251.13:5001/nn_live.ts?id=MGCJ
 http://113.247.251.13:5001/nn_live.ts?id=MGSH
 
 
-
+#EXTINF:-1group-title="大明IPTV",港澳-翡翠J5
+http://58.218.152.98:7726/hls/feichui.m3u8
 #EXTINF:-1 group-title="大明IPTV",高清翡翠
 http://58.218.152.98:7726/hls/hudongxw.m3u8
 #EXTINF:-1 group-title="大明IPTV",J2

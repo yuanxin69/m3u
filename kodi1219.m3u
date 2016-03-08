@@ -112,8 +112,12 @@ http://liveapi.bobuc.net/lntvch/01000000000000000000000000000129.m3u8
 
 
 
-
-
+#EXTINF:-1group-title="海外中文",港澳-翡翠J5
+http://58.218.152.98:7726/hls/feichui.m3u8
+#EXTINF:-1 group-title="海外中文",互动新闻台
+http://58.218.152.98:7726/hls/hudongxw.m3u8
+#EXTINF:-1 group-title="海外中文",J2
+http://58.218.152.98:7726/hls/j2.m3u8
 #EXTINF:-1group-title="海外中文",CNN
 rtmp://s02.ottclub.info:1935/live/c175.stream
 #EXTINF:-1group-title="海外中文",BBC

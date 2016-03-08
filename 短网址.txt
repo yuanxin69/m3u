@@ -57,6 +57,7 @@ iHDTV:http://116.255.249.3:18006/gemini-iptv/init.php?leftday=-1&mac=08:00:27:48
 ottbclub云地址：http://api.ottclub.info/api/get_list?AccountGUID=37cdab04-c332-11e5-971e-001ec9f7f776&AccountChannelCategoryGUID=596ad53e-adaf-11e3-b3a3-56b55c4f22cc&SessionID=8cc877d4978708e0f62d5a6dec0158cd&ChannelCategoryGUID=596ad53e-adaf-11e3-b3a3-56b55c4f22cc&ChannelClassGUID=c7270725-adb4-11e3-b3a3-56b55c4f22cc
 skyHD云地址：http://skyhd.117yes.com:18006/gemini-iptv/init.php?leftday=1&mac=08:00:27:48:60:2d&ipcode=CN&cpuid=GEMINI0960442064206702&key=U33wMjlqWX3fa1a8cqXdT61yWl6pNrp6aHHGcmXsWpaheem0FVnhEvppU33wMjlq&version=73
 华新TV测试地址：http://wwwww.huarentv.net:17006/gemini-iptv/admin/jiemus.asp?leftday=1&bz2=0&mac=08:00:27:48:60:2d&ipcode=cn&cpuid=GEMINI3920364092943987&key=268Czgns56Kt7pBS2W3d7g6S2W3d7g6kL6Kt7p2r2LXyjg0nQXVXVlj6EXpI9Ecb9iZuKkE6EX9hVrLfQXls732w9iky&version=46
+http://api.hdtv.letv.com/iptv/api/live/playlist/channellist
 http://d1.51gugu.com/184116/ohmtv_20160105.m3u8
 http://d1.51gugu.com/184116/mrmc_20160105.m3u8
 长地址：https://raw.githubusercontent.com/yuanxin69/m3u/master/kodi1219.m3u
