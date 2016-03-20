@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="兰州频道",兰州新闻综合
+http://61.178.81.206/seg/8.m3u8
+#EXTINF:-1 group-title="兰州频道",兰州综艺体育
+http://61.178.81.206/seg/2.m3u8
+#EXTINF:-1 group-title="兰州频道",兰州公共
+http://61.178.81.206/seg/3.m3u8
+#EXTINF:-1 group-title="兰州频道",兰州生活经济
+http://61.178.81.206/seg/9.m3u8
+#EXTINF:-1 group-title="兰州频道",晴彩兰州
+rtmp://live.lztv.tv/live/jclz
+#EXTINF:-1 group-title="兰州频道",张掖新闻综合
+http://125.74.221.38/live/c01.m3u8
+#EXTINF:-1 group-title="兰州频道",张掖公共频道
+http://125.74.221.38/live/c02.m3u8
+#EXTINF:-1 group-title="兰州频道",酒泉公共
+http://gsjqgd.qxzb.allook.cn/vod/jqtv1/playlist.m3u8
+#EXTINF:-1 group-title="兰州频道",睛彩酒泉
+http://gsjqgd.qxzb.allook.cn/vod/jqtv2/playlist.m3u8
+#EXTINF:-1 group-title="兰州频道",酒泉综合
+http://gsjqgd.qxzb.allook.cn/vod/jqtv3/playlist.m3u8
