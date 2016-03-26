@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-1
 http://sohucao.duapp.com/proxy/ewwasu.php/cctv1.m3u8
 #EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-1HD
@@ -208,7 +210,116 @@ http://liveapi.bobuc.net/lntvch/01000000000000000000000000000126.m3u8
 #EXTINF:-1group-title="VIP电影",莲花-纪录片
 http://liveapi.bobuc.net/lntvch/01000000000000000000000000000129.m3u8
 
-
+#EXTINF:-1 group-title="台湾专用",台湾 - HBO
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhbo
+#EXTINF:-1 group-title="台湾专用",台湾 - TCL
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtlc
+#EXTINF:-1 group-title="台湾专用",台湾 - FXHD
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twfxhd
+#EXTINF:-1 group-title="台湾专用",台湾 - Cinemax
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twcinemax
+#EXTINF:-1 group-title="台湾专用",台湾 - HD电影
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twls
+#EXTINF:-1 group-title="台湾专用",台湾 - 卫视电影
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twwsdy
+#EXTINF:-1 group-title="台湾专用",台湾 - 星衛HD电影
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twxwdy
+#EXTINF:-1 group-title="台湾专用",台湾 - 好莱坞电影
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhlwdy
+#EXTINF:-1 group-title="台湾专用",台湾 - 台视
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twts
+#EXTINF:-1 group-title="台湾专用",台湾 - 台视HD
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtshd
+#EXTINF:-1 group-title="台湾专用",台湾 - 华视HD
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhshd
+#EXTINF:-1 group-title="台湾专用",台湾 - 中视HD
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twzshd
+#EXTINF:-1 group-title="台湾专用",台湾 - 民视HD
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twmshd
+#EXTINF:-1 group-title="台湾专用",台湾 - 公视HD
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgshd
+#EXTINF:-1 group-title="台湾专用",台湾 - 三立台湾
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twsltw
+#EXTINF:-1 group-title="台湾专用",台湾 - 三立新闻
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twslxw
+#EXTINF:-1 group-title="台湾专用",台湾 - 纬来戏剧
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twwlxj
+#EXTINF:-1 group-title="台湾专用",台湾 - 纬来日本
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twwlrb
+#EXTINF:-1 group-title="台湾专用",台湾 - 东森电影
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdsdy
+#EXTINF:-1 group-title="台湾专用",台湾 - 东森戏剧
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdsxj
+#EXTINF:-1 group-title="台湾专用",台湾 - 东森洋片
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdsyp
+#EXTINF:-1 group-title="台湾专用",台湾 - 东森综合
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twydszh
+#EXTINF:-1 group-title="台湾专用",台湾 - 东森新闻
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twydsxw
+#EXTINF:-1 group-title="台湾专用",台湾 - 东森幼幼
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdsyy
+#EXTINF:-1 group-title="台湾专用",台湾 - 东森财经
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdscj
+#EXTINF:-1 group-title="台湾专用",台湾 - TVBS新闻HD
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtvbsxw
+#EXTINF:-1 group-title="台湾专用",台湾 - TVBS
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtvbs
+#EXTINF:-1 group-title="台湾专用",台湾 - 大爱
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twda
+#EXTINF:-1 group-title="台湾专用",台湾 - 台湾新闻综合
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twxwyl
+#EXTINF:-1 group-title="台湾专用",台湾 - 八大综合
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twbdzh
+#EXTINF:-1 group-title="台湾专用",台湾 - 中天综合
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twztzh
+#EXTINF:-1 group-title="台湾专用",台湾 - 中天娱乐
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twzhyl
+#EXTINF:-1 group-title="台湾专用",台湾 - 中天新闻
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twztxw
+#EXTINF:-1 group-title="台湾专用",台湾 - 国兴卫视
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgxws
+#EXTINF:-1 group-title="台湾专用",台湾 - 壹新闻
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twydsxw
+#EXTINF:-1 group-title="台湾专用",台湾 - 年代新闻
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twndxw
+#EXTINF:-1 group-title="台湾专用",台湾 - 非凡新闻
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twffxw
+#EXTINF:-1 group-title="台湾专用",台湾 - 博斯足球
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twbszq
+#EXTINF:-1 group-title="台湾专用",台湾 - FOX体育2
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twfoxty2
+#EXTINF:-1 group-title="台湾专用",台湾 - FOX体育3
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twfoxty3
+#EXTINF:-1 group-title="台湾专用",台湾 - 爱尔达体育
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=tweltaty
+#EXTINF:-1 group-title="台湾专用",台湾 - 国家地理
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgjdl
+#EXTINF:-1 group-title="台湾专用",台湾 - 国家地理HD
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgjdlhd
+#EXTINF:-1 group-title="台湾专用",台湾 - 法国时尚
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twssylf
+#EXTINF:-1 group-title="台湾专用",台湾 - EYETV旅游
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=tweyely
+#EXTINF:-1 group-title="台湾专用",台湾 - 韩台
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twytngj
+#EXTINF:-1 group-title="台湾专用",台湾 - CNN
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twcnn
+#EXTINF:-1 group-title="台湾专用",台湾 - BBC
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twbbc
+#EXTINF:-1 group-title="台湾专用",台湾 - NHK国际
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=hwnhkgj
+#EXTINF:-1 group-title="台湾专用",台湾 - BS1
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=hwbs1
+#EXTINF:-1 group-title="台湾专用",台湾 - BS2
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=hwbs2
+#EXTINF:-1 group-title="台湾专用",台湾 - KBS
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=hwkbs
+#EXTINF:-1 group-title="台湾专用",台湾 - 中国电影
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=zgdy
+#EXTINF:-1 group-title="台湾专用",台湾 - CCTV-12
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=cctv12
+#EXTINF:-1 group-title="台湾专用",台湾 - CCTV-13
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=cctv13
 
 
 #EXTINF:-1group-title="海外中文",港澳-翡翠J5
