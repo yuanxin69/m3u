@@ -99,3 +99,8 @@ rtmp://183.238.77.4:1935/dvr/30182.stream
 rtmp://183.238.77.4:1935/dvr/30184.stream
 #EXTINF:-1 group-title="香港频道",国际台
 rtmp://183.238.77.4:1935/dvr/30185.stream
+
+CCTV新闻HD,rtmp://111.20.115.242/live/stream8
+凤凰中文HD,rtmp://111.20.115.242/live/stream4#rtmp://111.20.115.242/live/stream6
+凤凰咨讯HD,rtmp://111.20.115.242/live/stream7
+凤凰香港HD,rtmp://111.20.115.242/live/stream1#rtmp://111.20.115.242/live/stream3
