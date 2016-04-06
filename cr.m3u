@@ -11,8 +11,7 @@ http://123.108.164.75/etv2sb/pld10059/playlist.m3u8#http://edge2.everyon.tv/etv2
 #EXTINF:-1 group-title="日本", 韩国02台
 http://123.108.164.75/etv2sb/pld10060/playlist.m3u8#http://edge2.everyon.tv/etv2sb/pld10060/playlist.m3u8
 #EXTINF:-1 group-title="日本", 韩国03台
-http://123.108.164.75/etv2sb/pld10061/playlist.m3u8#
-http://edge2.everyon.tv/etv2sb/pld10061/playlist.m3u8
+http://123.108.164.75/etv2sb/pld10061/playlist.m3u8#http://edge2.everyon.tv/etv2sb/pld10061/playlist.m3u8
 #EXTINF:-1 group-title="日本", ★韩国04台
 http://123.108.164.75/etv2sb/pld10062/playlist.m3u8#http://edge2.everyon.tv/etv2sb/pld10062/playlist.m3u8
 #EXTINF:-1 group-title="日本", 韩国05台
