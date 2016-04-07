@@ -5944,73 +5944,73 @@
     "num":991,
     "itemid":"dy",
     "name":"CHC高清电影",
-    "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240266_1/encoder/3/playlist.m3u8#http://cibn.applinzi.com/caobitw/ceshitwyl.php?id=HCHDMOVIE5M#http://cibn.applinzi.com/zshi/taiw.php?id=CHCGQHD"
+    "urllist":"http://106.36.45.36/live.aishang.ctlcdn.com/00000110240266_1/encoder/3/playlist.m3u8#http://cibn.applinzi.com/caobitw/ceshitwyl.php?id=HCHDMOVIE5M#http://cibn.applinzi.com/zshi/taiw.php?id=CHCGQHD"
   },
   {
     "num":992,
     "itemid":"dy",
     "name":"CHC家庭影院",
-    "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240269_1/encoder/0/playlist.m3u8#http://cibn.applinzi.com/zshi/taiw.php?id=CHCJTYY"
+    "urllist":"http://106.36.45.36/live.aishang.ctlcdn.com/00000110240269_1/encoder/0/playlist.m3u8#http://cibn.applinzi.com/zshi/taiw.php?id=CHCJTYY"
   },
   {
     "num":993,
     "itemid":"dy",
     "name":"CHC动作电影",
-    "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240270_1/encoder/0/playlist.m3u8#http://cibn.applinzi.com/zshi/taiw.php?id=CHCDZDY"
+    "urllist":"http://106.36.45.36/live.aishang.ctlcdn.com/00000110240270_1/encoder/0/playlist.m3u8#http://cibn.applinzi.com/zshi/taiw.php?id=CHCDZDY"
   },
   {
     "num":994,
     "itemid":"dy",
     "name":"香港有线电影一台HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000157"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000157&playtype=live&auth=no"
   },
   {
     "num":995,
     "itemid":"dy",
     "name":"香港有线电影一台",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000103"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000103&playtype=live&auth=no"
   },
   {
     "num":996,
     "itemid":"dy",
     "name":"天映频道",
-    "urllist":"http://cibn.applinzi.com/zshi/taiw.php?id=TYDY#http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000105"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000105&playtype=live&auth=no"
   },
   {
     "num":997,
     "itemid":"dy",
     "name":"HBO",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000123"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000123&playtype=live&auth=no"
   },
   {
     "num":998,
     "itemid":"dy",
     "name":"精选电影",
-    "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8"
+    "urllist":"http://106.36.45.36/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8"
   },
   {
     "num":999,
     "itemid":"dy",
     "name":"喜剧影院",
-    "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8"
+    "urllist":"http://106.36.45.36/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8"
   },
   {
     "num":1000,
     "itemid":"dy",
     "name":"动作影院",
-    "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8"
+    "urllist":"http://106.36.45.36/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8"
   },
   {
     "num":1001,
     "itemid":"dy",
     "name":"家庭影院",
-    "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8"
+    "urllist":"http://106.36.45.36/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8"
   },
   {
     "num":1002,
     "itemid":"dy",
     "name":"星影",
-    "urllist":"http://61.189.255.152/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8"
+    "urllist":"http://106.36.45.36/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8"
   },
   {
     "num":1003,
@@ -8512,1051 +8512,1051 @@
     "num":1419,
     "itemid":"pyyx",
     "name":"CCTV-1HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000158"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000158&playtype=live&auth=no"
   },
   {
     "num":1420,
     "itemid":"pyyx",
     "name":"CCTV-1",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000007"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000007&playtype=live&auth=no"
   },
   {
     "num":1421,
     "itemid":"pyyx",
     "name":"CCTV-2HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000139"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000139&playtype=live&auth=no"
   },
   {
     "num":1422,
     "itemid":"pyyx",
     "name":"CCTV-2",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000008"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000008&playtype=live&auth=no"
   },
   {
     "num":1423,
     "itemid":"pyyx",
     "name":"CCTV-3HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000152"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000152&playtype=live&auth=no"
   },
   {
     "num":1424,
     "itemid":"pyyx",
     "name":"CCTV-3",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000018"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000018&playtype=live&auth=no"
   },
   {
     "num":1425,
     "itemid":"pyyx",
     "name":"CCTV-4HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000140"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000140&playtype=live&auth=no"
   },
   {
     "num":1426,
     "itemid":"pyyx",
     "name":"CCTV-4",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000014"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000014&playtype=live&auth=no"
   },
   {
     "num":1427,
     "itemid":"pyyx",
     "name":"CCTV-5HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000151"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000151&playtype=live&auth=no"
   },
   {
     "num":1428,
     "itemid":"pyyx",
     "name":"CCTV-5",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000019"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000019&playtype=live&auth=no"
   },
   {
     "num":1429,
     "itemid":"pyyx",
     "name":"CCTV5+HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000160"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000160&playtype=live&auth=no"
   },
   {
     "num":1430,
     "itemid":"pyyx",
     "name":"CCTV-6HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000159"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000159&playtype=live&auth=no"
   },
   {
     "num":1431,
     "itemid":"pyyx",
     "name":"CCTV-6",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000020"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000020&playtype=live&auth=no"
   },
   {
     "num":1432,
     "itemid":"pyyx",
     "name":"CCTV-7HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000141"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000141&playtype=live&auth=no"
   },
   {
     "num":1433,
     "itemid":"pyyx",
     "name":"CCTV-7",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000009"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000009&playtype=live&auth=no"
   },
   {
     "num":1434,
     "itemid":"pyyx",
     "name":"CCTV-8HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000150"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000150&playtype=live&auth=no"
   },
   {
     "num":1435,
     "itemid":"pyyx",
     "name":"CCTV-8",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000021"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000021&playtype=live&auth=no"
   },
   {
     "num":1436,
     "itemid":"pyyx",
     "name":"CCTV-9HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000142"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000142&playtype=live&auth=no"
   },
   {
     "num":1437,
     "itemid":"pyyx",
     "name":"CCTV-9",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000022"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000022&playtype=live&auth=no"
   },
   {
     "num":1438,
     "itemid":"pyyx",
     "name":"CCTV-10HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000143"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000143&playtype=live&auth=no"
   },
   {
     "num":1439,
     "itemid":"pyyx",
     "name":"CCTV-10",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000010"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000010&playtype=live&auth=no"
   },
   {
     "num":1440,
     "itemid":"pyyx",
     "name":"CCTV-11",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000011"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000011&playtype=live&auth=no"
   },
   {
     "num":1441,
     "itemid":"pyyx",
     "name":"CCTV-12HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000144"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000144&playtype=live&auth=no"
   },
   {
     "num":1442,
     "itemid":"pyyx",
     "name":"CCTV-12",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000012"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000012&playtype=live&auth=no"
   },
   {
     "num":1443,
     "itemid":"pyyx",
     "name":"CCTV-13",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000023"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000023&playtype=live&auth=no"
   },
   {
     "num":1444,
     "itemid":"pyyx",
     "name":"CCTV-14HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000145"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000145&playtype=live&auth=no"
   },
   {
     "num":1445,
     "itemid":"pyyx",
     "name":"CCTV-14",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000024"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000024&playtype=live&auth=no"
   },
   {
     "num":1446,
     "itemid":"pyyx",
     "name":"CCTV-15",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000013"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000013&playtype=live&auth=no"
   },
   {
     "num":1447,
     "itemid":"pyyx",
     "name":"CCTV-NEWS",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000016"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000016&playtype=live&auth=no"
   },
   {
     "num":1448,
     "itemid":"pyyx",
     "name":"CCTV-发现之旅",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000052"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000052&playtype=live&auth=no"
   },
   {
     "num":1449,
     "itemid":"pyyx",
     "name":"CCTV-老故事",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000053"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000053&playtype=live&auth=no"
   },
   {
     "num":1450,
     "itemid":"pyyx",
     "name":"CCTV-女性时尚",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000055"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000055&playtype=live&auth=no"
   },
   {
     "num":1451,
     "itemid":"pyyx",
     "name":"CCTV-中视购物",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000057"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000057&playtype=live&auth=no"
   },
   {
     "num":1452,
     "itemid":"pyyx",
     "name":"CCTV-卫生健康",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000058"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000058&playtype=live&auth=no"
   },
   {
     "num":1453,
     "itemid":"pyyx",
     "name":"CCTV-世界地理",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000065"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000065&playtype=live&auth=no"
   },
   {
     "num":1454,
     "itemid":"pyyx",
     "name":"CCTV-国防军事",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000066"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000066&playtype=live&auth=no"
   },
   {
     "num":1455,
     "itemid":"pyyx",
     "name":"CCTV-风云音乐",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000067"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000067&playtype=live&auth=no"
   },
   {
     "num":1456,
     "itemid":"pyyx",
     "name":"CCTV-央视文化精品",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000068"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000068&playtype=live&auth=no"
   },
   {
     "num":1457,
     "itemid":"pyyx",
     "name":"CCTV-怀旧剧场",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000069"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000069&playtype=live&auth=no"
   },
   {
     "num":1458,
     "itemid":"pyyx",
     "name":"CCTV-风云足球",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000070"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000070&playtype=live&auth=no"
   },
   {
     "num":1459,
     "itemid":"pyyx",
     "name":"CCTV-风云剧场",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000071"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000071&playtype=live&auth=no"
   },
   {
     "num":1460,
     "itemid":"pyyx",
     "name":"CCTV-第一剧场",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000072"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000072&playtype=live&auth=no"
   },
   {
     "num":1461,
     "itemid":"pyyx",
     "name":"CCTV-中国电影",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000104"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000104&playtype=live&auth=no"
   },
   {
     "num":1462,
     "itemid":"pyyx",
     "name":"CCTV-新科动漫",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000128"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000128&playtype=live&auth=no"
   },
   {
     "num":1463,
     "itemid":"pyyx",
     "name":"CCTV-中学生",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000130"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000130&playtype=live&auth=no"
   },
   {
     "num":1464,
     "itemid":"pyyx",
     "name":"3D试验频道",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000153"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000153&playtype=live&auth=no"
   },
   {
     "num":1465,
     "itemid":"pyyx",
     "name":"中国教育-1",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000061"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000061&playtype=live&auth=no"
   },
   {
     "num":1466,
     "itemid":"pyyx",
     "name":"中国教育-2",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000132"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000132&playtype=live&auth=no"
   },
   {
     "num":1467,
     "itemid":"pyyx",
     "name":"中国教育-4",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000133"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000133&playtype=live&auth=no"
   },
   {
     "num":1468,
     "itemid":"pyyx",
     "name":"CETV-早期教育",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000083"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000083&playtype=live&auth=no"
   },
   {
     "num":1469,
     "itemid":"pyyx",
     "name":"山东教育",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000106"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000106&playtype=live&auth=no"
   },
   {
     "num":1470,
     "itemid":"pyyx",
     "name":"中国气象频道",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000015"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000015&playtype=live&auth=no"
   },
   {
     "num":1471,
     "itemid":"pyyx",
     "name":"黄河卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000001"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000001&playtype=live&qamname=undefined&auth=no"
   },
   {
     "num":1472,
     "itemid":"pyyx",
     "name":"中国黄河",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000113"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000113&playtype=live&auth=no"
   },
   {
     "num":1473,
     "itemid":"pyyx",
     "name":"平遥电视台",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000043"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000043&playtype=live&auth=no"
   },
   {
     "num":1474,
     "itemid":"pyyx",
     "name":"平遥导视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000174"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000174&playtype=live&auth=no"
   },
   {
     "num":1475,
     "itemid":"pyyx",
     "name":"山西卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000027"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000027&playtype=live&auth=no"
   },
   {
     "num":1476,
     "itemid":"pyyx",
     "name":"山西影视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000002"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000002&playtype=live&auth=no"
   },
   {
     "num":1477,
     "itemid":"pyyx",
     "name":"山西公共",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000003"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000003&playtype=live&auth=no"
   },
   {
     "num":1478,
     "itemid":"pyyx",
     "name":"山西科教",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000004"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000004&playtype=live&auth=no"
   },
   {
     "num":1479,
     "itemid":"pyyx",
     "name":"山西少儿",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000005"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000005&playtype=live&auth=no"
   },
   {
     "num":1480,
     "itemid":"pyyx",
     "name":"晋中新闻",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000006"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000006&playtype=live&auth=no"
   },
   {
     "num":1481,
     "itemid":"pyyx",
     "name":"北京卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000169"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000169&playtype=live&auth=no"
   },
   {
     "num":1482,
     "itemid":"pyyx",
     "name":"北京卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000025"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000025&playtype=live&auth=no"
   },
   {
     "num":1483,
     "itemid":"pyyx",
     "name":"东方卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000161"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000161&playtype=live&auth=no"
   },
   {
     "num":1484,
     "itemid":"pyyx",
     "name":"东方卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000063"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000063&playtype=live&auth=no"
   },
   {
     "num":1485,
     "itemid":"pyyx",
     "name":"天津卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000162"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000162&playtype=live&auth=no"
   },
   {
     "num":1486,
     "itemid":"pyyx",
     "name":"天津卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000026"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000026&playtype=live&auth=no"
   },
   {
     "num":1487,
     "itemid":"pyyx",
     "name":"重庆卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000170"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000170&playtype=live&auth=no"
   },
   {
     "num":1488,
     "itemid":"pyyx",
     "name":"重庆卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000115"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000115&playtype=live&auth=no"
   },
   {
     "num":1489,
     "itemid":"pyyx",
     "name":"山西卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000027"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000027&playtype=live&auth=no"
   },
   {
     "num":1490,
     "itemid":"pyyx",
     "name":"山东卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000163"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000163&playtype=live&auth=no"
   },
   {
     "num":1491,
     "itemid":"pyyx",
     "name":"山东卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000028"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000028&playtype=live&auth=no"
   },
   {
     "num":1492,
     "itemid":"pyyx",
     "name":"河北卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000029"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000029&playtype=live&auth=no"
   },
   {
     "num":1493,
     "itemid":"pyyx",
     "name":"浙江卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000167"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000167&playtype=live&auth=no"
   },
   {
     "num":1494,
     "itemid":"pyyx",
     "name":"浙江卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000030"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000030&playtype=live&auth=no"
   },
   {
     "num":1495,
     "itemid":"pyyx",
     "name":"旅游卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000031"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000031&playtype=live&auth=no"
   },
   {
     "num":1496,
     "itemid":"pyyx",
     "name":"黑龙江卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000171"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000171&playtype=live&auth=no"
   },
   {
     "num":1497,
     "itemid":"pyyx",
     "name":"黑龙江卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000032"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000032&playtype=live&auth=no"
   },
   {
     "num":1498,
     "itemid":"pyyx",
     "name":"吉林卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000033"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000033&playtype=live&auth=no"
   },
   {
     "num":1499,
     "itemid":"pyyx",
     "name":"延边卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000034"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000034&playtype=live&auth=no"
   },
   {
     "num":1500,
     "itemid":"pyyx",
     "name":"西藏卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000035"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000035&playtype=live&auth=no"
   },
   {
     "num":1501,
     "itemid":"pyyx",
     "name":"新疆卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000036"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000036&playtype=live&auth=no"
   },
   {
     "num":1502,
     "itemid":"pyyx",
     "name":"东南卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000037"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000037&playtype=live&auth=no"
   },
   {
     "num":1503,
     "itemid":"pyyx",
     "name":"贵州卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000038"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000038&playtype=live&auth=no"
   },
   {
     "num":1504,
     "itemid":"pyyx",
     "name":"江苏卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000168"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000168&playtype=live&auth=no"
   },
   {
     "num":1505,
     "itemid":"pyyx",
     "name":"江苏卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000039"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000039&playtype=live&auth=no"
   },
   {
     "num":1506,
     "itemid":"pyyx",
     "name":"湖南卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000166"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000166&playtype=live&auth=no"
   },
   {
     "num":1507,
     "itemid":"pyyx",
     "name":"湖南卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000040"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000040&playtype=live&auth=no"
   },
   {
     "num":1508,
     "itemid":"pyyx",
     "name":"辽宁卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000137"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000137&playtype=live&auth=no"
   },
   {
     "num":1509,
     "itemid":"pyyx",
     "name":"辽宁卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000041"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000041&playtype=live&auth=no"
   },
   {
     "num":1510,
     "itemid":"pyyx",
     "name":"青海卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000059"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000059&playtype=live&auth=no"
   },
   {
     "num":1511,
     "itemid":"pyyx",
     "name":"湖北卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000164"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000164&playtype=live&auth=no"
   },
   {
     "num":1512,
     "itemid":"pyyx",
     "name":"湖北卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000060"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000060&playtype=live&auth=no"
   },
   {
     "num":1513,
     "itemid":"pyyx",
     "name":"内蒙古卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000064"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000064&playtype=live&auth=no"
   },
   {
     "num":1514,
     "itemid":"pyyx",
     "name":"广西卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000096"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000096&playtype=live&auth=no"
   },
   {
     "num":1515,
     "itemid":"pyyx",
     "name":"广东卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000172"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000172&playtype=live&auth=no"
   },
   {
     "num":1516,
     "itemid":"pyyx",
     "name":"广东卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000097"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000097&playtype=live&auth=no"
   },
   {
     "num":1517,
     "itemid":"pyyx",
     "name":"云南卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000098"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000098&playtype=live&auth=no"
   },
   {
     "num":1518,
     "itemid":"pyyx",
     "name":"深圳卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000173"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000173&playtype=live&auth=no"
   },
   {
     "num":1519,
     "itemid":"pyyx",
     "name":"深圳卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000099"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000099&playtype=live&auth=no"
   },
   {
     "num":1520,
     "itemid":"pyyx",
     "name":"兵团卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000102"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000102&playtype=live&auth=no"
   },
   {
     "num":1521,
     "itemid":"pyyx",
     "name":"安徽卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000165"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000165&playtype=live&auth=no"
   },
   {
     "num":1522,
     "itemid":"pyyx",
     "name":"安徽卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000114"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000114&playtype=live&auth=no"
   },
   {
     "num":1523,
     "itemid":"pyyx",
     "name":"河南卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000116"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000116&playtype=live&auth=no"
   },
   {
     "num":1524,
     "itemid":"pyyx",
     "name":"宁夏卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000117"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000117&playtype=live&auth=no"
   },
   {
     "num":1525,
     "itemid":"pyyx",
     "name":"四川卫视HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000138"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000138&playtype=live&auth=no"
   },
   {
     "num":1526,
     "itemid":"pyyx",
     "name":"四川卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000118"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000118&playtype=live&auth=no"
   },
   {
     "num":1527,
     "itemid":"pyyx",
     "name":"江西卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000119"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000119&playtype=live&auth=no"
   },
   {
     "num":1528,
     "itemid":"pyyx",
     "name":"陕西卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000120"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000120&playtype=live&auth=no"
   },
   {
     "num":1529,
     "itemid":"pyyx",
     "name":"农林卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000121"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000121&playtype=live&auth=no"
   },
   {
     "num":1530,
     "itemid":"pyyx",
     "name":"甘肃卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000122"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000122&playtype=live&auth=no"
   },
   {
     "num":1531,
     "itemid":"pyyx",
     "name":"香港有线电影一台HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000157"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000157&playtype=live&auth=no"
   },
   {
     "num":1532,
     "itemid":"pyyx",
     "name":"香港有线电影一台",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000103"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000103&playtype=live&auth=no"
   },
   {
     "num":1533,
     "itemid":"pyyx",
     "name":"天映频道",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000105"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000105&playtype=live&auth=no"
   },
   {
     "num":1534,
     "itemid":"pyyx",
     "name":"TVB星河",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000107"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000107&playtype=live&auth=no"
   },
   {
     "num":1535,
     "itemid":"pyyx",
     "name":"阳光卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000108"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000108&playtype=live&auth=no"
   },
   {
     "num":1536,
     "itemid":"pyyx",
     "name":"莲花卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000109"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000109&playtype=live&auth=no"
   },
   {
     "num":1537,
     "itemid":"pyyx",
     "name":"凤凰卫视资讯台HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000154"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000154&playtype=live&auth=no"
   },
   {
     "num":1538,
     "itemid":"pyyx",
     "name":"凤凰卫视资讯台",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000110"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000110&playtype=live&auth=no"
   },
   {
     "num":1539,
     "itemid":"pyyx",
     "name":"凤凰卫视中文台HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000155"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000155&playtype=live&auth=no"
   },
   {
     "num":1540,
     "itemid":"pyyx",
     "name":"凤凰卫视中文台",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000111"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000111&playtype=live&auth=no"
   },
   {
     "num":1541,
     "itemid":"pyyx",
     "name":"凤凰卫视香港台HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000156"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000156&playtype=live&auth=no"
   },
   {
     "num":1542,
     "itemid":"pyyx",
     "name":"HBO",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000123"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000123&playtype=live&auth=no"
   },
   {
     "num":1543,
     "itemid":"pyyx",
     "name":"星空卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000124"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000124&playtype=live&auth=no"
   },
   {
     "num":1544,
     "itemid":"pyyx",
     "name":"华娱卫视",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000125"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000125&playtype=live&auth=no"
   },
   {
     "num":1545,
     "itemid":"pyyx",
     "name":"亚洲台",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000148"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000148&playtype=live&auth=no"
   },
   {
     "num":1546,
     "itemid":"pyyx",
     "name":"炫动卡通",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000062"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000062&playtype=live&auth=no"
   },
   {
     "num":1547,
     "itemid":"pyyx",
     "name":"优漫卡通",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000017"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000017&playtype=live&auth=no"
   },
   {
     "num":1548,
     "itemid":"pyyx",
     "name":"嘉佳卡通",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000100"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000100&playtype=live&auth=no"
   },
   {
     "num":1549,
     "itemid":"pyyx",
     "name":"金鹰卡通",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000042"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000042&playtype=live&auth=no"
   },
   {
     "num":1550,
     "itemid":"pyyx",
     "name":"动漫秀场",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000044"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000044&playtype=live&auth=no"
   },
   {
     "num":1551,
     "itemid":"pyyx",
     "name":"劲爆体育",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000045"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000045&playtype=live&auth=no"
   },
   {
     "num":1552,
     "itemid":"pyyx",
     "name":"全纪实",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000046"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000046&playtype=live&auth=no"
   },
   {
     "num":1553,
     "itemid":"pyyx",
     "name":"东方财经-浦东",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000047"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000047&playtype=live&auth=no"
   },
   {
     "num":1554,
     "itemid":"pyyx",
     "name":"老年福",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000048"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000048&playtype=live&auth=no"
   },
   {
     "num":1555,
     "itemid":"pyyx",
     "name":"幸福彩",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000049"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000049&playtype=live&auth=no"
   },
   {
     "num":1556,
     "itemid":"pyyx",
     "name":"游戏风云",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000050"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000050&playtype=live&auth=no"
   },
   {
     "num":1557,
     "itemid":"pyyx",
     "name":"环球奇观",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000051"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000051&playtype=live&auth=no"
   },
   {
     "num":1558,
     "itemid":"pyyx",
     "name":"书画频道",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000054"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000054&playtype=live&auth=no"
   },
   {
     "num":1559,
     "itemid":"pyyx",
     "name":"现代女性",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000056"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000056&playtype=live&auth=no"
   },
   {
     "num":1560,
     "itemid":"pyyx",
     "name":"江苏靓装",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000073"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000073&playtype=live&auth=no"
   },
   {
     "num":1561,
     "itemid":"pyyx",
     "name":"留学世界",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000074"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000074&playtype=live&auth=no"
   },
   {
     "num":1562,
     "itemid":"pyyx",
     "name":"梨园频道",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000075"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000075&playtype=live&auth=no"
   },
   {
     "num":1563,
     "itemid":"pyyx",
     "name":"GTV游戏竞技",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000076"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000076&playtype=live&auth=no"
   },
   {
     "num":1564,
     "itemid":"pyyx",
     "name":"茶频道",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000077"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000077&playtype=live&auth=no"
   },
   {
     "num":1565,
     "itemid":"pyyx",
     "name":"深圳DV生活",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000078"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000078&playtype=live&auth=no"
   },
   {
     "num":1566,
     "itemid":"pyyx",
     "name":"天元围棋",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000079"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000079&playtype=live&auth=no"
   },
   {
     "num":1567,
     "itemid":"pyyx",
     "name":"重庆汽摩",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000080"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000080&playtype=live&auth=no"
   },
   {
     "num":1568,
     "itemid":"pyyx",
     "name":"摄影频道",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000081"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000081&playtype=live&auth=no"
   },
   {
     "num":1569,
     "itemid":"pyyx",
     "name":"英语辅导",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000082"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000082&playtype=live&auth=no"
   },
   {
     "num":1570,
     "itemid":"pyyx",
     "name":"彩民在线",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000084"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000084&playtype=live&auth=no"
   },
   {
     "num":1571,
     "itemid":"pyyx",
     "name":"武术世界",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000085"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000085&playtype=live&auth=no"
   },
   {
     "num":1572,
     "itemid":"pyyx",
     "name":"优宝贝",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000086"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000086&playtype=live&auth=no"
   },
   {
     "num":1573,
     "itemid":"pyyx",
     "name":"城市建设",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000087"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000087&playtype=live&auth=no"
   },
   {
     "num":1574,
     "itemid":"pyyx",
     "name":"法制天地",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000088"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000088&playtype=live&auth=no"
   },
   {
     "num":1575,
     "itemid":"pyyx",
     "name":"欢笑剧场",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000089"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000089&playtype=live&auth=no"
   },
   {
     "num":1576,
     "itemid":"pyyx",
     "name":"魅力音乐",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000090"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000090&playtype=live&auth=no"
   },
   {
     "num":1577,
     "itemid":"pyyx",
     "name":"七彩戏剧",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000091"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000091&playtype=live&auth=no"
   },
   {
     "num":1578,
     "itemid":"pyyx",
     "name":"文物宝库",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000131"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000131&playtype=live&auth=no"
   },
   {
     "num":1579,
     "itemid":"pyyx",
     "name":"金色频道",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000092"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000092&playtype=live&auth=no"
   },
   {
     "num":1580,
     "itemid":"pyyx",
     "name":"国学频道",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000127"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000127&playtype=live&auth=no"
   },
   {
     "num":1581,
     "itemid":"pyyx",
     "name":"快乐垂钓",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000129"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000129&playtype=live&auth=no"
   },
   {
     "num":1582,
     "itemid":"pyyx",
     "name":"生活时尚HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000093"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000093&playtype=live&auth=no"
   },
   {
     "num":1583,
     "itemid":"pyyx",
     "name":"极速汽车",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000094"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000094&playtype=live&auth=no"
   },
   {
     "num":1584,
     "itemid":"pyyx",
     "name":"都市剧场",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000095"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000095&playtype=live&auth=no"
   },
   {
     "num":1585,
     "itemid":"pyyx",
-    "name":"高清剧场",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000101"
+    "name":"兵团卫视",
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000101&playtype=live&auth=no"
   },
   {
     "num":1586,
     "itemid":"pyyx",
     "name":"综艺频道",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000149"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000149&playtype=live&auth=no"
   },
   {
     "num":1587,
     "itemid":"pyyx",
     "name":"新华社中文",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000126"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000126&playtype=live&auth=no"
   },
   {
     "num":1588,
     "itemid":"pyyx",
     "name":"新华社英文",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000112"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000112&playtype=live&auth=no"
   },
   {
     "num":1589,
     "itemid":"pyyx",
     "name":"金鹰纪实HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000134"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000134&playtype=live&auth=no"
   },
   {
     "num":1590,
     "itemid":"pyyx",
     "name":"北京纪实HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000135"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000135&playtype=live&auth=no"
   },
   {
     "num":1591,
     "itemid":"pyyx",
     "name":"上海纪实HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000136"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000136&playtype=live&auth=no"
   },
   {
     "num":1592,
     "itemid":"pyyx",
     "name":"高清电影",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000146"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000146&playtype=live&auth=no"
   },
   {
     "num":1593,
     "itemid":"pyyx",
     "name":"新视觉HD",
-    "urllist":"http://ybxc.xinxingkm.com/zb_fire/pygd.php?pw=quannengzhibo&id=4200000147"
+    "urllist":"http://slave.pygdzhcs.com:13160/playurl?accesstoken=TBSEBBJG900R90AX6GN35ZDQSM1459962581K50008738W381102&programid=4200000147&playtype=live&auth=no"
   },
   {
     "num":1594,
