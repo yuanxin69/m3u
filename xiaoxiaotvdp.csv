@@ -1281,7 +1281,7 @@
 1280,TW,CNN國際,http://210.201.54.101:1935/live/cnnint_sp.sdp/playlist.m3u8
 1281,TW,半島電視,http://210.201.54.100:1935/live/AlJazeera/chunklist.m3u8
 1282,TW,韩国娱乐,http://210.201.54.101:1935/live/KMTV.sdp/chunklist.m3u8
-1283,TW,TVB-J5,http://stream.slave.homed.me:13164/playurl?playtype=live&accesstoken=0TOKEN50001002&username=test&programid=4200851395&playtoken=&verifycode=&auth=no#http://14.199.245.83:9981/stream/channelid/7?ticket=F0059C53696F2212AAE520A46F1D1A38DCA14B43
+1283,TW,TVB-J5,http://stream.slave.homed.me:13164/playurl?playtype=live&accesstoken=0TOKEN50001002&username=test&programid=4200851395&playtoken=&verifycode=&auth=no#http://58.218.152.98:7725/hls/j5.m3u8
 1284,TW,TVB-J2,http://14.199.245.83:9981/stream/channelid/5?ticket=F0059C53696F2212AAE520A46F1D1A38DCA14B43
 1285,TW,翡翠台,http://14.199.245.83:9981/stream/channelid/3?ticket=F0059C53696F2212AAE520A46F1D1A38DCA14B43
 1286,TW,ATV亚洲台,http://stream.slave.homed.me:13164/playurl?playtype=live&accesstoken=0TOKEN50001002&username=test&programid=4200851389&playtoken=&verifycode=&auth=no
@@ -1619,7 +1619,7 @@
 1618,uid5,國家地理優人台HD,rtmp://s03.ottclub.info:1935/live/c245.stream#rtmp://s03.ottclub.info:1935/live/c745.stream
 1619,uid5,國家地理頻道台HD,rtmp://s03.ottclub.info:1935/live/c206.stream#rtmp://s03.ottclub.info:1935/live/c706.stream#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgjdlhd#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgjdl
 1620,uid5,DiscoveryHD,rtmp://s03.ottclub.info:1935/live/c244.stream#rtmp://s03.ottclub.info:1935/live/c744.stream#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twts
-1621,uid5,TLC,rtmp://s02.ottclub.info:1935/live/c170.stream#rtmp://s02.ottclub.info:1935/live/c670.stream#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtlc
+1621,uid5,TLC旅游生活,rtmp://s02.ottclub.info:1935/live/c170.stream#rtmp://s02.ottclub.info:1935/live/c670.stream#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtlc
 1622,uid5,動物星球台,rtmp://s02.ottclub.info:1935/live/c176.stream#rtmp://s02.ottclub.info:1935/live/c676.stream
 1623,uid5,卡通頻道台,rtmp://s02.ottclub.info:1935/live/c178.stream#rtmp://s02.ottclub.info:1935/live/c678.stream
 1624,uid5,迪士尼頻道台,rtmp://s02.ottclub.info:1935/live/c198.stream#rtmp://s02.ottclub.info:1935/live/c698.stream

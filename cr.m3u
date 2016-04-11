@@ -6,6 +6,30 @@ http://zj.maxcms.org/leyun/mmsid.php?v=51588905
 http://zj.maxcms.org/leyun/mmsid.php?v=51368333
 #EXTINF:-1 group-title="日本", 美味速递
 http://zj.maxcms.org/leyun/mmsid.php?v=51441091
+EXTINF:-1 group-title="日本", 日欧无码
+http://64.140.160.186:8066/HLS/live/101/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 日本无码
+http://64.140.160.186:8066/HLS/live/102/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 日本薄码
+http://64.140.160.186:8066/HLS/live/103/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 日本薄码
+http://64.140.160.186:8066/HLS/live/201/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 日欧无码
+http://64.140.160.186:8066/HLS/live/202/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 日本无码
+http://64.140.160.186:8066/HLS/live/203/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 潘多拉完美有码HD
+http://64.140.160.186:8066/HLS/live/301/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 潘多拉粉红有码HD
+http://64.140.160.186:8066/HLS/live/302/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 潘多拉天使薄码成人
+http://58.99.33.4:1935/liveedge/live_413_3.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本", 潘多拉天使薄码成人
+http://58.99.33.4:1935/liveedge/live_785_3.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本", 潘多拉宝贝薄码成人
+http://58.99.33.4:1935/liveedge/live_414_3.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本", 潘多拉宝贝薄码成人
+http://58.99.33.4:1935/liveedge/live_786_3.stream/playlist.m3u8
 #EXTINF:-1 group-title="日本", 韩国01台
 http://123.108.164.75/etv2sb/pld10059/playlist.m3u8
 #EXTINF:-1 group-title="日本", 韩国02台
