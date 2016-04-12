@@ -1,6 +1,180 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="台湾套餐",台湾 - 台視
+http://210.201.54.101:1935/live/ttv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 台視綜合
+http://210.201.54.101:1935/live/tcch10/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中視
+http://210.201.54.101:1935/live/ctv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中視菁采
+http://210.201.54.101:1935/live/ctvhd/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中視經典
+http://210.201.54.101:1935/live/ctv_all.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 華視
+http://210.201.54.101:1935/live/cts.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 華視綜合
+http://210.201.54.101:1935/live/ctshd/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民視
+http://210.201.54.101:1935/live/ftvw_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民視四季
+http://210.201.54.101:1935/live/fourCZn/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民視影劇
+http://210.201.54.101:1935/live/drama_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民視綜藝
+http://210.201.54.101:1935/live/program_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民視旅遊
+http://210.201.54.101:1935/live/ftvtravel_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民視交通
+http://210.201.54.101:1935/live/ftvm_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 八大第一
+http://210.201.54.101:1935/live/gtv_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 東森亞洲
+http://210.201.54.101:1935/live/acti_2_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中天綜合
+http://210.201.54.101:1935/live/cti1_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS
+http://210.201.54.101:1935/live/tvbs_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 原視
+http://210.201.54.101:1935/live/tcch09/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 時尚娛樂瘋
+http://210.201.54.101:1935/live/fashion.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - catchply西片
+http://210.201.54.101:1935/live/CPWestern/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - catchply亞洲
+http://210.201.54.101:1935/live/CPAsian/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - LamigoTV棒球
+http://210.201.54.101:1935/live/lmgtv/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 發現動力
+http://210.201.54.100:1935/live/Dturbo_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 哈電影1台
+http://210.201.54.101:1935/live/hotmovie_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 哈電影2台
+http://210.201.54.101:1935/live/hotmoviehd/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 豬哥秀
+http://210.201.54.101:1935/live/pig_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - EVE
+http://210.201.54.101:1935/live/Dhome_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - CN卡通
+http://210.201.54.101:1935/live/cncartoon_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 愛放
+http://210.201.54.101:1935/live/ifunhd/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 愛放2
+http://210.201.54.101:1935/live/tcch03/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - MOMO親子
+http://210.201.54.101:1935/live/tcch04/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 靖天映畫
+http://210.201.54.101:1935/live/gd_image.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 靖天電影
+http://210.201.54.101:1935/live/gd_movie.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 靖天日本
+http://210.201.54.101:1935/live/tcch11/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 靖天卡通
+http://210.201.54.101:1935/live/tcch15/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 靖天國際
+http://210.201.54.101:1935/live/h_ent.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 亞洲旅遊
+http://210.201.54.100:1935/live/asiatravel/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 大愛
+http://210.201.54.101:1935/live/Di_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 大愛2
+http://210.201.54.101:1935/live/di_2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 人間衛視
+http://210.201.54.101:1935/live/live_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 公視戲劇
+http://210.201.54.101:1935/live/pts_drama.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 歷史頻道H
+http://210.201.54.101:1935/live/history.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 歷史頻道H2
+http://210.201.54.101:1935/live/h2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 影迷
+http://210.201.54.101:1935/live/encore.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 歐美電影
+http://210.201.54.101:1935/live/west/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 亞洲電影
+http://210.201.54.101:1935/live/asia/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中文電影
+http://210.201.54.101:1935/live/chinese/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - AMC電影院
+http://210.201.54.101:1935/live/amc.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 麥卡貝電視
+http://210.201.54.101:1935/live/camerabay/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - Z現場
+http://210.201.54.101:1935/live/zliving.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 采昌
+http://210.201.54.101:1935/live/c_movie.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - CNEX紀實
+http://210.201.54.101:1935/live/cnex.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 達文西科學
+http://210.201.54.101:1935/live/davinci.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - edge極限
+http://210.201.54.101:1935/live/edge.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 日舞電影
+http://210.201.54.101:1935/live/sundance.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 娃娃故事屋
+http://210.201.54.101:1935/live/wowostoryc/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 娃娃故事屋ABC
+http://210.201.54.101:1935/live/wowostorye/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - HIM華研音樂
+http://210.201.54.101:1935/live/himmusichd/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 音樂-1
+http://210.201.54.101:1935/live/tcch18/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 音樂-2
+http://210.201.54.101:1935/live/tcch19/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 音樂-3
+http://210.201.54.101:1935/live/tcch20/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 台視新聞
+http://210.201.54.101:1935/live/tcch07/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 台視財經
+http://210.201.54.101:1935/live/ttv_fin.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中視新聞
+http://210.201.54.101:1935/live/ctv_news.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 華視新聞
+http://210.201.54.101:1935/live/cts_news.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民視新聞
+http://210.201.54.101:1935/live/ftvn_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 三立新聞
+http://210.201.54.101:1935/live/setnews/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 壹電視新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 年代新聞
+http://video01-lax.streamup.com/app/mirror582sts-channel_aac/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 東森新聞
+http://210.201.54.101:1935/live/swente/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 東森亞洲新聞
+http://210.201.54.101:1935/live/acti_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 東森財經新聞
+http://210.201.54.101:1935/live/etfin/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - udn新聞
+http://210.201.54.101:1935/live/tcch06/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS新聞
+http://210.201.54.101:1935/live/tvbsnhd/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中天新聞
+http://210.201.54.101:1935/live/ctinews/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 非凡商業
+http://210.201.54.101:1935/live/ustvc_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 非凡新聞
+http://210.201.54.101:1935/live/ustvn_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 全球財經
+http://210.201.54.101:1935/live/tcch01/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中華財經
+http://210.201.54.101:1935/live/tcch02/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 空中英語
+http://210.201.54.101:1935/live/english_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - BBC
+http://210.201.54.101:1935/live/bbc_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 美國之音
+http://210.201.54.101:1935/live/voa_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - CNN新聞
+http://210.201.54.101:1935/live/cnnnews_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - CNN國際
+http://210.201.54.101:1935/live/cnnint_sp.sdp/playlist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 半島電視
+http://210.201.54.100:1935/live/AlJazeera/chunklist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 韩国娱乐
+http://210.201.54.101:1935/live/KMTV.sdp/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="天涂电影",天涂 - 动画片龙战
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016967&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
 #EXTINF:-1 group-title="天涂电影",天涂 - 电影2
@@ -13,79 +187,79 @@ http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016965&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
 #EXTINF:-1 group-title="天涂电影",天涂 - 鬼磨坊
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016964&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影7
+#EXTINF:-1 group-title="天涂电影",天涂 - 逐梦奇迹
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016962&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影8
+#EXTINF:-1 group-title="天涂电影",天涂 - 谜一样的双眼
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016961&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影9
+#EXTINF:-1 group-title="天涂电影",天涂 - 让爱飞起来
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016960&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影10
+#EXTINF:-1 group-title="天涂电影",天涂 - 血邻
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016959&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影11
+#EXTINF:-1 group-title="天涂电影",天涂 - 菀得
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016958&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影12
+#EXTINF:-1 group-title="天涂电影",天涂 - 芭芭拉
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016957&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
 #EXTINF:-1 group-title="天涂电影",天涂 - 电影13
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016956&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影14
+#EXTINF:-1 group-title="天涂电影",天涂 - 肥仔快跑
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016955&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影15
+#EXTINF:-1 group-title="天涂电影",天涂 - 终极面试
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016954&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影16
+#EXTINF:-1 group-title="天涂电影",天涂 - 纽约客的故事
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016953&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影17
+#EXTINF:-1 group-title="天涂电影",天涂 - 灵异孤儿院
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016950&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影18
+#EXTINF:-1 group-title="天涂电影",天涂 - 潘多拉之盒
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016949&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影19
+#EXTINF:-1 group-title="天涂电影",天涂 - 死亡录像2
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016948&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影20
+#EXTINF:-1 group-title="天涂电影",天涂 - 机器人原子战争
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016946&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影21
+#EXTINF:-1 group-title="天涂电影",天涂 - 最孤独的星球
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016945&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影22
+#EXTINF:-1 group-title="天涂电影",天涂 - 无人行走
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016943&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影23
+#EXTINF:-1 group-title="天涂电影",天涂 - 新乌龙女校2
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016942&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影24
+#EXTINF:-1 group-title="天涂电影",天涂 - 拳霸3
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016941&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影25
+#EXTINF:-1 group-title="天涂电影",天涂 - 所罗门凯恩
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016940&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影26
+#EXTINF:-1 group-title="天涂电影",天涂 - 恐怖游轮
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016939&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影27
+#EXTINF:-1 group-title="天涂电影",天涂 - 恐怖城堡的秘密
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016938&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影28
+#EXTINF:-1 group-title="天涂电影",天涂 - 布鲁斯的爱情
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016937&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影29
+#EXTINF:-1 group-title="天涂电影",天涂 - 德尔和麦因霍夫
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016936&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影30
+#EXTINF:-1 group-title="天涂电影",天涂 - 巫师镇
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016935&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影31
+#EXTINF:-1 group-title="天涂电影",天涂 - 少女杀手阿墨
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016934&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影32
+#EXTINF:-1 group-title="天涂电影",天涂 - 小鬼开球
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016933&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影33
+#EXTINF:-1 group-title="天涂电影",天涂 - 孤岛惊魂
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016932&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影34
+#EXTINF:-1 group-title="天涂电影",天涂 - 动画片
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016930&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影35
+#EXTINF:-1 group-title="天涂电影",天涂 - 人烟之岛（下）
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016929&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影36
+#EXTINF:-1 group-title="天涂电影",天涂 - 人烟之岛（上）
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016928&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
 #EXTINF:-1 group-title="天涂电影",天涂 - 电影37
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016926&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影38
+#EXTINF:-1 group-title="天涂电影",天涂 - MR37左轮手枪
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016924&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影39
+#EXTINF:-1 group-title="天涂电影",天涂 - 仙侠传
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016923&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影40
+#EXTINF:-1 group-title="天涂电影",天涂 - 仙侠传
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016922&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影41
+#EXTINF:-1 group-title="天涂电影",天涂 - 仙侠传
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016921&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影42
+#EXTINF:-1 group-title="天涂电影",天涂 - 仙侠传
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016920&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影43
+#EXTINF:-1 group-title="天涂电影",天涂 - 仙侠传
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016919&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
 #EXTINF:-1 group-title="天涂电影",天涂 - 电视剧2
 http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016878&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
@@ -419,12 +593,7 @@ http://www.anchoredinversion.com/tv/ds/twtv.php?id=cctv12
 http://www.anchoredinversion.com/tv/ds/twtv.php?id=cctv13
 
 
-#EXTINF:-1group-title="海外中文",港澳-翡翠J5
-http://58.218.152.98:7726/hls/feichui.m3u8
-#EXTINF:-1 group-title="海外中文",互动新闻台
-http://58.218.152.98:7726/hls/hudongxw.m3u8
-#EXTINF:-1 group-title="海外中文",J2
-http://58.218.152.98:7726/hls/j2.m3u8
+
 #EXTINF:-1group-title="海外中文",CNN
 rtmp://s02.ottclub.info:1935/live/c175.stream
 #EXTINF:-1group-title="海外中文",BBC
