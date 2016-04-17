@@ -1281,6 +1281,14 @@
 1280,TW,CNN國際,http://210.201.54.101:1935/live/cnnint_sp.sdp/playlist.m3u8
 1281,TW,半島電視,http://210.201.54.100:1935/live/AlJazeera/chunklist.m3u8
 1282,TW,韩国娱乐,http://210.201.54.101:1935/live/KMTV.sdp/chunklist.m3u8
+1282,TW,博斯魅力,http://live1.wowotv.tw/live2/b_charm/chunklist.m3u8
+1282,TW,博斯网球,http://live1.wowotv.tw/live2/b_tennis/chunklist.m3u8
+1282,TW,博斯高球,http://live1.wowotv.tw/live2/b_golf/chunklist.m3u8
+1282,TW,博斯无限,http://live1.wowotv.tw/live2/b_infinity/chunklist.m3u8
+1282,TW,博斯运动,http://live1.wowotv.tw/live2/b_sports/chunklist.m3u8
+1282,TW,博斯足球,http://live1.wowotv.tw/live2/b_football/chunklist.m3u8
+1282,TW,博斯高球2台,http://live1.wowotv.tw/live2/b_golf2/chunklist.m3u8
+1282,TW,FOX体育3台,http://220.130.149.128:19358/live/ch3-1/playlist.m3u8
 1283,TW,TVB-J5,http://stream.slave.homed.me:13164/playurl?playtype=live&accesstoken=0TOKEN50001002&username=test&programid=4200851395&playtoken=&verifycode=&auth=no#http://58.218.152.98:7725/hls/j5.m3u8
 1284,TW,TVB-J2,http://14.199.245.83:9981/stream/channelid/5?ticket=F0059C53696F2212AAE520A46F1D1A38DCA14B43
 1285,TW,翡翠台,http://14.199.245.83:9981/stream/channelid/3?ticket=F0059C53696F2212AAE520A46F1D1A38DCA14B43
@@ -2300,6 +2308,7 @@
 2299,9,上海新闻综合,http://hls.live.kksmg.com/live/smgnews/playlist.m3u8#http://hls.live.kksmg.com/live/smgnews/playlist.m3u8#letv2://ws_shxw_1300
 2300,9,上海五星体育,http://124.161.22.40:8080/live/program/live/ssty/700000/mnf.m3u8
 2301,9,上海外滩实况,rtmp://bililive.kksmg.com/hls/sdi10#http://bililive.kksmg.com/hls/sdi10/playlist.m3u8
+2301,9,ICS,http://lm.funshion.com:5050/livestream/9e4c1e3ed9774cef5cfc13af7f92ff445633434a.m3u8?codec=ts
 2302,9,奉贤电视台,http://livefengx.sobeycache.com/live/2ab798705c17464e8c50bb929e68a2d0.m3u8?fmt=h264_500k_ts&m3u8#http://livefengx.sobeycache.com/live/2ab798705c17464e8c50bb929e68a2d0?fmt=h264_800k_flv
 2303,9,奉贤信息频道,http://livefengx.sobeycache.com/live/77df84d6c893475788a469cb4f9a48a8.m3u8?fmt=h264_500k_ts&m3u8#http://livefengx.sobeycache.com/live/77df84d6c893475788a469cb4f9a48a8?fmt=h264_800k_flv
 2304,8,天津国际频道,http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8
