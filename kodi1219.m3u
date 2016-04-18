@@ -372,38 +372,6 @@ http://sohucao.duapp.com/proxy/ewwasu.php/ozzq.m3u8
 #EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - 茶频道
 http://sohucao.duapp.com/proxy/sohuwasu.php/cpd.m3u8
 
-#EXTINF:-1 group-title="VIP电影",山东 - 天天精选HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000203&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 高清影视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000138&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 好莱坞电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000204&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 院线电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000205&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 悬疑电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000206&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 经典电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000207&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 欧美电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000208&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 亚洲电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000209&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 热播美剧HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000210&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 影像英伦HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000211&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 韩流新映HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000212&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 宝岛宜家HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000213&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 同步剧场HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000214&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 紫荆剧场HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000215&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 沙发电影1HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000177&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="VIP电影",山东 - 沙发电影2HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000178&playtype=live&qamname=undefined&auth=no
 #EXTINF:-1group-title="VIP电影",潇湘电影
 http://113.247.251.13:5001/nn_live.ts?id=XXDY
 #EXTINF:-1group-title="VIP电影",爱尚-CHC高清电影
@@ -594,379 +562,292 @@ http://www.anchoredinversion.com/tv/ds/twtv.php?id=cctv13
 
 
 
-#EXTINF:-1group-title="海外中文",CNN
-rtmp://s02.ottclub.info:1935/live/c175.stream
-#EXTINF:-1group-title="海外中文",BBC
-rtmp://s02.ottclub.info:1935/live/c177.stream
-#EXTINF:-1group-title="海外中文",公視HD
-rtmp://s01.ottclub.info:1935/live/c229.stream
-#EXTINF:-1group-title="海外中文",公視
-rtmp://s01.ottclub.info:1935/live/c239.stream
-#EXTINF:-1group-title="海外中文",FSTVHD
-rtmp://s03.ottclub.info:1935/live/c193.stream
-#EXTINF:-1group-title="海外中文",民視HD
-rtmp://s03.ottclub.info:1935/live/c192.stream
-#EXTINF:-1group-title="海外中文",台視HD
-rtmp://s03.ottclub.info:1935/live/c240.stream
-#EXTINF:-1group-title="海外中文",台視綜合台
-rtmp://s03.ottclub.info:1935/live/c171.stream
-#EXTINF:-1group-title="海外中文",中視HD
-rtmp://s01.ottclub.info:1935/live/c174.stream
-#EXTINF:-1group-title="海外中文",BRAVO菁采台
-rtmp://s03.ottclub.info:1935/live/c201.stream
-#EXTINF:-1group-title="海外中文",大愛HD
-rtmp://s02.ottclub.info:1935/live/c059.stream
-#EXTINF:-1group-title="海外中文",探索科學台HD
-rtmp://s03.ottclub.info:1935/live/c247.stream
-#EXTINF:-1group-title="海外中文",DMAXHD
-rtmp://s01.ottclub.info:1935/live/c200.stream
-#EXTINF:-1group-title="海外中文",EVEHD
-rtmp://s03.ottclub.info:1935/live/c243.stream
-#EXTINF:-1group-title="海外中文",國家地理野生台HD
-rtmp://s03.ottclub.info:1935/live/c207.stream
-#EXTINF:-1group-title="海外中文",國家地理優人台HD
-rtmp://s03.ottclub.info:1935/live/c245.stream
-#EXTINF:-1group-title="海外中文",國家地理頻道台HD
-rtmp://s03.ottclub.info:1935/live/c206.stream
-#EXTINF:-1group-title="海外中文",DiscoveryHD
-rtmp://s03.ottclub.info:1935/live/c244.stream
-#EXTINF:-1group-title="海外中文",TLC
-rtmp://s02.ottclub.info:1935/live/c170.stream
-#EXTINF:-1group-title="海外中文",動物星球台
-rtmp://s02.ottclub.info:1935/live/c176.stream
-#EXTINF:-1group-title="海外中文",卡通頻道台
-rtmp://s02.ottclub.info:1935/live/c178.stream
-#EXTINF:-1group-title="海外中文",迪士尼頻道台
-rtmp://s02.ottclub.info:1935/live/c198.stream
-#EXTINF:-1group-title="海外中文",MOMO 親子台
-rtmp://s02.ottclub.info:1935/live/c168.stream
-#EXTINF:-1group-title="海外中文",東森幼幼台
-rtmp://s01.ottclub.info:1935/live/c227.stream
-#EXTINF:-1group-title="海外中文",緯來綜合台
-rtmp://s03.ottclub.info:1935/live/c235.stream
-#EXTINF:-1group-title="海外中文",八大第一台HD
-rtmp://s01.ottclub.info:1935/live/c157.stream
-#EXTINF:-1group-title="海外中文",八大綜合台HD
-rtmp://s01.ottclub.info:1935/live/c197.stream
-#EXTINF:-1group-title="海外中文",三立台灣台HD
-rtmp://s03.ottclub.info:1935/live/c196.stream
-#EXTINF:-1group-title="海外中文",衛視中文台HD
-rtmp://s01.ottclub.info:1935/live/c158.stream
-#EXTINF:-1group-title="海外中文",美亞電影台HD
-rtmp://s01.ottclub.info:1935/live/c204.stream
-#EXTINF:-1group-title="海外中文",星衛電影台HD
-rtmp://s01.ottclub.info:1935/live/c205.stream
-#EXTINF:-1group-title="海外中文",東森綜合台
-rtmp://s03.ottclub.info:1935/live/c237.stream
-#EXTINF:-1group-title="海外中文",東森超視台
-rtmp://s01.ottclub.info:1935/live/c195.stream
-#EXTINF:-1group-title="海外中文",Channal MHD
-rtmp://s03.ottclub.info:1935/live/c219.stream
-#EXTINF:-1group-title="海外中文",KMTVHD
-rtmp://s03.ottclub.info:1935/live/c218.stream
-#EXTINF:-1group-title="海外中文",中天綜合台HD
-rtmp://s03.ottclub.info:1935/live/c220.stream
-#EXTINF:-1group-title="海外中文",東風衛視台
-rtmp://s02.ottclub.info:1935/live/c214.stream
-#EXTINF:-1group-title="海外中文",MUCH台
-rtmp://s01.ottclub.info:1935/live/c226.stream
-#EXTINF:-1group-title="海外中文",中天娛樂台
-rtmp://s01.ottclub.info:1935/live/c228.stream
-#EXTINF:-1group-title="海外中文",東森戲劇台
-rtmp://s02.ottclub.info:1935/live/c169.stream
-#EXTINF:-1group-title="海外中文",八大戲劇台
-rtmp://s02.ottclub.info:1935/live/c215.stream
-#EXTINF:-1group-title="海外中文",TVBS歡樂台HD
-rtmp://s03.ottclub.info:1935/live/c160.stream
-#EXTINF:-1group-title="海外中文",緯來戲劇台
-rtmp://s02.ottclub.info:1935/live/c210.stream
-#EXTINF:-1group-title="海外中文",星衛娛樂台HD
-rtmp://s03.ottclub.info:1935/live/c242.stream
-#EXTINF:-1group-title="海外中文",衛視合家歡台
-rtmp://s02.ottclub.info:1935/live/c211.stream
-#EXTINF:-1group-title="海外中文",JET綜合台
-rtmp://s01.ottclub.info:1935/live/c225.stream
-#EXTINF:-1group-title="海外中文",DIVAHD
-rtmp://s01.ottclub.info:1935/live/c156.stream
-#EXTINF:-1group-title="海外中文",SYFYHD
-rtmp://s03.ottclub.info:1935/live/c216.stream
-#EXTINF:-1group-title="海外中文",壹電視新聞台HD
-rtmp://s01.ottclub.info:1935/live/c232.stream
-#EXTINF:-1group-title="海外中文",年代新聞台HD
-rtmp://s03.ottclub.info:1935/live/c236.stream
-#EXTINF:-1group-title="海外中文",東森新聞台HD
-rtmp://s01.ottclub.info:1935/live/c191.stream
-#EXTINF:-1group-title="海外中文",中天新聞台HD
-rtmp://s01.ottclub.info:1935/live/c188.stream
-#EXTINF:-1group-title="海外中文",民視新聞台HD
-rtmp://s01.ottclub.info:1935/live/c187.stream
-#EXTINF:-1group-title="海外中文",三立新聞台HD
-rtmp://s03.ottclub.info:1935/live/c161.stream
-#EXTINF:-1group-title="海外中文",TVBS新聞台HD
-rtmp://s03.ottclub.info:1935/live/c162.stream
-#EXTINF:-1group-title="海外中文",TVBS台HD
-rtmp://s01.ottclub.info:1935/live/c189.stream
-#EXTINF:-1group-title="海外中文",東森財經新聞台
-rtmp://s02.ottclub.info:1935/live/c233.stream
-#EXTINF:-1group-title="海外中文",非凡新聞台
-rtmp://s02.ottclub.info:1935/live/c212.stream
-#EXTINF:-1group-title="海外中文",FOX CRIMEHD
-rtmp://s01.ottclub.info:1935/live/c155.stream
-#EXTINF:-1group-title="海外中文",FXHD
-rtmp://s03.ottclub.info:1935/live/c238.stream
-#EXTINF:-1group-title="海外中文",衛視電影台
-rtmp://s02.ottclub.info:1935/live/c167.stream
-#EXTINF:-1group-title="海外中文",東森電影台
-rtmp://s02.ottclub.info:1935/live/c234.stream
-#EXTINF:-1group-title="海外中文",HBOHD
-rtmp://s01.ottclub.info:1935/live/c185.stream
-#EXTINF:-1group-title="海外中文",東森洋片台
-rtmp://s02.ottclub.info:1935/live/c194.stream
-#EXTINF:-1group-title="海外中文",UniversalHD
-rtmp://s01.ottclub.info:1935/live/c203.stream
-#EXTINF:-1group-title="海外中文",Star MoviesHD
-rtmp://s03.ottclub.info:1935/live/c246.stream
-#EXTINF:-1group-title="海外中文",CINEMAX
-rtmp://s01.ottclub.info:1935/live/c199.stream
-#EXTINF:-1group-title="海外中文",緯來育樂台
-rtmp://s02.ottclub.info:1935/live/c166.stream
-#EXTINF:-1group-title="海外中文",緯來體育台HD
-rtmp://s03.ottclub.info:1935/live/c163.stream
-#EXTINF:-1group-title="海外中文",FOX3HD
-rtmp://s03.ottclub.info:1935/live/c230.stream
-#EXTINF:-1group-title="海外中文",衛視體育台HD
-rtmp://s02.ottclub.info:1935/live/c165.stream
-#EXTINF:-1group-title="海外中文",緯來日本台
-rtmp://s02.ottclub.info:1935/live/c164.stream
-#EXTINF:-1group-title="海外中文",愛爾達體育台HD
-rtmp://s03.ottclub.info:1935/live/c217.stream
-#EXTINF:-1group-title="海外中文",國興衛視台
-rtmp://s02.ottclub.info:1935/live/c213.stream
-#EXTINF:-1group-title="海外中文",FOXHD
-rtmp://s01.ottclub.info:1935/live/c231.stream
-#EXTINF:-1group-title="海外中文",HBO原創HD
-rtmp://s01.ottclub.info:1935/live/c190.stream
-#EXTINF:-1group-title="海外中文",HBO強檔HD
-rtmp://s01.ottclub.info:1935/live/c184.stream
-#EXTINF:-1group-title="海外中文",HBO溫馨HD
-rtmp://s01.ottclub.info:1935/live/c186.stream
-#EXTINF:-1group-title="海外中文",博斯高球II台HD
-rtmp://s03.ottclub.info:1935/live/c209.stream
-#EXTINF:-1group-title="海外中文",博斯運動台HD
-rtmp://s03.ottclub.info:1935/live/c208.stream
-#EXTINF:-1group-title="海外中文",GOLF CHANNALHD
-rtmp://s01.ottclub.info:1935/live/c222.stream
-#EXTINF:-1group-title="海外中文",ASN全美運動台HD
-rtmp://s01.ottclub.info:1935/live/c221.stream
-#EXTINF:-1group-title="海外中文",BabyTVHD
-rtmp://s01.ottclub.info:1935/live/c224.stream
-#EXTINF:-1group-title="海外中文",Disney Junior
-rtmp://s01.ottclub.info:1935/live/c223.stream
-#EXTINF:-1group-title="海外中文",MTVHD
-rtmp://s03.ottclub.info:1935/live/c241.stream
-#EXTINF:-1group-title="海外中文",霹靂台灣台
-rtmp://s02.ottclub.info:1935/live/c173.stream
-#EXTINF:-1group-title="海外中文",罪案偵緝頻道HD
-rtmp://s02.ottclub.info:1935/live/c058.stream
-#EXTINF:-1group-title="海外中文",本港台
-rtmp://s02.ottclub.info:1935/live/c057.stream
-#EXTINF:-1group-title="海外中文",NHK
-rtmp://s02.ottclub.info:1935/live/c060.stream
-#EXTINF:-1group-title="海外中文",測試-電影
-rtmp://s02.ottclub.info:1935/live/c987.stream
-#EXTINF:-1group-title="海外中文",測試-冰與火之歌第一季
-rtmp://s02.ottclub.info:1935/live/c981.stream
-#EXTINF:-1group-title="海外中文",測試-嘻哈帝國第一季
-rtmp://s02.ottclub.info:1935/live/c982.stream
-#EXTINF:-1group-title="海外中文",測試-海賊王
-rtmp://s01.ottclub.info:1935/live/c307.stream
-#EXTINF:-1group-title="海外中文",CNN
-rtmp://s02.ottclub.info:1935/live/c675.stream
-#EXTINF:-1group-title="海外中文",BBC
-rtmp://s02.ottclub.info:1935/live/c677.stream
-#EXTINF:-1group-title="海外中文",公視HD
-rtmp://s01.ottclub.info:1935/live/c729.stream
-#EXTINF:-1group-title="海外中文",公視
-rtmp://s01.ottclub.info:1935/live/c739.stream
-#EXTINF:-1group-title="海外中文",FSTVHD
-rtmp://s03.ottclub.info:1935/live/c693.stream
-#EXTINF:-1group-title="海外中文",民視HD
-rtmp://s03.ottclub.info:1935/live/c692.stream
-#EXTINF:-1group-title="海外中文",台視HD
-rtmp://s03.ottclub.info:1935/live/c740.stream
-#EXTINF:-1group-title="海外中文",台視綜合台
-rtmp://s03.ottclub.info:1935/live/c671.stream
-#EXTINF:-1group-title="海外中文",中視HD
-rtmp://s01.ottclub.info:1935/live/c674.stream
-#EXTINF:-1group-title="海外中文",BRAVO菁采台
-rtmp://s03.ottclub.info:1935/live/c701.stream
-#EXTINF:-1group-title="海外中文",大愛HD
-rtmp://s02.ottclub.info:1935/live/c559.stream
-#EXTINF:-1group-title="海外中文",探索科學台HD
-rtmp://s03.ottclub.info:1935/live/c747.stream
-#EXTINF:-1group-title="海外中文",DMAXHD
-rtmp://s01.ottclub.info:1935/live/c700.stream
-#EXTINF:-1group-title="海外中文",EVEHD
-rtmp://s03.ottclub.info:1935/live/c743.stream
-#EXTINF:-1group-title="海外中文",國家地理野生台HD
-rtmp://s03.ottclub.info:1935/live/c707.stream
-#EXTINF:-1group-title="海外中文",國家地理優人台HD
-rtmp://s03.ottclub.info:1935/live/c745.stream
-#EXTINF:-1group-title="海外中文",國家地理頻道台HD
-rtmp://s03.ottclub.info:1935/live/c706.stream
-#EXTINF:-1group-title="海外中文",DiscoveryHD
-rtmp://s03.ottclub.info:1935/live/c744.stream
-#EXTINF:-1group-title="海外中文",TLC
-rtmp://s02.ottclub.info:1935/live/c670.stream
-#EXTINF:-1group-title="海外中文",動物星球台
-rtmp://s02.ottclub.info:1935/live/c676.stream
-#EXTINF:-1group-title="海外中文",卡通頻道台
-rtmp://s02.ottclub.info:1935/live/c678.stream
-#EXTINF:-1group-title="海外中文",迪士尼頻道台
-rtmp://s02.ottclub.info:1935/live/c698.stream
-#EXTINF:-1group-title="海外中文",MOMO 親子台
-rtmp://s02.ottclub.info:1935/live/c668.stream
-#EXTINF:-1group-title="海外中文",東森幼幼台
-rtmp://s01.ottclub.info:1935/live/c727.stream
-#EXTINF:-1group-title="海外中文",緯來綜合台
-rtmp://s03.ottclub.info:1935/live/c735.stream
-#EXTINF:-1group-title="海外中文",八大第一台HD
-rtmp://s01.ottclub.info:1935/live/c657.stream
-#EXTINF:-1group-title="海外中文",八大綜合台HD
-rtmp://s01.ottclub.info:1935/live/c697.stream
-#EXTINF:-1group-title="海外中文",三立台灣台HD
-rtmp://s03.ottclub.info:1935/live/c696.stream
-#EXTINF:-1group-title="海外中文",衛視中文台HD
-rtmp://s01.ottclub.info:1935/live/c658.stream
-#EXTINF:-1group-title="海外中文",美亞電影台HD
-rtmp://s01.ottclub.info:1935/live/c704.stream
-#EXTINF:-1group-title="海外中文",星衛電影台HD
-rtmp://s01.ottclub.info:1935/live/c705.stream
-#EXTINF:-1group-title="海外中文",東森綜合台
-rtmp://s03.ottclub.info:1935/live/c737.stream
-#EXTINF:-1group-title="海外中文",東森超視台
-rtmp://s01.ottclub.info:1935/live/c695.stream
-#EXTINF:-1group-title="海外中文",Channal MHD
-rtmp://s03.ottclub.info:1935/live/c719.stream
-#EXTINF:-1group-title="海外中文",KMTVHD
-rtmp://s03.ottclub.info:1935/live/c718.stream
-#EXTINF:-1group-title="海外中文",中天綜合台HD
-rtmp://s03.ottclub.info:1935/live/c720.stream
-#EXTINF:-1group-title="海外中文",東風衛視台
-rtmp://s02.ottclub.info:1935/live/c714.stream
-#EXTINF:-1group-title="海外中文",MUCH台
-rtmp://s01.ottclub.info:1935/live/c726.stream
-#EXTINF:-1group-title="海外中文",中天娛樂台
-rtmp://s01.ottclub.info:1935/live/c728.stream
-#EXTINF:-1group-title="海外中文",東森戲劇台
-rtmp://s02.ottclub.info:1935/live/c669.stream
-#EXTINF:-1group-title="海外中文",八大戲劇台
-rtmp://s02.ottclub.info:1935/live/c715.stream
-#EXTINF:-1group-title="海外中文",TVBS歡樂台HD
-rtmp://s03.ottclub.info:1935/live/c660.stream
-#EXTINF:-1group-title="海外中文",緯來戲劇台
-rtmp://s02.ottclub.info:1935/live/c710.stream
-#EXTINF:-1group-title="海外中文",星衛娛樂台HD
-rtmp://s03.ottclub.info:1935/live/c742.stream
-#EXTINF:-1group-title="海外中文",衛視合家歡台
-rtmp://s02.ottclub.info:1935/live/c711.stream
-#EXTINF:-1group-title="海外中文",JET綜合台
-rtmp://s01.ottclub.info:1935/live/c725.stream
-#EXTINF:-1group-title="海外中文",DIVAHD
-rtmp://s01.ottclub.info:1935/live/c656.stream
-#EXTINF:-1group-title="海外中文",SYFYHD
-rtmp://s03.ottclub.info:1935/live/c716.stream
-#EXTINF:-1group-title="海外中文",壹電視新聞台HD
-rtmp://s01.ottclub.info:1935/live/c732.stream
-#EXTINF:-1group-title="海外中文",年代新聞台HD
-rtmp://s03.ottclub.info:1935/live/c736.stream
-#EXTINF:-1group-title="海外中文",東森新聞台HD
-rtmp://s01.ottclub.info:1935/live/c691.stream
-#EXTINF:-1group-title="海外中文",中天新聞台HD
-rtmp://s01.ottclub.info:1935/live/c688.stream
-#EXTINF:-1group-title="海外中文",民視新聞台HD
-rtmp://s01.ottclub.info:1935/live/c687.stream
-#EXTINF:-1group-title="海外中文",三立新聞台HD
-rtmp://s03.ottclub.info:1935/live/c661.stream
-#EXTINF:-1group-title="海外中文",TVBS新聞台HD
-rtmp://s03.ottclub.info:1935/live/c662.stream
-#EXTINF:-1group-title="海外中文",TVBS台HD
-rtmp://s01.ottclub.info:1935/live/c689.stream
-#EXTINF:-1group-title="海外中文",東森財經新聞台
-rtmp://s02.ottclub.info:1935/live/c733.stream
-#EXTINF:-1group-title="海外中文",非凡新聞台
-rtmp://s02.ottclub.info:1935/live/c712.stream
-#EXTINF:-1group-title="海外中文",FOX CRIMEHD
-rtmp://s01.ottclub.info:1935/live/c655.stream
-#EXTINF:-1group-title="海外中文",FXHD
-rtmp://s03.ottclub.info:1935/live/c738.stream
-#EXTINF:-1group-title="海外中文",衛視電影台
-rtmp://s02.ottclub.info:1935/live/c667.stream
-#EXTINF:-1group-title="海外中文",東森電影台
-rtmp://s02.ottclub.info:1935/live/c734.stream
-#EXTINF:-1group-title="海外中文",HBOHD
-rtmp://s01.ottclub.info:1935/live/c685.stream
-#EXTINF:-1group-title="海外中文",東森洋片台
-rtmp://s02.ottclub.info:1935/live/c694.stream
-#EXTINF:-1group-title="海外中文",UniversalHD
-rtmp://s01.ottclub.info:1935/live/c703.stream
-#EXTINF:-1group-title="海外中文",Star MoviesHD
-rtmp://s03.ottclub.info:1935/live/c746.stream
-#EXTINF:-1group-title="海外中文",CINEMAX
-rtmp://s01.ottclub.info:1935/live/c699.stream
-#EXTINF:-1group-title="海外中文",緯來育樂台
-rtmp://s02.ottclub.info:1935/live/c666.stream
-#EXTINF:-1group-title="海外中文",緯來體育台HD
-rtmp://s03.ottclub.info:1935/live/c663.stream
-#EXTINF:-1group-title="海外中文",FOX3HD
-rtmp://s03.ottclub.info:1935/live/c730.stream
-#EXTINF:-1group-title="海外中文",衛視體育台HD
-rtmp://s02.ottclub.info:1935/live/c665.stream
-#EXTINF:-1group-title="海外中文",緯來日本台
-rtmp://s02.ottclub.info:1935/live/c664.stream
-#EXTINF:-1group-title="海外中文",愛爾達體育台HD
-rtmp://s03.ottclub.info:1935/live/c717.stream
-#EXTINF:-1group-title="海外中文",國興衛視台
-rtmp://s02.ottclub.info:1935/live/c713.stream
-#EXTINF:-1group-title="海外中文",FOXHD
-rtmp://s01.ottclub.info:1935/live/c731.stream
-#EXTINF:-1group-title="海外中文",HBO原創HD
-rtmp://s01.ottclub.info:1935/live/c690.stream
-#EXTINF:-1group-title="海外中文",HBO強檔HD
-rtmp://s01.ottclub.info:1935/live/c684.stream
-#EXTINF:-1group-title="海外中文",HBO溫馨HD
-rtmp://s01.ottclub.info:1935/live/c686.stream
-#EXTINF:-1group-title="海外中文",博斯高球II台HD
-rtmp://s03.ottclub.info:1935/live/c709.stream
-#EXTINF:-1group-title="海外中文",博斯運動台HD
-rtmp://s03.ottclub.info:1935/live/c708.stream
-#EXTINF:-1group-title="海外中文",GOLF CHANNALHD
-rtmp://s01.ottclub.info:1935/live/c722.stream
-#EXTINF:-1group-title="海外中文",ASN全美運動台HD
-rtmp://s01.ottclub.info:1935/live/c721.stream
-#EXTINF:-1group-title="海外中文",BabyTVHD
-rtmp://s01.ottclub.info:1935/live/c724.stream
-#EXTINF:-1group-title="海外中文",Disney Junior
-rtmp://s01.ottclub.info:1935/live/c723.stream
-#EXTINF:-1group-title="海外中文",MTVHD
-rtmp://s03.ottclub.info:1935/live/c741.stream
-#EXTINF:-1group-title="海外中文",霹靂台灣台
-rtmp://s02.ottclub.info:1935/live/c673.stream
-#EXTINF:-1group-title="海外中文",罪案偵緝頻道HD
-rtmp://s02.ottclub.info:1935/live/c558.stream
-#EXTINF:-1group-title="海外中文",本港台
-rtmp://s02.ottclub.info:1935/live/c557.stream
-#EXTINF:-1group-title="海外中文",NHK
-rtmp://s02.ottclub.info:1935/live/c560.stream
-#EXTINF:-1group-title="海外中文",測試-電影
-rtmp://s02.ottclub.info:1935/live/c987.stream
-#EXTINF:-1group-title="海外中文",測試-冰與火之歌第一季
-rtmp://s02.ottclub.info:1935/live/c981.stream
-#EXTINF:-1group-title="海外中文",測試-嘻哈帝國第一季
-rtmp://s02.ottclub.info:1935/live/c982.stream
-#EXTINF:-1group-title="海外中文",測試-海賊王
-rtmp://s01.ottclub.info:1935/live/c307.stream
-
+#EXTINF:-1group-title="海外中文",中天综合 HD
+http://192.240.106.178:7002/14
+#EXTINF:-1group-title="海外中文",中天娱乐
+http://192.240.106.42:7022/6
+#EXTINF:-1group-title="海外中文",中天亚洲台
+http://50.7.78.218:7012/7
+#EXTINF:-1group-title="海外中文",中天新闻HD
+http://192.240.106.178:7002/12
+#EXTINF:-1group-title="海外中文",中视 HD
+http://192.240.106.178:7022/53
+#EXTINF:-1group-title="海外中文",中视
+http://192.240.106.178:7002/8
+#EXTINF:-1group-title="海外中文",浙江卫视 HD
+http://192.240.106.42:7012/118
+#EXTINF:-1group-title="海外中文",一电视综合 HD
+http://50.7.77.130:50142/50
+#EXTINF:-1group-title="海外中文",一电视新闻 HD
+http://50.7.77.130:50142/48
+#EXTINF:-1group-title="海外中文",亚洲旅游台 HD
+http://50.7.78.218:50141/70
+#EXTINF:-1group-title="海外中文",亚洲美食 HD
+http://192.240.106.42:7012/105
+#EXTINF:-1group-title="海外中文",星卫电影台 HD
+http://50.7.77.130:50142/49
+#EXTINF:-1group-title="海外中文",星卫娱乐台
+http://192.240.106.178:7012/26
+#EXTINF:-1group-title="海外中文",星空卫视
+http://192.240.106.42:7032/15
+#EXTINF:-1group-title="海外中文",新视觉 HD
+http://50.7.78.218:7012/11
+#EXTINF:-1group-title="海外中文",卫视中文台
+http://192.240.106.178:7002/9
+#EXTINF:-1group-title="海外中文",卫视西片 HD
+http://192.240.106.42:7002/35
+#EXTINF:-1group-title="海外中文",卫视合家欢
+http://192.240.106.178:7002/10
+#EXTINF:-1group-title="海外中文",卫视电影台
+http://192.240.106.178:7022/41
+#EXTINF:-1group-title="海外中文",纬来综合
+http://50.7.78.218:7012/4
+#EXTINF:-1group-title="海外中文",纬来育乐
+http://50.7.78.218:7022/8
+#EXTINF:-1group-title="海外中文",纬来戏剧
+http://192.240.106.42:7022/9
+#EXTINF:-1group-title="海外中文",纬来体育
+http://50.7.78.218:7012/3
+#EXTINF:-1group-title="海外中文",纬来日本
+http://50.7.78.218:7022/7
+#EXTINF:-1group-title="海外中文",纬来电影
+http://50.7.78.218:7012/2
+#EXTINF:-1group-title="海外中文",天映频道
+http://50.7.78.218:7012/14
+#EXTINF:-1group-title="海外中文",探索台湾
+http://192.240.106.178:7022/47
+#EXTINF:-1group-title="海外中文",台湾霹雳台
+http://192.240.106.178:7002/11
+#EXTINF:-1group-title="海外中文",台视新闻台
+http://50.7.77.138:7022/2
+#EXTINF:-1group-title="海外中文",台视 HD
+http://192.240.106.178:7022/52
+#EXTINF:-1group-title="海外中文",三立综合台 HD
+http://50.7.78.218:50141/63
+#EXTINF:-1group-title="海外中文",三立新闻
+http://50.7.77.138:7022/1
+#EXTINF:-1group-title="海外中文",三立戏剧台 HD
+http://50.7.78.218:50141/67
+#EXTINF:-1group-title="海外中文",三立台湾台
+http://192.240.106.42:7022/7
+#EXTINF:-1group-title="海外中文",三立都会台 HD
+http://192.240.106.42:7002/64
+#EXTINF:-1group-title="海外中文",欧洲足球
+http://192.240.106.42:7022/18
+#EXTINF:-1group-title="海外中文",年代新闻
+http://192.240.106.42:7032/8
+#EXTINF:-1group-title="海外中文",民视新闻台
+http://192.240.106.178:7002/6
+#EXTINF:-1group-title="海外中文",民视四季台
+http://192.240.106.178:7022/54
+#EXTINF:-1group-title="海外中文",民视
+http://192.240.106.178:7002/7
+#EXTINF:-1group-title="海外中文",美亚电影台 HD
+http://192.240.106.42:7002/65
+#EXTINF:-1group-title="海外中文",美食星球 HD
+http://50.7.78.218:50141/72
+#EXTINF:-1group-title="海外中文",曼迪日本台
+http://192.240.106.178:7012/24
+#EXTINF:-1group-title="海外中文",龙祥时代
+http://50.7.78.218:7012/9
+#EXTINF:-1group-title="海外中文",龙华洋片
+http://50.7.78.218:50141/71
+#EXTINF:-1group-title="海外中文",龙华动画 HD
+http://50.7.78.218:50141/68
+#EXTINF:-1group-title="海外中文",龙华影剧
+http://192.240.106.178:7012/31
+#EXTINF:-1group-title="海外中文",龙华戏剧
+http://50.7.78.218:50141/74
+#EXTINF:-1group-title="海外中文",龙华偶像
+http://50.7.78.218:50141/73
+#EXTINF:-1group-title="海外中文",靖洋戏剧台 HD
+http://50.7.78.218:50141/75
+#EXTINF:-1group-title="海外中文",靖天育乐台
+http://192.240.106.178:7012/33
+#EXTINF:-1group-title="海外中文",靖天映画 HD
+http://50.7.77.130:50142/61
+#EXTINF:-1group-title="海外中文",靖天戏剧台 HD
+http://50.7.77.130:50142/58
+#EXTINF:-1group-title="海外中文",靖天日本 HD
+http://50.7.78.218:50141/69
+#EXTINF:-1group-title="海外中文",靖天卡通台
+http://50.7.77.130:50142/56
+#EXTINF:-1group-title="海外中文",靖天电影台 HD
+http://50.7.77.130:50142/60
+#EXTINF:-1group-title="海外中文",今日俄罗斯
+http://192.240.106.42:7032/11
+#EXTINF:-1group-title="海外中文",江苏卫视 HD
+http://192.240.106.42:7012/119
+#EXTINF:-1group-title="海外中文",家娱国际台
+http://192.240.106.178:7012/27
+#EXTINF:-1group-title="海外中文",环宇综合 HD
+http://192.240.106.42:7002/34
+#EXTINF:-1group-title="海外中文",环宇新闻频道
+http://192.240.106.178:7012/37
+#EXTINF:-1group-title="海外中文",环宇财经
+http://192.240.106.178:7012/35
+#EXTINF:-1group-title="海外中文",华娱卫视
+http://192.240.106.42:7032/13
+#EXTINF:-1group-title="海外中文",华视 HD
+http://192.240.106.178:7022/51
+#EXTINF:-1group-title="海外中文",华视
+http://192.240.106.178:7002/5
+#EXTINF:-1group-title="海外中文",湖南卫视 HD
+http://192.240.106.42:7022/14
+#EXTINF:-1group-title="海外中文",鸿基影剧台
+http://192.240.106.178:7022/58
+#EXTINF:-1group-title="海外中文",好莱坞电影台
+http://192.240.106.42:7022/3
+#EXTINF:-1group-title="海外中文",韩国娱乐台 HD
+http://50.7.78.218:50141/78
+#EXTINF:-1group-title="海外中文",国兴卫视
+http://192.240.106.42:7022/2
+#EXTINF:-1group-title="海外中文",国家地理野生频道 HD
+http://50.7.78.218:50141/66
+#EXTINF:-1group-title="海外中文",国家地理People HD
+http://50.7.77.130:50142/55
+#EXTINF:-1group-title="海外中文",国家地理 HD
+http://192.240.106.42:7002/43
+#EXTINF:-1group-title="海外中文",公视 HD
+http://192.240.106.178:7022/55
+#EXTINF:-1group-title="海外中文",高清影视频道 HD
+http://50.7.78.218:7012/13
+#EXTINF:-1group-title="海外中文",高清探索频道 HD
+http://192.240.106.42:7032/5
+#EXTINF:-1group-title="海外中文",凤凰资讯台 HD
+http://50.7.78.218:7022/2
+#EXTINF:-1group-title="海外中文",凤凰中文台 HD
+http://50.7.78.218:7022/1
+#EXTINF:-1group-title="海外中文",凤凰香港台 HD
+http://50.7.78.218:7022/3
+#EXTINF:-1group-title="海外中文",非凡新闻
+http://50.7.78.218:7022/6
+#EXTINF:-1group-title="海外中文",民视-HD
+http://58.99.33.2:1935/liveedge/live_5_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",台视-HD
+http://58.99.33.2:1935/liveedge/live_7_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",中视
+http://58.99.33.2:1935/liveedge/live_9_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",大爱-HD
+http://58.99.33.2:1935/liveedge/live_10_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",华视-HD
+http://58.99.33.2:1935/liveedge/live_11_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",ANIMAL PLANET (动物星球)
+http://58.99.33.2:1935/liveedge/live_12_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",TBS 资讯
+http://58.99.33.2:1935/liveedge/live_13_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",原视
+http://58.99.33.2:1935/liveedge/live_16_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",NATIONAL GEOGRAPHIC CHANNEL
+http://58.99.33.2:1935/liveedge/live_18_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",DISCOVERY CHANNEL
+http://58.99.33.2:1935/liveedge/live_19_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",CTN NEWS
+http://58.99.33.2:1935/liveedge/live_20_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",MOMO 亲子天
+http://58.99.33.2:1935/liveedge/live_24_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",东森幼幼台
+http://58.99.33.2:1935/liveedge/live_25_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",纬来综合台-26
+http://58.99.33.2:1935/liveedge/live_26_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",八大第一台
+http://58.99.33.2:1935/liveedge/live_27_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",八大综合台
+http://58.99.33.2:1935/liveedge/live_28_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",三立台湾台
+http://58.99.33.2:1935/liveedge/live_29_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",三立都会台
+http://58.99.33.2:1935/liveedge/live_30_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",卫视中文台-HD
+http://58.99.33.2:1935/liveedge/live_31_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",东森综合台
+http://58.99.33.2:1935/liveedge/live_32_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",中天娱乐台
+http://58.99.33.2:1935/liveedge/live_34_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",东风37台
+http://58.99.33.2:1935/liveedge/live_37_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",年代MUCH-HD
+http://58.99.33.2:1935/liveedge/live_38_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",东森戏剧台
+http://58.99.33.2:1935/liveedge/live_40_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",八大戏剧台
+http://58.99.33.2:1935/liveedge/live_41_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",纬来戏剧台
+http://58.99.33.2:1935/liveedge/live_43_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",高点综合台
+http://58.99.33.2:1935/liveedge/live_44_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",JET 综合台
+http://58.99.33.2:1935/liveedge/live_45_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",壹新闻-HD
+http://58.99.33.2:1935/liveedge/live_49_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",年代新新闻-HD
+http://58.99.33.2:1935/liveedge/live_50_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",东森新闻台
+http://58.99.33.2:1935/liveedge/live_51_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",中天新闻台-HD（标）
+http://58.99.33.2:1935/liveedge/live_52_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",民视新闻台
+http://58.99.33.2:1935/liveedge/live_53_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",三立新闻台
+http://58.99.33.2:1935/liveedge/live_54_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",TVBS
+http://58.99.33.2:1935/liveedge/live_56_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",东森财经新闻台
+http://58.99.33.2:1935/liveedge/live_57_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",非凡新闻-HD
+http://58.99.33.2:1935/liveedge/live_58_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",卫视电影台-61
+http://58.99.33.2:1935/liveedge/live_61_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",东森电影台
+http://58.99.33.2:1935/liveedge/live_62_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",冠军台
+http://58.99.33.2:1935/liveedge/live_64_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",HBO
+http://58.99.33.2:1935/liveedge/live_65_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",东森洋片台
+http://58.99.33.2:1935/liveedge/live_66_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",中天综合台
+http://58.99.33.2:1935/liveedge/live_67_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",好莱坞电影-台湾
+http://58.99.33.2:1935/liveedge/live_68_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",STAR MOVIES-69
+http://58.99.33.2:1935/liveedge/live_69_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",CINEMAX DISASTER L.A
+http://58.99.33.2:1935/liveedge/live_71_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",纬来体育台
+http://58.99.33.2:1935/liveedge/live_72_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",FOX SPORTS
+http://58.99.33.2:1935/liveedge/live_73_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",纬来日本台
+http://58.99.33.2:1935/liveedge/live_75_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",AXN
+http://58.99.33.2:1935/liveedge/live_84_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",纬来育乐台
+http://58.99.33.2:1935/liveedge/live_87_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",三立财经台
+http://58.99.33.2:1935/liveedge/live_88_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",华视新闻资讯
+http://58.99.33.2:1935/liveedge/live_97_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",EP 运通
+http://58.99.33.2:1935/liveedge/live_97_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",大爱2 HD(标)
+http://58.99.33.1:1935/liveedge4/live_201_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",STAR WORLD(标)
+http://58.99.33.1:1935/liveedge4/live_202_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",Channel News Asia(标)
+http://58.99.33.1:1935/liveedge4/live_205_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",BBC WORLD NEWS(标)
+http://58.99.33.1:1935/liveedge4/live_207_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",博斯高球
+http://58.99.33.1:1935/liveedge2/live_601_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",博斯网球
+http://58.99.33.1:1935/liveedge2/live_602_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",博斯足球
+http://58.99.33.1:1935/liveedge2/live_603_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",博斯魅力
+http://58.99.33.1:1935/liveedge2/live_604_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+#EXTINF:-1group-title="海外中文",博斯高球 2
+http://58.99.33.1:1935/liveedge2/live_605_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 
 
 
@@ -1601,315 +1482,6 @@ http://icntv.xyz/letv/lb_dzdy_720p.m3u8
 http://icntv.xyz/letv/lb_zpw_720p.m3u8
 #EXTINF:-1group-title="乐视套餐",乐视-国际时装周
 http://icntv.xyz/letv/lb_shizhuang_720p.m3u8
-
-
-
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-1HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000064&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-3HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000065&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-5HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000066&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-5+HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000067&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-6HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000068&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-8HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000069&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CHC家庭影院
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000116&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CHC动作电影
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000117&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 尚.TVHD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000222&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 幸福彩HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000220&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 新视觉HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000217&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 劲爆体育HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000216&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 动漫视界HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000228&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 动漫秀场HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000229&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 北京纪实HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000231&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 上海纪实HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000232&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 山东卫视HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000070&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 北京卫视HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000071&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 湖南卫视HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000072&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 浙江卫视HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000073&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 江苏卫视HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000074&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 东方卫视HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000075&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 黑龙江卫视HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000077&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 深圳卫视HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000078&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 广东卫视HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000079&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 动画高清
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000139&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 旅游频道HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000140&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 探索频道HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000141&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 探索发现HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000218&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 自然传奇HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000219&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 生活时尚HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000221&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 美食之旅HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000223&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 环球新艺HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000224&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 演唱会HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000225&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 音乐会HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000226&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 音乐电视HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000227&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 天天精选HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000203&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 高清影视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000138&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 好莱坞电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000204&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 院线电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000205&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 悬疑电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000206&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 经典电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000207&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 欧美电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000208&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 亚洲电影HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000209&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 热播美剧HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000210&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 影像英伦HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000211&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 韩流新映HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000212&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 宝岛宜家HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000213&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 同步剧场HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000214&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 紫荆剧场HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000215&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 沙发电影1HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000177&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 沙发电影2HD
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000178&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 垫片1
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000179&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 垫片2
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000180&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 垫片3
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000181&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - ChannelV
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000191&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 星空卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000192&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 凤凰中文
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000193&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 凤凰资讯
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000194&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 澳亚卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000197&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-2
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000017&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-4
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000019&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-7
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000083&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-9
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000023&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-10
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000024&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-11
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000086&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-12
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000084&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-13
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000016&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-14
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000158&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-14
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000082&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-15
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000085&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTNEWS
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000087&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-老故事
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000142&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-国防军事
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000114&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-第一剧场
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000145&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-风云剧场
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000150&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-怀旧剧场
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000151&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-风云足球
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000153&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-发现之旅
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000164&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-电视指南
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000093&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-世界地理
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000163&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-新科动漫
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000160&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - CCTV-英语辅导
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000155&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 中国教育1
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000091&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 中国教育2
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000092&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 中国教育4
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000111&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 先锋羽乒
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000118&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 收藏天下
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000124&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 中华美食
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000119&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 早期教育
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000159&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 优优宝贝
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000122&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 时代风尚
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000125&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 环球奇观
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000162&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 车迷频道
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000126&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 时代美食
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000127&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 时代出行
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000133&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 环球旅游
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000128&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 电子体育
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000112&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 考试在线
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000123&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 时代家居
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000131&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 四海钓鱼
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000132&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 留学世界
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000156&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 快乐宠物
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000136&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 茶频道
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000152&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 小学一年级
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000184&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 小学二年级
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000185&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 小学三年级
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000186&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 小学四年级
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000187&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 小学五年级
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000188&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 小学六年级
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000189&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 宝贝家
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000157&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 早幼教
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000183&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 金鹰卡通
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000080&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 卡酷少儿
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000081&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 炫动卡通
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000143&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 山东齐鲁
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000007&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 山东影视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000008&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 山东体育
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000009&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 山东生活
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000010&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 山东综艺
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000011&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 山东少儿
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000012&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 山东公共
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000013&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 山东农科
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000014&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 山东教育
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000015&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 德州新闻
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000003&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 德州生活
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000004&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 德州娱乐
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000005&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 德州时尚
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000190&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 吉林篮球
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000154&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 东方购物
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000054&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 天津卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000031&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 重庆卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000033&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 云南卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000034&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 江西卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000035&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 广西卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000038&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 辽宁卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000041&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 安徽卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000043&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 河南卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000044&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 河北卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000045&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 贵州卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000046&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 湖北卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000048&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 吉林卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000049&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 陕西卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000050&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 四川卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000051&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 山西卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000052&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 内蒙古卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000053&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 青海卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000055&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 东南卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000056&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 旅游卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000144&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 新疆卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000058&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 西藏卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000059&playtype=live&qamname=undefined&auth=no
-#EXTINF:-1 group-title="山东有线",山东 - 新疆兵团卫视
-http://slave.dzcatv.com:13160/playurl.m3u8?programid=4200000060&playtype=live&qamname=undefined&auth=no
-
-
 
 
 
