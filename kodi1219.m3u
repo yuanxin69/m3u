@@ -1,6 +1,378 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="云南电信",CCTV-1HD
+http://182.245.29.5:91/193/193.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-2HD
+http://182.245.29.5:91/243/243.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-4HD
+http://182.245.29.5:91/278/278.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-5+HD
+http://182.245.29.5:91/128/128.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-7HD
+http://182.245.29.5:91/244/244.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-9HD
+http://182.245.29.5:91/245/245.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-10HD
+http://182.245.29.5:91/246/246.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-12HD
+http://182.245.29.5:91/247/247.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-14HD
+http://182.245.29.5:91/248/248.m3u8
+#EXTINF:-1 group-title="云南电信",凤凰卫视HD
+http://182.245.29.5:91/289/289.m3u8
+#EXTINF:-1 group-title="云南电信",凤凰资讯HD
+http://182.245.29.5:91/290/290.m3u8
+#EXTINF:-1 group-title="云南电信",北京纪实HD
+http://182.245.29.5:091/312/312.m3u8
+#EXTINF:-1 group-title="云南电信",湖南经视HD
+http://182.245.29.5:91/327/327.m3u8
+#EXTINF:-1 group-title="云南电信",湖南卫视HD
+http://182.245.29.5:91/125/125.m3u8
+#EXTINF:-1 group-title="云南电信",浙江卫视HD
+http://182.245.29.5:091/304/304.m3u8
+#EXTINF:-1 group-title="云南电信",安徽卫视HD
+http://182.245.29.5:91/279/279.m3u8
+#EXTINF:-1 group-title="云南电信",安徽卫视HD
+http://182.245.29.5:91/282/282.m3u8
+#EXTINF:-1 group-title="云南电信",北京卫视HD
+http://182.245.29.5:91/124/124.m3u8
+#EXTINF:-1 group-title="云南电信",江苏卫视HD
+http://182.245.29.5:91/126/126.m3u8
+#EXTINF:-1 group-title="云南电信",东方卫视HD
+http://182.245.29.5:91/127/127.m3u8
+#EXTINF:-1 group-title="云南电信",深圳卫视HD
+http://182.245.29.5:91/190/190.m3u8
+#EXTINF:-1 group-title="云南电信",湖北卫视HD
+http://182.245.29.5:91/191/191.m3u8
+#EXTINF:-1 group-title="云南电信",天津卫视HD
+http://182.245.29.5:91/192/192.m3u8
+#EXTINF:-1 group-title="云南电信",黑龙江卫视HD
+http://182.245.29.5:91/189/189.m3u8
+#EXTINF:-1 group-title="云南电信",V
+http://182.245.29.5:91/295/295.m3u8
+#EXTINF:-1 group-title="云南电信",TVB8
+http://182.245.29.5:91/294/294.m3u8
+#EXTINF:-1 group-title="云南电信",星空卫视
+http://182.245.29.5:91/291/291.m3u8
+#EXTINF:-1 group-title="云南电信",华娱卫视
+http://182.245.29.5:91/293/293.m3u8
+#EXTINF:-1 group-title="云南电信",云南IPTV经典
+http://182.245.29.5:91/154/154.m3u8
+#EXTINF:-1 group-title="云南电信",云南IPTV记录
+http://182.245.29.5:91/155/155.m3u8
+#EXTINF:-1 group-title="云南电信",云南IPTV旅游
+http://182.245.29.5:91/276/276.m3u8
+#EXTINF:-1 group-title="云南电信",云南IPTV收藏
+http://182.245.29.5:91/277/277.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV3+
+http://182.245.29.5:91/199/199.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV5+
+http://182.245.29.5:91/129/129.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV6+
+http://182.245.29.5:91/200/200.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV8+
+http://182.245.29.5:91/130/13.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV野外
+http://182.245.29.5:91/204/204.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV法治
+http://182.245.29.5:91/205/205.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV春晚频道
+http://182.245.29.5:91/199/199.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV相声小品
+http://182.245.29.5:91/202/202.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV少儿动画
+http://182.245.29.5:91/198/198.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV经典电影
+http://182.245.29.5:91/196/196.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV谍战剧场
+http://182.245.29.5:91/201/201.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV魅力时尚
+http://182.245.29.5:91/197/197.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV收视指南
+http://182.245.29.5:91/194/194.m3u8
+#EXTINF:-1 group-title="云南电信",IPTV游戏竞技
+http://182.245.29.5:91/303/303.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-1
+http://182.245.29.5:91/119/119.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-2
+http://182.245.29.5:91/120/120.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-3
+http://182.245.29.5:91/138/138.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-4
+http://182.245.29.5:91/139/139.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-5
+http://182.245.29.5:91/140/140.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-6
+http://182.245.29.5:91/141/141.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-7
+http://182.245.29.5:91/142/142.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-8
+http://182.245.29.5:91/143/143.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-9
+http://182.245.29.5:91/144/144.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-10
+http://182.245.29.5:91/145/145.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-11
+http://182.245.29.5:91/146/146.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-12
+http://182.245.29.5:91/147/147.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-13
+http://182.245.29.5:91/122/122.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-14
+http://182.245.29.5:91/148/148.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-15
+http://182.245.29.5:91/149/149.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-NEWS
+http://182.245.29.5:91/150/150.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-中国微电影
+http://182.245.29.5:91/249/249.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-老故事
+http://182.245.29.5:91/221/221.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-女性时尚
+http://182.245.29.5:91/229/229.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-文化精品
+http://182.245.29.5:91/230/230.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-卫生健康
+http://182.245.29.5:91/231/231.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-新科动漫
+http://182.245.29.5:91/232/232.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-电视指南
+http://182.245.29.5:91/205/205.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-电视指南
+http://182.245.29.5:91/208/208.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-第一剧场
+http://182.245.29.5:91/209/209.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-风云剧场
+http://182.245.29.5:91/211/211.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-怀旧剧场
+http://182.245.29.5:91/212/212.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-风云音乐
+http://182.245.29.5:91/214/214.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-国防军事
+http://182.245.29.5:91/219/219.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-发现之旅
+http://182.245.29.5:91/220/220.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-高尔夫.网球
+http://182.245.29.5:91/217/217.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-世界地理
+http://182.245.29.5:91/296/296.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-怀旧剧场
+http://182.245.29.5:91/297/297.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-风云音乐
+http://182.245.29.5:91/298/298.m3u8
+#EXTINF:-1 group-title="云南电信",CCTV-风云足球
+http://182.245.29.5:91/216/216.m3u8
+#EXTINF:-1 group-title="云南电信",财富天下
+http://182.245.29.5:91/213/213.m3u8
+#EXTINF:-1 group-title="云南电信",彩民在线
+http://182.245.29.5:91/215/215.m3u8
+#EXTINF:-1 group-title="云南电信",高尔夫.网球
+http://182.245.29.5:91/217/217.m3u8
+#EXTINF:-1 group-title="云南电信",武术世界
+http://182.245.29.5:91/218/218.m3u8
+#EXTINF:-1 group-title="云南电信",环球奇观
+http://182.245.29.5:91/222/222.m3u8
+#EXTINF:-1 group-title="云南电信",靓装
+http://182.245.29.5:91/223/223.m3u8
+#EXTINF:-1 group-title="云南电信",文物宝库
+http://182.245.29.5:91/224/224.m3u8
+#EXTINF:-1 group-title="云南电信",国学频道
+http://182.245.29.5:91/225/225.m3u8
+#EXTINF:-1 group-title="云南电信",现代女性
+http://182.245.29.5:91/226/226.m3u8
+#EXTINF:-1 group-title="云南电信",茶频道
+http://182.245.29.5:91/227/227.m3u8
+#EXTINF:-1 group-title="云南电信",DV生活
+http://182.245.29.5:91/228/228.m3u8
+#EXTINF:-1 group-title="云南电信",女性时尚
+http://182.245.29.5:91/229/229.m3u8
+#EXTINF:-1 group-title="云南电信",文化精品
+http://182.245.29.5:91/230/230.m3u8
+#EXTINF:-1 group-title="云南电信",卫生健康
+http://182.245.29.5:91/231/231.m3u8
+#EXTINF:-1 group-title="云南电信",新科动漫
+http://182.245.29.5:91/232/232.m3u8
+#EXTINF:-1 group-title="云南电信",优彼宝贝
+http://182.245.29.5:91/233/233.m3u8
+#EXTINF:-1 group-title="云南电信",梨园频道
+http://182.245.29.5:91/234/234.m3u8
+#EXTINF:-1 group-title="云南电信",早期教育
+http://182.245.29.5:91/235/235.m3u8
+#EXTINF:-1 group-title="云南电信",摄影频道
+http://182.245.29.5:91/236/236.m3u8
+#EXTINF:-1 group-title="云南电信",快乐垂钓
+http://182.245.29.5:91/237/237.m3u8
+#EXTINF:-1 group-title="云南电信",书法频道
+http://182.245.29.5:91/238/238.m3u8
+#EXTINF:-1 group-title="云南电信",英语频道
+http://182.245.29.5:91/239/239.m3u8
+#EXTINF:-1 group-title="云南电信",留学频道
+http://182.245.29.5:91/240/240.m3u8
+#EXTINF:-1 group-title="云南电信",云南卫视
+http://182.245.29.5:91/123/123.m3u8
+#EXTINF:-1 group-title="云南电信",云南都市
+http://182.245.29.5:91/131/131.m3u8
+#EXTINF:-1 group-title="云南电信",云南娱乐
+http://182.245.29.5:91/132/132.m3u8
+#EXTINF:-1 group-title="云南电信",云南生活
+http://182.245.29.5:91/133/133.m3u8
+#EXTINF:-1 group-title="云南电信",云南影视
+http://182.245.29.5:91/135/135.m3u8
+#EXTINF:-1 group-title="云南电信",云南公共
+http://182.245.29.5:91/151/151.m3u8
+#EXTINF:-1 group-title="云南电信",云南少儿
+http://182.245.29.5:91/152/152.m3u8
+#EXTINF:-1 group-title="云南电信",云视精品
+http://182.245.29.5:91/153/153.m3u8
+#EXTINF:-1 group-title="云南电信",云南旅游
+http://182.245.29.5:91/276/276.m3u8
+#EXTINF:-1 group-title="云南电信",云南收藏
+http://182.245.29.5:91/277/277.m3u8
+#EXTINF:-1 group-title="云南电信",云南国际
+http://182.245.29.5:91/156/156.m3u8
+#EXTINF:-1 group-title="云南电信",昆明1套
+http://182.245.29.5:91/136/136.m3u8
+#EXTINF:-1 group-title="云南电信",昆明2套
+http://182.245.29.5:91/137/137.m3u8
+#EXTINF:-1 group-title="云南电信",昆明3套
+http://182.245.29.5:91/255/255.m3u8
+#EXTINF:-1 group-title="云南电信",昆明4套
+http://182.245.29.5:91/256/256.m3u8
+#EXTINF:-1 group-title="云南电信",昆明5套
+http://182.245.29.5:91/257/257.m3u8
+#EXTINF:-1 group-title="云南电信",昆明6套
+http://182.245.29.5:91/258/258.m3u8
+#EXTINF:-1 group-title="云南电信",LCTV-1
+http://182.245.29.5:091/301/301.m3u8
+#EXTINF:-1 group-title="云南电信",LCTV-2
+http://182.245.29.5:091/302/302.m3u8
+#EXTINF:-1 group-title="云南电信",迪庆藏语
+http://182.245.29.5:091/313/313.m3u8
+#EXTINF:-1 group-title="云南电信",楚雄新闻
+http://182.245.29.5:91/259/259.m3u8
+#EXTINF:-1 group-title="云南电信",楚雄公共
+http://182.245.29.5:91/260/260.m3u8
+#EXTINF:-1 group-title="云南电信",迪庆新闻
+http://182.245.29.5:91/261/261.m3u8
+#EXTINF:-1 group-title="云南电信",丽江公共
+http://182.245.29.5:91/262/262.m3u8
+#EXTINF:-1 group-title="云南电信",保山1台
+http://182.245.29.5:91/264/264.m3u8
+#EXTINF:-1 group-title="云南电信",保山2台
+http://182.245.29.5:91/263/263.m3u8
+#EXTINF:-1 group-title="云南电信",德宏新闻综合
+http://182.245.29.5:91/265/265.m3u8
+#EXTINF:-1 group-title="云南电信",德宏公共
+http://182.245.29.5:91/266/266.m3u8
+#EXTINF:-1 group-title="云南电信",德宏民语
+http://182.245.29.5:91/267/267.m3u8
+#EXTINF:-1 group-title="云南电信",文山新闻综合
+http://182.245.29.5:91/268/268.m3u8
+#EXTINF:-1 group-title="云南电信",文山公共
+http://182.245.29.5:91/269/269.m3u8
+#EXTINF:-1 group-title="云南电信",普洱新闻
+http://182.245.29.5:91/270/270.m3u8
+#EXTINF:-1 group-title="云南电信",临沧新闻
+http://182.245.29.5:91/301/301.m3u8
+#EXTINF:-1 group-title="云南电信",新闻频道
+http://182.245.29.5:91/259/259.m3u8
+#EXTINF:-1 group-title="云南电信",公共频道
+http://182.245.29.5:91/260/260.m3u8
+#EXTINF:-1 group-title="云南电信",新闻频道
+http://182.245.29.5:91/261/261.m3u8
+#EXTINF:-1 group-title="云南电信",丽江公共
+http://182.245.29.5:91/262/262.m3u8
+#EXTINF:-1 group-title="云南电信",普洱1套
+http://182.245.29.5:91/300/300.m3u8
+#EXTINF:-1 group-title="云南电信",德宏公共
+http://182.245.29.5:91/266/266.m3u8
+#EXTINF:-1 group-title="云南电信",德宏民族
+http://182.245.29.5:91/267/267.m3u8
+#EXTINF:-1 group-title="云南电信",湖南卫视
+http://182.245.29.5:91/157/157.m3u8
+#EXTINF:-1 group-title="云南电信",浙江卫视
+http://182.245.29.5:91/158/158.m3u8
+#EXTINF:-1 group-title="云南电信",江苏卫视
+http://182.245.29.5:91/159/159.m3u8
+#EXTINF:-1 group-title="云南电信",安徽卫视
+http://182.245.29.5:91/160/160.m3u8
+#EXTINF:-1 group-title="云南电信",北京卫视
+http://182.245.29.5:91/161/161.m3u8
+#EXTINF:-1 group-title="云南电信",天津卫视
+http://182.245.29.5:91/162/162.m3u8
+#EXTINF:-1 group-title="云南电信",山东卫视
+http://182.245.29.5:91/163/163.m3u8
+#EXTINF:-1 group-title="云南电信",河南卫视
+http://182.245.29.5:91/164/164.m3u8
+#EXTINF:-1 group-title="云南电信",黑龙江卫视
+http://182.245.29.5:91/165/165.m3u8
+#EXTINF:-1 group-title="云南电信",四川卫视
+http://182.245.29.5:91/166/166.m3u8
+#EXTINF:-1 group-title="云南电信",江西卫视
+http://182.245.29.5:91/167/167.m3u8
+#EXTINF:-1 group-title="云南电信",贵州卫视
+http://182.245.29.5:91/168/168.m3u8
+#EXTINF:-1 group-title="云南电信",深圳卫视
+http://182.245.29.5:91/169/169.m3u8
+#EXTINF:-1 group-title="云南电信",湖北卫视
+http://182.245.29.5:91/170/170.m3u8
+#EXTINF:-1 group-title="云南电信",东方卫视
+http://182.245.29.5:91/171/171.m3u8
+#EXTINF:-1 group-title="云南电信",重庆卫视
+http://182.245.29.5:91/172/172.m3u8
+#EXTINF:-1 group-title="云南电信",东南卫视
+http://182.245.29.5:91/173/173.m3u8
+#EXTINF:-1 group-title="云南电信",河北卫视
+http://182.245.29.5:91/174/174.m3u8
+#EXTINF:-1 group-title="云南电信",辽宁卫视
+http://182.245.29.5:91/121/121.m3u8
+#EXTINF:-1 group-title="云南电信",广东卫视
+http://182.245.29.5:91/175/175.m3u8
+#EXTINF:-1 group-title="云南电信",广西卫视
+http://182.245.29.5:91/176/176.m3u8
+#EXTINF:-1 group-title="云南电信",吉林卫视
+http://182.245.29.5:91/177/177.m3u8
+#EXTINF:-1 group-title="云南电信",陕西卫视
+http://182.245.29.5:91/178/178.m3u8
+#EXTINF:-1 group-title="云南电信",山西卫视
+http://182.245.29.5:91/179/179.m3u8
+#EXTINF:-1 group-title="云南电信",内蒙古卫视
+http://182.245.29.5:91/180/180.m3u8
+#EXTINF:-1 group-title="云南电信",青海卫视
+http://182.245.29.5:91/181/181.m3u8
+#EXTINF:-1 group-title="云南电信",旅游卫视
+http://182.245.29.5:91/182/182.m3u8
+#EXTINF:-1 group-title="云南电信",宁夏卫视
+http://182.245.29.5:91/183/183.m3u8
+#EXTINF:-1 group-title="云南电信",西藏卫视
+http://182.245.29.5:91/184/184.m3u8
+#EXTINF:-1 group-title="云南电信",新疆卫视
+http://182.245.29.5:91/185/185.m3u8
+#EXTINF:-1 group-title="云南电信",甘肃卫视
+http://182.245.29.5:91/186/186.m3u8
+#EXTINF:-1 group-title="云南电信",卡酷少儿
+http://182.245.29.5:91/187/187.m3u8
+#EXTINF:-1 group-title="云南电信",金鹰卡通
+http://182.245.29.5:91/188/188.m3u8
+#EXTINF:-1 group-title="云南电信",电视指南
+http://182.245.29.5:91/205/205.m3u8
+#EXTINF:-1 group-title="云南电信",健康卫视
+http://182.245.29.5:91/210/210.m3u8
+#EXTINF:-1 group-title="云南电信",英语辅导
+http://182.245.29.5:91/299/299.m3u8
+#EXTINF:-1 group-title="云南电信",测试信号1
+http://182.245.29.5:91/241/241.m3u8
+#EXTINF:-1 group-title="云南电信",测试信号2
+http://182.245.29.5:91/242/242.m3u8
+#EXTINF:-1 group-title="云南电信",U-baby-TV
+http://182.245.29.5:91/233/233.m3u8
+#EXTINF:-1 group-title="云南电信",Channel-V
+http://182.245.29.5:91/295/295.m3u8
+#EXTINF:-1 group-title="云南电信",芒果TV
+http://182.245.29.5:91/309/309.m3u8
+
+
 #EXTINF:-1 group-title="台湾套餐",台湾 - 台視
 http://210.201.54.101:1935/live/ttv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="台湾套餐",台湾 - 台視綜合
@@ -174,103 +546,6 @@ http://210.201.54.100:1935/live/AlJazeera/chunklist.m3u8
 #EXTINF:-1 group-title="台湾套餐",台湾 - 韩国娱乐
 http://210.201.54.101:1935/live/KMTV.sdp/chunklist.m3u8
 
-
-#EXTINF:-1 group-title="天涂电影",天涂 - 动画片龙战
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016967&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影2
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016968&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影3
-http://slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016969&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 黑暗侵袭2
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016966&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 黄沙武士
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016965&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 鬼磨坊
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016964&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 逐梦奇迹
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016962&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 谜一样的双眼
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016961&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 让爱飞起来
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016960&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 血邻
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016959&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 菀得
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016958&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 芭芭拉
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016957&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影13
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016956&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 肥仔快跑
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016955&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 终极面试
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016954&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 纽约客的故事
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016953&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 灵异孤儿院
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016950&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 潘多拉之盒
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016949&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 死亡录像2
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016948&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 机器人原子战争
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016946&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 最孤独的星球
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016945&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 无人行走
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016943&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 新乌龙女校2
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016942&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 拳霸3
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016941&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 所罗门凯恩
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016940&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 恐怖游轮
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016939&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 恐怖城堡的秘密
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016938&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 布鲁斯的爱情
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016937&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 德尔和麦因霍夫
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016936&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 巫师镇
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016935&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 少女杀手阿墨
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016934&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 小鬼开球
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016933&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 孤岛惊魂
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016932&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 动画片
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016930&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 人烟之岛（下）
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016929&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 人烟之岛（上）
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016928&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电影37
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016926&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - MR37左轮手枪
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016924&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 仙侠传
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016923&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 仙侠传
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016922&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 仙侠传
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016921&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 仙侠传
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016920&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 仙侠传
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016919&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电视剧2
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016878&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电视剧3
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016828&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电视剧4
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016788&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电视剧5
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016768&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
-#EXTINF:-1 group-title="天涂电影",天涂 - 电视剧6
-http://httpdvb.slave.ttcatv.tv:13160/playurl?accesstoken=TOKEN&verifycode=214620&playtoken=31609ZAZAMZEJAA1&programid=100016748&playtype=demand&protocol=http&qamname=&rate=raw&auth=no
 
 
 #EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-1
