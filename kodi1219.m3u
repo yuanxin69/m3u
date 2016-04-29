@@ -548,6 +548,207 @@ http://210.201.54.101:1935/live/KMTV.sdp/chunklist.m3u8
 
 
 
+
+#EXTINF:-1 group-title="搜狐华数",华数A-CCTV-1
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_cctv1/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-CCTV-5
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_cctv5/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-江苏卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_jsws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-安徽卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_ahws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-湖南卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_hnws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-浙江卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_zjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-天津卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_tjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-东方卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_dfws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-山东卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_sdws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-广东卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_gdws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-黑龙江卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_hljws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-湖北卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_hbws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-深圳卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_szws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-北京卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_bjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-求索记录
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-求索生活
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-求索动物
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-求索科学
+http://112.253.38.62:80/padlive1-cnc.wasu.cn/hd_qspd/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-上海纪实
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/shjs/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数A-北京纪实
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/bjjs/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-CCTV-1
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_cctv1/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-CCTV-5
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_cctv5/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-江苏卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_jsws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-安徽卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_ahws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-湖南卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_hnws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-浙江卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_zjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-天津卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_tjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-东方卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_dfws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-山东卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_sdws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-广东卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_gdws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-黑龙江卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_hljws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-湖北卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_hbws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-深圳卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_szws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-北京卫视
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_bjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-求索记录
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-求索生活
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-求索动物
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-求索科学
+http://122.227.101.159:80/padlive1-cnc.wasu.cn/hd_qspd/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-上海纪实
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/shjs/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数C-北京纪实
+http://122.227.101.159:80/livehls1-cnc.wasu.cn/bjjs/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--CCTV-1
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_cctv1/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--CCTV-5
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_cctv5/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--江苏卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_jsws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--安徽卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_ahws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--湖南卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_hnws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--浙江卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_zjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--天津卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_tjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--东方卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_dfws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--山东卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_sdws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--广东卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_gdws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--黑龙江卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_hljws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--湖北卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_hbws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--深圳卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_szws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--北京卫视
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_bjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--求索记录
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--求索生活
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--求索动物
+http://220.194.207.26/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--求索科学
+http://220.194.207.26/padlive1-cnc.wasu.cn/hd_qspd/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--上海纪实
+http://220.194.207.26/livehls1-cnc.wasu.cn/shjs/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数B--北京纪实
+http://220.194.207.26/livehls1-cnc.wasu.cn/bjjs/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-CCTV-1
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_cctv1/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-CCTV-5
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_cctv5/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-江苏卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_jsws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-安徽卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_ahws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-湖南卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_hnws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-浙江卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_zjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-天津卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_tjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-东方卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_dfws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-山东卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_sdws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-广东卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_gdws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-黑龙江卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_hljws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-湖北卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_hbws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-深圳卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_szws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-北京卫视
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_bjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-求索记录
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-求索生活
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-求索动物
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-求索科学
+http://112.253.38.62:80/padlive1-cnc.wasu.cn/hd_qspd/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-上海纪实
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/shjs/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",华数D-北京纪实
+http://112.253.38.62:80/livehls1-cnc.wasu.cn/bjjs/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",CCTV1
+http://220.194.207.40/livehls1-cnc.wasu.cn/cctv1/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",CCTV2
+http://220.194.207.40/livehls1-cnc.wasu.cn/cctv2/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",CCTV3
+http://220.194.207.40/livehls1-cnc.wasu.cn/cctv3/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",CCTV5
+ http://220.194.207.40/livehls1-cnc.wasu.cn/cctv5/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",CCTV8
+http://220.194.207.40/livehls1-cnc.wasu.cn/cctv8/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",CCTV13
+http://220.194.207.40/livehls1-cnc.wasu.cn/cctv13/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",北京卫视
+ http://220.194.207.40/livehls1-cnc.wasu.cn/bjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",黑龙江卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/hljws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",深圳卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/szws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",天津卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/tjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",浙江卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/zjws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",湖南卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/hnws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",湖北卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/hbws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",江苏卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/jsws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",山东卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/sdws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",东方卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/dfws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",广东卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/gdws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",安徽卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/ahws/z.m3u8
+#EXTINF:-1 group-title="搜狐华数",辽宁卫视
+http://220.194.207.40/livehls1-cnc.wasu.cn/lnws/z.m3u8
+
+
 #EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-1
 http://sohucao.duapp.com/proxy/ewwasu.php/cctv1.m3u8
 #EXTINF:-1 group-title="搜狐华数-铁通专用",搜狐华数 - CCTV-1HD
@@ -697,32 +898,6 @@ http://183.207.249.6/PLTV/3/224/3221225547/index.m3u8
 http://183.207.249.6/PLTV/3/224/3221225529/index.m3u8
 #EXTINF:-1group-title="VIP电影",南京移动IPTV-爱情喜剧
 http://183.207.249.6/PLTV/3/224/3221225525/index.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-家庭影院1
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000093.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-家庭影院2
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000097.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-家庭影院3
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000099.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-家庭影院4
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000118.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-老电影
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000102.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-家庭剧场1
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000103.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-家庭剧场2
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000114.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-家庭剧场3
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000117.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-大众影视
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000138.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-刑侦剧场
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000121.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-海外剧场
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000124.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-卡通剧场
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000126.m3u8
-#EXTINF:-1group-title="VIP电影",莲花-纪录片
-http://liveapi.bobuc.net/lntvch/01000000000000000000000000000129.m3u8
 
 #EXTINF:-1 group-title="台湾专用",台湾 - HBO
 http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhbo
@@ -837,128 +1012,6 @@ http://www.anchoredinversion.com/tv/ds/twtv.php?id=cctv13
 
 
 
-#EXTINF:-1group-title="海外中文",台视HD
-http://v3l.cn/bqb5E6H
-#EXTINF:-1group-title="海外中文",民视HD
-http://v3l.cn/AtdOyJl
-#EXTINF:-1group-title="海外中文",民视HD
-http://v3l.cn/kipWqUR
-#EXTINF:-1group-title="海外中文",民视四季HD
-http://v3l.cn/RpIkjaN
-#EXTINF:-1group-title="海外中文",民视四季HD
-http://v3l.cn/Hgjcb39
-#EXTINF:-1group-title="海外中文",三立台湾HD
-http://v3l.cn/uzgTc6N
-#EXTINF:-1group-title="海外中文",BRAVO菁采
-http://v3l.cn/3ESLrqG
-#EXTINF:-1group-title="海外中文",BRAVO菁采
-http://v3l.cn/yvqHMmS
-#EXTINF:-1group-title="海外中文",中天综合HD
-http://v3l.cn/vM53FRS
-#EXTINF:-1group-title="海外中文",国家地理HD
-http://v3l.cn/YL5UDgB
-#EXTINF:-1group-title="海外中文",东森洋片
-http://v3l.cn/MLLpJxi
-#EXTINF:-1group-title="海外中文",纬来综合
-http://v3l.cn/AIadLKQ
-#EXTINF:-1group-title="海外中文",年代新闻HD
-http://v3l.cn/pbf1jc8
-#EXTINF:-1group-title="海外中文",东森综合
-http://v3l.cn/P4QTihI
-#EXTINF:-1group-title="海外中文",FXHD
-http://v3l.cn/nj8mwgh
-#EXTINF:-1group-title="海外中文",韩国M娱乐
-http://v3l.cn/Ga2KpZu
-#EXTINF:-1group-title="海外中文",MTVHD
-http://v3l.cn/Vrp99cO
-#EXTINF:-1group-title="海外中文",星卫娱乐
-http://v3l.cn/Yd3xByZ
-#EXTINF:-1group-title="海外中文",星卫娱乐
-http://v3l.cn/etDfHcA
-#EXTINF:-1group-title="海外中文",EVE生活
-http://v3l.cn/etDfHcA
-#EXTINF:-1group-title="海外中文",探索世界HD
-http://v3l.cn/KKsz6Y7
-#EXTINF:-1group-title="海外中文",国家人文
-http://v3l.cn/bBMW8sN
-#EXTINF:-1group-title="海外中文",卫视西片
-http://v3l.cn/fhY9pxx
-#EXTINF:-1group-title="海外中文",探索科学
-http://v3l.cn/tUscigg
-#EXTINF:-1group-title="海外中文",纬来体育HD
-http://v3l.cn/1udl5qy
-#EXTINF:-1group-title="海外中文",纬来日本
-http://v3l.cn/siasiLR
-#EXTINF:-1group-title="海外中文",FOXHD
-http://v3l.cn/e4BdCbL
-#EXTINF:-1group-title="海外中文",FOX体育2
-http://v3l.cn/g5eRDJR
-#EXTINF:-1group-title="海外中文",FOX体育3HD
-http://v3l.cn/QwuAanx
-#EXTINF:-1group-title="海外中文",FOX体育3HD
-http://v3l.cn/D3sPSx2
-#EXTINF:-1group-title="海外中文",三立台湾HD
-http://v3l.cn/aJpDDyR
-#EXTINF:-1group-title="海外中文",三立新闻HD
-http://v3l.cn/kRI2KXL
-#EXTINF:-1group-title="海外中文",环球影视
-http://v3l.cn/VKOZE1S
-#EXTINF:-1group-title="海外中文",美亚电影HD
-http://v3l.cn/twCOsMs
-#EXTINF:-1group-title="海外中文",星卫HD电影
-http://v3l.cn/mwnEopx
-#EXTINF:-1group-title="海外中文",国家地理HD
-http://v3l.cn/3TTtVV7
-#EXTINF:-1group-title="海外中文",博斯运动
-http://v3l.cn/6eScxaI
-#EXTINF:-1group-title="海外中文",博斯高球II
-http://v3l.cn/Wl5HmbM
-#EXTINF:-1group-title="海外中文",纬来戏剧
-http://v3l.cn/WmzdjgU
-#EXTINF:-1group-title="海外中文",国兴卫视
-http://v3l.cn/65TBLYc
-#EXTINF:-1group-title="海外中文",东风37
-http://v3l.cn/eanojyX
-#EXTINF:-1group-title="海外中文",八大戏剧
-http://v3l.cn/57z2Xgb
-#EXTINF:-1group-title="海外中文",syfy惊悚恐怖
-http://v3l.cn/y5faMyK
-#EXTINF:-1group-title="海外中文",韩国娱乐
-http://v3l.cn/iQDELKg
-#EXTINF:-1group-title="海外中文",韩国M娱乐
-http://v3l.cn/TJc47Sb
-#EXTINF:-1group-title="海外中文",ELTA体育HD
-http://v3l.cn/q8GL4ki
-#EXTINF:-1group-title="海外中文",纬来体育HD
-http://v3l.cn/6bmkTvf
-#EXTINF:-1group-title="海外中文",纬来日本
-http://v3l.cn/1SIDVoW
-#EXTINF:-1group-title="海外中文",BBClifestyle
-http://v3l.cn/MfLolle
-#EXTINF:-1group-title="海外中文",TVBS欢乐HD
-http://v3l.cn/Qlcb7Ej
-#EXTINF:-1group-title="海外中文",TVBS新闻
-http://v3l.cn/h73ZEEG
-#EXTINF:-1group-title="海外中文",东森电影
-http://v3l.cn/rNjdRGA
-#EXTINF:-1group-title="海外中文",东森财经新闻HD
-http://v3l.cn/oESoxxN
-#EXTINF:-1group-title="海外中文",WIN综合HD
-http://v3l.cn/pnMBgsZ
-#EXTINF:-1group-title="海外中文",动物星球
-http://v3l.cn/rUHDvcF
-#EXTINF:-1group-title="海外中文",CNN国际新闻
-http://v3l.cn/N2xFwzj
-#EXTINF:-1group-title="海外中文",BBC国际新闻
-http://v3l.cn/n3aCJeQ
-#EXTINF:-1group-title="海外中文",BBC国际新闻
-http://v3l.cn/Rk4d8PN
-#EXTINF:-1group-title="海外中文",CN卡通频道
-http://v3l.cn/v4WuDFd
-#EXTINF:-1group-title="海外中文",CN卡通频道
-http://v3l.cn/rHTZiwt
-#EXTINF:-1group-title="海外中文",TVBS综合HD
-http://v3l.cn/cTCGcXM
 
 
 #EXTINF:-1group-title="爱尚频道",爱尚-CCTV1-综合

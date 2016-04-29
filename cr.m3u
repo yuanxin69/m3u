@@ -1,11 +1,105 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="日本", 秘密爱
-http://zj.maxcms.org/leyun/mmsid.php?v=51588905
-#EXTINF:-1 group-title="日本", 霜花店
-http://zj.maxcms.org/leyun/mmsid.php?v=51368333
-#EXTINF:-1 group-title="日本", 美味速递
-http://zj.maxcms.org/leyun/mmsid.php?v=51441091
+
+#EXTINF:-1 group-title="欧美", 欧美1
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/53.ts
+#EXTINF:-1 group-title="欧美", 欧美2
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/54.ts
+#EXTINF:-1 group-title="欧美", 欧美3
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/63.ts
+#EXTINF:-1 group-title="欧美", 欧美4
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/251.ts
+#EXTINF:-1 group-title="欧美", 欧美5
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/252.ts
+#EXTINF:-1 group-title="欧美", 欧美6
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/290.ts
+#EXTINF:-1 group-title="欧美", 欧美7
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/697.ts
+#EXTINF:-1 group-title="欧美", 欧美8
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/698.ts
+#EXTINF:-1 group-title="欧美", 欧美9
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/699.ts
+#EXTINF:-1 group-title="欧美", 欧美10
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/700.ts
+#EXTINF:-1 group-title="欧美", 欧美11
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/815.ts
+#EXTINF:-1 group-title="欧美", 欧美12
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/816.ts
+#EXTINF:-1 group-title="欧美", 欧美13
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/817.ts
+#EXTINF:-1 group-title="欧美", 欧美14
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1108.ts
+#EXTINF:-1 group-title="欧美", 欧美15
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1109.ts
+#EXTINF:-1 group-title="欧美", 欧美16
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1110.ts
+#EXTINF:-1 group-title="欧美", 欧美17
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1117.ts
+#EXTINF:-1 group-title="欧美", 欧美18
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1118.ts
+#EXTINF:-1 group-title="欧美", 欧美19
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1119.ts
+#EXTINF:-1 group-title="欧美", 欧美21
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1538.ts
+#EXTINF:-1 group-title="欧美", 欧美22
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1826.ts
+#EXTINF:-1 group-title="欧美", 欧美23
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1827.ts
+#EXTINF:-1 group-title="欧美", 欧美24
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1828.ts
+#EXTINF:-1 group-title="欧美", 欧美25
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1829.ts
+#EXTINF:-1 group-title="欧美", 欧美26
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1830.ts
+#EXTINF:-1 group-title="欧美", 欧美27
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2055.ts
+#EXTINF:-1 group-title="欧美", 欧美28
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2056.ts
+#EXTINF:-1 group-title="欧美", 欧美29
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2057.ts
+#EXTINF:-1 group-title="欧美", 欧美30
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2058.ts
+#EXTINF:-1 group-title="欧美", 欧美31
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2059.ts
+#EXTINF:-1 group-title="欧美", 欧美32
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2306.ts
+#EXTINF:-1 group-title="欧美", 欧美33
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2308.ts
+#EXTINF:-1 group-title="欧美", 欧美34
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2309.ts
+#EXTINF:-1 group-title="欧美", 欧美35
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2310.ts
+#EXTINF:-1 group-title="欧美", 欧美36
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2311.ts
+#EXTINF:-1 group-title="欧美", 欧美37
+http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2472.ts
+
+#EXTINF:-1 group-title="欧美", 欧美成人无码66
+http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/634.ts
+#EXTINF:-1 group-title="欧美", 欧美成人无码67
+http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/635.ts
+#EXTINF:-1 group-title="欧美", 欧美成人无码68
+http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/636.ts
+
+
+#EXTINF:-1 group-title="欧美其他", 欧美裸聊1
+http://178.33.126.213:1935/leved/livesexlatinas/playlist.m3u8
+#EXTINF:-1 group-title="欧美其他", 欧美裸聊3
+http://81.89.48.215:1935/xyz888wkz/xy8/playlist.m3u8
+#EXTINF:-1 group-title="欧美其他", 欧美裸聊4
+http://81.89.48.215:1935/xyz112wkz/xy112_360p/i.m3u8 
+#EXTINF:-1 group-title="欧美其他", 欧美裸聊5
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8 
+#EXTINF:-1 group-title="欧美其他", 欧美裸聊6
+http://publish.thewebstream.co:1935/cellcast/encoder71/playlist.m3u8 
+#EXTINF:-1 group-title="欧美其他", 世界时尚HD
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/track_0_3000/playlist.m3u8
+#EXTINF:-1 group-title="欧美其他", 迈阿密性感采访1
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/chunklist_w732305586_b1550000.m3u8
+#EXTINF:-1 group-title="欧美其他", 迈阿密性感采访2
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+
+
 EXTINF:-1 group-title="日本", 日欧无码
 http://64.140.160.186:8066/HLS/live/101/index.m3u8?mid=64&pwd=mars
 #EXTINF:-1 group-title="日本", 日本无码
@@ -30,25 +124,19 @@ http://58.99.33.4:1935/liveedge/live_785_3.stream/playlist.m3u8
 http://58.99.33.4:1935/liveedge/live_414_3.stream/playlist.m3u8
 #EXTINF:-1 group-title="日本", 潘多拉宝贝薄码成人
 http://58.99.33.4:1935/liveedge/live_786_3.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国01台
-http://123.108.164.75/etv2sb/pld10059/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国02台
-http://123.108.164.75/etv2sb/pld10060/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国03台
-http://123.108.164.75/etv2sb/pld10061/playlist.m3u8
 #EXTINF:-1 group-title="日本", ★韩国04台
 http://123.108.164.75/etv2sb/pld10062/playlist.m3u8
 #EXTINF:-1 group-title="日本", 韩国05台
 http://123.108.164.75/etv2sb/pld10063/playlist.m3u8
 #EXTINF:-1 group-title="日本", 韩国06台
 http://123.108.164.75/etv2sb/pld10064/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国07台
+#EXTINF:-1 group-title="日本", playboy
 http://123.108.164.110/etv1sb/pld10497/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国08台
+#EXTINF:-1 group-title="日本", ★韩国08台
 http://123.108.164.75/etv2sb/pld10499/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国09台
+#EXTINF:-1 group-title="日本", ★girlsTV
 http://123.108.164.75/etv2sb/pld10501/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国10台
+#EXTINF:-1 group-title="日本", ★VIKI 19
 http://123.108.164.110/etv1sb/pld10765/playlist.m3u8
 #EXTINF:-1 group-title="日本", 韩国11台
 http://123.108.164.110/etv1sb/pld10766/playlist.m3u8
@@ -60,53 +148,10 @@ http://123.108.164.75/etv2sb/pld10771/playlist.m3u8
 http://123.108.164.75/etv2sb/pld10772/playlist.m3u8
 #EXTINF:-1 group-title="日本", 韩国19限
 http://123.108.164.110/etv1sb/pld10927/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国16台
+#EXTINF:-1 group-title="日本", Honey HD
 http://123.108.164.110/etv1sb/pld10928/playlist.m3u8
-#EXTINF:-1 group-title="日本", HoneyHD
-http://123.108.164.75/etv2sb/pld10968/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国18台
-http://123.108.164.75/etv2sb/pld10991/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国19台
-http://123.108.164.75/etv2sb/pld10992/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国20台
-http://123.108.164.75/etv2sb/pld993/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国21台
-http://123.108.164.75/etv2/pld1003/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国22台
-http://123.108.164.75/etv2/pld1005/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国23台
-http://123.108.164.75/etv2/pld1006/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国24台
-http://123.108.164.75/etv2/pld1008/playlist.m3u8
 
-#EXTINF:-1 group-title="日本", 01.日本骑兵1台
-http://edge2.everyon.tv/etv2sb/phd10059/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 02.韩国骑兵2台
-http://edge2.everyon.tv/etv2sb/phd10060/playlist.m3u8
-#EXTINF:-1 group-title="欧美", 03.欧美骑兵3台
-http://edge2.everyon.tv/etv2sb/phd10061/playlist.m3u8
-#EXTINF:-1 group-title="日本", 04.日本骑兵4台
-http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 05.韩国骑兵5台
-http://edge2.everyon.tv/etv2sb/phd10063/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 06.韩国骑兵6台
-http://edge2.everyon.tv/etv2sb/phd10064/playlist.m3u8
-#EXTINF:-1 group-title="日本", 07.日本骑兵7台
-http://edge2.everyon.tv/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 group-title="日本", 08.日本骑兵8台
-http://edge2.everyon.tv/etv2/phd1005/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 09.韩国骑兵9台
-http://edge2.everyon.tv/etv2/phd1008/playlist.m3u8
-#EXTINF:-1 group-title="日本", 10.日本骑兵10台
-http://210.200.79.26:1935/live/aracity_m_new/chunklist.m3u8
-#EXTINF:-1 group-title="日本", 11.日本骑兵11台
-http://210.200.79.26:1935/live/aracity02/chunklist.m3u8
-#EXTINF:-1 group-title="日本", 12.日本骑兵12台
-http://210.200.79.26:1935/live/aracity01/chunklist.m3u8
-#EXTINF:-1 group-title="欧美", 13.欧美骑兵13台
-http://210.200.79.26:1935/live/aracity03/chunklist.m3u8
-#EXTINF:-1 group-title="韩国", 14.Live Ting TV
-http://edge2.everyon.tv/etv2/phd1006/playlist.m3u8
+
 #EXTINF:-1 group-title="欧美", 15.Playboy
 http://edge1.everyon.tv/etv1sb/phd10497/playlist.m3u8
 #EXTINF:-1 group-title="欧美", 16.Delight
