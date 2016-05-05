@@ -1,6 +1,352 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="平遥有线",CCTV1HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000158&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV2HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000139&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV3HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000152&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV4HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000140&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV5HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000151&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV5+HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000160&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV6HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000159&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV7HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000141&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV8HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000150&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV9HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000142&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV10HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000143&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV12HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000144&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV14HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000145&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",东方卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000161&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",天津卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000162&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",山东卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000163&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",湖北卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000164&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",安徽卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000165&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",湖南卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000166&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",浙江卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000167&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",江苏卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000168&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",北京卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000169&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",重庆卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000170&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",黑龙江卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000171&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",广东卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000172&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",深圳卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000173&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",辽宁卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000137&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",四川卫视高清
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000138&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",金鹰纪实
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000134&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",北京纪实
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000135&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",上海纪实
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000136&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",高清影视HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000146&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",新视觉HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000147&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",ATV亚洲台
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000148&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",高清纪实
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000149&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",3D体验频道
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000153&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",凤凰资讯HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000154&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",凤凰卫视HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000155&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",凤凰香港HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000156&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",HKC电影一台HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000157&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",HKC电影一台HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000103&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",影视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000102&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",中国电影
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000104&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV1
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000007&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV2
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000008&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV3
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000018&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV4
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000014&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV5
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000019&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV6
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000020&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV7
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000009&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV8
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000021&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV9
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000022&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV10
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000010&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV11
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000011&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV12
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000012&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV13
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000023&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV14
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000024&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV15
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000013&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV NEWS
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000016&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",中国气象频道
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000015&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",早期教育
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000083&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",中学生
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000130&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CETV1
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000061&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CETV2
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000132&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CETV4
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000133&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",山东教育
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000106&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",新华中文
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000126&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",中国黄河
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000113&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",黄河卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000001&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",安徽卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000114&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",河南卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000116&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",宁夏卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000117&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",四川卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000118&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",江西卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000119&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",陕西卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000120&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",农林卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000121&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",甘肃卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000122&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",北京卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000025&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",天津卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000026&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",山西卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000027&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",山东卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000028&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",河北卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000029&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",浙江卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000030&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",旅游卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000031&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",黑龙江卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000032&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",吉林卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000033&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",延边卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000034&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",西藏卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000035&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",新疆卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000036&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",东南卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000037&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",贵州卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000038&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",江苏卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000039&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",辽宁卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000041&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",青海卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000059&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",湖北卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000060&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",东方卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000063&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",内蒙古卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000064&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",广西卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000096&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",广东卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000097&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",云南卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000098&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",深圳卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000099&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",兵团卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000101&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",嘉佳卡通
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000100&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",金鹰卡通
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000042&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",优漫卡通
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000017&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",炫动卡通
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000062&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",新科动漫
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000128&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",动漫秀场
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000044&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",世界地理
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000065&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",国防军事
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000066&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",风云音乐
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000067&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",央视文化精品
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000068&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",怀旧剧场
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000069&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",风云足球
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000070&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",风云剧场
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000071&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",第一剧场
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000072&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",劲爆体育
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000045&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",全纪实
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000046&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",东方财经
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000047&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",老年福
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000048&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",幸福彩
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000049&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",游戏风云
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000050&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",发现之旅
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000051&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",环球奇观
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000052&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",老故事
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000053&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",书法
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000054&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",女性时尚
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000055&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",现代女性
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000056&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",中视购物
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000057&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",卫生健康
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000058&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",文物宝库
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000131&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",靓妆
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000073&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",留学世界
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000074&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",梨园频道
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000075&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",游戏竟技
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000076&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",茶频道
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000077&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",DV生活
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000078&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",围棋
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000079&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",汽摩
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000080&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",摄影频道
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000081&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",英语辅导
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000082&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",彩民在线
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000084&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",武术世界
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000085&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",U BABY TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000086&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",城市建设
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000087&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",法制天地
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000088&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",欢笑剧场
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000089&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",魅力音乐
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000090&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",七彩戏剧
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000091&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",金色频道
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000092&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",生活时尚
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000093&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",极速汽车
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000094&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",都市剧场
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000095&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",天映频道
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000105&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",TVB星河
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000107&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",阳光卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000108&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",澳门莲花
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000109&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",凤凰资讯
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000110&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",凤凰卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000111&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",HBO
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000123&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",星空卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000124&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",华娱卫视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000125&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",国学频道
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000127&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",快乐垂钓
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000129&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",山西影视
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000002&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",山西公共
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000003&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",山西科教
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000004&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",山西少儿
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000005&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",晋中新闻
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000006&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥电视台
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000043&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",平遥资讯
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000174&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate
+#EXTINF:-1 group-title="平遥有线",平遥有线
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000158&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+
+
 #EXTINF:-1 group-title="云南电信",CCTV-1HD
 http://182.245.29.5:91/193/193.m3u8
 #EXTINF:-1 group-title="云南电信",CCTV-2HD
