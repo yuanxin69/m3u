@@ -1,78 +1,30 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清1
+http://edge2.everyon.tv:1935/etv2sb/phd10062/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清2
+http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清3
+http://edge2.everyon.tv:1935/etv2sb/phd10499/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清4
+http://edge2.everyon.tv:1935/etv2sb/phd10501/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清5
+http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清6
+http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清7
+http://edge2.everyon.tv:1935/etv2sb/phd10769/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清8
+http://edge2.everyon.tv:1935/etv2sb/phd10771/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清9
+http://edge2.everyon.tv:1935/etv2sb/phd10772/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清10
+http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清11
+http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
 
-#EXTINF:-1 group-title="欧美", 欧美1
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/53.ts
-#EXTINF:-1 group-title="欧美", 欧美2
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/54.ts
-#EXTINF:-1 group-title="欧美", 欧美3
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/63.ts
-#EXTINF:-1 group-title="欧美", 欧美4
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/251.ts
-#EXTINF:-1 group-title="欧美", 欧美5
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/252.ts
-#EXTINF:-1 group-title="欧美", 欧美6
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/290.ts
-#EXTINF:-1 group-title="欧美", 欧美7
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/697.ts
-#EXTINF:-1 group-title="欧美", 欧美8
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/698.ts
-#EXTINF:-1 group-title="欧美", 欧美9
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/699.ts
-#EXTINF:-1 group-title="欧美", 欧美10
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/700.ts
-#EXTINF:-1 group-title="欧美", 欧美11
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/815.ts
-#EXTINF:-1 group-title="欧美", 欧美12
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/816.ts
-#EXTINF:-1 group-title="欧美", 欧美13
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/817.ts
-#EXTINF:-1 group-title="欧美", 欧美14
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1108.ts
-#EXTINF:-1 group-title="欧美", 欧美15
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1109.ts
-#EXTINF:-1 group-title="欧美", 欧美16
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1110.ts
-#EXTINF:-1 group-title="欧美", 欧美17
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1117.ts
-#EXTINF:-1 group-title="欧美", 欧美18
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1118.ts
-#EXTINF:-1 group-title="欧美", 欧美19
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1119.ts
-#EXTINF:-1 group-title="欧美", 欧美21
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1538.ts
-#EXTINF:-1 group-title="欧美", 欧美22
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1826.ts
-#EXTINF:-1 group-title="欧美", 欧美23
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1827.ts
-#EXTINF:-1 group-title="欧美", 欧美24
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1828.ts
-#EXTINF:-1 group-title="欧美", 欧美25
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1829.ts
-#EXTINF:-1 group-title="欧美", 欧美26
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/1830.ts
-#EXTINF:-1 group-title="欧美", 欧美27
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2055.ts
-#EXTINF:-1 group-title="欧美", 欧美28
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2056.ts
-#EXTINF:-1 group-title="欧美", 欧美29
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2057.ts
-#EXTINF:-1 group-title="欧美", 欧美30
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2058.ts
-#EXTINF:-1 group-title="欧美", 欧美31
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2059.ts
-#EXTINF:-1 group-title="欧美", 欧美32
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2306.ts
-#EXTINF:-1 group-title="欧美", 欧美33
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2308.ts
-#EXTINF:-1 group-title="欧美", 欧美34
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2309.ts
-#EXTINF:-1 group-title="欧美", 欧美35
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2310.ts
-#EXTINF:-1 group-title="欧美", 欧美36
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2311.ts
-#EXTINF:-1 group-title="欧美", 欧美37
-http://ORBIT-IPTV.COM:2500/live/nadeem/nadeem/2472.ts
+
+
 
 #EXTINF:-1 group-title="欧美", 欧美成人无码66
 http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/634.ts
@@ -92,6 +44,10 @@ http://81.89.48.215:1935/xyz112wkz/xy112_360p/i.m3u8
 http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8 
 #EXTINF:-1 group-title="欧美其他", 欧美裸聊6
 http://publish.thewebstream.co:1935/cellcast/encoder71/playlist.m3u8 
+#EXTINF:-1 group-title="欧美其他", 欧美成人内衣秀
+rtmp://stream.visit-x.tv/vxtv/live_720p
+#EXTINF:-1 group-title="欧美其他", 韩国成人内衣秀
+http://edge2.everyon.tv:1935/etv2sb/phd43/playlist.m3u8
 #EXTINF:-1 group-title="欧美其他", 世界时尚HD
 http://btv-net.mediacdn.ru/TVB7/wfhdeu/track_0_3000/playlist.m3u8
 #EXTINF:-1 group-title="欧美其他", 迈阿密性感采访1
@@ -126,11 +82,9 @@ http://58.99.33.4:1935/liveedge/live_414_3.stream/playlist.m3u8
 http://58.99.33.4:1935/liveedge/live_786_3.stream/playlist.m3u8
 #EXTINF:-1 group-title="日本", ★韩国04台
 http://123.108.164.75/etv2sb/pld10062/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国05台
-http://123.108.164.75/etv2sb/pld10063/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国06台
+#EXTINF:-1 group-title="日本", ★韩国06台
 http://123.108.164.75/etv2sb/pld10064/playlist.m3u8
-#EXTINF:-1 group-title="日本", playboy
+#EXTINF:-1 group-title="日本", ★playboy
 http://123.108.164.110/etv1sb/pld10497/playlist.m3u8
 #EXTINF:-1 group-title="日本", ★韩国08台
 http://123.108.164.75/etv2sb/pld10499/playlist.m3u8
@@ -138,21 +92,21 @@ http://123.108.164.75/etv2sb/pld10499/playlist.m3u8
 http://123.108.164.75/etv2sb/pld10501/playlist.m3u8
 #EXTINF:-1 group-title="日本", ★VIKI 19
 http://123.108.164.110/etv1sb/pld10765/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国11台
+#EXTINF:-1 group-title="日本", ★韩国11台
 http://123.108.164.110/etv1sb/pld10766/playlist.m3u8
-#EXTINF:-1 group-title="日本", playy台
+#EXTINF:-1 group-title="日本", ★playy台
 http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
-#EXTINF:-1 group-title="日本", THE马
+#EXTINF:-1 group-title="日本", ★THE马
 http://123.108.164.75/etv2sb/pld10771/playlist.m3u8
-#EXTINF:-1 group-title="日本", ButGO
+#EXTINF:-1 group-title="日本", ★ButGO
 http://123.108.164.75/etv2sb/pld10772/playlist.m3u8
-#EXTINF:-1 group-title="日本", 韩国19限
+#EXTINF:-1 group-title="日本", ★韩国19限
 http://123.108.164.110/etv1sb/pld10927/playlist.m3u8
-#EXTINF:-1 group-title="日本", Honey HD
+#EXTINF:-1 group-title="日本", ★Honey HD
 http://123.108.164.110/etv1sb/pld10928/playlist.m3u8
 
 
-#EXTINF:-1 group-title="欧美", 15.Playboy
+#EXTINF:-1 group-title="欧美", 15.★Playboy
 http://edge1.everyon.tv/etv1sb/phd10497/playlist.m3u8
 #EXTINF:-1 group-title="欧美", 16.Delight
 http://edge2.everyon.tv/etv2sb/phd10499/playlist.m3u8
@@ -214,58 +168,8 @@ http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmas
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
 #EXTINF:-1 group-title="成人频道",4K单片11（贡献者:007）
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-#EXTINF:-1 group-title="成人频道",成人直播
-rtmp://123.108.164.71/etv2/phd1003
-#EXTINF:-1 group-title="成人频道",成人直播
-rtmp://123.108.164.71/etv2/phd1005
-#EXTINF:-1 group-title="成人频道",影视19
-rtmp://123.108.164.71/etv2sb/pld993
-#EXTINF:-1 group-title="成人频道",影视20
-rtmp://123.108.164.71/etv2/pld1005
-#EXTINF:-1 group-title="成人频道",成人-1台
-rtmp://123.108.164.71/etv2/phd1003
-#EXTINF:-1 group-title="成人频道",成人-2台
-rtmp://123.108.164.71/etv2/phd1005
-#EXTINF:-1 group-title="成人频道",成人-3台
-rtmp://123.108.164.71/etv2/pld1006
-#EXTINF:-1 group-title="成人频道",成人-4台
-rtmp://123.108.164.71/etv2/phd1008
-#EXTINF:-1 group-title="成人频道",成人-5台
-rtmp://123.108.164.71/etv2sb/pld993
-#EXTINF:-1 group-title="成人频道",成人影视1
-rtmp://edge2.everyon.tv/etv2/pld1005
-#EXTINF:-1 group-title="成人频道",成人影视2
-rtmp://edge2.everyon.tv/etv2/pld1006
-#EXTINF:-1 group-title="成人频道",成人影视3
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1 group-title="成人频道",成人影视6
-rtmp://123.108.164.71/etv2sb/pld61
-#EXTINF:-1 group-title="成人频道",成人影视10
-rtmp://123.108.164.71/etv2sb/pld499
-#EXTINF:-1 group-title="成人频道",成人影视11
-rtmp://123.108.164.71/etv2sb/pld501
-#EXTINF:-1 group-title="成人频道",成人影视17
-rtmp://123.108.164.71/etv2sb/pld991
-#EXTINF:-1 group-title="成人频道",成人影视18
-rtmp://123.108.164.71/etv2sb/pld992
-#EXTINF:-1 group-title="成人频道",成人影视19
-rtmp://123.108.164.71/etv2sb/pld993
-#EXTINF:-1 group-title="成人频道",成人影视20
-rtmp://123.108.164.71/etv2/pld1005
-#EXTINF:-1 group-title="成人频道",成人影视21
-rtmp://123.108.164.71/etv2/pld1006
-#EXTINF:-1 group-title="成人频道",成人影视22
-rtmp://123.108.164.71/etv2/pld1008
-#EXTINF:-1 group-title="成人频道",成人影视29
-rtmp://123.108.164.71/etv2sb/phd501
-#EXTINF:-1 group-title="韩国",韩国成人1
-rtmp://edge2.everyon.tv/etv2/phd1003
-#EXTINF:-1 group-title="韩国",韩国成人2
-rtmp://edge2.everyon.tv:1935/etv2/phd1003
-#EXTINF:-1 group-title="韩国",韩国成人3
-rtmp://edge2.everyon.tv/etv2/phd1005
-#EXTINF:-1 group-title="韩国",韩国成人4
-rtmp://edge2.everyon.tv/etv2/phd1008
+
+
 #EXTINF:-1 group-title="韩国",韩国成人5
 rtmp://edge2.everyon.tv:1935/etv2/phd877
 #EXTINF:-1 group-title="成人频道",极乱家族1
@@ -278,158 +182,12 @@ http://69.46.75.107/files/videos/1410962219b8929.flv
 http://69.46.75.107/files/videos/141188120614378.flv
 #EXTINF:-1 group-title="成人频道",极乱家族6
 http://69.46.75.107/files/videos/141344498070660.flv
-#EXTINF:-1 group-title="成人频道",午夜6
-http://cr.stream.omc.hk/etv2/phd1005/chunklist_w2141649816.m3u8
 #EXTINF:-1 group-title="成人频道",极乱家族6
 http://69.46.75.107/files/videos/141344498070660.flv
-#EXTINF:-1 group-title="成人频道",性交影视1
-rtmp://edge2.everyon.tv/etv2/pld1005
-#EXTINF:-1 group-title="日本",日本AV1
-http://edge2.everyon.tv/etv2/phd1005/chunklist_w982667849.m3u8
-#EXTINF:-1 group-title="日本",日本AV2
-http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
-#EXTINF:-1 group-title="日本",日本AV3
-http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8
-#EXTINF:-1 group-title="成人频道",日韩01HD
-rtmp://123.108.164.71/etv2/phd1003
-#EXTINF:-1 group-title="成人频道",性爱1
-rtmp://edge2.everyon.tv/etv2/pld1005
-#EXTINF:-1 group-title="成人频道",性爱2
-rtmp://edge2.everyon.tv/etv2/pld1006
-#EXTINF:-1 group-title="成人频道",性爱3
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1 group-title="韩国",韩国有码高清22
-rtmp://123.108.164.71/etv2/phd1006
-#EXTINF:-1 group-title="韩国",韩国有码标清23
-rtmp://123.108.164.71/etv2/pld1003
-#EXTINF:-1 group-title="韩国",韩国有码标清24
-rtmp://123.108.164.71/etv2/pld1005
-#EXTINF:-1 group-title="韩国",韩国性交1
-http://edge2.everyon.tv/etv2/pld1003/playlist.m3u8
-#EXTINF:-1 group-title="韩国",韩国性交2
-http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 group-title="韩国",韩国性交3
-http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 group-title="韩国",韩国性交4
-http://cr.stream.omc.hk/etv2/phd1006/playlist.m3u8
-#EXTINF:-1 group-title="韩国",韩国性交5
-http://cr.stream.omc.hk/etv2/phd1005/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",成人1
-http://edge2.everyon.tv/etv2sb/pld993/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",成人电影27
-http://videohttp2.porndig.com/videos/2014/05/54311_20140514.smil/chunklist_b730000.m3u8
-#EXTINF:-1 group-title="成人频道",王子10
-http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",王子10
-http://cr.stream.omc.hk/etv2/phd1003/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",午夜6
-http://cr.stream.omc.hk/etv2/phd1005/chunklist_w2141649816.m3u8
-#EXTINF:-1 group-title="日本",全球ASIAN PORN
-http://luckyiptv.ddns.net:23000/live/OLINTO/olinto/12618.m3u8
-#EXTINF:-1 group-title="日本",全球ASIAN PORN 1
-http://luckyiptv.ddns.net:23000/live/OLINTO/olinto/12617.m3u8
-#EXTINF:-1 group-title="日本",全球ASIAN PORN 2
-http://luckyiptv.ddns.net:23000/live/OLINTO/olinto/12616.m3u8
-#EXTINF:-1 group-title="成人频道",日韩CR电影4
-rtmp://123.108.164.71/etv2/phd1003
-#EXTINF:-1 group-title="韩国",韩国01
-rtmp://123.108.164.71/etv2sb/pld59
-#EXTINF:-1 group-title="韩国",韩国02
-rtmp://123.108.164.71/etv2sb/pld60
-#EXTINF:-1 group-title="韩国",韩国03
-rtmp://123.108.164.71/etv2sb/pld61
-#EXTINF:-1 group-title="韩国",韩国04
-rtmp://123.108.164.71/etv2sb/pld62
-#EXTINF:-1 group-title="韩国",韩国05
-rtmp://123.108.164.71/etv2sb/pld63
-#EXTINF:-1 group-title="韩国",韩国06
-rtmp://123.108.164.71/etv2sb/pld64
-#EXTINF:-1 group-title="韩国",韩国08
-rtmp://123.108.164.71/etv2sb/pld499
-#EXTINF:-1 group-title="韩国",韩国09
-rtmp://123.108.164.71/etv2sb/pld501
-#EXTINF:-1 group-title="韩国",韩国10
-rtmp://123.108.164.71/etv2sb/pld511
-#EXTINF:-1 group-title="韩国",韩国13
-rtmp://123.108.164.71/etv2sb/pld769
-#EXTINF:-1 group-title="韩国",韩国14
-rtmp://123.108.164.71/etv2sb/pld771
-#EXTINF:-1 group-title="韩国",韩国15
-rtmp://123.108.164.71/etv2sb/pld772
-#EXTINF:-1 group-title="韩国",韩国18
-rtmp://123.108.164.71/etv2sb/pld968
-#EXTINF:-1 group-title="韩国",韩国19
-rtmp://123.108.164.71/etv2sb/pld991
-#EXTINF:-1 group-title="韩国",韩国20
-rtmp://123.108.164.71/etv2sb/pld992
-#EXTINF:-1 group-title="韩国",韩国21
-rtmp://123.108.164.71/etv2sb/pld993
-#EXTINF:-1 group-title="韩国",韩国22
-rtmp://123.108.164.71/etv2/pld1003
-#EXTINF:-1 group-title="韩国",韩国23
-rtmp://123.108.164.71/etv2/pld1005
-#EXTINF:-1 group-title="韩国",韩国24
-rtmp://123.108.164.71/etv2/pld1006
-#EXTINF:-1 group-title="韩国",韩国25
-rtmp://123.108.164.71/etv2/pld1008
-#EXTINF:-1 group-title="韩国",韩国26
-rtmp://123.108.164.71/etv2sb/phd59
-#EXTINF:-1 group-title="韩国",韩国27
-rtmp://123.108.164.71/etv2sb/phd60
-#EXTINF:-1 group-title="韩国",韩国28
-rtmp://123.108.164.71/etv2sb/phd61
-#EXTINF:-1 group-title="韩国",韩国29
-rtmp://123.108.164.71/etv2sb/phd62
-#EXTINF:-1 group-title="韩国",韩国30
-rtmp://123.108.164.71/etv2sb/phd63
-#EXTINF:-1 group-title="韩国",韩国31
-rtmp://123.108.164.71/etv2sb/phd64
-#EXTINF:-1 group-title="韩国",韩国32
-rtmp://123.108.164.71/etv2sb/phd499
-#EXTINF:-1 group-title="韩国",韩国33
-rtmp://123.108.164.71/etv2sb/phd501
-#EXTINF:-1 group-title="韩国",韩国34
-rtmp://123.108.164.71/etv2sb/phd511
-#EXTINF:-1 group-title="韩国",韩国35
-rtmp://123.108.164.71/etv2sb/phd769
-#EXTINF:-1 group-title="韩国",韩国有码14
-rtmp://123.108.164.71/etv2sb/phd771
-#EXTINF:-1 group-title="韩国",韩国有码15
-rtmp://123.108.164.71/etv2sb/phd772
-#EXTINF:-1 group-title="韩国",韩国有码18
-rtmp://123.108.164.71/etv2sb/phd968
-#EXTINF:-1 group-title="韩国",韩国有码19
-rtmp://123.108.164.71/etv2sb/phd991
-#EXTINF:-1 group-title="韩国",韩国有码20
-rtmp://123.108.164.71/etv2sb/phd992
-#EXTINF:-1 group-title="韩国",韩国有码21
-rtmp://123.108.164.71/etv2sb/phd993
-#EXTINF:-1 group-title="韩国",韩国有码22
-rtmp://123.108.164.71/etv2/phd1003
-#EXTINF:-1 group-title="韩国",韩国有码23
-rtmp://123.108.164.71/etv2/phd1005
-#EXTINF:-1 group-title="韩国",韩国有码24
-rtmp://123.108.164.71/etv2/phd1006
-#EXTINF:-1 group-title="韩国",韩国有码25
-rtmp://123.108.164.71/etv2/phd1008
-#EXTINF:-1 group-title="韩国",韩国KCTV
-rtmp://122.202.129.136:1935/live/ch4
-#EXTINF:-1 group-title="韩国",韩国KCTV-HD
-rtmp://122.202.129.136:1935/live/ch5
-#EXTINF:-1 group-title="成人频道",KTV-HD
-rtmp://218.38.152.31/klive/klive.stream
-#EXTINF:-1 group-title="韩国",韩国KCTV
-rtmp://122.202.129.136:1935/live/ch4
-#EXTINF:-1 group-title="韩国",韩国KCTV-HD
-rtmp://122.202.129.136:1935/live/ch5
-#EXTINF:-1 group-title="成人频道",梦幻1頻道*
-http://210.200.79.26:1935/live/aracity_m_new/chunklist.m3u8
-#EXTINF:-1 group-title="成人频道",梦幻2頻道*
-http://210.200.79.26:1935/live/aracity02/chunklist.m3u8
-#EXTINF:-1 group-title="日本",日本成人頻道
-http://210.200.79.26:1935/live/aracity02/playlist.m3u8
-#EXTINF:-1 group-title="成人频道",卡通頻道*
-http://210.200.79.26:1935/live/aracity01/playlist.m3u8
+
+
+
+
 #EXTINF:-1 group-title="成人频道",家族1
 http://69.46.75.107/files/videos/140747456300c03.flv
 #EXTINF:-1 group-title="成人频道",*家族3
@@ -551,36 +309,7 @@ http://galsflv.videosz.com//masons-whore-a-thon_3/videosz-masons-whore-a-thon-33
 
 
 
-#EXTINF:-1 group-title="欧美",P- Josh Stone Productions - Mia Khalifa - Temporary Dates 2
-http://gtatemvod.com:43100/movie/giannone/giannone/1491.mkv
-#EXTINF:-1 group-title="欧美",P- Il Mio Sport Preferito e il Cazzo (Cento x Cento)
-http://gtatemvod.com:43100/movie/giannone/giannone/1489.mkv
-#EXTINF:-1 group-title="欧美",P- Il Mio Sport Preferito e il Cazzo
-http://gtatemvod.com:43100/movie/giannone/giannone/1456.mkv
-#EXTINF:-1 group-title="欧美",P- HoInHeadlights - Mia Khalifa - Her First Porno She Made
-http://gtatemvod.com:43100/movie/giannone/giannone/1488.mkv
-#EXTINF:-1 group-title="欧美",P- Mia Khalifa
-http://gtatemvod.com:43100/movie/giannone/giannone/1502.mkv
-#EXTINF:-1 group-title="欧美",P- Fantasmes 2
-http://gtatemvod.com:43100/movie/giannone/giannone/1487.mkv
-#EXTINF:-1 group-title="欧美",P- Dahlia Sky
-http://gtatemvod.com:43100/movie/giannone/giannone/1432.mkv
-#EXTINF:-1 group-title="欧美",P- Cento X Cento - Scopate da sballo
-http://gtatemvod.com:43100/movie/giannone/giannone/1431.mkv
-#EXTINF:-1 group-title="欧美",P- Cento X Cento - Rotta in CuSo che non Sei Altro
-http://gtatemvod.com:43100/movie/giannone/giannone/1430.mkv
-#EXTINF:-1 group-title="欧美",P- CaSo Grosso ma non Troppo
-http://gtatemvod.com:43100/movie/giannone/giannone/1429.mkv
-#EXTINF:-1 group-title="欧美",P- Big Tits Round Asses - Mia Khalifa - Pounding Mia Khalifa!
-http://gtatemvod.com:43100/movie/giannone/giannone/1477.mkv
-#EXTINF:-1 group-title="欧美",P- BigTitsRoundAsses - Mia Khalifa - Big Tit Brunette Enjoys Hard Cock
-http://gtatemvod.com:43100/movie/giannone/giannone/1476.mkv
-#EXTINF:-1 group-title="欧美",P- BigTitCreamPie - Mia Khalifa - Double D Poolside Fuck
-http://gtatemvod.com:43100/movie/giannone/giannone/1475.mkv
-#EXTINF:-1 group-title="欧美",P- Alina Li
-http://gtatemvod.com:43100/movie/giannone/giannone/1428.mkv
-#EXTINF:-1 group-title="欧美",P- Adriana Chechik
-http://gtatemvod.com:43100/movie/giannone/giannone/1427.mkv
+
 #EXTINF:-1 group-title="欧美",Ardente-CENA 1
 http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena1.mp4 
 #EXTINF:-1 group-title="欧美",Ardente-CENA 2

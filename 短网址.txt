@@ -104,3 +104,5 @@ http://dwz.cn/2GN4ei
 http://dwz.cn/2HfK99
 iptv:https://raw.githubusercontent.com/yuanxin69/m3u/master/iptv.m3u
 http://dwz.cn/2ISaNm
+twtv.php
+http://api.ottclub.info/api/get_list?ChannelCategoryGUID=596ad53e-adaf-11e3-b3a3-56b55c4f22cc&ChannelClassGUID=c7270725-adb4-11e3-b3a3-56b55c4f22cc

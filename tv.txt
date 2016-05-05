@@ -1,4 +1,9 @@
 ==采集==
+13★,http://58.99.33.4:1935:1935/liveedge/live_181_3.stream/playlist.m3u8 
+14,http://58.99.33.4:1935:1935/liveedge/live_183_3.stream/playlist.m3u8 
+18,http://58.99.33.4:1935:1935/liveedge/live_187_3.stream/playlist.m3u8 
+19★,http://58.99.33.4:1935:1935/liveedge/live_162_3.stream/playlist.m3u8 
+20★,http://58.99.33.4:1935:1935/liveedge/live_163_3.stream/playlist.m3u8 
 HOT探索纪录,http://sohudn.duapp.com/dop/ccmv.php/migutsjl.m3u8
 HOT精品剧场,http://sohudn.duapp.com/dop/ccmv.php/migujpjc.m3u8
 HOT风尚音乐,http://sohudn.duapp.com/dop/ccmv.php/migufsyy.m3u8
@@ -927,6 +932,772 @@ HKC电影二台,p2p://76.73.54.50:6001/56b1cb4d000c30c800c91ae92e2d0130
 HKC跑马18,p2p://76.73.54.50:6001/56b1cb2c000b809c00c899e111ac3941
 HKCxxx,p2p://76.73.54.50:6001/56b1cb1800069a6400c84a8938dc5603
 HKC剧集,p2p://76.73.54.50:6001/56b1cb060007eb0e00c804973fb23e7d
+平顶山有线
+CCTV1,http://110.77.0.182:1935/dvr/1001.stream/playlist.m3u8
+CCTV2,http://110.77.0.182:1935/dvr/1002.stream/playlist.m3u8
+CCTV3,http://110.77.0.182:1935/dvr/1003.stream/playlist.m3u8
+CCTV5,http://110.77.0.182:1935/dvr/1004.stream/playlist.m3u8
+CCTV6,http://110.77.0.182:1935/dvr/1005.stream/playlist.m3u8
+CCTV8,http://110.77.0.182:1935/dvr/1006.stream/playlist.m3u8
+CCTV13,http://110.77.0.182:1935/dvr/1007.stream/playlist.m3u8
+凤凰中文,http://110.77.0.182:1935/dvr/1008.stream/playlist.m3u8
+凤凰资讯,http://110.77.0.182:1935/dvr/1009.stream/playlist.m3u8
+星空卫视,http://110.77.0.182:1935/dvr/1010.stream/playlist.m3u8
+东方财经,http://110.77.0.182:1935/dvr/1011.stream/playlist.m3u8
+华娱卫视,http://110.77.0.182:1935/dvr/1012.stream/playlist.m3u8
+TVB8,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8
+CCTV10,http://110.77.0.182:1935/dvr/1014.stream/playlist.m3u8
+HD广东,http://110.77.0.182:1935/dvr/1019.stream/playlist.m3u8
+HD深圳,http://110.77.0.182:1935/dvr/1017.stream/playlist.m3u8
+HD北京,http://110.77.0.182:1935/dvr/1022.stream/playlist.m3u8
+HD湖南,http://110.77.0.182:1935/dvr/1018.stream/playlist.m3u8
+HD天津,http://110.77.0.182:1935/dvr/1021.stream/playlist.m3u8
+HD东方,http://110.77.0.182:1935/dvr/1023.stream/playlist.m3u8
+CCTV4,http://110.77.0.182:1935/dvr/1024.stream/playlist.m3u8
+CCTV9,http://110.77.0.182:1935/dvr/1025.stream/playlist.m3u8
+河南卫视,http://110.77.0.182:1935/dvr/1026.stream/playlist.m3u8
+炫动卡通,http://110.77.0.184:1935/dvr/1036.stream/playlist.m3u8
+河南电视剧,http://110.77.0.184:1935/dvr/1027.stream/playlist.m3u8
+河南都市,http://110.77.0.184:1935/dvr/1028.stream/playlist.m3u8
+河南公共,http://110.77.0.184:1935/dvr/1029.stream/playlist.m3u8
+河南法治,http://110.77.0.184:1935/dvr/1030.stream/playlist.m3u8
+河南民生,http://110.77.0.184:1935/dvr/1031.stream/playlist.m3u8
+风云音乐,http://110.77.0.184:1935/dvr/1032.stream/playlist.m3u8
+风云足球,http://110.77.0.184:1935/dvr/1033.stream/playlist.m3u8
+风云剧场,http://110.77.0.184:1935/dvr/1034.stream/playlist.m3u8
+金鹰卡通,http://110.77.0.184:1935/dvr/1035.stream/playlist.m3u8
+七彩戏剧,http://110.77.0.184:1935/dvr/1037.stream/playlist.m3u8
+法治天地,http://110.77.0.184:1935/dvr/1038.stream/playlist.m3u8
+金色频道,http://110.77.0.184:1935/dvr/1039.stream/playlist.m3u8
+卫生健康,http://110.77.0.184:1935/dvr/1040.stream/playlist.m3u8
+世界地理,http://110.77.0.184:1935/dvr/1041.stream/playlist.m3u8
+快乐垂钓,http://110.77.0.184:1935/dvr/1042.stream/playlist.m3u8
+游戏竞技,http://110.77.0.184:1935/dvr/1043.stream/playlist.m3u8
+摄影频道,http://110.77.0.184:1935/dvr/1044.stream/playlist.m3u8
+HD湖北,http://110.77.0.185:1935/dvr/1049.stream/playlist.m3u8
+HD江苏,http://110.77.0.185:1935/dvr/1045.stream/playlist.m3u8
+CCTV5+,http://110.77.0.185:1935/dvr/1046.stream/playlist.m3u8
+HD浙江,http://110.77.0.185:1935/dvr/1047.stream/playlist.m3u8
+HD山东,http://110.77.0.185:1935/dvr/1048.stream/playlist.m3u8
+HD龙江,http://110.77.0.185:1935/dvr/1050.stream/playlist.m3u8
+云南
+云南卫视,http://221.3.133.164:8078/streams/d/00yunnanweishi/playlist.m3u8
+云南都市,http://221.3.133.164:8078/streams/d/00yunnandushi/playlist.m3u8
+云南娱乐,http://221.3.133.164:8078/streams/d/00yunnanyule/playlist.m3u8
+云南少儿,http://221.3.133.164:8078/streams/d/0tsts1/playlist.m3u8
+云南公共,http://221.3.133.164:8078/streams/d/0tsts4/playlist.m3u8
+云南国际,http://221.3.133.164:8078/streams/d/0tsts7/playlist.m3u8
+昆明新闻,http://221.3.133.164:8078/streams/d/0testtv11/playlist.m3u8
+CCTV-1,http://221.3.133.164:8078/streams/d/0testtv07/playlist.m3u8
+CCTV-2,http://221.3.133.164:8078/streams/d/00yangshicaijing/playlist.m3u8
+CCTV-3,http://221.3.133.164:8078/streams/d/00yangshizongyi/playlist.m3u8
+CCTV-5,http://221.3.133.164:8078/streams/d/0testtv10/playlist.m3u8
+CCTV-10,http://221.3.133.164:8078/streams/d/00yangshikejiao/playlist.m3u8
+CCTV-13,http://221.3.133.164:8078/streams/d/0testtv19/playlist.m3u8
+CCTV-14,http://221.3.133.164:8078/streams/d/00yangshishaoer/playlist.m3u8
+安徽卫视,http://221.3.133.164:8078/streams/d/00anhuiweishi/playlist.m3u8
+湖北卫视,http://221.3.133.164:8078/streams/d/00hubeiweishi/playlist.m3u8
+江苏卫视,http://221.3.133.164:8078/streams/d/00jiangsuweishi/playlist.m3u8
+辽宁卫视,http://221.3.133.164:8078/streams/d/00liaoningweishi/playlist.m3u8
+深圳卫视,http://221.3.133.164:8078/streams/d/00shenzhenweishi/playlist.m3u8
+贵州卫视,http://221.3.133.164:8078/streams/d/00guizhouweishi/playlist.m3u8
+江西卫视,http://221.3.133.164:8078/streams/d/00jiangxiweishi/playlist.m3u8
+旅游卫视,http://221.3.133.164:8078/streams/d/00lvyouweishi/playlist.m3u8
+东南卫视,http://221.3.133.164:8078/streams/d/00dongnanweishi/playlist.m3u8
+广东卫视,http://221.3.133.164:8078/streams/d/00guangdongweishi/playlist.m3u8
+重庆卫视,http://221.3.133.164:8078/streams/d/00chongqingweishi/playlist.m3u8
+四川卫视,http://221.3.133.164:8078/streams/d/00sichuanweishi/playlist.m3u8
+天津卫视,http://221.3.133.164:8078/streams/d/00tianjinweishi/playlist.m3u8
+北京卫视,http://221.3.133.164:8078/streams/d/00beijingweishi/playlist.m3u8
+湖南卫视,http://221.3.133.164:8078/streams/d/0testtv13/playlist.m3u8
+浙江卫视,http://221.3.133.164:8078/streams/d/0testtv15/playlist.m3u8
+深圳IPTV
+CCTV-1,http://www.szmgiptv.com:14437/hls/01.m3u8
+CCTV-2,http://www.szmgiptv.com:14437/hls/02.m3u8
+CCTV5+,http://www.szmgiptv.com:14437/hls/03.m3u8
+江苏卫视,http://www.szmgiptv.com:14436/hls/05.m3u8
+浙江卫视,http://www.szmgiptv.com:14436/hls/06.m3u8
+深圳卫视,http://www.szmgiptv.com:14436/hls/07.m3u8
+都市,http://www.szmgiptv.com:14436/hls/08.m3u8
+DV生活,http://www.szmgiptv.com:14436/hls/09.m3u8
+体育健康,http://www.szmgiptv.com:14436/hls/10.m3u8
+电视剧,http://www.szmgiptv.com:14436/hls/11.m3u8
+DOXTV,http://www.szmgiptv.com:14437/hls/12.m3u8
+央视精品1,http://www.szmgiptv.com:14437/hls/13.m3u8
+央视精品2,http://www.szmgiptv.com:14437/hls/14.m3u8
+央视精品3,http://www.szmgiptv.com:14437/hls/15.m3u8
+广东卫视,http://www.szmgiptv.com:14437/hls/16.m3u8
+汕头1,http://www.szmgiptv.com:14436/hls/17.m3u8
+汕头2,http://www.szmgiptv.com:14436/hls/18.m3u8
+广东体育,http://www.szmgiptv.com:14437/hls/19.m3u8
+广东珠江,http://www.szmgiptv.com:14437/hls/20.m3u8
+经典电影,http://www.szmgiptv.com:14436/hls/25.m3u8
+北京卫视,http://www.szmgiptv.com:14437/hls/26.m3u8
+山东卫视,http://www.szmgiptv.com:14436/hls/27.m3u8
+惠州1,http://www.szmgiptv.com:14437/hls/28.m3u8
+惠州2,http://www.szmgiptv.com:14437/hls/29.m3u8
+CCTV-9,http://www.szmgiptv.com:14437/hls/30.m3u8
+CCTV-14,http://www.szmgiptv.com:14437/hls/31.m3u8
+湖北卫视,http://www.szmgiptv.com:14437/hls/32.m3u8
+四川卫视,http://www.szmgiptv.com:14436/hls/33.m3u8
+江西卫视,http://www.szmgiptv.com:14436/hls/34.m3u8
+CCTV-13,http://www.szmgiptv.com:14437/hls/35.m3u8
+CCTV-1,http://www.szmgiptv.com:14437/hls/01.m3u8
+CCTV-2,http://www.szmgiptv.com:14437/hls/02.m3u8
+CCTV5+,http://www.szmgiptv.com:14437/hls/03.m3u8
+CCTV-9,http://www.szmgiptv.com:14437/hls/30.m3u8
+CCTV-13,http://www.szmgiptv.com:14437/hls/35.m3u8
+CCTV-14,http://www.szmgiptv.com:14437/hls/31.m3u8
+江苏卫视,http://www.szmgiptv.com:14436/hls/05.m3u8
+浙江卫视,http://www.szmgiptv.com:14436/hls/06.m3u8
+深圳卫视,http://www.szmgiptv.com:14436/hls/07.m3u8
+深圳少儿,http://www.szmgiptv.com:14436/hls/21.m3u8
+深圳娱乐,http://www.szmgiptv.com:14436/hls/22.m3u8
+深圳公共,http://www.szmgiptv.com:14436/hls/23.m3u8
+深圳财经生活,http://www.szmgiptv.com:14436/hls/24.m3u8 
+深圳都市,http://www.szmgiptv.com:14436/hls/08.m3u8
+深圳DV生活,http://www.szmgiptv.com:14436/hls/09.m3u8
+体育健康,http://www.szmgiptv.com:14436/hls/10.m3u8
+广东卫视,http://www.szmgiptv.com:14437/hls/16.m3u8
+汕头1,http://www.szmgiptv.com:14436/hls/17.m3u8
+汕头2,http://www.szmgiptv.com:14436/hls/18.m3u8
+广东体育,http://www.szmgiptv.com:14437/hls/19.m3u8
+广东珠江,http://www.szmgiptv.com:14437/hls/20.m3u8
+北京卫视,http://www.szmgiptv.com:14437/hls/26.m3u8
+山东卫视,http://www.szmgiptv.com:14436/hls/27.m3u8
+惠州1,http://www.szmgiptv.com:14437/hls/28.m3u8
+惠州2,http://www.szmgiptv.com:14437/hls/29.m3u8
+湖北卫视,http://www.szmgiptv.com:14437/hls/32.m3u8
+四川卫视,http://www.szmgiptv.com:14436/hls/33.m3u8
+江西卫视,http://www.szmgiptv.com:14436/hls/34.m3u8
+深圳电视剧,http://www.szmgiptv.com:14436/hls/11.m3u8
+DOXTV,http://www.szmgiptv.com:14437/hls/12.m3u8
+央视精品1,http://www.szmgiptv.com:14437/hls/13.m3u8
+央视精品2,http://www.szmgiptv.com:14437/hls/14.m3u8
+央视精品3,http://www.szmgiptv.com:14437/hls/15.m3u8
+经典电影,http://www.szmgiptv.com:14436/hls/25.m3u8
+宁夏有线
+CCTV1,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900001&playtype=live&auth=no
+CCTV2,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900002&playtype=live&auth=no
+CCTV3,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900003&playtype=live&auth=no
+CCTV4,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900004&playtype=live&auth=no
+CCTV5,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900005&playtype=live&auth=no
+CCTV6,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900006&playtype=live&auth=no
+CCTV7,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900007&playtype=live&auth=no
+CCTV8,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900008&playtype=live&auth=no
+CCTV9,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900009&playtype=live&auth=no
+CCTV10,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900010&playtype=live&auth=no
+CCTV11,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900011&playtype=live&auth=no
+CCTV12,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900012&playtype=live&auth=no
+CCTV13,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900013&playtype=live&auth=no
+家有购物,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900014&playtype=live&auth=no
+CCTV14,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900015&playtype=live&auth=no
+宁夏公共,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900016&playtype=live&auth=no
+宁夏卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900017&playtype=live&auth=no
+宁夏经济,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900018&playtype=live&auth=no
+宁夏影视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900019&playtype=live&auth=no
+宁夏少儿,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900020&playtype=live&auth=no
+湖南卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900021&playtype=live&auth=no
+晴彩宁夏,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900022&playtype=live&auth=no
+银川公共,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900023&playtype=live&auth=no
+银川生活,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900024&playtype=live&auth=no
+银川文体,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900025&playtype=live&auth=no
+宁夏教育,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900026&playtype=live&auth=no
+江苏卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900027&playtype=live&auth=no
+浙江卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900028&playtype=live&auth=no
+山东卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900029&playtype=live&auth=no
+北京卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900030&playtype=live&auth=no
+东方卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900031&playtype=live&auth=no
+天津卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900032&playtype=live&auth=no
+重庆卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900033&playtype=live&auth=no
+安徽卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900034&playtype=live&auth=no
+甘肃卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900035&playtype=live&auth=no
+青海卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900036&playtype=live&auth=no
+环球购物,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900037&playtype=live&auth=no
+金鹰卡通,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900038&playtype=live&auth=no
+四川卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900039&playtype=live&auth=no
+云南卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900040&playtype=live&auth=no
+贵州卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900041&playtype=live&auth=no
+内蒙古卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900042&playtype=live&auth=no
+河北卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900043&playtype=live&auth=no
+山西卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900044&playtype=live&auth=no
+辽宁卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900045&playtype=live&auth=no
+吉林卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900046&playtype=live&auth=no
+黑龙江卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900047&playtype=live&auth=no
+河南卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900048&playtype=live&auth=no
+陕西卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900049&playtype=live&auth=no
+湖北卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900050&playtype=live&auth=no
+江西卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900051&playtype=live&auth=no
+东南卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900052&playtype=live&auth=no
+广东卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900053&playtype=live&auth=no
+广西卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900054&playtype=live&auth=no
+深圳卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900055&playtype=live&auth=no
+旅游卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900056&playtype=live&auth=no
+兵团卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900057&playtype=live&auth=no
+CCTVNEWS,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900058&playtype=live&auth=no
+CCTV阿语,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900059&playtype=live&auth=no
+CCTV15,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900060&playtype=live&auth=no
+CETV1,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900061&playtype=live&auth=no
+新疆卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900062&playtype=live&auth=no
+西藏卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900063&playtype=live&auth=no
+气象频道,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900064&playtype=live&auth=no
+中学生,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900065&playtype=live&auth=no
+CHC家庭影院,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900066&playtype=live&auth=no
+国防军事,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900067&playtype=live&auth=no
+靓装频道,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900068&playtype=live&auth=no
+考试在线,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900069&playtype=live&auth=no
+四海钓鱼,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900070&playtype=live&auth=no
+车迷频道,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900071&playtype=live&auth=no
+新娱乐,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900072&playtype=live&auth=no
+人物频道,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900073&playtype=live&auth=no
+环球旅游,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900074&playtype=live&auth=no
+天下收藏,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900075&playtype=live&auth=no
+武术世界,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900076&playtype=live&auth=no
+财富天下,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900077&playtype=live&auth=no
+发现之旅,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900078&playtype=live&auth=no
+英语辅助,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900079&playtype=live&auth=no
+时代出行,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900080&playtype=live&auth=no
+天元围棋,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900081&playtype=live&auth=no
+摄影频道,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900082&playtype=live&auth=no
+怀旧剧场,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900083&playtype=live&auth=no
+风云音乐,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900084&playtype=live&auth=no
+风云剧场,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900085&playtype=live&auth=no
+时代美食,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900086&playtype=live&auth=no
+新科动漫,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900087&playtype=live&auth=no
+快乐宠物,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900088&playtype=live&auth=no
+风云足球,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900089&playtype=live&auth=no
+书画频道,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900090&playtype=live&auth=no
+老故事,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900091&playtype=live&auth=no
+世界地理,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900092&playtype=live&auth=no
+环球奇观,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900093&playtype=live&auth=no
+第一剧场,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900094&playtype=live&auth=no
+文化精品,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900095&playtype=live&auth=no
+女性时尚,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900096&playtype=live&auth=no
+早期教育,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900097&playtype=live&auth=no
+梨园频道,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900098&playtype=live&auth=no
+老年福,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900099&playtype=live&auth=no
+CHC动作电影,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900100&playtype=live&auth=no
+先锋乒羽,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900101&playtype=live&auth=no
+中华美食,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900102&playtype=live&auth=no
+网络棋牌,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900103&playtype=live&auth=no
+新动漫,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900104&playtype=live&auth=no
+吉林篮球,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900105&playtype=live&auth=no
+华娱卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900106&playtype=live&auth=no
+凤凰卫视,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900107&playtype=live&auth=no
+TVB8,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900109&playtype=live&auth=no
+凤凰资讯,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900110&playtype=live&auth=no
+STAR MOVIES,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900111&playtype=live&auth=no
+channel V,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900113&playtype=live&auth=no
+NATIONAL GEOGRAPHIC,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900114&playtype=live&auth=no
+台湾HBO,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900115&playtype=live&auth=no
+天映频道,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900116&playtype=live&auth=no
+CCTV1HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900119&playtype=live&auth=no
+CCTV5体育赛事HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900120&playtype=live&auth=no
+CHC高清电影,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900121&playtype=live&auth=no
+北京卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900122&playtype=live&auth=no
+东方卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900123&playtype=live&auth=no
+湖南卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900124&playtype=live&auth=no
+江苏卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900125&playtype=live&auth=no
+浙江卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900126&playtype=live&auth=no
+广东卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900127&playtype=live&auth=no
+深圳卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900128&playtype=live&auth=no
+CCTV3HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900129&playtype=live&auth=no
+CCTV5HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900130&playtype=live&auth=no
+CCTV6HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900131&playtype=live&auth=no
+CCTV8HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900132&playtype=live&auth=no
+天津卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900133&playtype=live&auth=no
+山东卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900134&playtype=live&auth=no
+湖北卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900135&playtype=live&auth=no
+黑龙江卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900136&playtype=live&auth=no
+CCTV2HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900137&playtype=live&auth=no
+CCTV7HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900138&playtype=live&auth=no
+CCTV9HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900139&playtype=live&auth=no
+CCTV10HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900140&playtype=live&auth=no
+CCTV12HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900141&playtype=live&auth=no
+CCTV14HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900142&playtype=live&auth=no
+辽宁卫视HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900143&playtype=live&auth=no
+艺华HD影院,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900144&playtype=live&auth=no
+艺华HD剧场,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900145&playtype=live&auth=no
+艺华HD时尚,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900146&playtype=live&auth=no
+艺华HD美食,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900147&playtype=live&auth=no
+都市剧场,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900149&playtype=live&auth=no
+欢笑剧场,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900150&playtype=live&auth=no
+生活时尚,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900151&playtype=live&auth=no
+全纪实,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900152&playtype=live&auth=no
+劲爆体育,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900153&playtype=live&auth=no
+魅力音乐,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900154&playtype=live&auth=no
+幸福彩,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900155&playtype=live&auth=no
+动漫秀场,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900156&playtype=live&auth=no
+游戏风云,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900157&playtype=live&auth=no
+求索纪录,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900158&playtype=live&auth=no
+求索动物,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900159&playtype=live&auth=no
+求索生活,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900160&playtype=live&auth=no
+求索科学,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900161&playtype=live&auth=no
+HOT亚洲影院,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900162&playtype=live&auth=no
+HOT欧美影院,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900163&playtype=live&auth=no
+HOT精品剧场,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900164&playtype=live&auth=no
+新视觉HD,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900165&playtype=live&auth=no
+HOT风尚音乐,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900166&playtype=live&auth=no
+HOT少儿动漫,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900167&playtype=live&auth=no
+HOT高清娱乐,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900169&playtype=live&auth=no
+HOT探索纪录,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900170&playtype=live&auth=no
+优漫卡通,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900172&playtype=live&auth=no
+游戏竞技,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900173&playtype=live&auth=no
+家有购物,http://42.63.204.15:13160/playurl?accesstoken=TSYH0DNT8H37NHKO8MEWW2LJIYOL00UGFK50010304W35336&programid=4200900174&playtype=live&auth=no
+天津频道
+CCTV2,http://sumaportal.ottstar.com:1935/dvr/20040_3.stream/chunklist.m3u8?DVR
+CCTV7,http://sumaportal.ottstar.com:1935/dvr/20041_3.stream/chunklist.m3u8?DVR
+CCTV10,http://sumaportal.ottstar.com:1935/dvr/20042_3.stream/chunklist.m3u8?DVR
+CCTV11,http://sumaportal.ottstar.com:1935/dvr/20043_3.stream/chunklist.m3u8?DVR
+CCTV12,http://sumaportal.ottstar.com:1935/dvr/20044_3.stream/chunklist.m3u8?DVR
+CCTV15,http://sumaportal.ottstar.com:1935/dvr/20045_3.stream/chunklist.m3u8?DVR
+浙江卫视,http://sumaportal.ottstar.com:1935/dvr/20065_3.stream/chunklist.m3u8?DVR
+山西卫视,http://sumaportal.ottstar.com:1935/dvr/20060_3.stream/chunklist.m3u8?DVR
+云南卫视,http://sumaportal.ottstar.com:1935/dvr/20061_3.stream/chunklist.m3u8?DVR
+天津卫视,http://sumaportal.ottstar.com:1935/dvr/20055_3.stream/chunklist.m3u8?DVR
+天津新闻,http://sumaportal.ottstar.com:1935/dvr/20034_3.stream/chunklist.m3u8?DVR
+天津文艺,http://sumaportal.ottstar.com:1935/dvr/20035_3.stream/chunklist.m3u8?DVR
+天津影视,http://sumaportal.ottstar.com:1935/dvr/20036_3.stream/chunklist.m3u8?DVR
+天津都市,http://sumaportal.ottstar.com:1935/dvr/20037_3.stream/chunklist.m3u8?DVR
+天津体育,http://sumaportal.ottstar.com:1935/dvr/20038_3.stream/chunklist.m3u8?DVR
+天津科教,http://sumaportal.ottstar.com:1935/dvr/20063_3.stream/chunklist.m3u8?DVR
+天津少儿,http://sumaportal.ottstar.com:1935/dvr/20059_3.stream/chunklist.m3u8?DVR
+天津公共,http://sumaportal.ottstar.com:1935/dvr/20039_3.stream/chunklist.m3u8?DVR
+滨海1,http://sumaportal.ottstar.com:1935/dvr/20011_3.stream/chunklist.m3u8?DVR
+滨海2,http://sumaportal.ottstar.com:1935/dvr/20010_3.stream/chunklist.m3u8?DVR
+深圳天威
+CCTV1HD,rtmp://219.232.160.161:1935/livestream/pajaki89
+CCTV2HD,rtmp://219.232.160.161:1935/livestream/rrzmuhnm
+CCTV2HD,rtmp://219.232.160.161:1935/livestream/rrzmuhnm
+CCTV3HD,rtmp://219.232.160.161:1935/livestream/ahqmwz8a
+CCTV4SD,rtmp://219.232.160.161:1935/livestream/6x3exjmc
+CCTV5HD,rtmp://219.232.160.161:1935/livestream/fz5h64cq
+CCTV5jHD,rtmp://219.232.160.161:1935/livestream/6qrr3ik5
+CCTV6HD,rtmp://219.232.160.161:1935/livestream/gyrzqju5
+CCTV8HD,rtmp://219.232.160.161:1935/livestream/5kzu6s4r
+CCTV9SD,rtmp://219.232.160.161:1935/livestream/7veuqk6r
+CCTV13SD,rtmp://219.232.160.161:1935/livestream/uw78vz3f
+MTV,rtmp://219.232.160.161:1935/livestream/bm8d5c2h
+本港台,rtmp://219.232.160.161:1935/livestream/itczfxp2
+翡翠台,rtmp://219.232.160.161:1935/livestream/bycgekwh
+明珠台,rtmp://219.232.160.161:1935/livestream/b2xajcu7
+本港国际台,rtmp://219.232.160.161:1935/livestream/2nrdmftx
+凤凰电影台,rtmp://219.232.160.161:1935/livestream/fdwypqk6
+湖南卫视HD,rtmp://219.232.160.161:1935/livestream/3xb6amk7
+广东卫视HD2000K,rtmp://219.232.160.161:1935/livestream/3xb6amk
+广东卫视HD,rtmp://219.232.160.161:1935/livestream/2r8aaf9n
+北京卫视HD,rtmp://219.232.160.161:1935/livestream/ehr6feg6
+东方卫视HD2000K,rtmp://219.232.160.161:1935/livestream/3bxnzs49
+东方卫视HD,rtmp://219.232.160.161:1935/livestream/k3ywhta4
+江苏卫视HD,rtmp://219.232.160.161:1935/livestream/6k6juwt4
+浙江卫视HD,rtmp://219.232.160.161:1935/livestream/sg4zckuw
+天津卫视HD,rtmp://219.232.160.161:1935/livestream/9qe8kz6b
+南方少儿,rtmp://219.232.160.161:1935/livestream/k9j8ij3v
+深圳财经台,rtmp://219.232.160.161:1935/livestream/gmaduiwy
+深圳公共台,rtmp://219.232.160.161:1935/livestream/49r8htka
+德州有线
+CCTV-1HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000064
+CCTV-3HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000065
+CCTV-5HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000066
+CCTV-5+HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000067
+CCTV-6HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000068
+CCTV-8HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000069
+CCTV-2,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000017
+CCTV-4,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000019
+CCTV-7,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000083
+CCTV-9,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000023
+CCTV-10,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000024
+CCTV-11,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000086
+CCTV-12,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000084
+CCTV-13,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000016
+CCTV-14,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000158
+CCTV-14,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000082
+CCTV-15,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000085
+CCTNEWS,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000087
+CCTV-老故事,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000142
+CCTV-国防军事,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000114
+CCTV-第一剧场,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000145
+CCTV-风云剧场,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000150
+CCTV-怀旧剧场,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000151
+CCTV-风云足球,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000153
+CCTV-发现之旅,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000164
+CCTV-电视指南,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000093
+CCTV-世界地理,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000163
+CCTV-新科动漫,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000160
+CCTV-英语辅导,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000155
+中教一台,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000091
+中教二台,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000092
+中教三台,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000159
+中教四台,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000111
+CHC家庭影院,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000116
+CHC动作电影,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000117
+V音乐,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000191
+星空卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000192
+凤凰中文,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000193
+凤凰资讯,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000194
+澳亚卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000197
+尚.TVHD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000222
+幸福彩HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000220
+新视觉HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000217
+劲爆体育HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000216
+动漫视界HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000228
+动漫秀场HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000229
+北京纪实HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000231
+上海纪实HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000232
+湖南卫视HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000072
+山东卫视HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000070
+北京卫视HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000071
+浙江卫视HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000073
+江苏卫视HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000074
+深圳卫视HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000078
+广东卫视HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000079
+东方卫视HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000075
+黑龙江卫视HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000077
+探索频道HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000141
+探索发现HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000218
+自然传奇HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000219
+生活时尚HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000221
+美食之旅HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000223
+环球新艺HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000224
+演唱会HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000225
+音乐会HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000226
+音乐电视HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000227
+天天精选HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000203
+好莱坞电影HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000204
+院线电影HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000205
+悬疑电影HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000206
+经典电影HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000207
+欧美电影HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000208
+亚洲电影HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000209
+热播美剧HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000210
+影像英伦HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000211
+韩流新映HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000212
+宝岛宜家HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000213
+同步剧场HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000214
+紫荆剧场HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000215
+电影1HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000177
+电影2HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000178
+电影3HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000138
+动画HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000139
+旅游HD,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000140
+垫片1,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000179
+垫片2,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000180
+垫片3,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000181
+先锋羽乒,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000118
+收藏天下,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000124
+中华美食,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000119
+早期教育,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000159
+宝贝家,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000157
+早幼教,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000183
+优优宝贝,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000122
+时代风尚,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000125
+环球奇观,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000162
+车迷频道,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000126
+时代美食,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000127
+时代出行,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000133
+环球旅游,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000128
+电子体育,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000112
+考试在线,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000123
+时代家居,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000131
+四海钓鱼,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000132
+留学世界,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000156
+快乐宠物,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000136
+茶频道,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000152
+小学一年级,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000184
+小学二年级,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000185
+小学三年级,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000186
+小学四年级,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000187
+小学五年级,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000188
+小学六年级,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000189
+金鹰卡通,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000080
+卡酷少儿,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000081
+炫动卡通,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000143
+山东齐鲁,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000007
+山东影视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000008
+山东体育,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000009
+山东生活,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000010
+山东综艺,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000011
+山东少儿,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000012
+山东公共,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000013
+山东农科,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000014
+山东教育,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000015
+德州新闻,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000003
+德州生活,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000004
+德州娱乐,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000005
+德州时尚,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000190
+吉林篮球,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000154
+东方购物,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000054
+天津卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000031
+重庆卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000033
+云南卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000034
+江西卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000035
+广西卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000038
+辽宁卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000041
+安徽卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000043
+河南卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000044
+河北卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000045
+贵州卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000046
+湖北卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000048
+吉林卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000049
+陕西卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000050
+四川卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000051
+山西卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000052
+内蒙古卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000053
+青海卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000055
+东南卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000056
+旅游卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000144
+新疆卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000058
+西藏卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000059
+兵团卫视,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000060
+twtv
+CNN,http://fu2.ottclub.info:1935/live/c175.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+11,rtmp://s02.ottclub.info:1935/live/c175.stream
+BBC,http://fu2.ottclub.info:1935/live/c177.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+BBC lifestyle,http://fu3.ottclub.info:1935/live/c219.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+公視 HD,http://fu1.ottclub.info:1935/live/c239.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+公視,http://fu1.ottclub.info:1935/live/c229.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+民視 HD,http://fu3.ottclub.info:1935/live/c192.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+FSTV HD,http://fu3.ottclub.info:1935/live/c193.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+台視綜合台,http://fu3.ottclub.info:1935/live/c171.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+中視 HD,http://fu1.ottclub.info:1935/live/c174.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+BRAVO 菁采台,http://fu3.ottclub.info:1935/live/c201.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+大愛 HD,http://fu2.ottclub.info:1935/live/c059.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+華視 HD,http://fu2.ottclub.info:1935/live/c172.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+探索科學台 HD,http://fu3.ottclub.info:1935/live/c247.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+DMAX HD,http://fu1.ottclub.info:1935/live/c200.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+EVE HD,http://fu3.ottclub.info:1935/live/c243.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+國家地理優人台 HD,http://fu3.ottclub.info:1935/live/c245.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+國家地理頻道台 HD,http://fu3.ottclub.info:1935/live/c206.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+Discovery HD,http://fu3.ottclub.info:1935/live/c244.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+TLC,http://fu2.ottclub.info:1935/live/c170.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+動物星球台,http://fu2.ottclub.info:1935/live/c176.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+卡通頻道台,http://fu2.ottclub.info:1935/live/c178.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+迪士尼頻道台,http://fu2.ottclub.info:1935/live/c198.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+MOMO 親子台,http://fu2.ottclub.info:1935/live/c168.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森幼幼台,http://fu1.ottclub.info:1935/live/c227.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+緯來綜合台,http://fu3.ottclub.info:1935/live/c235.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+八大第一台 HD,http://fu1.ottclub.info:1935/live/c157.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+八大綜合台 HD,http://fu1.ottclub.info:1935/live/c197.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+三立台灣台 HD,http://fu3.ottclub.info:1935/live/c196.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+三立都會台 HD,http://fu1.ottclub.info:1935/live/c159.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+衛視中文台 HD,http://fu1.ottclub.info:1935/live/c158.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森綜合台,http://fu3.ottclub.info:1935/live/c237.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森超視台,http://fu1.ottclub.info:1935/live/c195.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+Channal M HD,http://fu3.ottclub.info:1935/live/c240.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+KMTV HD,http://fu3.ottclub.info:1935/live/c218.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+中天綜合台 HD,http://fu3.ottclub.info:1935/live/c220.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東風衛視台,http://fu2.ottclub.info:1935/live/c214.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+MUCH 台,http://fu1.ottclub.info:1935/live/c226.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+中天娛樂台,http://fu1.ottclub.info:1935/live/c228.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森戲劇台,http://fu2.ottclub.info:1935/live/c169.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+八大戲劇台,http://fu2.ottclub.info:1935/live/c215.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+TVBS 歡樂台 HD,http://fu3.ottclub.info:1935/live/c160.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+緯來戲劇台,http://fu2.ottclub.info:1935/live/c210.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+星衛娛樂台 HD,http://fu3.ottclub.info:1935/live/c242.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+衛視合家歡台,http://fu2.ottclub.info:1935/live/c211.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+JET 綜合台,http://fu1.ottclub.info:1935/live/c225.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+DIVA HD,http://fu1.ottclub.info:1935/live/c156.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+SYFY HD,http://fu3.ottclub.info:1935/live/c216.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+壹電視新聞台 HD,http://fu1.ottclub.info:1935/live/c232.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+年代新聞台 HD,http://fu3.ottclub.info:1935/live/c236.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森新聞台 HD,http://fu1.ottclub.info:1935/live/c191.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+中天新聞台 HD,http://fu1.ottclub.info:1935/live/c188.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+民視新聞台 HD,http://fu1.ottclub.info:1935/live/c187.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+三立新聞台 HD,http://fu3.ottclub.info:1935/live/c161.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+TVBS 新聞台 HD,http://fu3.ottclub.info:1935/live/c162.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+TVBS 台 HD,http://fu1.ottclub.info:1935/live/c189.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森財經新聞台,http://fu2.ottclub.info:1935/live/c233.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+非凡新聞台,http://fu2.ottclub.info:1935/live/c212.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+FOX CRIME HD,http://fu1.ottclub.info:1935/live/c155.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+FX HD,http://fu3.ottclub.info:1935/live/c238.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+衛視電影台,http://fu2.ottclub.info:1935/live/c167.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森電影台,http://fu2.ottclub.info:1935/live/c234.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+星衛電影台 HD,http://fu1.ottclub.info:1935/live/c205.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+美亞電影台 HD,http://fu1.ottclub.info:1935/live/c204.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+HBO HD,http://fu1.ottclub.info:1935/live/c185.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森洋片台,http://fu2.ottclub.info:1935/live/c194.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+福斯家庭電影台 HD,http://fu1.ottclub.info:1935/live/c202.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+Universal HD,http://fu1.ottclub.info:1935/live/c203.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+Star Movies HD,http://fu3.ottclub.info:1935/live/c246.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+CINEMAX,http://fu1.ottclub.info:1935/live/c199.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+緯來育樂台,http://fu2.ottclub.info:1935/live/c166.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+緯來體育台 HD,http://fu3.ottclub.info:1935/live/c163.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+FOX3 HD,http://fu3.ottclub.info:1935/live/c230.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+衛視體育台 HD,http://fu2.ottclub.info:1935/live/c165.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+緯來日本台,http://fu2.ottclub.info:1935/live/c164.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+愛爾達體育台 HD,http://fu3.ottclub.info:1935/live/c217.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+國興衛視台,http://fu2.ottclub.info:1935/live/c213.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+FOX HD,http://fu1.ottclub.info:1935/live/c231.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+HBO 原創 HD,http://fu1.ottclub.info:1935/live/c190.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+HBO 強檔 HD,http://fu1.ottclub.info:1935/live/c184.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+HBO 溫馨 HD,http://fu1.ottclub.info:1935/live/c186.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+博斯高球 II 台 HD,http://fu3.ottclub.info:1935/live/c209.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+博斯運動台 HD,http://fu3.ottclub.info:1935/live/c208.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+GOLF CHANNAL HD,http://fu1.ottclub.info:1935/live/c222.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+ASN 全美運動台 HD,http://fu1.ottclub.info:1935/live/c221.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+BabyTV HD,http://fu1.ottclub.info:1935/live/c224.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+Disney Junior,http://fu1.ottclub.info:1935/live/c223.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+MTV HD,http://fu3.ottclub.info:1935/live/c241.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+霹靂台灣台,http://fu2.ottclub.info:1935/live/c173.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+罪案偵緝頻道 HD,http://fu2.ottclub.info:1935/live/c058.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+NHK,http://fu2.ottclub.info:1935/live/c060.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+強檔電影,http://fu2.ottclub.info:1935/live/c987.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+港台強檔,http://fu2.ottclub.info:1935/live/c985.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+歐美電影,http://fu2.ottclub.info:1935/live/c981.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+好球天團第一季,http://fu2.ottclub.info:1935/live/c982.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+太陽的後裔,http://fu2.ottclub.info:1935/live/c983.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+海賊王,http://fu1.ottclub.info:1935/live/c307.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+CNN 標清,http://fu2.ottclub.info:1935/live/c675.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+BBC 標清,http://fu2.ottclub.info:1935/live/c677.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+BBC lifestyle 標清,http://fu3.ottclub.info:1935/live/c719.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+公視 HD 標清,http://fu1.ottclub.info:1935/live/c739.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+公視標清,http://fu1.ottclub.info:1935/live/c729.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+民視 HD 標清,http://fu3.ottclub.info:1935/live/c692.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+FSTV 標清,http://fu3.ottclub.info:1935/live/c693.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+台視綜合標清,http://fu1.ottclub.info:1935/live/c671.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+中視 HD 標清,http://fu1.ottclub.info:1935/live/c674.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+BRAVO 菁采台標清,http://fu3.ottclub.info:1935/live/c701.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+大愛 HD 標清,http://fu2.ottclub.info:1935/live/c559.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+華視 HD 標清,http://fu2.ottclub.info:1935/live/c672.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+探索科學台標清,http://fu3.ottclub.info:1935/live/c747.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+DMAX 標清,http://fu1.ottclub.info:1935/live/c700.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+EVE 標清,http://fu3.ottclub.info:1935/live/c743.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+國家地理優人台標清,http://fu3.ottclub.info:1935/live/c745.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+國家地理頻道台標清,http://fu3.ottclub.info:1935/live/c706.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+Discovery 標清,http://fu3.ottclub.info:1935/live/c744.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+TLC 標清,http://fu1.ottclub.info:1935/live/c670.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+動物星球台標清,http://fu2.ottclub.info:1935/live/c676.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+卡通頻道台標清,http://fu2.ottclub.info:1935/live/c678.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+迪士尼頻道台標清,http://fu1.ottclub.info:1935/live/c698.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+MOMO 親子台標清,http://fu1.ottclub.info:1935/live/c668.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森幼幼台標清,http://fu1.ottclub.info:1935/live/c727.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+緯來綜合台標清,http://fu3.ottclub.info:1935/live/c735.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+八大第一台標清,http://fu1.ottclub.info:1935/live/c657.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+八大綜合台標清,http://fu1.ottclub.info:1935/live/c697.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+三立台灣台標清,http://fu3.ottclub.info:1935/live/c696.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+三立都會台標清,http://fu1.ottclub.info:1935/live/c659.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+衛視中文台標清,http://fu1.ottclub.info:1935/live/c658.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森綜合台標清,http://fu3.ottclub.info:1935/live/c737.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+超視台標清,http://fu1.ottclub.info:1935/live/c695.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+Channal M 標清,http://fu3.ottclub.info:1935/live/c740.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+KMTV 標清,http://fu3.ottclub.info:1935/live/c718.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+中天綜合台標清,http://fu3.ottclub.info:1935/live/c720.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東風衛視台標清,http://fu3.ottclub.info:1935/live/c714.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+MUCH 台標清,http://fu1.ottclub.info:1935/live/c726.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+中天娛樂台標清,http://fu1.ottclub.info:1935/live/c728.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森戲劇台標清,http://fu1.ottclub.info:1935/live/c669.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+八大戲劇台標清,http://fu3.ottclub.info:1935/live/c715.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+TVBS 歡樂台標清,http://fu1.ottclub.info:1935/live/c660.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+緯來戲劇台標清,http://fu3.ottclub.info:1935/live/c710.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+星衛娛樂台標清,http://fu3.ottclub.info:1935/live/c742.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+衛視合家歡台標清,http://fu1.ottclub.info:1935/live/c711.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+JET 綜合台標清,http://fu1.ottclub.info:1935/live/c725.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+DIVA 標清,http://fu3.ottclub.info:1935/live/c656.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+SYFY 標清,http://fu3.ottclub.info:1935/live/c716.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+壹電視新聞台標清,http://fu1.ottclub.info:1935/live/c732.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+年代新聞台標清,http://fu3.ottclub.info:1935/live/c736.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森新聞台標清,http://fu1.ottclub.info:1935/live/c691.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+中天新聞台標清,http://fu1.ottclub.info:1935/live/c688.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+民視新聞台標清,http://fu1.ottclub.info:1935/live/c687.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+三立新聞台標清,http://fu1.ottclub.info:1935/live/c661.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+TVBS 新聞台標清,http://fu2.ottclub.info:1935/live/c662.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+TVBS 台標清,http://fu2.ottclub.info:1935/live/c689.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森財經新聞台標清,http://fu3.ottclub.info:1935/live/c733.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+非凡新聞台標清,http://fu1.ottclub.info:1935/live/c712.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+FOX CRIME 標清,http://fu3.ottclub.info:1935/live/c655.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+FX 標清,http://fu3.ottclub.info:1935/live/c738.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+衛視電影台標清,http://fu1.ottclub.info:1935/live/c667.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森電影台標清,http://fu3.ottclub.info:1935/live/c734.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+星衛電影台標清,http://fu3.ottclub.info:1935/live/c705.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+美亞電影台標清,http://fu3.ottclub.info:1935/live/c704.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+HBO 標清,http://fu1.ottclub.info:1935/live/c685.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+東森洋片台標清,http://fu3.ottclub.info:1935/live/c694.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+福斯家庭電影台標清,http://fu1.ottclub.info:1935/live/c702.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+Universal 標清,http://fu3.ottclub.info:1935/live/c703.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+Star Movies 標清,http://fu3.ottclub.info:1935/live/c746.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+CINEMAX 標清,http://fu1.ottclub.info:1935/live/c699.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+緯來育樂台標清,http://fu1.ottclub.info:1935/live/c666.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+緯來體育台標清,http://fu3.ottclub.info:1935/live/c663.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+FOX3 標清,http://fu3.ottclub.info:1935/live/c730.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+衛視體育台標清,http://fu3.ottclub.info:1935/live/c665.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+緯來日本台標清,http://fu3.ottclub.info:1935/live/c664.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+愛爾達體育台標清,http://fu3.ottclub.info:1935/live/c717.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+國興衛視台標清,http://fu3.ottclub.info:1935/live/c713.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+FOX 標清,http://fu3.ottclub.info:1935/live/c731.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+HBO 原創台標清,http://fu1.ottclub.info:1935/live/c690.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+HBO 強檔台標清,http://fu1.ottclub.info:1935/live/c684.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+HBO 溫馨台標清,http://fu1.ottclub.info:1935/live/c686.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+博斯高球 II 台標清,http://fu3.ottclub.info:1935/live/c709.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+博斯運動台標清,http://fu3.ottclub.info:1935/live/c708.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+GOLF CHANNAL 標清,http://fu1.ottclub.info:1935/live/c722.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+ASN 全美運動標清,http://fu1.ottclub.info:1935/live/c721.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+BabyTV 標清,http://fu1.ottclub.info:1935/live/c724.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+Disney Junior 標清,http://fu1.ottclub.info:1935/live/c723.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+MTV 標清,http://fu3.ottclub.info:1935/live/c741.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+霹靂台灣台標清,http://fu2.ottclub.info:1935/live/c673.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+罪案偵緝頻道標清,http://fu2.ottclub.info:1935/live/c558.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+NHK 標清,http://fu2.ottclub.info:1935/live/c560.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+強檔電影標清,http://fu2.ottclub.info:1935/live/c987.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+港台強檔標清,http://fu2.ottclub.info:1935/live/c985.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+歐美電影標清,http://fu2.ottclub.info:1935/live/c981.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+好球天團第一季標清,http://fu2.ottclub.info:1935/live/c982.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+太陽的後裔標清,http://fu2.ottclub.info:1935/live/c983.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+海賊王標清,http://fu1.ottclub.info:1935/live/c307.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+PP星火
+CCTV-13新闻,http://anchoredinversion.com/tv/m3u8/pp.php?id=cctv13
+CCTV证券资讯,http://anchoredinversion.com/tv/m3u8/pp.php?id=zqzx
+CETV1中国教育,http://anchoredinversion.com/tv/m3u8/pp.php?id=cetv1
+东方电影,http://anchoredinversion.com/tv/m3u8/pp.php?id=dfdy
+凤凰中文,http://anchoredinversion.com/tv/m3u8/pp.php?id=fhzw
+凤凰资讯,http://anchoredinversion.com/tv/m3u8/pp.php?id=fhzx
+北京卫视HD,http://anchoredinversion.com/tv/m3u8/pp.php?id=bjwshd
+山东卫视HD,http://anchoredinversion.com/tv/m3u8/pp.php?id=sdwshd
+天津卫视HD,http://anchoredinversion.com/tv/m3u8/pp.php?id=tjwshd
+安徽卫视HD,http://anchoredinversion.com/tv/m3u8/pp.php?id=ahwshd
+深圳卫视HD,http://anchoredinversion.com/tv/m3u8/pp.php?id=szwshd
+湖北卫视HD,http://anchoredinversion.com/tv/m3u8/pp.php?id=hbwshd
+东方卫视HD,http://anchoredinversion.com/tv/m3u8/pp.php?id=dfwshd
+江苏卫视HD,http://anchoredinversion.com/tv/m3u8/pp.php?id=jswshd
+甘肃卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=gsws
+海峡卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=hxws
+兵团卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=btws
+河北卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=hews
+河南卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=haws
+山西卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=sxws
+厦门卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=xmws
+陕西卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=snws
+内蒙古卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=nmgws
+贵州卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=gzws
+吉林卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=jlws
+广西卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=gxws
+青海卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=qhws
+宁夏卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=nxws
+新疆卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=xjws
+西藏卫视,http://anchoredinversion.com/tv/m3u8/pp.php?id=xzws
+上海纪实,http://anchoredinversion.com/tv/m3u8/pp.php?id=shjs
+上海教育,http://anchoredinversion.com/tv/m3u8/pp.php?id=shjy
+上海娱乐,http://anchoredinversion.com/tv/m3u8/pp.php?id=shyl
+上海电视剧,http://anchoredinversion.com/tv/m3u8/pp.php?id=shdsj
+上海新闻综合,http://anchoredinversion.com/tv/m3u8/pp.php?id=shxw
+上海星尚,http://anchoredinversion.com/tv/m3u8/pp.php?id=shxs
+上海艺术人文,http://anchoredinversion.com/tv/m3u8/pp.php?id=ysrw
+上海ICS,http://anchoredinversion.com/tv/m3u8/pp.php?id=shwy
+上海第一财经,http://anchoredinversion.com/tv/m3u8/pp.php?id=dycj
+东方财经,http://anchoredinversion.com/tv/m3u8/pp.php?id=dfcj
+东方购物,http://anchoredinversion.com/tv/m3u8/pp.php?id=dfgw
+炫动卡通,http://anchoredinversion.com/tv/m3u8/pp.php?id=xdkt
+广东房产,http://anchoredinversion.com/tv/m3u8/pp.php?id=gdfc
+广东会展,http://anchoredinversion.com/tv/m3u8/pp.php?id=gdhz
+广州综合,http://anchoredinversion.com/tv/m3u8/pp.php?id=gdgzzh
+广州新闻,http://anchoredinversion.com/tv/m3u8/pp.php?id=gdgzxw
+广州影视,http://anchoredinversion.com/tv/m3u8/pp.php?id=gdgzys
+广州经济,http://anchoredinversion.com/tv/m3u8/pp.php?id=gdgzjj
+广州少儿,http://anchoredinversion.com/tv/m3u8/pp.php?id=gdgzse
+湖北公共,http://anchoredinversion.com/tv/m3u8/pp.php?id=hbgg
+湖北经视,http://anchoredinversion.com/tv/m3u8/pp.php?id=hbjs
+湖北教育,http://anchoredinversion.com/tv/m3u8/pp.php?id=hbjy
+湖北电视台,http://anchoredinversion.com/tv/m3u8/pp.php?id=hnws
+湖北垄上,http://anchoredinversion.com/tv/m3u8/pp.php?id=zjws
 平遥
 天映频道,http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=TZ0NABVFSB8XYEO961YOH0VGZM1459869471K50009148W380797&programid=4200000105&playtoken=TZ0NABVFSB8XYEO961YOH0VGZM1459869471K50009148W380797&programid=31609PIAZGZAAAA1&verifycode=11814&rate=raw&auth=no
 高清电影,http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=TZ0NABVFSB8XYEO961YOH0VGZM1459869471K50009148W380797&programid=4200000102&playtoken=TZ0NABVFSB8XYEO961YOH0VGZM1459869471K50009148W380797&programid=31609PIAZGZAAAA1&verifycode=11814&rate=raw&auth=no
