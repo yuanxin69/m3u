@@ -23,6 +23,18 @@ http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
 #EXTINF:-1 group-title="成人频道",韩国有码成人高清11
 http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
 
+#EXTINF:-1 group-title="成人点播",VIP频道 ★ 1
+http://101.36.100.85/data/2/03/bf/03bf4aba99f4e650e8b5cfd19ed8cd64.mp4/realuri/162.218.52.214/media/videos/mp4/1254.mp4?st=RHVyEwbi90Yu05t3wKfmTQ&amp;e=1459186293
+#EXTINF:-1 group-title="成人点播",VIP频道 ★ 2
+http://120.52.73.8/162.218.52.214:80/media/videos/mp4/144.mp4?st=I9xka3dtlb-mXFCmeWNLSA&amp;e=145938277188bed374b26b6449bf2c0cd
+#EXTINF:-1 group-title="成人点播",VIP频道 ★ 3
+http://162.218.52.214/media/videos/mp4/138.mp4?time=1459297287&amp;cv=10a8f1f44157a6c9b439380bdfb78d4f&amp;lr=0&amp;id=undelient609395b404
+#EXTINF:-1 group-title="成人点播",VIP频道 ★ 4
+http://162.218.52.214/media/videos/mp4/194.mp4?0cc4d3bce6af609395b404eb7c0c87bc/media/videos9b439380bdfb78d59297287&amp;cv=1051862e16e81e1
+#EXTINF:-1 group-title="成人点播",VIP频道 ★ 5
+http://101.36.100.85/data/1/0c/c4/0cc4d3bce6af609395b404eb7c0c87bc.mp4/realuri/162.218.52.214/media/videos/mp4/1213.mp4?st=HhvpPqRjSJR4oK9BWkESZw&amp;e=1459180978
+#EXTINF:-1 group-title="成人点播",VIP频道 ★ 6
+http://120.52.73.4/162.218.52.214/media/videos/mp4/133_hd.mp4?st=zWVHNxA89pQCH7bbsk9xkg&amp;e=1460462439
 
 
 
