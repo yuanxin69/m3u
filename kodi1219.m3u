@@ -719,178 +719,216 @@ http://182.245.29.5:91/295/295.m3u8
 http://182.245.29.5:91/309/309.m3u8
 
 
-#EXTINF:-1 group-title="台湾套餐",台湾 - 台視
-http://210.201.54.101:1935/live/ttv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 台視綜合
-http://210.201.54.101:1935/live/tcch10/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中視
-http://210.201.54.101:1935/live/ctv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中視菁采
-http://210.201.54.101:1935/live/ctvhd/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中視經典
-http://210.201.54.101:1935/live/ctv_all.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 華視
-http://210.201.54.101:1935/live/cts.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 華視綜合
-http://210.201.54.101:1935/live/ctshd/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民視
-http://210.201.54.101:1935/live/ftvw_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民視四季
-http://210.201.54.101:1935/live/fourCZn/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民視影劇
-http://210.201.54.101:1935/live/drama_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民視綜藝
-http://210.201.54.101:1935/live/program_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民視旅遊
-http://210.201.54.101:1935/live/ftvtravel_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民視交通
-http://210.201.54.101:1935/live/ftvm_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 八大第一
-http://210.201.54.101:1935/live/gtv_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 東森亞洲
-http://210.201.54.101:1935/live/acti_2_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中天綜合
-http://210.201.54.101:1935/live/cti1_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS
-http://210.201.54.101:1935/live/tvbs_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 原視
-http://210.201.54.101:1935/live/tcch09/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 時尚娛樂瘋
-http://210.201.54.101:1935/live/fashion.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - catchply西片
-http://210.201.54.101:1935/live/CPWestern/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - catchply亞洲
-http://210.201.54.101:1935/live/CPAsian/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - LamigoTV棒球
-http://210.201.54.101:1935/live/lmgtv/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 發現動力
-http://210.201.54.100:1935/live/Dturbo_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 哈電影1台
-http://210.201.54.101:1935/live/hotmovie_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 哈電影2台
-http://210.201.54.101:1935/live/hotmoviehd/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 豬哥秀
-http://210.201.54.101:1935/live/pig_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - EVE
-http://210.201.54.101:1935/live/Dhome_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - CN卡通
-http://210.201.54.101:1935/live/cncartoon_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 愛放
-http://210.201.54.101:1935/live/ifunhd/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 愛放2
-http://210.201.54.101:1935/live/tcch03/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - MOMO親子
-http://210.201.54.101:1935/live/tcch04/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 靖天映畫
-http://210.201.54.101:1935/live/gd_image.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 靖天電影
-http://210.201.54.101:1935/live/gd_movie.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 靖天日本
-http://210.201.54.101:1935/live/tcch11/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 靖天卡通
-http://210.201.54.101:1935/live/tcch15/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 靖天國際
-http://210.201.54.101:1935/live/h_ent.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 亞洲旅遊
-http://210.201.54.100:1935/live/asiatravel/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 大愛
-http://210.201.54.101:1935/live/Di_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 大愛2
-http://210.201.54.101:1935/live/di_2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 人間衛視
-http://210.201.54.101:1935/live/live_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 公視戲劇
-http://210.201.54.101:1935/live/pts_drama.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 歷史頻道H
-http://210.201.54.101:1935/live/history.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 歷史頻道H2
-http://210.201.54.101:1935/live/h2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 影迷
-http://210.201.54.101:1935/live/encore.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 歐美電影
-http://210.201.54.101:1935/live/west/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 亞洲電影
-http://210.201.54.101:1935/live/asia/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中文電影
-http://210.201.54.101:1935/live/chinese/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - AMC電影院
-http://210.201.54.101:1935/live/amc.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 麥卡貝電視
-http://210.201.54.101:1935/live/camerabay/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - Z現場
-http://210.201.54.101:1935/live/zliving.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 采昌
-http://210.201.54.101:1935/live/c_movie.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - CNEX紀實
-http://210.201.54.101:1935/live/cnex.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 達文西科學
-http://210.201.54.101:1935/live/davinci.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - edge極限
-http://210.201.54.101:1935/live/edge.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 日舞電影
-http://210.201.54.101:1935/live/sundance.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 娃娃故事屋
-http://210.201.54.101:1935/live/wowostoryc/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 娃娃故事屋ABC
-http://210.201.54.101:1935/live/wowostorye/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - HIM華研音樂
-http://210.201.54.101:1935/live/himmusichd/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 音樂-1
-http://210.201.54.101:1935/live/tcch18/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 音樂-2
-http://210.201.54.101:1935/live/tcch19/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 音樂-3
-http://210.201.54.101:1935/live/tcch20/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 台視新聞
-http://210.201.54.101:1935/live/tcch07/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 台視財經
-http://210.201.54.101:1935/live/ttv_fin.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中視新聞
-http://210.201.54.101:1935/live/ctv_news.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 華視新聞
-http://210.201.54.101:1935/live/cts_news.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民視新聞
-http://210.201.54.101:1935/live/ftvn_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 三立新聞
-http://210.201.54.101:1935/live/setnews/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 壹電視新聞
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 年代新聞
-http://video01-lax.streamup.com/app/mirror582sts-channel_aac/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 東森新聞
-http://210.201.54.101:1935/live/swente/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 東森亞洲新聞
-http://210.201.54.101:1935/live/acti_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 東森財經新聞
-http://210.201.54.101:1935/live/etfin/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - udn新聞
-http://210.201.54.101:1935/live/tcch06/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS新聞
-http://210.201.54.101:1935/live/tvbsnhd/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中天新聞
-http://210.201.54.101:1935/live/ctinews/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 非凡商業
-http://210.201.54.101:1935/live/ustvc_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 非凡新聞
-http://210.201.54.101:1935/live/ustvn_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 全球財經
-http://210.201.54.101:1935/live/tcch01/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中華財經
-http://210.201.54.101:1935/live/tcch02/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 空中英語
-http://210.201.54.101:1935/live/english_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - BBC
-http://210.201.54.101:1935/live/bbc_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 美國之音
-http://210.201.54.101:1935/live/voa_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - CNN新聞
-http://210.201.54.101:1935/live/cnnnews_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - CNN國際
-http://210.201.54.101:1935/live/cnnint_sp.sdp/playlist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 半島電視
-http://210.201.54.100:1935/live/AlJazeera/chunklist.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 韩国娱乐
-http://210.201.54.101:1935/live/KMTV.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森新闻HD
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY03-B0120.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森新闻HD
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY03-B0120.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森新闻HD
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY03-B0120.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中天新闻
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY04-B0221.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中天新闻
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY04-B0221.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中天新闻
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY04-B0221.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中天新闻
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY04-B0221.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 三立新闻
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY05-B0222.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 三立新闻
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY05-B0222.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 三立新闻
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY05-B0222.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS新闻
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY06-B0223.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS新闻
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY06-B0223.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森财经新闻HD
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY08-B0325.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森财经新闻HD
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY08-B0325.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 非凡新闻HD
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY09-B0326.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 非凡新闻HD
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY09-B0326.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 非凡新闻HD
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY09-B0326.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森电影
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY10-B0327.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森电影
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY10-B0327.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森电影
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY10-B0327.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来电影
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY11-B0328.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来电影
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY11-B0328.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来电影
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY11-B0328.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 龙翔时代
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY12-B0429.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 龙翔时代
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY12-B0429.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 龙翔时代
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY12-B0429.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 龙翔时代
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY12-B0429.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森洋片
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY13-B0430.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森洋片
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY13-B0430.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - ANX洋片
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY14-B0431.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - ANX洋片
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY14-B0431.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - ANX洋片
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY14-B0431.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来育乐
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY15-B0432.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来育乐
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY15-B0432.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 好消息2
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY16-A0101.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 大爱
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY17-A0102.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - MOMO亲子
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY18-A0103.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森幼幼
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY19-A0104.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森幼幼
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY19-A0104.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来综合
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY20-A0205.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 三立台湾
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY23-A0208.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 三立台湾
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY23-A0208.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森戏剧
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY28-A0413.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 东森戏剧
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY28-A0413.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 八大戏剧
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY29-A0414.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来戏剧
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY31-A0416.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 壹综合
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 壹综合
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 壹综合
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 壹综合
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - Z格斗
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - Z格斗
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - Z格斗
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - Z格斗
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 霹雳台湾
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 霹雳台湾
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 霹雳台湾
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 霹雳台湾
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 浙江卫视
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY40-C0341.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 浙江卫视
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY40-C0341.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 浙江卫视
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY40-C0341.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 浙江卫视
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY40-C0341.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 湖南卫视
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY41-C0342.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 湖南卫视
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY41-C0342.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 湖南卫视
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY41-C0342.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 年代新闻
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/TWM42-D0302.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民视HD
+http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/STB43-D0101.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民视HD
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/STB43-D0101.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民视HD
+http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/STB43-D0101.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 台视HD
+http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/STB44-D0102.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 台视HD
+http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/STB44-D0102.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 中视HD
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/STB45-D0103.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 华视HD
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/STB46-D0104.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 公视HD
+http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/STB47-D0205.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 公视HD
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/STB47-D0205.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 公视HD
+http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/STB47-D0205.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民视新闻
+http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/STB48-D0206.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 民视新闻
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/STB48-D0206.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 寰宇新闻
+http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/50GNews.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 华藏卫视
+http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/52HZTV.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 华藏卫视
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/52HZTV.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 华藏卫视
+http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/52HZTV.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 动力频道
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD53-E0101.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 国家地理HD
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD54-E0102.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 探索国际HD
+http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/MOD55-E0103.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 亚洲旅游
+http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/MOD56-E0104.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 亚洲旅游
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD56-E0104.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - FOX体育3HD
+http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/MOD57-E0205.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - FOX体育3HD
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD57-E0205.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 博斯无限
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD58-E0206.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 博斯网球
+http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/MOD59-E0207.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - 博斯网球
+http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD59-E0207.m3u8
+#EXTINF:-1 group-title="台湾套餐",台湾 - ELTA体育HD
+http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/MOD60-E0208.m3u8
 
 
 
