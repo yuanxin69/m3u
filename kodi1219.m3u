@@ -1,5 +1,518 @@
 #EXTM3U
 
+#EXTINF:-1group-title="德州有线",CCTV-1HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdcctv1&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-3HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdcctv3&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-5HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdcctv5&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-5+HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdcctv5jia&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-6HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdcctv6&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-8HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdcctv8&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",上海纪实HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdgqcs2&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",北京纪实HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdgqcs1&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",湖南卫视HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdhnws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",浙江卫视HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdzjws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",江苏卫视HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdjsws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",北京卫视HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdbjws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",东方卫视HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hddfws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",广东卫视HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdgdws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",深圳卫视HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdszws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",山东卫视HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdsdws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",黑龙江卫视HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdhljws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",尚.TV HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdstv&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",幸福彩HD游戏风云
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdxfc&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",国内剧场HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdgnjc&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",动漫秀场HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hddmxc&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",生活时尚HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdshss&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",音乐会HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdyyh&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",演唱会HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdych&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",新视觉体育HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdxsjty&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",英超直播HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdyczb&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",劲爆体育HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=4200000216&playtype=live&auth=no
+hOT漫游世界音乐电视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdyyds&playtype=live&auth=no
+hOT亚洲电影
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdyzdy&playtype=live&auth=no
+hOT欧美电影
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdomdy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",精彩影视HD环球剧场
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdhqjc&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",经典电影1HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdfhws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",热播美剧HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdrbmj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",经典电影2HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdjddy2&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",环宇电影HD经典电影1
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdjddy1&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",影像英伦HD风尚英伦
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdfsyl&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",韩流新映HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdhlxy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",宝岛怡家HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdbdyj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",好莱坞电影HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdhlwdy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",院线电影HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdyxdy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",动漫视界HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hddmsj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",美食之旅HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdmszl&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",环球新艺HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdhqxy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",天天精选HD清精选
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdgqjx&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",自然传奇HD探索纪实
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdtsjs&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",探索发现HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdtsfx&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",高清剧院HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdgqjy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",高清影院HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdgqyy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",高清综艺HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdgqzy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",高清探索HD
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdgqts&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",沙发电影
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdsfyx1t&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",超级院线
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdsfyx2t&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",水木动漫
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdsfyx3t&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",沙发院线四
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdsfyx4t&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",沙发院线五厅
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdsfyx5t&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",沙发院线导视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsfyxds&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-2
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcctv2&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-4
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcctv4&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-7
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcctv7&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-9
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcctv9&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-10
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcctv10&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-11
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcctv11&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-12
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcctv12&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-13
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcctv13&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-14
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcctv14&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-15
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcctv15&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTVNEWS
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcctvnews&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CHC动作电影
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdchcdzdy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CHC家庭影院
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdchcjtyy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-老故事
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdlgs&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-发现之旅
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdfxzl&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-第一剧场
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sddyjc&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-国防军事
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdgfjs&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-世界地理
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsjdl&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-怀旧剧场
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdhjjc&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-风云剧场
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdfyjc&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-风云足球
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdfyzq&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",CCTV-电视指南健康咨询
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdjkzx&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",中国教育1
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdzgjy1&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",中国教育2
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdzgjy2&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",空中课堂
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdqzkt&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",早期教育
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdjqjy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",ChannelV
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdchannelv&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",星空卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxkws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",华语卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdhyws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",澳亚卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdayws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",凤凰中文
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdfhzw&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",凤凰资讯
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdfhzx&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",考试在线
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdkszs&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",早幼教婴幼儿教育
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdyyejy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",小学一年级
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxx1nj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",小学二年级
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxx2nj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",小学三年级
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxx3nj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",小学四年级
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxx4nj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",小学五年级
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxx5nj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",小学六年级
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxx6nj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",德州新闻
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sddzxw&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",德州生活
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sddzsh&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",德州娱乐
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sddzyl&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",山东齐鲁
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdql&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",山东影视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdys&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",山东体育
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdty&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",山东生活
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdsh&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",山东综艺
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdzy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",山东少儿
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdse&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",山东公共
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdgg&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",山东农科
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdnk&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",山东教育
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdjy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",天津卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdtjws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",重庆卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",云南卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdynws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",江西卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdjxws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",广西卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdgxws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",辽宁卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdlnws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",安徽卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdahws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",河南卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdhenanws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",河北卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdhbws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",贵州卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdgzws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",湖北卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdhubeiws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",吉林卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdjlws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",陕西卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsxws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",四川卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdscws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",山西卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdshanxiws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",内蒙古卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdnmgws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",青海卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdqhws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",东南卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdfjdnws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",新疆卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxjws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",西藏卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxzws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",兵团卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdbtws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",旅游卫视
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdlyws&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",金鹰卡通
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdjykt&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",卡酷少儿
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdkkdh&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",新科动漫
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxkdm&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",宝贝家
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdbbj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",优优宝贝
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdyybb&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",收藏天下
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsctx&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",环球奇观
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdhqqg&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",环球旅游
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdhqly&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",中华美食
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdzhms&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",时代美食
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdms&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",时代出行
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdcx&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",时代家居
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdjj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",时代风尚
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdsdfs&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",四海钓鱼
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdshdy&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",茶频道先锋记录
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxfjl&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",先锋乒羽
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdxfby&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",吉林篮球
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdlq&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",英语辅导
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdyyfd&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",留学世界
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdlxsj&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",快乐宠物
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdklcw&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",电子体育
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sddzty&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",车迷频道
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdcmpd&playtype=live&auth=no
+#EXTINF:-1group-title="德州有线",GTV游戏竞技
+http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=sdyxjj&playtype=live&auth=no
+
+
+
+
+
+#EXTINF:-1group-title="宁夏套餐",CCTV-4
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctv4&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-5
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctv5&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-6
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctv6&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-7
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctv7&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-8
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctv8&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-9
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctv9&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-10
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctv10&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-11
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctv11&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-12
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctv12&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-13
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctvxw&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-14
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctvse&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-15
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctv15&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-NEWS
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctvnew&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-阿语
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcctvalb&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-老故事
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdlgs&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-发现之旅
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdfxzl&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-第一剧场
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sddyjc&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-国防军事
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdgfjs&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-怀旧剧场
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdhjjc&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-风云音乐
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdfyyy&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-风云剧场
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdfyjc&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-风云足球
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdfyzq&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-世界地理
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdsjdl&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-女性时尚
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdnxss&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-书画频道
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdshpd&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-文化精品
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdwhjp&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-英语辅助
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdxyfd&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CCTV-中学生
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdzxs&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",早期教育
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdzqjy&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",CETV1中国教育
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcetv1&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",中国气象频道
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdzgqx&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",新娱乐
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdxyl&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",新动漫
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdxdm&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",老年福
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdlnf&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",梨园频道
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdlypd&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",先锋乒羽
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdpy&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",中华美食
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdzhms&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",人物频道
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdrwpd&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",环球旅游
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdhqly&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",环球奇观
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdhqqg&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",天下收藏
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdtxsc&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",武术世界
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdwssj&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",财富天下
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcftx&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",靓装频道
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdlz&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",考试在线
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdkszx&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",车迷频道
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcm&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",时代出行
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdsdcx&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",时代美食
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdsdms&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",新科动漫
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdxkdm&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",快乐宠物
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdklcw&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",天元围棋
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdtywq&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",摄影频道
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdsypd&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",网络棋牌
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdwlqp&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",游戏竞技
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdyxjj&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",宁夏公共
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdnxgg&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",宁夏卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdnxws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",宁夏经济
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdnxjj&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",宁夏影视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdnxys&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",宁夏少儿
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdnxse&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",宁夏教育
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdnxjy&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",晴彩宁夏
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdqcnx&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",银川公共
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdycgg&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",银川生活
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdycsh&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",银川文体
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdycwt&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",家有购物
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdjygw&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",环球购物
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdhqgw&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",金鹰卡通
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdjykt&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",优漫卡通
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdymkt&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",吉林篮球
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdjllq&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",湖南卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdhunws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",江苏卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdjsws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",浙江卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdzjws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",山东卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdsdws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",北京卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdbjws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",东方卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sddfws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",天津卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdtjws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",重庆卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdcqws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",安徽卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdahws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",甘肃卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdgsws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",青海卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdqhws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",四川卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdscws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",云南卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdynws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",贵州卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdgzws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",内蒙古卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdnmgws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",河北卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdhebws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",山西卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdsxws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",辽宁卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdlnws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",吉林卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdjlws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",黑龙江卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdhljws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",河南卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdhnws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",湖北卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdhubws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",江西卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdjxws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",东南卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdfjws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",广东卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdgdws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",广西卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdgxws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",深圳卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdszws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",旅游卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdlyws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",兵团卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdbtws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",新疆卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdxjws&playtype=live&auth=no
+#EXTINF:-1group-title="宁夏套餐",西藏卫视
+http://slave.nx96200.cn:13164/httpdvb?chnlname=sdxzws&playtype=live&auth=no
+
+
 
 #EXTINF:-1 group-title="平遥有线",CCTV1HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000158&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
@@ -347,588 +860,6 @@ http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y7
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000158&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 
 
-#EXTINF:-1 group-title="云南电信",CCTV-1HD
-http://182.245.29.5:91/193/193.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-2HD
-http://182.245.29.5:91/243/243.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-4HD
-http://182.245.29.5:91/278/278.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-5+HD
-http://182.245.29.5:91/128/128.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-7HD
-http://182.245.29.5:91/244/244.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-9HD
-http://182.245.29.5:91/245/245.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-10HD
-http://182.245.29.5:91/246/246.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-12HD
-http://182.245.29.5:91/247/247.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-14HD
-http://182.245.29.5:91/248/248.m3u8
-#EXTINF:-1 group-title="云南电信",凤凰卫视HD
-http://182.245.29.5:91/289/289.m3u8
-#EXTINF:-1 group-title="云南电信",凤凰资讯HD
-http://182.245.29.5:91/290/290.m3u8
-#EXTINF:-1 group-title="云南电信",北京纪实HD
-http://182.245.29.5:091/312/312.m3u8
-#EXTINF:-1 group-title="云南电信",湖南经视HD
-http://182.245.29.5:91/327/327.m3u8
-#EXTINF:-1 group-title="云南电信",湖南卫视HD
-http://182.245.29.5:91/125/125.m3u8
-#EXTINF:-1 group-title="云南电信",浙江卫视HD
-http://182.245.29.5:091/304/304.m3u8
-#EXTINF:-1 group-title="云南电信",安徽卫视HD
-http://182.245.29.5:91/279/279.m3u8
-#EXTINF:-1 group-title="云南电信",安徽卫视HD
-http://182.245.29.5:91/282/282.m3u8
-#EXTINF:-1 group-title="云南电信",北京卫视HD
-http://182.245.29.5:91/124/124.m3u8
-#EXTINF:-1 group-title="云南电信",江苏卫视HD
-http://182.245.29.5:91/126/126.m3u8
-#EXTINF:-1 group-title="云南电信",东方卫视HD
-http://182.245.29.5:91/127/127.m3u8
-#EXTINF:-1 group-title="云南电信",深圳卫视HD
-http://182.245.29.5:91/190/190.m3u8
-#EXTINF:-1 group-title="云南电信",湖北卫视HD
-http://182.245.29.5:91/191/191.m3u8
-#EXTINF:-1 group-title="云南电信",天津卫视HD
-http://182.245.29.5:91/192/192.m3u8
-#EXTINF:-1 group-title="云南电信",黑龙江卫视HD
-http://182.245.29.5:91/189/189.m3u8
-#EXTINF:-1 group-title="云南电信",V
-http://182.245.29.5:91/295/295.m3u8
-#EXTINF:-1 group-title="云南电信",TVB8
-http://182.245.29.5:91/294/294.m3u8
-#EXTINF:-1 group-title="云南电信",星空卫视
-http://182.245.29.5:91/291/291.m3u8
-#EXTINF:-1 group-title="云南电信",华娱卫视
-http://182.245.29.5:91/293/293.m3u8
-#EXTINF:-1 group-title="云南电信",云南IPTV经典
-http://182.245.29.5:91/154/154.m3u8
-#EXTINF:-1 group-title="云南电信",云南IPTV记录
-http://182.245.29.5:91/155/155.m3u8
-#EXTINF:-1 group-title="云南电信",云南IPTV旅游
-http://182.245.29.5:91/276/276.m3u8
-#EXTINF:-1 group-title="云南电信",云南IPTV收藏
-http://182.245.29.5:91/277/277.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV3+
-http://182.245.29.5:91/199/199.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV5+
-http://182.245.29.5:91/129/129.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV6+
-http://182.245.29.5:91/200/200.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV8+
-http://182.245.29.5:91/130/13.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV野外
-http://182.245.29.5:91/204/204.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV法治
-http://182.245.29.5:91/205/205.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV春晚频道
-http://182.245.29.5:91/199/199.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV相声小品
-http://182.245.29.5:91/202/202.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV少儿动画
-http://182.245.29.5:91/198/198.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV经典电影
-http://182.245.29.5:91/196/196.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV谍战剧场
-http://182.245.29.5:91/201/201.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV魅力时尚
-http://182.245.29.5:91/197/197.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV收视指南
-http://182.245.29.5:91/194/194.m3u8
-#EXTINF:-1 group-title="云南电信",IPTV游戏竞技
-http://182.245.29.5:91/303/303.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-1
-http://182.245.29.5:91/119/119.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-2
-http://182.245.29.5:91/120/120.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-3
-http://182.245.29.5:91/138/138.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-4
-http://182.245.29.5:91/139/139.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-5
-http://182.245.29.5:91/140/140.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-6
-http://182.245.29.5:91/141/141.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-7
-http://182.245.29.5:91/142/142.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-8
-http://182.245.29.5:91/143/143.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-9
-http://182.245.29.5:91/144/144.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-10
-http://182.245.29.5:91/145/145.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-11
-http://182.245.29.5:91/146/146.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-12
-http://182.245.29.5:91/147/147.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-13
-http://182.245.29.5:91/122/122.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-14
-http://182.245.29.5:91/148/148.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-15
-http://182.245.29.5:91/149/149.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-NEWS
-http://182.245.29.5:91/150/150.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-中国微电影
-http://182.245.29.5:91/249/249.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-老故事
-http://182.245.29.5:91/221/221.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-女性时尚
-http://182.245.29.5:91/229/229.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-文化精品
-http://182.245.29.5:91/230/230.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-卫生健康
-http://182.245.29.5:91/231/231.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-新科动漫
-http://182.245.29.5:91/232/232.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-电视指南
-http://182.245.29.5:91/205/205.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-电视指南
-http://182.245.29.5:91/208/208.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-第一剧场
-http://182.245.29.5:91/209/209.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-风云剧场
-http://182.245.29.5:91/211/211.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-怀旧剧场
-http://182.245.29.5:91/212/212.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-风云音乐
-http://182.245.29.5:91/214/214.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-国防军事
-http://182.245.29.5:91/219/219.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-发现之旅
-http://182.245.29.5:91/220/220.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-高尔夫.网球
-http://182.245.29.5:91/217/217.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-世界地理
-http://182.245.29.5:91/296/296.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-怀旧剧场
-http://182.245.29.5:91/297/297.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-风云音乐
-http://182.245.29.5:91/298/298.m3u8
-#EXTINF:-1 group-title="云南电信",CCTV-风云足球
-http://182.245.29.5:91/216/216.m3u8
-#EXTINF:-1 group-title="云南电信",财富天下
-http://182.245.29.5:91/213/213.m3u8
-#EXTINF:-1 group-title="云南电信",彩民在线
-http://182.245.29.5:91/215/215.m3u8
-#EXTINF:-1 group-title="云南电信",高尔夫.网球
-http://182.245.29.5:91/217/217.m3u8
-#EXTINF:-1 group-title="云南电信",武术世界
-http://182.245.29.5:91/218/218.m3u8
-#EXTINF:-1 group-title="云南电信",环球奇观
-http://182.245.29.5:91/222/222.m3u8
-#EXTINF:-1 group-title="云南电信",靓装
-http://182.245.29.5:91/223/223.m3u8
-#EXTINF:-1 group-title="云南电信",文物宝库
-http://182.245.29.5:91/224/224.m3u8
-#EXTINF:-1 group-title="云南电信",国学频道
-http://182.245.29.5:91/225/225.m3u8
-#EXTINF:-1 group-title="云南电信",现代女性
-http://182.245.29.5:91/226/226.m3u8
-#EXTINF:-1 group-title="云南电信",茶频道
-http://182.245.29.5:91/227/227.m3u8
-#EXTINF:-1 group-title="云南电信",DV生活
-http://182.245.29.5:91/228/228.m3u8
-#EXTINF:-1 group-title="云南电信",女性时尚
-http://182.245.29.5:91/229/229.m3u8
-#EXTINF:-1 group-title="云南电信",文化精品
-http://182.245.29.5:91/230/230.m3u8
-#EXTINF:-1 group-title="云南电信",卫生健康
-http://182.245.29.5:91/231/231.m3u8
-#EXTINF:-1 group-title="云南电信",新科动漫
-http://182.245.29.5:91/232/232.m3u8
-#EXTINF:-1 group-title="云南电信",优彼宝贝
-http://182.245.29.5:91/233/233.m3u8
-#EXTINF:-1 group-title="云南电信",梨园频道
-http://182.245.29.5:91/234/234.m3u8
-#EXTINF:-1 group-title="云南电信",早期教育
-http://182.245.29.5:91/235/235.m3u8
-#EXTINF:-1 group-title="云南电信",摄影频道
-http://182.245.29.5:91/236/236.m3u8
-#EXTINF:-1 group-title="云南电信",快乐垂钓
-http://182.245.29.5:91/237/237.m3u8
-#EXTINF:-1 group-title="云南电信",书法频道
-http://182.245.29.5:91/238/238.m3u8
-#EXTINF:-1 group-title="云南电信",英语频道
-http://182.245.29.5:91/239/239.m3u8
-#EXTINF:-1 group-title="云南电信",留学频道
-http://182.245.29.5:91/240/240.m3u8
-#EXTINF:-1 group-title="云南电信",云南卫视
-http://182.245.29.5:91/123/123.m3u8
-#EXTINF:-1 group-title="云南电信",云南都市
-http://182.245.29.5:91/131/131.m3u8
-#EXTINF:-1 group-title="云南电信",云南娱乐
-http://182.245.29.5:91/132/132.m3u8
-#EXTINF:-1 group-title="云南电信",云南生活
-http://182.245.29.5:91/133/133.m3u8
-#EXTINF:-1 group-title="云南电信",云南影视
-http://182.245.29.5:91/135/135.m3u8
-#EXTINF:-1 group-title="云南电信",云南公共
-http://182.245.29.5:91/151/151.m3u8
-#EXTINF:-1 group-title="云南电信",云南少儿
-http://182.245.29.5:91/152/152.m3u8
-#EXTINF:-1 group-title="云南电信",云视精品
-http://182.245.29.5:91/153/153.m3u8
-#EXTINF:-1 group-title="云南电信",云南旅游
-http://182.245.29.5:91/276/276.m3u8
-#EXTINF:-1 group-title="云南电信",云南收藏
-http://182.245.29.5:91/277/277.m3u8
-#EXTINF:-1 group-title="云南电信",云南国际
-http://182.245.29.5:91/156/156.m3u8
-#EXTINF:-1 group-title="云南电信",昆明1套
-http://182.245.29.5:91/136/136.m3u8
-#EXTINF:-1 group-title="云南电信",昆明2套
-http://182.245.29.5:91/137/137.m3u8
-#EXTINF:-1 group-title="云南电信",昆明3套
-http://182.245.29.5:91/255/255.m3u8
-#EXTINF:-1 group-title="云南电信",昆明4套
-http://182.245.29.5:91/256/256.m3u8
-#EXTINF:-1 group-title="云南电信",昆明5套
-http://182.245.29.5:91/257/257.m3u8
-#EXTINF:-1 group-title="云南电信",昆明6套
-http://182.245.29.5:91/258/258.m3u8
-#EXTINF:-1 group-title="云南电信",LCTV-1
-http://182.245.29.5:091/301/301.m3u8
-#EXTINF:-1 group-title="云南电信",LCTV-2
-http://182.245.29.5:091/302/302.m3u8
-#EXTINF:-1 group-title="云南电信",迪庆藏语
-http://182.245.29.5:091/313/313.m3u8
-#EXTINF:-1 group-title="云南电信",楚雄新闻
-http://182.245.29.5:91/259/259.m3u8
-#EXTINF:-1 group-title="云南电信",楚雄公共
-http://182.245.29.5:91/260/260.m3u8
-#EXTINF:-1 group-title="云南电信",迪庆新闻
-http://182.245.29.5:91/261/261.m3u8
-#EXTINF:-1 group-title="云南电信",丽江公共
-http://182.245.29.5:91/262/262.m3u8
-#EXTINF:-1 group-title="云南电信",保山1台
-http://182.245.29.5:91/264/264.m3u8
-#EXTINF:-1 group-title="云南电信",保山2台
-http://182.245.29.5:91/263/263.m3u8
-#EXTINF:-1 group-title="云南电信",德宏新闻综合
-http://182.245.29.5:91/265/265.m3u8
-#EXTINF:-1 group-title="云南电信",德宏公共
-http://182.245.29.5:91/266/266.m3u8
-#EXTINF:-1 group-title="云南电信",德宏民语
-http://182.245.29.5:91/267/267.m3u8
-#EXTINF:-1 group-title="云南电信",文山新闻综合
-http://182.245.29.5:91/268/268.m3u8
-#EXTINF:-1 group-title="云南电信",文山公共
-http://182.245.29.5:91/269/269.m3u8
-#EXTINF:-1 group-title="云南电信",普洱新闻
-http://182.245.29.5:91/270/270.m3u8
-#EXTINF:-1 group-title="云南电信",临沧新闻
-http://182.245.29.5:91/301/301.m3u8
-#EXTINF:-1 group-title="云南电信",新闻频道
-http://182.245.29.5:91/259/259.m3u8
-#EXTINF:-1 group-title="云南电信",公共频道
-http://182.245.29.5:91/260/260.m3u8
-#EXTINF:-1 group-title="云南电信",新闻频道
-http://182.245.29.5:91/261/261.m3u8
-#EXTINF:-1 group-title="云南电信",丽江公共
-http://182.245.29.5:91/262/262.m3u8
-#EXTINF:-1 group-title="云南电信",普洱1套
-http://182.245.29.5:91/300/300.m3u8
-#EXTINF:-1 group-title="云南电信",德宏公共
-http://182.245.29.5:91/266/266.m3u8
-#EXTINF:-1 group-title="云南电信",德宏民族
-http://182.245.29.5:91/267/267.m3u8
-#EXTINF:-1 group-title="云南电信",湖南卫视
-http://182.245.29.5:91/157/157.m3u8
-#EXTINF:-1 group-title="云南电信",浙江卫视
-http://182.245.29.5:91/158/158.m3u8
-#EXTINF:-1 group-title="云南电信",江苏卫视
-http://182.245.29.5:91/159/159.m3u8
-#EXTINF:-1 group-title="云南电信",安徽卫视
-http://182.245.29.5:91/160/160.m3u8
-#EXTINF:-1 group-title="云南电信",北京卫视
-http://182.245.29.5:91/161/161.m3u8
-#EXTINF:-1 group-title="云南电信",天津卫视
-http://182.245.29.5:91/162/162.m3u8
-#EXTINF:-1 group-title="云南电信",山东卫视
-http://182.245.29.5:91/163/163.m3u8
-#EXTINF:-1 group-title="云南电信",河南卫视
-http://182.245.29.5:91/164/164.m3u8
-#EXTINF:-1 group-title="云南电信",黑龙江卫视
-http://182.245.29.5:91/165/165.m3u8
-#EXTINF:-1 group-title="云南电信",四川卫视
-http://182.245.29.5:91/166/166.m3u8
-#EXTINF:-1 group-title="云南电信",江西卫视
-http://182.245.29.5:91/167/167.m3u8
-#EXTINF:-1 group-title="云南电信",贵州卫视
-http://182.245.29.5:91/168/168.m3u8
-#EXTINF:-1 group-title="云南电信",深圳卫视
-http://182.245.29.5:91/169/169.m3u8
-#EXTINF:-1 group-title="云南电信",湖北卫视
-http://182.245.29.5:91/170/170.m3u8
-#EXTINF:-1 group-title="云南电信",东方卫视
-http://182.245.29.5:91/171/171.m3u8
-#EXTINF:-1 group-title="云南电信",重庆卫视
-http://182.245.29.5:91/172/172.m3u8
-#EXTINF:-1 group-title="云南电信",东南卫视
-http://182.245.29.5:91/173/173.m3u8
-#EXTINF:-1 group-title="云南电信",河北卫视
-http://182.245.29.5:91/174/174.m3u8
-#EXTINF:-1 group-title="云南电信",辽宁卫视
-http://182.245.29.5:91/121/121.m3u8
-#EXTINF:-1 group-title="云南电信",广东卫视
-http://182.245.29.5:91/175/175.m3u8
-#EXTINF:-1 group-title="云南电信",广西卫视
-http://182.245.29.5:91/176/176.m3u8
-#EXTINF:-1 group-title="云南电信",吉林卫视
-http://182.245.29.5:91/177/177.m3u8
-#EXTINF:-1 group-title="云南电信",陕西卫视
-http://182.245.29.5:91/178/178.m3u8
-#EXTINF:-1 group-title="云南电信",山西卫视
-http://182.245.29.5:91/179/179.m3u8
-#EXTINF:-1 group-title="云南电信",内蒙古卫视
-http://182.245.29.5:91/180/180.m3u8
-#EXTINF:-1 group-title="云南电信",青海卫视
-http://182.245.29.5:91/181/181.m3u8
-#EXTINF:-1 group-title="云南电信",旅游卫视
-http://182.245.29.5:91/182/182.m3u8
-#EXTINF:-1 group-title="云南电信",宁夏卫视
-http://182.245.29.5:91/183/183.m3u8
-#EXTINF:-1 group-title="云南电信",西藏卫视
-http://182.245.29.5:91/184/184.m3u8
-#EXTINF:-1 group-title="云南电信",新疆卫视
-http://182.245.29.5:91/185/185.m3u8
-#EXTINF:-1 group-title="云南电信",甘肃卫视
-http://182.245.29.5:91/186/186.m3u8
-#EXTINF:-1 group-title="云南电信",卡酷少儿
-http://182.245.29.5:91/187/187.m3u8
-#EXTINF:-1 group-title="云南电信",金鹰卡通
-http://182.245.29.5:91/188/188.m3u8
-#EXTINF:-1 group-title="云南电信",电视指南
-http://182.245.29.5:91/205/205.m3u8
-#EXTINF:-1 group-title="云南电信",健康卫视
-http://182.245.29.5:91/210/210.m3u8
-#EXTINF:-1 group-title="云南电信",英语辅导
-http://182.245.29.5:91/299/299.m3u8
-#EXTINF:-1 group-title="云南电信",测试信号1
-http://182.245.29.5:91/241/241.m3u8
-#EXTINF:-1 group-title="云南电信",测试信号2
-http://182.245.29.5:91/242/242.m3u8
-#EXTINF:-1 group-title="云南电信",U-baby-TV
-http://182.245.29.5:91/233/233.m3u8
-#EXTINF:-1 group-title="云南电信",Channel-V
-http://182.245.29.5:91/295/295.m3u8
-#EXTINF:-1 group-title="云南电信",芒果TV
-http://182.245.29.5:91/309/309.m3u8
-
-
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森新闻HD
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY03-B0120.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森新闻HD
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY03-B0120.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森新闻HD
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY03-B0120.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中天新闻
-http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY04-B0221.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中天新闻
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY04-B0221.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中天新闻
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY04-B0221.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中天新闻
-http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY04-B0221.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 三立新闻
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY05-B0222.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 三立新闻
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY05-B0222.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 三立新闻
-http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY05-B0222.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS新闻
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY06-B0223.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS新闻
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY06-B0223.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
-http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - TVBS综合
-http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY07-B0224.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森财经新闻HD
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY08-B0325.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森财经新闻HD
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY08-B0325.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 非凡新闻HD
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY09-B0326.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 非凡新闻HD
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY09-B0326.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 非凡新闻HD
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY09-B0326.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森电影
-http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY10-B0327.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森电影
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY10-B0327.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森电影
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY10-B0327.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来电影
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY11-B0328.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来电影
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY11-B0328.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来电影
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY11-B0328.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 龙翔时代
-http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY12-B0429.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 龙翔时代
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY12-B0429.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 龙翔时代
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY12-B0429.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 龙翔时代
-http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY12-B0429.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森洋片
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY13-B0430.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森洋片
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY13-B0430.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - ANX洋片
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY14-B0431.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - ANX洋片
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY14-B0431.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - ANX洋片
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY14-B0431.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来育乐
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY15-B0432.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来育乐
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY15-B0432.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 好消息2
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY16-A0101.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 大爱
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY17-A0102.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - MOMO亲子
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY18-A0103.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森幼幼
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY19-A0104.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森幼幼
-http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY19-A0104.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来综合
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY20-A0205.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 三立台湾
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY23-A0208.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 三立台湾
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY23-A0208.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森戏剧
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY28-A0413.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 东森戏剧
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY28-A0413.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 八大戏剧
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY29-A0414.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 纬来戏剧
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY31-A0416.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 壹综合
-http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 壹综合
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 壹综合
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 壹综合
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
-http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 壹电影
-http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - Z格斗
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - Z格斗
-http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - Z格斗
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - Z格斗
-http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 霹雳台湾
-http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 霹雳台湾
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 霹雳台湾
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 霹雳台湾
-http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 浙江卫视
-http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY40-C0341.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 浙江卫视
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY40-C0341.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 浙江卫视
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY40-C0341.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 浙江卫视
-http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY40-C0341.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 湖南卫视
-http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY41-C0342.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 湖南卫视
-http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY41-C0342.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 湖南卫视
-http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY41-C0342.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 年代新闻
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/TWM42-D0302.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民视HD
-http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/STB43-D0101.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民视HD
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/STB43-D0101.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民视HD
-http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/STB43-D0101.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 台视HD
-http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/STB44-D0102.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 台视HD
-http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/STB44-D0102.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 中视HD
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/STB45-D0103.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 华视HD
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/STB46-D0104.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 公视HD
-http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/STB47-D0205.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 公视HD
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/STB47-D0205.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 公视HD
-http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/STB47-D0205.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民视新闻
-http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/STB48-D0206.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 民视新闻
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/STB48-D0206.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 寰宇新闻
-http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/50GNews.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 华藏卫视
-http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/52HZTV.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 华藏卫视
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/52HZTV.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 华藏卫视
-http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/52HZTV.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 动力频道
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD53-E0101.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 国家地理HD
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD54-E0102.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 探索国际HD
-http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/MOD55-E0103.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 亚洲旅游
-http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/MOD56-E0104.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 亚洲旅游
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD56-E0104.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - FOX体育3HD
-http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/MOD57-E0205.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - FOX体育3HD
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD57-E0205.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 博斯无限
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD58-E0206.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 博斯网球
-http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/MOD59-E0207.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - 博斯网球
-http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/MOD59-E0207.m3u8
-#EXTINF:-1 group-title="台湾套餐",台湾 - ELTA体育HD
-http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/MOD60-E0208.m3u8
 
 
 
@@ -1288,339 +1219,8 @@ http://116.77.70.98:5080:5080/hls/228v48qf.m3u8
 http://116.77.70.98:5080:5080/hls/wn5fsvdn.m3u8 
 
 
-#EXTINF:-1 group-title="台湾PTV",台湾 - CNN
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=0
-#EXTINF:-1 group-title="台湾PTV",台湾 - BBC
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=1
-#EXTINF:-1 group-title="台湾PTV",台湾 - BBC_lifestyle
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=2
-#EXTINF:-1 group-title="台湾PTV",台湾 - 公視_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=3
-#EXTINF:-1 group-title="台湾PTV",台湾 - 公視
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=4
-#EXTINF:-1 group-title="台湾PTV",台湾 - 民視_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=5
-#EXTINF:-1 group-title="台湾PTV",台湾 - FSTV_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=6
-#EXTINF:-1 group-title="台湾PTV",台湾 - 台視綜合台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=7
-#EXTINF:-1 group-title="台湾PTV",台湾 - 中視_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=8
-#EXTINF:-1 group-title="台湾PTV",台湾 - 中視
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=9
-#EXTINF:-1 group-title="台湾PTV",台湾 - 大愛_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=10
-#EXTINF:-1 group-title="台湾PTV",台湾 - 華視_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=11
-#EXTINF:-1 group-title="台湾PTV",台湾 - 探索科學台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=12
-#EXTINF:-1 group-title="台湾PTV",台湾 - DMAX_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=13
-#EXTINF:-1 group-title="台湾PTV",台湾 - EVE_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=14
-#EXTINF:-1 group-title="台湾PTV",台湾 - 國家地理悠人台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=15
-#EXTINF:-1 group-title="台湾PTV",台湾 - 國家地理頻道台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=16
-#EXTINF:-1 group-title="台湾PTV",台湾 - Discovery_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=17
-#EXTINF:-1 group-title="台湾PTV",台湾 - TLC
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=18
-#EXTINF:-1 group-title="台湾PTV",台湾 - 動物星球台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=19
-#EXTINF:-1 group-title="台湾PTV",台湾 - 卡通頻道台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=20
-#EXTINF:-1 group-title="台湾PTV",台湾 - 迪士尼頻道台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=21
-#EXTINF:-1 group-title="台湾PTV",台湾 - MOMO_親子台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=22
-#EXTINF:-1 group-title="台湾PTV",台湾 - 東森幼幼台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=23
-#EXTINF:-1 group-title="台湾PTV",台湾 - 緯來綜合台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=24
-#EXTINF:-1 group-title="台湾PTV",台湾 - 八大第一台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=25
-#EXTINF:-1 group-title="台湾PTV",台湾 - 八大綜合台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=26
-#EXTINF:-1 group-title="台湾PTV",台湾 - 三立台灣台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=27
-#EXTINF:-1 group-title="台湾PTV",台湾 - 三立都會台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=29
-#EXTINF:-1 group-title="台湾PTV",台湾 - 衛視中文台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=29
-#EXTINF:-1 group-title="台湾PTV",台湾 - 東森綜合台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=30
-#EXTINF:-1 group-title="台湾PTV",台湾 - 東森超視台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=31
-#EXTINF:-1 group-title="台湾PTV",台湾 - Channal_M_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=32
-#EXTINF:-1 group-title="台湾PTV",台湾 - KMTV_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=33
-#EXTINF:-1 group-title="台湾PTV",台湾 - 中天綜合台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=34
-#EXTINF:-1 group-title="台湾PTV",台湾 - 東風衛視台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=35
-#EXTINF:-1 group-title="台湾PTV",台湾 - MUCH_台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=36
-#EXTINF:-1 group-title="台湾PTV",台湾 - 中天娛樂台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=37
-#EXTINF:-1 group-title="台湾PTV",台湾 - 東森戲劇台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=38
-#EXTINF:-1 group-title="台湾PTV",台湾 - 八大戲劇台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=39
-#EXTINF:-1 group-title="台湾PTV",台湾 - TVBS_歡樂台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=40
-#EXTINF:-1 group-title="台湾PTV",台湾 - 緯來戲劇台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=41
-#EXTINF:-1 group-title="台湾PTV",台湾 - 星衛娛樂台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=42
-#EXTINF:-1 group-title="台湾PTV",台湾 - 衛視合家歡台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=43
-#EXTINF:-1 group-title="台湾PTV",台湾 - JET_綜合台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=44
-#EXTINF:-1 group-title="台湾PTV",台湾 - DIVA_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=45
-#EXTINF:-1 group-title="台湾PTV",台湾 - SYFY_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=46
-#EXTINF:-1 group-title="台湾PTV",台湾 - 壹電視新聞台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=47
-#EXTINF:-1 group-title="台湾PTV",台湾 - 年代新聞台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=48
-#EXTINF:-1 group-title="台湾PTV",台湾 - 東森新聞台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=49
-#EXTINF:-1 group-title="台湾PTV",台湾 - 中天新聞台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=50
-#EXTINF:-1 group-title="台湾PTV",台湾 - 民視新聞台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=51
-#EXTINF:-1 group-title="台湾PTV",台湾 - 三立新聞台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=52
-#EXTINF:-1 group-title="台湾PTV",台湾 - TVBS_新聞台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=53
-#EXTINF:-1 group-title="台湾PTV",台湾 - TVBS_台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=54
-#EXTINF:-1 group-title="台湾PTV",台湾 - 東森財經新聞台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=55
-#EXTINF:-1 group-title="台湾PTV",台湾 - 非凡新聞台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=56
-#EXTINF:-1 group-title="台湾PTV",台湾 - FOX_CRIME_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=57
-#EXTINF:-1 group-title="台湾PTV",台湾 - FX_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=58
-#EXTINF:-1 group-title="台湾PTV",台湾 - 衛視電影台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=59
-#EXTINF:-1 group-title="台湾PTV",台湾 - 東森電影台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=60
-#EXTINF:-1 group-title="台湾PTV",台湾 - 星衛電影台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=61
-#EXTINF:-1 group-title="台湾PTV",台湾 - 美亞電影台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=62
-#EXTINF:-1 group-title="台湾PTV",台湾 - HBO_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=63
-#EXTINF:-1 group-title="台湾PTV",台湾 - 東森洋片台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=64
-#EXTINF:-1 group-title="台湾PTV",台湾 - 福斯家庭電影台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=65
-#EXTINF:-1 group-title="台湾PTV",台湾 - Universal_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=66
-#EXTINF:-1 group-title="台湾PTV",台湾 - Star_Movies_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=67
-#EXTINF:-1 group-title="台湾PTV",台湾 - CINEMAX
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=68
-#EXTINF:-1 group-title="台湾PTV",台湾 - 緯來育樂台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=69
-#EXTINF:-1 group-title="台湾PTV",台湾 - 緯來體育台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=70
-#EXTINF:-1 group-title="台湾PTV",台湾 - FOX3_體育台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=71
-#EXTINF:-1 group-title="台湾PTV",台湾 - 衛視體育台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=72
-#EXTINF:-1 group-title="台湾PTV",台湾 - 緯來日本台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=73
-#EXTINF:-1 group-title="台湾PTV",台湾 - 愛爾達體育台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=74
-#EXTINF:-1 group-title="台湾PTV",台湾 - 國興衛視台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=75
-#EXTINF:-1 group-title="台湾PTV",台湾 - FOX_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=76
-#EXTINF:-1 group-title="台湾PTV",台湾 - HBO_原創_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=77
-#EXTINF:-1 group-title="台湾PTV",台湾 - HBO_強檔_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=78
-#EXTINF:-1 group-title="台湾PTV",台湾 - HBO_溫馨_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=79
-#EXTINF:-1 group-title="台湾PTV",台湾 - 博斯高球_II_台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=80
-#EXTINF:-1 group-title="台湾PTV",台湾 - 博斯運動台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=81
-#EXTINF:-1 group-title="台湾PTV",台湾 - GOLF_CHANNAL_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=82
-#EXTINF:-1 group-title="台湾PTV",台湾 - ASN_全美運動台_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=83
-#EXTINF:-1 group-title="台湾PTV",台湾 - BabyTV_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=84
-#EXTINF:-1 group-title="台湾PTV",台湾 - Disney_Junior_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=85
-#EXTINF:-1 group-title="台湾PTV",台湾 - MTV_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=86
-#EXTINF:-1 group-title="台湾PTV",台湾 - 霹靂台灣台
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=87
-#EXTINF:-1 group-title="台湾PTV",台湾 - 罪案偵緝頻道_HD
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=88
-#EXTINF:-1 group-title="台湾PTV",台湾 - NHK
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=89
-#EXTINF:-1 group-title="台湾PTV",台湾 - 強檔電影
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=90
-#EXTINF:-1 group-title="台湾PTV",台湾 - 港台強檔
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=91
-#EXTINF:-1 group-title="台湾PTV",台湾 - 歐美電影
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=92
-#EXTINF:-1 group-title="台湾PTV",台湾 - 好球天團第一季
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=93
-#EXTINF:-1 group-title="台湾PTV",台湾 - 太陽的後裔
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=94
-#EXTINF:-1 group-title="台湾PTV",台湾 - 海賊王
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=95
-#EXTINF:-1 group-title="台湾PTV",台湾 - 舌尖上的中國
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=96
-#EXTINF:-1 group-title="台湾PTV",台湾 - 我是歌手
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=97
-#EXTINF:-1 group-title="台湾PTV",台湾 - 浙江衛視
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=98
-#EXTINF:-1 group-title="台湾PTV",台湾 - 澳視澳門
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=99
-#EXTINF:-1 group-title="台湾PTV",台湾 - 香港衛視
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=100
-#EXTINF:-1 group-title="台湾PTV",台湾 - 亞太第一衛視_One
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=101
-#EXTINF:-1 group-title="台湾PTV",台湾 - 華娛衛視
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=102
-#EXTINF:-1 group-title="台湾PTV",台湾 - 鳳凰中文
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=103
-#EXTINF:-1 group-title="台湾PTV",台湾 - GOOD_TV
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=104
-#EXTINF:-1 group-title="台湾PTV",台湾 - 華藏
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=105
-#EXTINF:-1 group-title="台湾PTV",台湾 - 湖南衛视
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=106
-#EXTINF:-1 group-title="台湾PTV",台湾 - CCTV-1_综合
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=107
-#EXTINF:-1 group-title="台湾PTV",台湾 - CCTV-8_電视剧
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=108
-#EXTINF:-1 group-title="台湾PTV",台湾 - CCTV-10_科教
-http://www.yhlfs.xyz/iptvs/oofmTV.php?id=109
 
 
-
-#EXTINF:-1 group-title="台湾专用",台湾 - HBO
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhbo
-#EXTINF:-1 group-title="台湾专用",台湾 - TCL
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtlc
-#EXTINF:-1 group-title="台湾专用",台湾 - FXHD
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twfxhd
-#EXTINF:-1 group-title="台湾专用",台湾 - Cinemax
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twcinemax
-#EXTINF:-1 group-title="台湾专用",台湾 - HD电影
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twls
-#EXTINF:-1 group-title="台湾专用",台湾 - 卫视电影
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twwsdy
-#EXTINF:-1 group-title="台湾专用",台湾 - 星衛HD电影
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twxwdy
-#EXTINF:-1 group-title="台湾专用",台湾 - 好莱坞电影
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhlwdy
-#EXTINF:-1 group-title="台湾专用",台湾 - 台视
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twts
-#EXTINF:-1 group-title="台湾专用",台湾 - 台视HD
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtshd
-#EXTINF:-1 group-title="台湾专用",台湾 - 华视HD
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhshd
-#EXTINF:-1 group-title="台湾专用",台湾 - 中视HD
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twzshd
-#EXTINF:-1 group-title="台湾专用",台湾 - 民视HD
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twmshd
-#EXTINF:-1 group-title="台湾专用",台湾 - 公视HD
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgshd
-#EXTINF:-1 group-title="台湾专用",台湾 - 三立台湾
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twsltw
-#EXTINF:-1 group-title="台湾专用",台湾 - 三立新闻
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twslxw
-#EXTINF:-1 group-title="台湾专用",台湾 - 纬来戏剧
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twwlxj
-#EXTINF:-1 group-title="台湾专用",台湾 - 纬来日本
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twwlrb
-#EXTINF:-1 group-title="台湾专用",台湾 - 东森电影
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdsdy
-#EXTINF:-1 group-title="台湾专用",台湾 - 东森戏剧
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdsxj
-#EXTINF:-1 group-title="台湾专用",台湾 - 东森洋片
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdsyp
-#EXTINF:-1 group-title="台湾专用",台湾 - 东森综合
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twydszh
-#EXTINF:-1 group-title="台湾专用",台湾 - 东森新闻
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twydsxw
-#EXTINF:-1 group-title="台湾专用",台湾 - 东森幼幼
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdsyy
-#EXTINF:-1 group-title="台湾专用",台湾 - 东森财经
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdscj
-#EXTINF:-1 group-title="台湾专用",台湾 - TVBS新闻HD
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtvbsxw
-#EXTINF:-1 group-title="台湾专用",台湾 - TVBS
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtvbs
-#EXTINF:-1 group-title="台湾专用",台湾 - 大爱
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twda
-#EXTINF:-1 group-title="台湾专用",台湾 - 台湾新闻综合
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twxwyl
-#EXTINF:-1 group-title="台湾专用",台湾 - 八大综合
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twbdzh
-#EXTINF:-1 group-title="台湾专用",台湾 - 中天综合
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twztzh
-#EXTINF:-1 group-title="台湾专用",台湾 - 中天娱乐
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twzhyl
-#EXTINF:-1 group-title="台湾专用",台湾 - 中天新闻
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twztxw
-#EXTINF:-1 group-title="台湾专用",台湾 - 国兴卫视
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgxws
-#EXTINF:-1 group-title="台湾专用",台湾 - 壹新闻
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twydsxw
-#EXTINF:-1 group-title="台湾专用",台湾 - 年代新闻
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twndxw
-#EXTINF:-1 group-title="台湾专用",台湾 - 非凡新闻
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twffxw
-#EXTINF:-1 group-title="台湾专用",台湾 - 博斯足球
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twbszq
-#EXTINF:-1 group-title="台湾专用",台湾 - FOX体育2
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twfoxty2
-#EXTINF:-1 group-title="台湾专用",台湾 - FOX体育3
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twfoxty3
-#EXTINF:-1 group-title="台湾专用",台湾 - 爱尔达体育
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=tweltaty
-#EXTINF:-1 group-title="台湾专用",台湾 - 国家地理
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgjdl
-#EXTINF:-1 group-title="台湾专用",台湾 - 国家地理HD
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgjdlhd
-#EXTINF:-1 group-title="台湾专用",台湾 - 法国时尚
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twssylf
-#EXTINF:-1 group-title="台湾专用",台湾 - EYETV旅游
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=tweyely
-#EXTINF:-1 group-title="台湾专用",台湾 - 韩台
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twytngj
-#EXTINF:-1 group-title="台湾专用",台湾 - CNN
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twcnn
-#EXTINF:-1 group-title="台湾专用",台湾 - BBC
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=twbbc
-#EXTINF:-1 group-title="台湾专用",台湾 - NHK国际
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=hwnhkgj
-#EXTINF:-1 group-title="台湾专用",台湾 - BS1
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=hwbs1
-#EXTINF:-1 group-title="台湾专用",台湾 - BS2
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=hwbs2
-#EXTINF:-1 group-title="台湾专用",台湾 - KBS
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=hwkbs
-#EXTINF:-1 group-title="台湾专用",台湾 - 中国电影
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=zgdy
-#EXTINF:-1 group-title="台湾专用",台湾 - CCTV-12
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=cctv12
-#EXTINF:-1 group-title="台湾专用",台湾 - CCTV-13
-http://www.anchoredinversion.com/tv/ds/twtv.php?id=cctv13
 
 
 
@@ -2980,56 +2580,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=bjwsHD_1800&tag=live&ext=m3u8&sig
 http://live.g3proxy.lecloud.com/gslb?stream_id=ws_hunanwsHD_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1group-title="乐视套餐",综合
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zonghe_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",北京卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=bjws&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",安徽卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=anhui&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",天津卫视
-http://url.52itv.cn/vlive/letv/tianjin.m3u8
-#EXTINF:-1group-title="乐视套餐",江苏卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=jiangsu&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",山西卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=shanxi_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",甘肃卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=gansu&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",东南卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=dongnan&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",湖北卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=hubei&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",云南卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=yunnan&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",黑龙江卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=heilongjiang&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",贵州卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=guizhou&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",广西卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=guangxi&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",河南卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=henan&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",旅游卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=lvyou&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",深圳卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=shenzhen&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",内蒙古卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=neimenggu_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1  
-#EXTINF:-1group-title="乐视套餐",新疆卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=xinjiang_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",陕西卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=shanxi1&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",重庆卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=chongqing&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",吉林卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=jilin&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",辽宁卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=liaoning&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",江西卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=jiangxi&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",青海卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=qinghai&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",炫动卡通
-http://live.g3proxy.lecloud.com/gslb?stream_id=xdkt&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1group-title="乐视套餐",四川卫视
-http://live.g3proxy.lecloud.com/gslb?stream_id=sichuan&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1group-title="乐视套餐",乐视电影
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1group-title="乐视套餐",乐视1080P
@@ -3080,3 +2630,717 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_720p&tag=live&ext=m3u8&si
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zpw_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1group-title="乐视套餐",国际时装周
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shizhuang_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
+#EXTINF:-1group-title="泰国套餐",亚洲STAR-CHINESE-MOVIES
+http://103.7.57.30:9981/stream/channelid/295269861?ticket=23E30D2731CAF97DC641160613844C9812BB75A2&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CNAI
+http://103.7.57.30:9981/stream/channelid/826111591?ticket=80DC96BF6E83CB55F124A13BF02CEE6CCD0718B5&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲DWTV
+http://103.7.57.30:9981/stream/channelid/1317253902?ticket=EF03DE317AB380B0DC403C75FE508B2CE44CCCAB&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FRANCE-24
+http://103.7.57.30:9981/stream/channelid/1291956585?ticket=B6E4F024D5799D244B6202F650463D77E5FB9615&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲PHOENIX-INFO-NEWS
+http://103.7.57.30:9981/stream/channelid/580050070?ticket=42620F6406CC0738ACC1DAE93293BCFE76B12285&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-1
+http://103.7.57.30:9981/stream/channelid/493518268?ticket=4DCA9BAA57DD061C7C3814B1205EF2E448F79012&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-2
+http://103.7.57.30:9981/stream/channelid/526343271?ticket=40764CBC303C87DD7686F821858EE87681009FB3&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-3
+http://103.7.57.30:9981/stream/channelid/1808225338?ticket=D854925BD3629433B95A40AB79EA914350CCC31A&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FOX-SPORTS-1
+http://103.7.57.30:9981/stream/channelid/620883573?ticket=884BBFF8232DED413A6739C71A5107DCB5306EA4&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FOX-SPORTS-2
+http://103.7.57.30:9981/stream/channelid/1592707575?ticket=228DBE9A220EB2D2E442DA9BA5A5E3443F4636C4&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FOX-SPORTS-3
+http://103.7.57.30:9981/stream/channelid/757481428?ticket=22A78F8188BDA88FF87B5885CC0C8F05BB46FDF9&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ASN
+http://103.7.57.30:9981/stream/channelid/947451490?ticket=B18392C4CE113D33CB0316C98100BCBED8FF743D&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲GOLF
+http://103.7.57.30:9981/stream/channelid/1796344578?ticket=76F3B2873F9E3C2038D7C5D991B48DBB920953D4&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-LIVE-CHANNEL
+http://103.7.57.30:9981/stream/channelid/1423262430?ticket=F313FC03A782BD590AA81F30CB71BB70FD83B0D5&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MONEY-CHANNEL
+http://103.7.57.30:9981/stream/channelid/1116741067?ticket=501BA2169B597D1B1B232CA1489A229EEE6496BC&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲DISNEY-CHANNEL-ASIA
+http://103.7.57.30:9981/stream/channelid/958627070?ticket=66658F4AB13B734A2F250FE58444C986D7BB7EEB&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲DISNEY-JUNIOR-ASIA
+http://103.7.57.30:9981/stream/channelid/957816879?ticket=CED63DC02EA06E66E7C10BB9E9B02EC4A3A903B6&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-KNOWLEDGE
+http://103.7.57.30:9981/stream/channelid/421863479?ticket=C68C41653B731DD79CE994FDD675A19CA3C1D35E&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲NGC
+http://103.7.57.30:9981/stream/channelid/2072595017?ticket=0B93A5A4B39A3DA50D5E9298B012B4ED5263050B&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲NGC-WILD
+http://103.7.57.30:9981/stream/channelid/1544960420?ticket=4FEA600A4E56B06098CBACEEFA3C4BF51F626255&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲NAT-GEO-PEOPLE
+http://103.7.57.30:9981/stream/channelid/2145095779?ticket=DE461C85D74FA5EB826E14F2E5731452998BF5C0&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ANIMAL-PLANET
+http://103.7.57.30:9981/stream/channelid/1452008888?ticket=1DA30689CDD28F4FA975A7FC45D2421FB60F533D&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲DISCOVERY
+http://103.7.57.30:9981/stream/channelid/1376307275?ticket=EC65DA9EF7F344B5AA70E4702C511F4F1AE2AC03&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲DISCOVERY-TLC
+http://103.7.57.30:9981/stream/channelid/564494904?ticket=4326F33C4E379EAA1335F17C9A522C4791DFCC79&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲EVE
+http://103.7.57.30:9981/stream/channelid/831487742?ticket=7F365CEA6657E2D6F0865164494FC8A1C855990F&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲DISCOVERY-SCIENCE
+http://103.7.57.30:9981/stream/channelid/913899635?ticket=8722510D6E73AFD31A13CDBB7ECF233A80DE89AE&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲DMAX
+http://103.7.57.30:9981/stream/channelid/87986828?ticket=F4919D3CD18C202D6AB19FECE4B7168ADA2ABF54&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲DISCOVERY-KIDS
+http://103.7.57.30:9981/stream/channelid/338417260?ticket=97C692CAA20D811557AA763C31833290456DBCD4&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲HLUTTAW
+http://103.7.57.30:9981/stream/channelid/1251744266?ticket=BAB74A3D6016D4251916594659FC81DC48EAB82F&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ITV-CHOICE
+http://103.7.57.30:9981/stream/channelid/600004233?ticket=38BC0C7C596A2F52A80115A11F516A95E411F0CD&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲GLOBALNET
+http://103.7.57.30:9981/stream/channelid/418162506?ticket=E290C948BAE2A17C1EDEE39E881C1E2DED781974&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲UP-TO-DATE
+http://103.7.57.30:9981/stream/channelid/1710991693?ticket=A8E7B118ACE55B4F5739D93DA1E4FCDB485F9E7F&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲COMEDY-CENTRAL
+http://103.7.57.30:9981/stream/channelid/539917850?ticket=F616E33834595E58454349C43D039B3A3C4E809E&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SCREEN-RED
+http://103.7.57.30:9981/stream/channelid/662529464?ticket=1A5B99712766240F2F8B4539B2305E4AA526A69C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲OUTDOOR-CHANNEL
+http://103.7.57.30:9981/stream/channelid/1002841278?ticket=868ABE65C4BA568267F973327EE902C4DDB374A3&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲BBC-ENTERTAINMENT
+http://103.7.57.30:9981/stream/channelid/2045610328?ticket=FC5A85F71A9F8955441F9F7E877E54DFFD551B57&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲BBC-CBEEBIES
+http://103.7.57.30:9981/stream/channelid/1804460151?ticket=46EB8AC401C7200A281B78C5C7E21D8DDED9AD5F&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲BBC-WORLD-NEWS
+http://103.7.57.30:9981/stream/channelid/1042080973?ticket=C444D111BE32047F6704FC18E00409BBFD45E6BF&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲EDGE-SPORTS
+http://103.7.57.30:9981/stream/channelid/1876046426?ticket=BD9F0FEA1D9AF90018BF959C4E7E446EA28441E0&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MOTORVISION
+http://103.7.57.30:9981/stream/channelid/669904825?ticket=1002A80D1EA15B1E9E7B1CA3F95C15161E2EDC10&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲H2
+http://103.7.57.30:9981/stream/channelid/1415275045?ticket=5035D428B97EDA6110312A35B374B59F0B013958&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲LIFETIME
+http://103.7.57.30:9981/stream/channelid/1929225879?ticket=6B7F3150F6ECE9104D4D5524CCED648DB13A0B23&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲UNIVERSAL-SD
+http://103.7.57.30:9981/stream/channelid/1900947945?ticket=FEB8E74BCF557A6EDB221CA5CF6DCF0A89C2C906&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲DIVA-UNIVERSAL
+http://103.7.57.30:9981/stream/channelid/1589065723?ticket=E61F05E6D8949C78E9491A63F6CC875B705B0A48&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲E!
+http://103.7.57.30:9981/stream/channelid/76810877?ticket=D544A2B129FA92B22C01221A90C6E6BDB50DDA84&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲EDUCATION-CHANNEL
+http://103.7.57.30:9981/stream/channelid/228595835?ticket=8F703BEC1F774EE6B698469D54778BE1DC1FF301&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲AGRICULTURE-FOREST
+http://103.7.57.30:9981/stream/channelid/1535674664?ticket=39533139FCFC17726C69212B41B88DB5E3156F78&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲HEALTH
+http://103.7.57.30:9981/stream/channelid/2072661282?ticket=8F56C3423BF1727436D2BC3F05CD12B0919167CB&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TINE-YIN-THAR
+http://103.7.57.30:9981/stream/channelid/1919269979?ticket=82F3EE650469C374C44157566FCC7E3154A93DD8&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲HOME-CHANNEL
+http://103.7.57.30:9981/stream/channelid/1231683803?ticket=6DB2E8A8F666EF169EC9DC6D7D1382670F00E7B4&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲{name-not-set}
+http://103.7.57.30:9981/stream/channelid/1236405727?ticket=1EBFB05446528082185FD57C6ADDBDE08558280D&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TV5-HD1
+http://103.7.57.30:9981/stream/channelid/1839182936?ticket=7D4D946D013EC38C13F2A52DDB8688EA279BB4BF&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲NBT-HD
+http://103.7.57.30:9981/stream/channelid/586045232?ticket=4CB95930EE7F36CBF5E8325D2F5D728E312548AC&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲THAIPBS-HD
+http://103.7.57.30:9981/stream/channelid/1274643565?ticket=6EA72A807234FC8A25F9029F36D3106936DEC3D1&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-4
+http://103.7.57.30:9981/stream/channelid/1810687883?ticket=4A648985C73C1D8E1DFFCE6E8B59E90AC760E824&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TPTV
+http://103.7.57.30:9981/stream/channelid/275359970?ticket=BA22B27B8DC6E3080047D653EF29844C6AB3ECEB&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲3-Family
+http://103.7.57.30:9981/stream/channelid/2079310684?ticket=F75DDD35FF6CFD718E85962E1F0C833EABB089EA&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MCOT-Kids
+http://103.7.57.30:9981/stream/channelid/1208981135?ticket=B0EC74ED31990916CC7274761B1B695F989AA79C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-5
+http://103.7.57.30:9981/stream/channelid/960957077?ticket=AF55BBE7F97A0CFD5E242C26E0CFA2498A0AEF4C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲new-tv
+http://103.7.57.30:9981/stream/channelid/82250107?ticket=934C1A7AB2598B9CEB0D76BBFCC3F47A9D3280CC&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Spring-News
+http://103.7.57.30:9981/stream/channelid/1687319314?ticket=087D6C851EBF5CACBC0813FC6F4110626FF2628C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲BRIGHT-TV
+http://103.7.57.30:9981/stream/channelid/10988183?ticket=0A47A8C92ED380692CB702018AC645D44950ACDA&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Voice-TV
+http://103.7.57.30:9981/stream/channelid/103115123?ticket=5DF159454B45C3092E33A9F03DC3D62702380EB6&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Nation-TV
+http://103.7.57.30:9981/stream/channelid/819592399?ticket=50E8D123808EC3AD1061CA78153DBE61AEDA0955&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Workpoint-TV
+http://103.7.57.30:9981/stream/channelid/476207996?ticket=56EF707B0465A85A73F87A7D22DB5C2CB0D94458&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲True4U
+http://103.7.57.30:9981/stream/channelid/1750904281?ticket=6EDDA2F8A974775DEC6A2B18AEA543702B67B31C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-6
+http://103.7.57.30:9981/stream/channelid/1786951394?ticket=22A14F1EE9D963CF89203BB95431FC62915E3541&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲NOW
+http://103.7.57.30:9981/stream/channelid/1807953888?ticket=3003A6F74780D714BCD9BBF184ABA971B15EC813&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CH8
+http://103.7.57.30:9981/stream/channelid/399980374?ticket=F85D52677C0C5392741074A872A918F6C9BA38DB&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲3-SD
+http://103.7.57.30:9981/stream/channelid/261809553?ticket=A641ACCD61E13D554406F3A877CB2C6E9512758E&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MONO29
+http://103.7.57.30:9981/stream/channelid/1833328300?ticket=4FEBB8F918CCB83A5F3B3D7B06A7A1D077F0E812&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MCOT-HD
+http://103.7.57.30:9981/stream/channelid/316198646?ticket=45BFE817C6D460474026F9CC444334E41AD84E24&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ONE-HD
+http://103.7.57.30:9981/stream/channelid/741820263?ticket=5DAC3EEC75EB8925DAA1D6B0DF54234CAA8E6C16&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Thairath-TV
+http://103.7.57.30:9981/stream/channelid/112751728?ticket=DFF039716CB6DB85E6B0E4C7AC132197611783B6&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲3-HD
+http://103.7.57.30:9981/stream/channelid/1658806573?ticket=A725C8CC5EE4D9406A629EAF04B3B04B0E2BAA05&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Amarin-TV-HD
+http://103.7.57.30:9981/stream/channelid/131069908?ticket=61DB4C9515CE9CE17340F4228B856459F463F141&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CH7-HD
+http://103.7.57.30:9981/stream/channelid/231424749?ticket=975A4F3B954DA9662CCF07572B4985842CF77197&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲EURO-SPORTS
+http://103.7.57.30:9981/stream/channelid/2087708001?ticket=5475E5B2D066905E0938AA31EDFE74C2C9ADE1CE&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲PPTV-HD
+http://103.7.57.30:9981/stream/channelid/2043877960?ticket=9E2922959130F34E753836EF8B1404A605AE7151&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKY-NEWS
+http://103.7.57.30:9981/stream/channelid/40558500?ticket=AB4B51DED7A4157A5409A13FF47FC5D64E2E5778&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FOX-NEWS
+http://103.7.57.30:9981/stream/channelid/1813546999?ticket=9D8A1DAC40ECAE2C29AC377344D73F3CB7981034&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲EURO-SPORTS-NEWS
+http://103.7.57.30:9981/stream/channelid/1645660831?ticket=8B8A96D20D99818244D437014C74EF91870ED337&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ANIMAX
+http://103.7.57.30:9981/stream/channelid/699364166?ticket=F464FDFF050FF4DA8CBB260D43C6BFBA6BE2075C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲AXN
+http://103.7.57.30:9981/stream/channelid/1287705295?ticket=73B9D922C81CFDC59A340624A9137A5C2AD233B5&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CI
+http://103.7.57.30:9981/stream/channelid/1725418918?ticket=AAA100D0C070B8089FAD822CE870932347E0EDD0&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FYI
+http://103.7.57.30:9981/stream/channelid/357983979?ticket=665D41C9A780B8C72DD89C1F8FA135A0A4EECAE0&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CNN
+http://103.7.57.30:9981/stream/channelid/1383954959?ticket=97FC96D1F74D460C8C487B3ED5DA474760963EA6&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲HBO
+http://103.7.57.30:9981/stream/channelid/638747752?ticket=AB65E9FC30B2E02CAF1D0DAF1ED4E0A17B1AEB10&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CINEMAX
+http://103.7.57.30:9981/stream/channelid/1477256054?ticket=501C36576A89B68EEBB5E83B810FB6CA1AFD114A&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SUN-TV
+http://103.7.57.30:9981/stream/channelid/122397758?ticket=E94EDD0E7541871E272E115ACACF3FF3DE0A01DF&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SHOPPING-CHANNEL
+http://103.7.57.30:9981/stream/channelid/2138128539?ticket=9840F3B3AFDA20A2F464F226D0091B7F621303BF&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-HD
+http://103.7.57.30:9981/stream/channelid/672675102?ticket=CE1F9BA02E32986A9C725143927507E5EDCFE9EE&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MTV-LIVE-HD
+http://103.7.57.30:9981/stream/channelid/1561561251?ticket=CE3D4E51EFFA8A182902044390AACC16E94A0B3A&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲DISCOVERY-HD-WORLD
+http://103.7.57.30:9981/stream/channelid/511701105?ticket=A886408D6FDA294D0F3256FF52A942647A7313BD&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲HBO-HD
+http://103.7.57.30:9981/stream/channelid/691263889?ticket=4FFB67BC94378495FAE78385BDFC4F9E1DC0DE5C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-MOVIES-HD
+http://103.7.57.30:9981/stream/channelid/820350309?ticket=CB072666F99C6E747552A019A72459BF285E0947&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-HD-PAY-PER-VIEW
+http://103.7.57.30:9981/stream/channelid/907689679?ticket=4B4CE0C5DBEC45FE1A4ECFBB4FF73CFB95B20AA7&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲DISNEY-XD
+http://103.7.57.30:9981/stream/channelid/1452057812?ticket=BEB6C3715A5F9BB91E72FB0CDD55FEA14CF7636F&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲HISTORY-HD
+http://103.7.57.30:9981/stream/channelid/39289544?ticket=13E7C73D5B33DA55AA51BF71B1670987452AB37C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FIGHT-SPORTS-HD
+http://103.7.57.30:9981/stream/channelid/1236515626?ticket=0D97CD9DC99FA07456C53DD28EBD66C4A725BE87&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲PLOOK
+http://103.7.57.30:9981/stream/channelid/1140984264?ticket=136BB50181A1A693B8FCCB1B2AB3BC780C0B83BE&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲INSE
+http://103.7.57.30:9981/stream/channelid/1917064974?ticket=6FACB8F5146495AF304C88E51E71854B9B23E3AC&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲EXPWILD
+http://103.7.57.30:9981/stream/channelid/532484884?ticket=81D6507D9FB6FD589B2BD556C3A2BC94794B1EBD&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TRUE4U
+http://103.7.57.30:9981/stream/channelid/218699709?ticket=6794F79C0221C60DD98D1F002BA78FB291E557B4&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SPK-JUMP
+http://103.7.57.30:9981/stream/channelid/507566553?ticket=BCDD84D70C543735796A9CCB2121D04D5769D5FF&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲RAMA
+http://103.7.57.30:9981/stream/channelid/86695291?ticket=451B8842ABB3DE25E6BB6113D61C2550CB0FDE3A&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TNN24
+http://103.7.57.30:9981/stream/channelid/682312936?ticket=F53327982769D0EE65DA0005AA90CBA22D283F94&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TSEL
+http://103.7.57.30:9981/stream/channelid/1580303732?ticket=6829D4D7362DE93813F67185D518DF40D908433C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲KNOW-TSP2
+http://103.7.57.30:9981/stream/channelid/1537051289?ticket=907795355759C63DC8D88FC745ED470DDD691990&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MOVH
+http://103.7.57.30:9981/stream/channelid/1101459279?ticket=A5193DB2CA7E7A4C262F0D4753D1F360C520669E&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FOX-ACTION-MOVIES-HD
+http://103.7.57.30:9981/stream/channelid/1565088423?ticket=FA420AB4671102AE74090992FABF156C355BB09F&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MONEY
+http://103.7.57.30:9981/stream/channelid/2146970291?ticket=4C37B453690626E35C8B2BC31F5F0CF141488727&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲S-BT
+http://103.7.57.30:9981/stream/channelid/911089707?ticket=57CBA25534C47C6C8AC9278D813F937BF427BCA9&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SME
+http://103.7.57.30:9981/stream/channelid/767914002?ticket=C7A48DCE208323EEF81ABBB4D10F6C9EDFD0F97F&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲KNOW-CHIC
+http://103.7.57.30:9981/stream/channelid/1270084332?ticket=C7180C4EDB0AD49F3E49936772F5A9809E6B9212&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MRCL
+http://103.7.57.30:9981/stream/channelid/925799737?ticket=1E10A963C4E554B4CE4A2FC27C3BE5BC12A54437&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TFLM
+http://103.7.57.30:9981/stream/channelid/1104087153?ticket=9822305C8B1ECC25F8D0F7BE241EEEA12FD9CF3E&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FL-A
+http://103.7.57.30:9981/stream/channelid/2071130980?ticket=3F1960EE5596CAF060EAF12375E4B959F9B25CE0&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲RED
+http://103.7.57.30:9981/stream/channelid/1884415284?ticket=9CAFA5DFD845188378DB79E4DCC22292C2BA2FFB&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ASER
+http://103.7.57.30:9981/stream/channelid/404305462?ticket=76B7E5315DAF0919969019EBC5FFA8D9234F6BA1&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲KNOW-SRES
+http://103.7.57.30:9981/stream/channelid/696135127?ticket=7A7A7DF6DB6FDE6E70F171105A545F898E4EC607&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲KBS
+http://103.7.57.30:9981/stream/channelid/808088807?ticket=195980CC7B060D159BC4C582559C5BCB713425A1&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TMUS
+http://103.7.57.30:9981/stream/channelid/2021482600?ticket=927133BA5A8BCBAD88D7B56AFD667DDFEDA6A36F&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲REAL
+http://103.7.57.30:9981/stream/channelid/984157751?ticket=5A0175C8DF3712E11C7FC22622C33753F1B0C305&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TTCH
+http://103.7.57.30:9981/stream/channelid/1430901954?ticket=251C299D62015607E37B90F86A0D9AE22ACE55D9&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲KNOW-XZYT
+http://103.7.57.30:9981/stream/channelid/932659279?ticket=BC4F4A233DD6E642914A2D6165F832FC18230636&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲VERY
+http://103.7.57.30:9981/stream/channelid/1931999476?ticket=2800710E95C43D02BB1C35F382542A7CB2994FB8&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲M-CH
+http://103.7.57.30:9981/stream/channelid/2079688448?ticket=47887FC2A09EE342084B5BE4CABFBD6B75762158&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TRAV
+http://103.7.57.30:9981/stream/channelid/160926294?ticket=FC176DEAB68B18F06B4C6659DDAD1AF2F097D007&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FOX
+http://103.7.57.30:9981/stream/channelid/263798701?ticket=619CA72C9F1CC31DC3A93D2E02DCDD44880D5431&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲HFC
+http://103.7.57.30:9981/stream/channelid/791784061?ticket=A99C1D8CEAFBD7C9C0F5E0FB5614F7C00459DE1C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TSP5
+http://103.7.57.30:9981/stream/channelid/1200565636?ticket=C974D379E777AE286C66B185E8F0740355435F8B&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TSP6
+http://103.7.57.30:9981/stream/channelid/757515910?ticket=1CA1B0170DF1F2E324EDE316719D92C02BA9E4DD&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TSP7
+http://103.7.57.30:9981/stream/channelid/121368901?ticket=A8BF10DC6A1E270819E3AA9BBBFB29EC73E9AB7F&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SSN
+http://103.7.57.30:9981/stream/channelid/869048954?ticket=8B2165753F1BDA2E41E462B47AF8A3BA6680DB74&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SSF
+http://103.7.57.30:9981/stream/channelid/736124413?ticket=3897843B92F6B86B89353B51060CEDC90C23A0C0&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲T-SPORT
+http://103.7.57.30:9981/stream/channelid/246675434?ticket=2BF1AEFC98C085BE7A59A56D4D5F55D592CE4F1F&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SPCH
+http://103.7.57.30:9981/stream/channelid/1061660147?ticket=955569AF1CEC2C0195029ACAA5A8932A2AA7CEB2&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TNN2
+http://103.7.57.30:9981/stream/channelid/916011855?ticket=91115AB1817480315768ED15959937B3D804F722&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲KNOW-CCTV
+http://103.7.57.30:9981/stream/channelid/1302333968?ticket=A903C25CF64F7452098E78C5D5A7C849848F6E9E&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲GOLDA-TLC
+http://103.7.57.30:9981/stream/channelid/667032847?ticket=86DD0C9597463F1DEE45299186EEB4FE859A1721&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲EXPLIFE
+http://103.7.57.30:9981/stream/channelid/1146288252?ticket=B9B19CA0051D29F220BDF4A03069FCE8E8A66826&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲EXPSCI
+http://103.7.57.30:9981/stream/channelid/1279571960?ticket=E40BF3D70FFF477DD53BB972123969BEC3AB05F7&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Disn
+http://103.7.57.30:9981/stream/channelid/231731150?ticket=BE7E46937112322E57AA9D248FDE48ADF671ED49&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SPK-PLAY
+http://103.7.57.30:9981/stream/channelid/1412377389?ticket=5F293828CEC52C052576E7153AD11341FB6EE131&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲C-Club
+http://103.7.57.30:9981/stream/channelid/1242637214?ticket=A65C10773F9FFEFFDB1D954064F7D67C2F98A683&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TV5-HD1-SD
+http://103.7.57.30:9981/stream/channelid/1201357395?ticket=A5615633359CA87538692673FC8FE0D3774449FA&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲NBT
+http://103.7.57.30:9981/stream/channelid/648928710?ticket=E45BED1F523FB58C73B5D27625375E5182171F9D&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲TPBS
+http://103.7.57.30:9981/stream/channelid/1559171641?ticket=3F0C7567EC0EBCC3315463D68F7B13D203664316&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Parliament-TV
+http://103.7.57.30:9981/stream/channelid/283711730?ticket=D5F8458F28FEBE11EB7A8F8CB2BE314AE84E5CF0&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MCOT-HD-SD
+http://103.7.57.30:9981/stream/channelid/1611842034?ticket=EAD1D79167A7C3F0B51805A943A24CDC09DBE2D3&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ONE
+http://103.7.57.30:9981/stream/channelid/1141977232?ticket=14771C043C4BA6131691F2B306330F88224CB9D3&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Thairath-TV-SD
+http://103.7.57.30:9981/stream/channelid/616376933?ticket=A539B1CDC5F8148E78D6030A17414C4E154D1676&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲3-HD-SD
+http://103.7.57.30:9981/stream/channelid/287151264?ticket=ADB9BE38229E9B877AEC3AA04F0146B78B077BAA&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Amarin-TV-HD-SD
+http://103.7.57.30:9981/stream/channelid/428646544?ticket=413A2836519A14CFE84965E79D8C2FE0E38E2F7A&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲BBTV-CH7
+http://103.7.57.30:9981/stream/channelid/1670856333?ticket=F752C8A9E4EAFF8081CC44322ABED8CCE16C091C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲PPTV
+http://103.7.57.30:9981/stream/channelid/682633075?ticket=5251101CA1A1E9E90608D32DD1C709E0D5A12537&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Toonami
+http://103.7.57.30:9981/stream/channelid/592244714?ticket=50D5976CC2C54CA34B31214EBFBECE6D25F1BE3B&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲M-CHANNELTV
+http://103.7.57.30:9981/stream/channelid/1612384626?ticket=2DC0DEEDCBAE6C2A7AF062E3A2273B03E665FAE5&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲JA-TING-JA
+http://103.7.57.30:9981/stream/channelid/1873018688?ticket=B4A9998E64C94A746D664B982A772F7E6C4E1C60&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲Mono-Plus
+http://103.7.57.30:9981/stream/channelid/1721658604?ticket=45B727AC52E26C8A1731ADBA4CBCB076E17D0E89&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲T-NEWS
+http://103.7.57.30:9981/stream/channelid/1250617134?ticket=357DCF32BF2BFF2300E11C2429C6D2D9D228A949&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲BOOMERANG
+http://103.7.57.30:9981/stream/channelid/1029177231?ticket=5A8AD16637CFD69604CED8DCA881F42312F6A73D&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲GANG-CARTOON
+http://103.7.57.30:9981/stream/channelid/608299543?ticket=E81905E770AEC24E72B8D6FFA90E9990AC419B3B&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲PSI-CHANNEL-HD
+http://103.7.57.30:9981/stream/channelid/98611420?ticket=19D57A99028D5BD7FFE79462FD886E1DADD18ED8&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲workpoint-HD
+http://103.7.57.30:9981/stream/channelid/1339000354?ticket=10D120602866DD9152E7BC142864CD3DC1D476E5&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲BUDDHA
+http://103.7.57.30:9981/stream/channelid/126538689?ticket=6BAB17E088D31B32967E6C547125644382E41D2C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MRTV
+http://103.7.57.30:9981/stream/channelid/1699374678?ticket=787D917ABF5F54DF8705F557789FF19C75CDC772&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MWD
+http://103.7.57.30:9981/stream/channelid/1152581127?ticket=37CDBBD94FE2BE38283A15CCB4B81F1E1393279E&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MRTV-ENTERTAINMENT
+http://103.7.57.30:9981/stream/channelid/1740287320?ticket=A3DAB62C2813DA4939B9AAFB30A6DBD1D89AB1BF&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MITV
+http://103.7.57.30:9981/stream/channelid/1781595446?ticket=A9B5550D297D3F8F5F49193C7E6C6F9D1BA6B0A5&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MNTV
+http://103.7.57.30:9981/stream/channelid/238548718?ticket=31B41F6679C92A4CC638CFA89AE538CA9AC685B9&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲M-BIZ
+http://103.7.57.30:9981/stream/channelid/340639878?ticket=95A46B64CCB773D397B239EC7BF1339CA62D886C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CHANNEL-ONE
+http://103.7.57.30:9981/stream/channelid/1413013727?ticket=90FB0143800664CA55337198AF38565774964477&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CHANNEL-9
+http://103.7.57.30:9981/stream/channelid/1040197274?ticket=FF8B67F62B1608CAFA4612B07B1ADC3B52A9F6A6&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CARTOON-NETWORK
+http://103.7.57.30:9981/stream/channelid/1454654454?ticket=1AAC0804B2C31F13E441AC79DB966456E6A25F60&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲NICKJR
+http://103.7.57.30:9981/stream/channelid/661351450?ticket=09975C68562DB4265798D2D5F0C1D59D1AC0969D&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-CARTOON
+http://103.7.57.30:9981/stream/channelid/363475068?ticket=FE37C73DFD5A96DB800B837ABC37AF759F89F38E&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲BABY-TV
+http://103.7.57.30:9981/stream/channelid/1618397812?ticket=81D84DA2616ED5F6719FCC7B9540A4C68CA90ED0&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲NICKELODEON
+http://103.7.57.30:9981/stream/channelid/1118029552?ticket=107F2CA9FBEC25CCD4461378DE026F7F03D026AC&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲HADAYA
+http://103.7.57.30:9981/stream/channelid/2002151308?ticket=34B770D2797A519F3CE3F65D1AD41F358DDDA504&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MYANMAR-MOVIES
+http://103.7.57.30:9981/stream/channelid/1482551268?ticket=EE815843EABFDE1D89DEADD4F83CCDD08274E443&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MYANMAR-ARTS
+http://103.7.57.30:9981/stream/channelid/2038532467?ticket=74348376B0A23EED3F90BFFAF1073C6AB1B51637&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ASIAN-MOVIES
+http://103.7.57.30:9981/stream/channelid/2032808777?ticket=A13E1E389BCA73E53DB7743CA41D251A558452F2&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲WORLD-MOVIES
+http://103.7.57.30:9981/stream/channelid/326550470?ticket=04C0CB595AF3368D73FF1A71B999A05E60EE7E25&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FOX-MOVIES-PREMIUM
+http://103.7.57.30:9981/stream/channelid/1047743078?ticket=12117978F673892095CCDBE763ED309A69ED3ED8&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FOX-FAMILY-MOVIES
+http://103.7.57.30:9981/stream/channelid/681564050?ticket=E1C35A2CC6F49A88879597CBC090D282C000293B&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ZEE-CINEMA-ME
+http://103.7.57.30:9981/stream/channelid/1143938038?ticket=8A038800F603DF834682294B9E187D1E39392D36&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-MUSIC
+http://103.7.57.30:9981/stream/channelid/1916072443?ticket=AE3964DC82DAFE68543935A096A7AEF91BF524B9&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CH-V
+http://103.7.57.30:9981/stream/channelid/1406830638?ticket=229D68F06600B8372841A85EDD055DDA804907AC&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲NAT-GEO-MUSIC
+http://103.7.57.30:9981/stream/channelid/317658352?ticket=05FA6FF92E8272755D9F0404E2082F1B0E1C6C4C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ZING
+http://103.7.57.30:9981/stream/channelid/1059508786?ticket=25F29A3FD8F20390DA026EFF63CB86B73ECD5CBE&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MTV-CHINA
+http://103.7.57.30:9981/stream/channelid/1163100502?ticket=9695015E6126EEFAFFB6C11E42255D7DE0F50ED6&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MTV-SEA
+http://103.7.57.30:9981/stream/channelid/223215926?ticket=9EE54CA40181257B0E0FD3DD0B83462E23D815F9&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-TEEN
+http://103.7.57.30:9981/stream/channelid/1058567559?ticket=AFE9A52660A709828939F8BF7815C10092BA0385&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FASHION-ONE
+http://103.7.57.30:9981/stream/channelid/365568120?ticket=6656B6A98F7EF0FC574147564CC97CA9826F3B15&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲WORLD-DRAMA
+http://103.7.57.30:9981/stream/channelid/390113627?ticket=74C63A70E8262ED44B10807798E86F421145C858&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲INTERNATIONAL-DRAMA
+http://103.7.57.30:9981/stream/channelid/1233295678?ticket=845E802389B8F4841BF5BA352E1C6157FA3BC9FF&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ZEE-TV
+http://103.7.57.30:9981/stream/channelid/258743226?ticket=94C4B7F5DE84CF7C85E86DED527E1DDCDAD3E695&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FOX-CRIME
+http://103.7.57.30:9981/stream/channelid/1234408285?ticket=9572AE42B9ED4EF68916AFBEADD1F0249A30E4E5&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲STAR-WORLD
+http://103.7.57.30:9981/stream/channelid/959081593?ticket=7B398D8E12286E248B3928555F127CFD3B29C315&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FOX-SPORTS-NEWS
+http://103.7.57.30:9981/stream/channelid/258743210?ticket=4F8D42B1722FFD717722DFE1DE851CA58A5867FE&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲FX
+http://103.7.57.30:9981/stream/channelid/1746245267?ticket=A6D2CDFB9937ED4BE8BDFAD261B13D8F967B5F01&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲M
+http://103.7.57.30:9981/stream/channelid/426541522?ticket=8C70E2B804DA0BCB52BD0D473E46C1186330535C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲KBS-WORLD
+http://103.7.57.30:9981/stream/channelid/1386568551?ticket=DA8E00ED30363DE5BBC341A8613563CD2CC76F1D&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲ARIRANG
+http://103.7.57.30:9981/stream/channelid/1862334881?ticket=46600BE92F86D55A2DF3B08671237B7FEAA00086&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲NHK-WORLD-PREMIUM
+http://103.7.57.30:9981/stream/channelid/787746276?ticket=5CA5E93273BEA0A73F2D1DC183073E0AD2309F91&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲NHK-WORLD-TV
+http://103.7.57.30:9981/stream/channelid/1457457025?ticket=0A83D779416273436B2CB5CF9C9A5B0673399DA1&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CCTV-NEWS
+http://103.7.57.30:9981/stream/channelid/778583696?ticket=3BDCA6711392BE6E0A26882F705187C2BC526A3C&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲GMM-25
+http://103.7.57.30:9981/stream/channelid/724741875?ticket=011E56E24E6DAAA36BCD1F92121E043CB26F228E&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CH8-HD
+http://103.7.57.30:9981/stream/channelid/849795564?ticket=A622649A551D0D0C3C3231C482D25F884CCD2FB6&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CCTV-4
+http://103.7.57.30:9981/stream/channelid/1455406607?ticket=9628685F9A4C56F187488F2BD277017550E2AA81&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲MONO-29
+http://103.7.57.30:9981/stream/channelid/1574937968?ticket=A1E986300A84FD009DC929B6D5183E797F318AC4&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CCTV-9
+http://103.7.57.30:9981/stream/channelid/175912371?ticket=048B78972A624E7EB6B62355BAB5DE314EAC9A87&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲CNBC
+http://103.7.57.30:9981/stream/channelid/937918770?ticket=C6231C07CEDF1E46A07B1C13CC10B81F67A3EBD9&profile=pass
+#EXTINF:-1group-title="泰国套餐",亚洲BLOOMBERG
+http://103.7.57.30:9981/stream/channelid/535633498?ticket=AFCE8B4102D9A10048E1385EEDFB09922A7A1010&profile=pass
+
+
+
+
+#EXTINF:-1group-title="珠江201套餐",CCTV-1HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=0&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",CCTV-13
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=1&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",高尔夫
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=2&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",北京卡酷
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=3&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",CCTV-3HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=4&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",中国教育1
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=5&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",旅游卫视
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=6&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",宁夏卫视
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=7&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",CCTV-5HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=8&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",河南卫视
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=9&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",四川卫视
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=10&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",甘肃卫视
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=11&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",河北卫视
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",新疆卫视
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=13&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",嘉佳卡通
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=14&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",江苏卫视HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=15&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",法治天地
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=16&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",金色频道
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=17&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",中华美食
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=18&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",央广购物
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=19&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",东方财经
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=20&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",魅力音乐
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=21&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",优漫卡通
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=22&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",CCTV-6HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=23&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",四川卫视HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=24&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",欧洲足球
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=25&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",国防军事
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=26&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",英语辅导
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=27&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",天元围棋
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=28&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",CCTV-2HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=29&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",北京纪实HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=30&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",浙江卫视HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=31&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",CCTV-8HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=32&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",CCTV-9HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=33&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",CHC高清电影
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=34&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",安徽卫视HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=35&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",天津卫视HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=36&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",重庆卫视HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=37&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",广州综合
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=38&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",广州新闻
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=39&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",广州经济
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=40&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",广州移动
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=41&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",中国气象
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=42&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",广州少儿
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=44&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",广州购物
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=45&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",51流行
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",本港台
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=47&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",本港国际
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=48&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",星空卫视
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=49&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",澳亚卫视
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=50&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",广东房产
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=51&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",广东会展
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=52&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",邮轮旅游
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=53&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",广东公共
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=54&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",广东经济科教
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=55&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",广东综艺
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=56&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",快乐垂钓
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=57&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",先锋乒羽
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=58&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",CHC家庭电影
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=59&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",U baby TV
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=60&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",艺华高清
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=61&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",深圳卫视
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=62&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",新视觉HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=63&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",Games
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=64&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",彩条
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=65&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",金鹰纪实HD
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=66&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江201套餐",家有购物
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=67&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+
+
+
+#EXTINF:-1group-title="珠江203套餐",CCTV-11
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=0&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",CCTV-15
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=1&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",CCTV-NEWS
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=2&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",青海卫视
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=3&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",云南卫视
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=4&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",北京卫视HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=5&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",贵州卫视
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=6&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",江西卫视
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=7&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",广西卫视
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=8&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",吉林卫视
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=9&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",湖南卫视HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=10&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",西藏卫视
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=11&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",东方卫视HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",东方购物
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=13&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",劲爆体育
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=14&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",动漫秀场
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=15&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",欢笑剧场
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=16&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",都市剧场
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=17&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",金鹰卡通
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=18&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",优购物
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=19&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",全纪实
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=20&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",生活时尚
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=21&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",七彩戏剧
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=22&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",极速汽车
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=23&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",CCTV高尔夫网球
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=24&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",辽宁卫视HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=25&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",CCTV-4HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=26&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",广东卫视HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=27&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",广东体育HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=28&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",山东卫视HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=29&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",CCTV-7HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=30&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",湖北卫视HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=31&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",上海纪实HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=32&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",CCTV-10HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=33&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",CCTV-12HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=34&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",CCTV-14HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=35&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",CCTV-5+HD
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=36&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",快乐购
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=37&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",广州影视
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=38&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",广州生活
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=40&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",佛山公共
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=41&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",广州竞赛
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=42&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",TVS5广东少儿
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=43&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",广州数字宣传
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=44&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",5i经典
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=45&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",翡翠台
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",明珠台
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=47&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",凤凰卫视中文台
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=48&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",华娱卫视
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=49&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",广东现代教育
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=50&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",珠江电影
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=51&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",岭南戏曲
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=52&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",广东珠江
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=53&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",广东新闻
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=54&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",TVS2广东南方卫视
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=55&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",TVS4广东影视
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=56&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",DOXTV
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=57&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",MTV
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=58&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",CHC动作电影
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=59&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",演唱会
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=60&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",香港电影
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=61&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",东方购物
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=62&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",纪录片
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=63&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",欧美电影
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=64&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",CCTV证券资讯
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=65&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+#EXTINF:-1group-title="珠江203套餐",空白
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=66&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1&Fsv_otype=1
+
+
+
+
+
