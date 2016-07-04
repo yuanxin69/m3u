@@ -413,7 +413,7 @@ num,itemid,name,urllist
 412,letvty,欧冠,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 413,letvty,足球,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zuqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 414,letvty,亚洲足球,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yzzq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-415,letvty,欧洲足球,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ozzq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+415,letvty,欧洲足球,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ozzq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://stream1.grtn.cn/ozzq/sd/live.m3u8?_upt=?ts
 416,letvty,国安,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_guoan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 417,letvty,西甲,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_xijia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 418,letvty,德甲,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_dejia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -426,7 +426,6 @@ num,itemid,name,urllist
 425,letvty,搏击,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_boji_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 426,letvty,乐视游戏,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 427,letvty,乐视生态,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsst_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-428,letvty,GTV游戏竞技,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_GTVyxjj
 429,letvty,电子竞技,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 430,letvty,极限运动,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jxyd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 431,letvty,美洲杯,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mzb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1

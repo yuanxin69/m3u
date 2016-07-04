@@ -1,5 +1,204 @@
 #EXTM3U
 
+#EXTINF:-1group-title="海外中文",CI罪案侦查
+http://59.125.191.82:1935/live/c558.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",大爱HD
+http://59.125.191.82:1935/live/c559.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",日本NHK
+http://59.125.191.82:1935/live/c560.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",FOXCRIME罪案现场HD
+http://59.125.191.82:1935/live/c655.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",DIVA电影
+http://59.125.191.82:1935/live/c656.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",八大第1HD
+http://59.125.191.82:1935/live/c657.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",卫视中文HD
+http://59.125.191.82:1935/live/c658.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",三立都会HD
+http://59.125.191.82:1935/live/c659.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",TVBS欢乐HD
+http://59.125.191.82:1935/live/c660.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",三立新闻HD
+http://59.125.191.82:1935/live/c661.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",TVBS新闻HD
+http://59.125.191.82:1935/live/c662.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",纬来体育HD
+http://59.125.191.82:1935/live/c663.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",纬来日本
+http://59.125.191.82:1935/live/c664.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",FOX体育2
+http://59.125.191.82:1935/live/c665.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",纬来育乐
+http://59.125.191.82:1935/live/c666.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",卫视电影
+http://59.125.191.82:1935/live/c667.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",MOMO亲子
+http://59.125.191.82:1935/live/c668.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",东森戏剧
+http://59.125.191.82:1935/live/c669.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",TLC旅游生活
+http://59.125.191.82:1935/live/c670.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",台视HD
+http://59.125.191.82:1935/live/c671.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",华视HD
+http://59.125.191.82:1935/live/c672.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",霹雳台湾
+http://59.125.191.82:1935/live/c673.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",中视HD
+http://59.125.191.82:1935/live/c674.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",CNN
+http://59.125.191.82:1935/live/c675.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",动物星球
+http://59.125.191.82:1935/live/c676.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",BBC
+http://59.125.191.82:1935/live/c677.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",CN卡通频道
+http://59.125.191.82:1935/live/c678.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",HBOHiTs电影
+http://59.125.191.82:1935/live/c684.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",HBOHD电影
+http://59.125.191.82:1935/live/c685.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",HBOfamily电影
+http://59.125.191.82:1935/live/c686.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",民视新闻
+http://59.125.191.82:1935/live/c687.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",中天新闻HD
+http://59.125.191.82:1935/live/c688.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",TVBS综合HD
+http://59.125.191.82:1935/live/c689.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",HBOsignature电影
+http://59.125.191.82:1935/live/c690.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",东森新闻HD
+http://59.125.191.82:1935/live/c691.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",民视HD
+http://59.125.191.82:1935/live/c692.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",民视四季HD
+http://59.125.191.82:1935/live/c693.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",东森洋片
+http://59.125.191.82:1935/live/c694.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",东森超视
+http://59.125.191.82:1935/live/c695.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",三立台湾HD
+http://59.125.191.82:1935/live/c696.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",八大综合HD
+http://59.125.191.82:1935/live/c697.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",迪斯尼卡通
+http://59.125.191.82:1935/live/c698.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",CINEMAX电影
+http://59.125.191.82:1935/live/c699.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",DMAX
+http://59.125.191.82:1935/live/c700.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",箐采
+http://59.125.191.82:1935/live/c701.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",FOXfamilyMOVIES电影
+http://59.125.191.82:1935/live/c702.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",UNIVERSAL电影
+http://59.125.191.82:1935/live/c703.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",美亚电影HD
+http://59.125.191.82:1935/live/c704.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",星卫HD电影
+http://59.125.191.82:1935/live/c705.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",国家地理HD
+http://59.125.191.82:1935/live/c706.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",国家地理野生HD
+http://59.125.191.82:1935/live/c707.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",ANIMAX动漫HD
+http://59.125.191.82:1935/live/c708.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",博斯高球II
+http://59.125.191.82:1935/live/c709.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",纬来戏剧
+http://59.125.191.82:1935/live/c710.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",卫视合家欢
+http://59.125.191.82:1935/live/c711.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",非凡新闻
+http://59.125.191.82:1935/live/c712.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",国兴卫视
+http://59.125.191.82:1935/live/c713.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",东风37
+http://59.125.191.82:1935/live/c714.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",八大戏剧
+http://59.125.191.82:1935/live/c715.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",SYSY恐怖电影
+http://59.125.191.82:1935/live/c716.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",ELTA体育HD
+http://59.125.191.82:1935/live/c717.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",韩国娱乐
+http://59.125.191.82:1935/live/c718.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",BBC生活
+http://59.125.191.82:1935/live/c719.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",中天综合HD
+http://59.125.191.82:1935/live/c720.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",ASN体育
+http://59.125.191.82:1935/live/c721.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",博斯高球
+http://59.125.191.82:1935/live/c722.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",迪斯尼少年
+http://59.125.191.82:1935/live/c723.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",宝贝电视
+http://59.125.191.82:1935/live/c724.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",JET综合
+http://59.125.191.82:1935/live/c725.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",年代MUCH
+http://59.125.191.82:1935/live/c726.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",东森幼幼
+http://59.125.191.82:1935/live/c727.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",中天娱乐
+http://59.125.191.82:1935/live/c728.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",Z格斗
+http://59.125.191.82:1935/live/c729.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",FOX体育3HD
+http://59.125.191.82:1935/live/c730.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",FOXHD电影
+http://59.125.191.82:1935/live/c731.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",壹新闻
+http://59.125.191.82:1935/live/c732.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",东森财经新闻
+http://59.125.191.82:1935/live/c733.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",东森电影
+http://59.125.191.82:1935/live/c734.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",纬来综合
+http://59.125.191.82:1935/live/c735.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",年代新闻HD
+http://59.125.191.82:1935/live/c736.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",东森综合
+http://59.125.191.82:1935/live/c737.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",FX电影
+http://59.125.191.82:1935/live/c738.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",韩国tvN
+http://59.125.191.82:1935/live/c740.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",MTV娱乐HD
+http://59.125.191.82:1935/live/c741.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",星卫娱乐
+http://59.125.191.82:1935/live/c742.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",EVE健康生活
+http://59.125.191.82:1935/live/c743.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",探索世界HD
+http://59.125.191.82:1935/live/c744.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",国家地理人文
+http://59.125.191.82:1935/live/c745.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",卫视西片HD电影
+http://59.125.191.82:1935/live/c746.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",探索科学
+http://59.125.191.82:1935/live/c747.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",欧美电影
+http://59.125.191.82:1935/live/c981.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",经典美剧
+http://59.125.191.82:1935/live/c982.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",韩迷SBS
+http://59.125.191.82:1935/live/c983.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",亚洲电影
+http://59.125.191.82:1935/live/c985.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",强档电影
+http://59.125.191.82:1935/live/c987.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",日本BS
+http://59.125.191.82:1935/live/c003.stream/playlist.m3u8
+#EXTINF:-1group-title="海外中文",海贼王动漫
+http://59.125.191.82:1935/live/c307.stream/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1group-title="德州有线",CCTV-1HD
 http://httpdvb.slave.dzcatv.com:13164/httpdvb?chnlname=hdcctv1&playtype=live&auth=no
 #EXTINF:-1group-title="德州有线",CCTV-3HD
@@ -2634,439 +2833,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shizhuang_720p&tag=live&ext=m3
 
 
 
-#EXTINF:-1group-title="泰国套餐",亚洲STAR-CHINESE-MOVIES
-http://103.7.57.30:9981/stream/channelid/295269861?ticket=23E30D2731CAF97DC641160613844C9812BB75A2&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CNAI
-http://103.7.57.30:9981/stream/channelid/826111591?ticket=80DC96BF6E83CB55F124A13BF02CEE6CCD0718B5&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲DWTV
-http://103.7.57.30:9981/stream/channelid/1317253902?ticket=EF03DE317AB380B0DC403C75FE508B2CE44CCCAB&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FRANCE-24
-http://103.7.57.30:9981/stream/channelid/1291956585?ticket=B6E4F024D5799D244B6202F650463D77E5FB9615&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲PHOENIX-INFO-NEWS
-http://103.7.57.30:9981/stream/channelid/580050070?ticket=42620F6406CC0738ACC1DAE93293BCFE76B12285&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-1
-http://103.7.57.30:9981/stream/channelid/493518268?ticket=4DCA9BAA57DD061C7C3814B1205EF2E448F79012&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-2
-http://103.7.57.30:9981/stream/channelid/526343271?ticket=40764CBC303C87DD7686F821858EE87681009FB3&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-3
-http://103.7.57.30:9981/stream/channelid/1808225338?ticket=D854925BD3629433B95A40AB79EA914350CCC31A&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FOX-SPORTS-1
-http://103.7.57.30:9981/stream/channelid/620883573?ticket=884BBFF8232DED413A6739C71A5107DCB5306EA4&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FOX-SPORTS-2
-http://103.7.57.30:9981/stream/channelid/1592707575?ticket=228DBE9A220EB2D2E442DA9BA5A5E3443F4636C4&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FOX-SPORTS-3
-http://103.7.57.30:9981/stream/channelid/757481428?ticket=22A78F8188BDA88FF87B5885CC0C8F05BB46FDF9&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ASN
-http://103.7.57.30:9981/stream/channelid/947451490?ticket=B18392C4CE113D33CB0316C98100BCBED8FF743D&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲GOLF
-http://103.7.57.30:9981/stream/channelid/1796344578?ticket=76F3B2873F9E3C2038D7C5D991B48DBB920953D4&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-LIVE-CHANNEL
-http://103.7.57.30:9981/stream/channelid/1423262430?ticket=F313FC03A782BD590AA81F30CB71BB70FD83B0D5&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MONEY-CHANNEL
-http://103.7.57.30:9981/stream/channelid/1116741067?ticket=501BA2169B597D1B1B232CA1489A229EEE6496BC&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲DISNEY-CHANNEL-ASIA
-http://103.7.57.30:9981/stream/channelid/958627070?ticket=66658F4AB13B734A2F250FE58444C986D7BB7EEB&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲DISNEY-JUNIOR-ASIA
-http://103.7.57.30:9981/stream/channelid/957816879?ticket=CED63DC02EA06E66E7C10BB9E9B02EC4A3A903B6&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-KNOWLEDGE
-http://103.7.57.30:9981/stream/channelid/421863479?ticket=C68C41653B731DD79CE994FDD675A19CA3C1D35E&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲NGC
-http://103.7.57.30:9981/stream/channelid/2072595017?ticket=0B93A5A4B39A3DA50D5E9298B012B4ED5263050B&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲NGC-WILD
-http://103.7.57.30:9981/stream/channelid/1544960420?ticket=4FEA600A4E56B06098CBACEEFA3C4BF51F626255&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲NAT-GEO-PEOPLE
-http://103.7.57.30:9981/stream/channelid/2145095779?ticket=DE461C85D74FA5EB826E14F2E5731452998BF5C0&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ANIMAL-PLANET
-http://103.7.57.30:9981/stream/channelid/1452008888?ticket=1DA30689CDD28F4FA975A7FC45D2421FB60F533D&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲DISCOVERY
-http://103.7.57.30:9981/stream/channelid/1376307275?ticket=EC65DA9EF7F344B5AA70E4702C511F4F1AE2AC03&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲DISCOVERY-TLC
-http://103.7.57.30:9981/stream/channelid/564494904?ticket=4326F33C4E379EAA1335F17C9A522C4791DFCC79&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲EVE
-http://103.7.57.30:9981/stream/channelid/831487742?ticket=7F365CEA6657E2D6F0865164494FC8A1C855990F&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲DISCOVERY-SCIENCE
-http://103.7.57.30:9981/stream/channelid/913899635?ticket=8722510D6E73AFD31A13CDBB7ECF233A80DE89AE&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲DMAX
-http://103.7.57.30:9981/stream/channelid/87986828?ticket=F4919D3CD18C202D6AB19FECE4B7168ADA2ABF54&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲DISCOVERY-KIDS
-http://103.7.57.30:9981/stream/channelid/338417260?ticket=97C692CAA20D811557AA763C31833290456DBCD4&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲HLUTTAW
-http://103.7.57.30:9981/stream/channelid/1251744266?ticket=BAB74A3D6016D4251916594659FC81DC48EAB82F&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ITV-CHOICE
-http://103.7.57.30:9981/stream/channelid/600004233?ticket=38BC0C7C596A2F52A80115A11F516A95E411F0CD&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲GLOBALNET
-http://103.7.57.30:9981/stream/channelid/418162506?ticket=E290C948BAE2A17C1EDEE39E881C1E2DED781974&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲UP-TO-DATE
-http://103.7.57.30:9981/stream/channelid/1710991693?ticket=A8E7B118ACE55B4F5739D93DA1E4FCDB485F9E7F&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲COMEDY-CENTRAL
-http://103.7.57.30:9981/stream/channelid/539917850?ticket=F616E33834595E58454349C43D039B3A3C4E809E&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SCREEN-RED
-http://103.7.57.30:9981/stream/channelid/662529464?ticket=1A5B99712766240F2F8B4539B2305E4AA526A69C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲OUTDOOR-CHANNEL
-http://103.7.57.30:9981/stream/channelid/1002841278?ticket=868ABE65C4BA568267F973327EE902C4DDB374A3&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲BBC-ENTERTAINMENT
-http://103.7.57.30:9981/stream/channelid/2045610328?ticket=FC5A85F71A9F8955441F9F7E877E54DFFD551B57&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲BBC-CBEEBIES
-http://103.7.57.30:9981/stream/channelid/1804460151?ticket=46EB8AC401C7200A281B78C5C7E21D8DDED9AD5F&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲BBC-WORLD-NEWS
-http://103.7.57.30:9981/stream/channelid/1042080973?ticket=C444D111BE32047F6704FC18E00409BBFD45E6BF&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲EDGE-SPORTS
-http://103.7.57.30:9981/stream/channelid/1876046426?ticket=BD9F0FEA1D9AF90018BF959C4E7E446EA28441E0&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MOTORVISION
-http://103.7.57.30:9981/stream/channelid/669904825?ticket=1002A80D1EA15B1E9E7B1CA3F95C15161E2EDC10&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲H2
-http://103.7.57.30:9981/stream/channelid/1415275045?ticket=5035D428B97EDA6110312A35B374B59F0B013958&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲LIFETIME
-http://103.7.57.30:9981/stream/channelid/1929225879?ticket=6B7F3150F6ECE9104D4D5524CCED648DB13A0B23&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲UNIVERSAL-SD
-http://103.7.57.30:9981/stream/channelid/1900947945?ticket=FEB8E74BCF557A6EDB221CA5CF6DCF0A89C2C906&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲DIVA-UNIVERSAL
-http://103.7.57.30:9981/stream/channelid/1589065723?ticket=E61F05E6D8949C78E9491A63F6CC875B705B0A48&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲E!
-http://103.7.57.30:9981/stream/channelid/76810877?ticket=D544A2B129FA92B22C01221A90C6E6BDB50DDA84&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲EDUCATION-CHANNEL
-http://103.7.57.30:9981/stream/channelid/228595835?ticket=8F703BEC1F774EE6B698469D54778BE1DC1FF301&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲AGRICULTURE-FOREST
-http://103.7.57.30:9981/stream/channelid/1535674664?ticket=39533139FCFC17726C69212B41B88DB5E3156F78&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲HEALTH
-http://103.7.57.30:9981/stream/channelid/2072661282?ticket=8F56C3423BF1727436D2BC3F05CD12B0919167CB&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TINE-YIN-THAR
-http://103.7.57.30:9981/stream/channelid/1919269979?ticket=82F3EE650469C374C44157566FCC7E3154A93DD8&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲HOME-CHANNEL
-http://103.7.57.30:9981/stream/channelid/1231683803?ticket=6DB2E8A8F666EF169EC9DC6D7D1382670F00E7B4&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲{name-not-set}
-http://103.7.57.30:9981/stream/channelid/1236405727?ticket=1EBFB05446528082185FD57C6ADDBDE08558280D&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TV5-HD1
-http://103.7.57.30:9981/stream/channelid/1839182936?ticket=7D4D946D013EC38C13F2A52DDB8688EA279BB4BF&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲NBT-HD
-http://103.7.57.30:9981/stream/channelid/586045232?ticket=4CB95930EE7F36CBF5E8325D2F5D728E312548AC&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲THAIPBS-HD
-http://103.7.57.30:9981/stream/channelid/1274643565?ticket=6EA72A807234FC8A25F9029F36D3106936DEC3D1&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-4
-http://103.7.57.30:9981/stream/channelid/1810687883?ticket=4A648985C73C1D8E1DFFCE6E8B59E90AC760E824&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TPTV
-http://103.7.57.30:9981/stream/channelid/275359970?ticket=BA22B27B8DC6E3080047D653EF29844C6AB3ECEB&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲3-Family
-http://103.7.57.30:9981/stream/channelid/2079310684?ticket=F75DDD35FF6CFD718E85962E1F0C833EABB089EA&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MCOT-Kids
-http://103.7.57.30:9981/stream/channelid/1208981135?ticket=B0EC74ED31990916CC7274761B1B695F989AA79C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-5
-http://103.7.57.30:9981/stream/channelid/960957077?ticket=AF55BBE7F97A0CFD5E242C26E0CFA2498A0AEF4C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲new-tv
-http://103.7.57.30:9981/stream/channelid/82250107?ticket=934C1A7AB2598B9CEB0D76BBFCC3F47A9D3280CC&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Spring-News
-http://103.7.57.30:9981/stream/channelid/1687319314?ticket=087D6C851EBF5CACBC0813FC6F4110626FF2628C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲BRIGHT-TV
-http://103.7.57.30:9981/stream/channelid/10988183?ticket=0A47A8C92ED380692CB702018AC645D44950ACDA&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Voice-TV
-http://103.7.57.30:9981/stream/channelid/103115123?ticket=5DF159454B45C3092E33A9F03DC3D62702380EB6&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Nation-TV
-http://103.7.57.30:9981/stream/channelid/819592399?ticket=50E8D123808EC3AD1061CA78153DBE61AEDA0955&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Workpoint-TV
-http://103.7.57.30:9981/stream/channelid/476207996?ticket=56EF707B0465A85A73F87A7D22DB5C2CB0D94458&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲True4U
-http://103.7.57.30:9981/stream/channelid/1750904281?ticket=6EDDA2F8A974775DEC6A2B18AEA543702B67B31C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-6
-http://103.7.57.30:9981/stream/channelid/1786951394?ticket=22A14F1EE9D963CF89203BB95431FC62915E3541&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲NOW
-http://103.7.57.30:9981/stream/channelid/1807953888?ticket=3003A6F74780D714BCD9BBF184ABA971B15EC813&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CH8
-http://103.7.57.30:9981/stream/channelid/399980374?ticket=F85D52677C0C5392741074A872A918F6C9BA38DB&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲3-SD
-http://103.7.57.30:9981/stream/channelid/261809553?ticket=A641ACCD61E13D554406F3A877CB2C6E9512758E&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MONO29
-http://103.7.57.30:9981/stream/channelid/1833328300?ticket=4FEBB8F918CCB83A5F3B3D7B06A7A1D077F0E812&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MCOT-HD
-http://103.7.57.30:9981/stream/channelid/316198646?ticket=45BFE817C6D460474026F9CC444334E41AD84E24&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ONE-HD
-http://103.7.57.30:9981/stream/channelid/741820263?ticket=5DAC3EEC75EB8925DAA1D6B0DF54234CAA8E6C16&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Thairath-TV
-http://103.7.57.30:9981/stream/channelid/112751728?ticket=DFF039716CB6DB85E6B0E4C7AC132197611783B6&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲3-HD
-http://103.7.57.30:9981/stream/channelid/1658806573?ticket=A725C8CC5EE4D9406A629EAF04B3B04B0E2BAA05&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Amarin-TV-HD
-http://103.7.57.30:9981/stream/channelid/131069908?ticket=61DB4C9515CE9CE17340F4228B856459F463F141&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CH7-HD
-http://103.7.57.30:9981/stream/channelid/231424749?ticket=975A4F3B954DA9662CCF07572B4985842CF77197&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲EURO-SPORTS
-http://103.7.57.30:9981/stream/channelid/2087708001?ticket=5475E5B2D066905E0938AA31EDFE74C2C9ADE1CE&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲PPTV-HD
-http://103.7.57.30:9981/stream/channelid/2043877960?ticket=9E2922959130F34E753836EF8B1404A605AE7151&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKY-NEWS
-http://103.7.57.30:9981/stream/channelid/40558500?ticket=AB4B51DED7A4157A5409A13FF47FC5D64E2E5778&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FOX-NEWS
-http://103.7.57.30:9981/stream/channelid/1813546999?ticket=9D8A1DAC40ECAE2C29AC377344D73F3CB7981034&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲EURO-SPORTS-NEWS
-http://103.7.57.30:9981/stream/channelid/1645660831?ticket=8B8A96D20D99818244D437014C74EF91870ED337&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ANIMAX
-http://103.7.57.30:9981/stream/channelid/699364166?ticket=F464FDFF050FF4DA8CBB260D43C6BFBA6BE2075C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲AXN
-http://103.7.57.30:9981/stream/channelid/1287705295?ticket=73B9D922C81CFDC59A340624A9137A5C2AD233B5&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CI
-http://103.7.57.30:9981/stream/channelid/1725418918?ticket=AAA100D0C070B8089FAD822CE870932347E0EDD0&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FYI
-http://103.7.57.30:9981/stream/channelid/357983979?ticket=665D41C9A780B8C72DD89C1F8FA135A0A4EECAE0&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CNN
-http://103.7.57.30:9981/stream/channelid/1383954959?ticket=97FC96D1F74D460C8C487B3ED5DA474760963EA6&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲HBO
-http://103.7.57.30:9981/stream/channelid/638747752?ticket=AB65E9FC30B2E02CAF1D0DAF1ED4E0A17B1AEB10&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CINEMAX
-http://103.7.57.30:9981/stream/channelid/1477256054?ticket=501C36576A89B68EEBB5E83B810FB6CA1AFD114A&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SUN-TV
-http://103.7.57.30:9981/stream/channelid/122397758?ticket=E94EDD0E7541871E272E115ACACF3FF3DE0A01DF&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SHOPPING-CHANNEL
-http://103.7.57.30:9981/stream/channelid/2138128539?ticket=9840F3B3AFDA20A2F464F226D0091B7F621303BF&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-SPORTS-HD
-http://103.7.57.30:9981/stream/channelid/672675102?ticket=CE1F9BA02E32986A9C725143927507E5EDCFE9EE&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MTV-LIVE-HD
-http://103.7.57.30:9981/stream/channelid/1561561251?ticket=CE3D4E51EFFA8A182902044390AACC16E94A0B3A&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲DISCOVERY-HD-WORLD
-http://103.7.57.30:9981/stream/channelid/511701105?ticket=A886408D6FDA294D0F3256FF52A942647A7313BD&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲HBO-HD
-http://103.7.57.30:9981/stream/channelid/691263889?ticket=4FFB67BC94378495FAE78385BDFC4F9E1DC0DE5C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-MOVIES-HD
-http://103.7.57.30:9981/stream/channelid/820350309?ticket=CB072666F99C6E747552A019A72459BF285E0947&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-HD-PAY-PER-VIEW
-http://103.7.57.30:9981/stream/channelid/907689679?ticket=4B4CE0C5DBEC45FE1A4ECFBB4FF73CFB95B20AA7&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲DISNEY-XD
-http://103.7.57.30:9981/stream/channelid/1452057812?ticket=BEB6C3715A5F9BB91E72FB0CDD55FEA14CF7636F&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲HISTORY-HD
-http://103.7.57.30:9981/stream/channelid/39289544?ticket=13E7C73D5B33DA55AA51BF71B1670987452AB37C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FIGHT-SPORTS-HD
-http://103.7.57.30:9981/stream/channelid/1236515626?ticket=0D97CD9DC99FA07456C53DD28EBD66C4A725BE87&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲PLOOK
-http://103.7.57.30:9981/stream/channelid/1140984264?ticket=136BB50181A1A693B8FCCB1B2AB3BC780C0B83BE&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲INSE
-http://103.7.57.30:9981/stream/channelid/1917064974?ticket=6FACB8F5146495AF304C88E51E71854B9B23E3AC&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲EXPWILD
-http://103.7.57.30:9981/stream/channelid/532484884?ticket=81D6507D9FB6FD589B2BD556C3A2BC94794B1EBD&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TRUE4U
-http://103.7.57.30:9981/stream/channelid/218699709?ticket=6794F79C0221C60DD98D1F002BA78FB291E557B4&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SPK-JUMP
-http://103.7.57.30:9981/stream/channelid/507566553?ticket=BCDD84D70C543735796A9CCB2121D04D5769D5FF&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲RAMA
-http://103.7.57.30:9981/stream/channelid/86695291?ticket=451B8842ABB3DE25E6BB6113D61C2550CB0FDE3A&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TNN24
-http://103.7.57.30:9981/stream/channelid/682312936?ticket=F53327982769D0EE65DA0005AA90CBA22D283F94&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TSEL
-http://103.7.57.30:9981/stream/channelid/1580303732?ticket=6829D4D7362DE93813F67185D518DF40D908433C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲KNOW-TSP2
-http://103.7.57.30:9981/stream/channelid/1537051289?ticket=907795355759C63DC8D88FC745ED470DDD691990&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MOVH
-http://103.7.57.30:9981/stream/channelid/1101459279?ticket=A5193DB2CA7E7A4C262F0D4753D1F360C520669E&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FOX-ACTION-MOVIES-HD
-http://103.7.57.30:9981/stream/channelid/1565088423?ticket=FA420AB4671102AE74090992FABF156C355BB09F&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MONEY
-http://103.7.57.30:9981/stream/channelid/2146970291?ticket=4C37B453690626E35C8B2BC31F5F0CF141488727&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲S-BT
-http://103.7.57.30:9981/stream/channelid/911089707?ticket=57CBA25534C47C6C8AC9278D813F937BF427BCA9&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SME
-http://103.7.57.30:9981/stream/channelid/767914002?ticket=C7A48DCE208323EEF81ABBB4D10F6C9EDFD0F97F&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲KNOW-CHIC
-http://103.7.57.30:9981/stream/channelid/1270084332?ticket=C7180C4EDB0AD49F3E49936772F5A9809E6B9212&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MRCL
-http://103.7.57.30:9981/stream/channelid/925799737?ticket=1E10A963C4E554B4CE4A2FC27C3BE5BC12A54437&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TFLM
-http://103.7.57.30:9981/stream/channelid/1104087153?ticket=9822305C8B1ECC25F8D0F7BE241EEEA12FD9CF3E&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FL-A
-http://103.7.57.30:9981/stream/channelid/2071130980?ticket=3F1960EE5596CAF060EAF12375E4B959F9B25CE0&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲RED
-http://103.7.57.30:9981/stream/channelid/1884415284?ticket=9CAFA5DFD845188378DB79E4DCC22292C2BA2FFB&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ASER
-http://103.7.57.30:9981/stream/channelid/404305462?ticket=76B7E5315DAF0919969019EBC5FFA8D9234F6BA1&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲KNOW-SRES
-http://103.7.57.30:9981/stream/channelid/696135127?ticket=7A7A7DF6DB6FDE6E70F171105A545F898E4EC607&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲KBS
-http://103.7.57.30:9981/stream/channelid/808088807?ticket=195980CC7B060D159BC4C582559C5BCB713425A1&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TMUS
-http://103.7.57.30:9981/stream/channelid/2021482600?ticket=927133BA5A8BCBAD88D7B56AFD667DDFEDA6A36F&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲REAL
-http://103.7.57.30:9981/stream/channelid/984157751?ticket=5A0175C8DF3712E11C7FC22622C33753F1B0C305&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TTCH
-http://103.7.57.30:9981/stream/channelid/1430901954?ticket=251C299D62015607E37B90F86A0D9AE22ACE55D9&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲KNOW-XZYT
-http://103.7.57.30:9981/stream/channelid/932659279?ticket=BC4F4A233DD6E642914A2D6165F832FC18230636&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲VERY
-http://103.7.57.30:9981/stream/channelid/1931999476?ticket=2800710E95C43D02BB1C35F382542A7CB2994FB8&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲M-CH
-http://103.7.57.30:9981/stream/channelid/2079688448?ticket=47887FC2A09EE342084B5BE4CABFBD6B75762158&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TRAV
-http://103.7.57.30:9981/stream/channelid/160926294?ticket=FC176DEAB68B18F06B4C6659DDAD1AF2F097D007&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FOX
-http://103.7.57.30:9981/stream/channelid/263798701?ticket=619CA72C9F1CC31DC3A93D2E02DCDD44880D5431&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲HFC
-http://103.7.57.30:9981/stream/channelid/791784061?ticket=A99C1D8CEAFBD7C9C0F5E0FB5614F7C00459DE1C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TSP5
-http://103.7.57.30:9981/stream/channelid/1200565636?ticket=C974D379E777AE286C66B185E8F0740355435F8B&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TSP6
-http://103.7.57.30:9981/stream/channelid/757515910?ticket=1CA1B0170DF1F2E324EDE316719D92C02BA9E4DD&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TSP7
-http://103.7.57.30:9981/stream/channelid/121368901?ticket=A8BF10DC6A1E270819E3AA9BBBFB29EC73E9AB7F&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SSN
-http://103.7.57.30:9981/stream/channelid/869048954?ticket=8B2165753F1BDA2E41E462B47AF8A3BA6680DB74&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SSF
-http://103.7.57.30:9981/stream/channelid/736124413?ticket=3897843B92F6B86B89353B51060CEDC90C23A0C0&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲T-SPORT
-http://103.7.57.30:9981/stream/channelid/246675434?ticket=2BF1AEFC98C085BE7A59A56D4D5F55D592CE4F1F&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SPCH
-http://103.7.57.30:9981/stream/channelid/1061660147?ticket=955569AF1CEC2C0195029ACAA5A8932A2AA7CEB2&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TNN2
-http://103.7.57.30:9981/stream/channelid/916011855?ticket=91115AB1817480315768ED15959937B3D804F722&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲KNOW-CCTV
-http://103.7.57.30:9981/stream/channelid/1302333968?ticket=A903C25CF64F7452098E78C5D5A7C849848F6E9E&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲GOLDA-TLC
-http://103.7.57.30:9981/stream/channelid/667032847?ticket=86DD0C9597463F1DEE45299186EEB4FE859A1721&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲EXPLIFE
-http://103.7.57.30:9981/stream/channelid/1146288252?ticket=B9B19CA0051D29F220BDF4A03069FCE8E8A66826&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲EXPSCI
-http://103.7.57.30:9981/stream/channelid/1279571960?ticket=E40BF3D70FFF477DD53BB972123969BEC3AB05F7&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Disn
-http://103.7.57.30:9981/stream/channelid/231731150?ticket=BE7E46937112322E57AA9D248FDE48ADF671ED49&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SPK-PLAY
-http://103.7.57.30:9981/stream/channelid/1412377389?ticket=5F293828CEC52C052576E7153AD11341FB6EE131&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲C-Club
-http://103.7.57.30:9981/stream/channelid/1242637214?ticket=A65C10773F9FFEFFDB1D954064F7D67C2F98A683&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TV5-HD1-SD
-http://103.7.57.30:9981/stream/channelid/1201357395?ticket=A5615633359CA87538692673FC8FE0D3774449FA&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲NBT
-http://103.7.57.30:9981/stream/channelid/648928710?ticket=E45BED1F523FB58C73B5D27625375E5182171F9D&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲TPBS
-http://103.7.57.30:9981/stream/channelid/1559171641?ticket=3F0C7567EC0EBCC3315463D68F7B13D203664316&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Parliament-TV
-http://103.7.57.30:9981/stream/channelid/283711730?ticket=D5F8458F28FEBE11EB7A8F8CB2BE314AE84E5CF0&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MCOT-HD-SD
-http://103.7.57.30:9981/stream/channelid/1611842034?ticket=EAD1D79167A7C3F0B51805A943A24CDC09DBE2D3&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ONE
-http://103.7.57.30:9981/stream/channelid/1141977232?ticket=14771C043C4BA6131691F2B306330F88224CB9D3&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Thairath-TV-SD
-http://103.7.57.30:9981/stream/channelid/616376933?ticket=A539B1CDC5F8148E78D6030A17414C4E154D1676&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲3-HD-SD
-http://103.7.57.30:9981/stream/channelid/287151264?ticket=ADB9BE38229E9B877AEC3AA04F0146B78B077BAA&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Amarin-TV-HD-SD
-http://103.7.57.30:9981/stream/channelid/428646544?ticket=413A2836519A14CFE84965E79D8C2FE0E38E2F7A&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲BBTV-CH7
-http://103.7.57.30:9981/stream/channelid/1670856333?ticket=F752C8A9E4EAFF8081CC44322ABED8CCE16C091C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲PPTV
-http://103.7.57.30:9981/stream/channelid/682633075?ticket=5251101CA1A1E9E90608D32DD1C709E0D5A12537&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Toonami
-http://103.7.57.30:9981/stream/channelid/592244714?ticket=50D5976CC2C54CA34B31214EBFBECE6D25F1BE3B&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲M-CHANNELTV
-http://103.7.57.30:9981/stream/channelid/1612384626?ticket=2DC0DEEDCBAE6C2A7AF062E3A2273B03E665FAE5&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲JA-TING-JA
-http://103.7.57.30:9981/stream/channelid/1873018688?ticket=B4A9998E64C94A746D664B982A772F7E6C4E1C60&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲Mono-Plus
-http://103.7.57.30:9981/stream/channelid/1721658604?ticket=45B727AC52E26C8A1731ADBA4CBCB076E17D0E89&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲T-NEWS
-http://103.7.57.30:9981/stream/channelid/1250617134?ticket=357DCF32BF2BFF2300E11C2429C6D2D9D228A949&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲BOOMERANG
-http://103.7.57.30:9981/stream/channelid/1029177231?ticket=5A8AD16637CFD69604CED8DCA881F42312F6A73D&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲GANG-CARTOON
-http://103.7.57.30:9981/stream/channelid/608299543?ticket=E81905E770AEC24E72B8D6FFA90E9990AC419B3B&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲PSI-CHANNEL-HD
-http://103.7.57.30:9981/stream/channelid/98611420?ticket=19D57A99028D5BD7FFE79462FD886E1DADD18ED8&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲workpoint-HD
-http://103.7.57.30:9981/stream/channelid/1339000354?ticket=10D120602866DD9152E7BC142864CD3DC1D476E5&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲BUDDHA
-http://103.7.57.30:9981/stream/channelid/126538689?ticket=6BAB17E088D31B32967E6C547125644382E41D2C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MRTV
-http://103.7.57.30:9981/stream/channelid/1699374678?ticket=787D917ABF5F54DF8705F557789FF19C75CDC772&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MWD
-http://103.7.57.30:9981/stream/channelid/1152581127?ticket=37CDBBD94FE2BE38283A15CCB4B81F1E1393279E&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MRTV-ENTERTAINMENT
-http://103.7.57.30:9981/stream/channelid/1740287320?ticket=A3DAB62C2813DA4939B9AAFB30A6DBD1D89AB1BF&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MITV
-http://103.7.57.30:9981/stream/channelid/1781595446?ticket=A9B5550D297D3F8F5F49193C7E6C6F9D1BA6B0A5&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MNTV
-http://103.7.57.30:9981/stream/channelid/238548718?ticket=31B41F6679C92A4CC638CFA89AE538CA9AC685B9&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲M-BIZ
-http://103.7.57.30:9981/stream/channelid/340639878?ticket=95A46B64CCB773D397B239EC7BF1339CA62D886C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CHANNEL-ONE
-http://103.7.57.30:9981/stream/channelid/1413013727?ticket=90FB0143800664CA55337198AF38565774964477&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CHANNEL-9
-http://103.7.57.30:9981/stream/channelid/1040197274?ticket=FF8B67F62B1608CAFA4612B07B1ADC3B52A9F6A6&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CARTOON-NETWORK
-http://103.7.57.30:9981/stream/channelid/1454654454?ticket=1AAC0804B2C31F13E441AC79DB966456E6A25F60&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲NICKJR
-http://103.7.57.30:9981/stream/channelid/661351450?ticket=09975C68562DB4265798D2D5F0C1D59D1AC0969D&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-CARTOON
-http://103.7.57.30:9981/stream/channelid/363475068?ticket=FE37C73DFD5A96DB800B837ABC37AF759F89F38E&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲BABY-TV
-http://103.7.57.30:9981/stream/channelid/1618397812?ticket=81D84DA2616ED5F6719FCC7B9540A4C68CA90ED0&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲NICKELODEON
-http://103.7.57.30:9981/stream/channelid/1118029552?ticket=107F2CA9FBEC25CCD4461378DE026F7F03D026AC&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲HADAYA
-http://103.7.57.30:9981/stream/channelid/2002151308?ticket=34B770D2797A519F3CE3F65D1AD41F358DDDA504&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MYANMAR-MOVIES
-http://103.7.57.30:9981/stream/channelid/1482551268?ticket=EE815843EABFDE1D89DEADD4F83CCDD08274E443&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MYANMAR-ARTS
-http://103.7.57.30:9981/stream/channelid/2038532467?ticket=74348376B0A23EED3F90BFFAF1073C6AB1B51637&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ASIAN-MOVIES
-http://103.7.57.30:9981/stream/channelid/2032808777?ticket=A13E1E389BCA73E53DB7743CA41D251A558452F2&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲WORLD-MOVIES
-http://103.7.57.30:9981/stream/channelid/326550470?ticket=04C0CB595AF3368D73FF1A71B999A05E60EE7E25&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FOX-MOVIES-PREMIUM
-http://103.7.57.30:9981/stream/channelid/1047743078?ticket=12117978F673892095CCDBE763ED309A69ED3ED8&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FOX-FAMILY-MOVIES
-http://103.7.57.30:9981/stream/channelid/681564050?ticket=E1C35A2CC6F49A88879597CBC090D282C000293B&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ZEE-CINEMA-ME
-http://103.7.57.30:9981/stream/channelid/1143938038?ticket=8A038800F603DF834682294B9E187D1E39392D36&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-MUSIC
-http://103.7.57.30:9981/stream/channelid/1916072443?ticket=AE3964DC82DAFE68543935A096A7AEF91BF524B9&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CH-V
-http://103.7.57.30:9981/stream/channelid/1406830638?ticket=229D68F06600B8372841A85EDD055DDA804907AC&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲NAT-GEO-MUSIC
-http://103.7.57.30:9981/stream/channelid/317658352?ticket=05FA6FF92E8272755D9F0404E2082F1B0E1C6C4C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ZING
-http://103.7.57.30:9981/stream/channelid/1059508786?ticket=25F29A3FD8F20390DA026EFF63CB86B73ECD5CBE&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MTV-CHINA
-http://103.7.57.30:9981/stream/channelid/1163100502?ticket=9695015E6126EEFAFFB6C11E42255D7DE0F50ED6&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MTV-SEA
-http://103.7.57.30:9981/stream/channelid/223215926?ticket=9EE54CA40181257B0E0FD3DD0B83462E23D815F9&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲SKYNET-TEEN
-http://103.7.57.30:9981/stream/channelid/1058567559?ticket=AFE9A52660A709828939F8BF7815C10092BA0385&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FASHION-ONE
-http://103.7.57.30:9981/stream/channelid/365568120?ticket=6656B6A98F7EF0FC574147564CC97CA9826F3B15&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲WORLD-DRAMA
-http://103.7.57.30:9981/stream/channelid/390113627?ticket=74C63A70E8262ED44B10807798E86F421145C858&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲INTERNATIONAL-DRAMA
-http://103.7.57.30:9981/stream/channelid/1233295678?ticket=845E802389B8F4841BF5BA352E1C6157FA3BC9FF&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ZEE-TV
-http://103.7.57.30:9981/stream/channelid/258743226?ticket=94C4B7F5DE84CF7C85E86DED527E1DDCDAD3E695&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FOX-CRIME
-http://103.7.57.30:9981/stream/channelid/1234408285?ticket=9572AE42B9ED4EF68916AFBEADD1F0249A30E4E5&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲STAR-WORLD
-http://103.7.57.30:9981/stream/channelid/959081593?ticket=7B398D8E12286E248B3928555F127CFD3B29C315&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FOX-SPORTS-NEWS
-http://103.7.57.30:9981/stream/channelid/258743210?ticket=4F8D42B1722FFD717722DFE1DE851CA58A5867FE&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲FX
-http://103.7.57.30:9981/stream/channelid/1746245267?ticket=A6D2CDFB9937ED4BE8BDFAD261B13D8F967B5F01&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲M
-http://103.7.57.30:9981/stream/channelid/426541522?ticket=8C70E2B804DA0BCB52BD0D473E46C1186330535C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲KBS-WORLD
-http://103.7.57.30:9981/stream/channelid/1386568551?ticket=DA8E00ED30363DE5BBC341A8613563CD2CC76F1D&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲ARIRANG
-http://103.7.57.30:9981/stream/channelid/1862334881?ticket=46600BE92F86D55A2DF3B08671237B7FEAA00086&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲NHK-WORLD-PREMIUM
-http://103.7.57.30:9981/stream/channelid/787746276?ticket=5CA5E93273BEA0A73F2D1DC183073E0AD2309F91&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲NHK-WORLD-TV
-http://103.7.57.30:9981/stream/channelid/1457457025?ticket=0A83D779416273436B2CB5CF9C9A5B0673399DA1&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CCTV-NEWS
-http://103.7.57.30:9981/stream/channelid/778583696?ticket=3BDCA6711392BE6E0A26882F705187C2BC526A3C&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲GMM-25
-http://103.7.57.30:9981/stream/channelid/724741875?ticket=011E56E24E6DAAA36BCD1F92121E043CB26F228E&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CH8-HD
-http://103.7.57.30:9981/stream/channelid/849795564?ticket=A622649A551D0D0C3C3231C482D25F884CCD2FB6&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CCTV-4
-http://103.7.57.30:9981/stream/channelid/1455406607?ticket=9628685F9A4C56F187488F2BD277017550E2AA81&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲MONO-29
-http://103.7.57.30:9981/stream/channelid/1574937968?ticket=A1E986300A84FD009DC929B6D5183E797F318AC4&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CCTV-9
-http://103.7.57.30:9981/stream/channelid/175912371?ticket=048B78972A624E7EB6B62355BAB5DE314EAC9A87&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲CNBC
-http://103.7.57.30:9981/stream/channelid/937918770?ticket=C6231C07CEDF1E46A07B1C13CC10B81F67A3EBD9&profile=pass
-#EXTINF:-1group-title="泰国套餐",亚洲BLOOMBERG
-http://103.7.57.30:9981/stream/channelid/535633498?ticket=AFCE8B4102D9A10048E1385EEDFB09922A7A1010&profile=pass
-
 
 
 
@@ -3343,235 +3109,3 @@ http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&F
 
 
 
-#EXTINF:-1group-title="TOT套餐",Choice Preview
-http://iliketot.dyndns.tv/tot/web/efe6b8c411e845efbecf3ee4bef41f8b.m3u8
-#EXTINF:-1group-title="TOT套餐",Channel 3
-http://iliketot.dyndns.tv/tot/web/8bad9f20ff2246b894eddced10dcfdeb.m3u8
-#EXTINF:-1group-title="TOT套餐",Channel 5
-http://iliketot.dyndns.tv/tot/web/1d92193b11fe490b8c67d0a88bee3fd6.m3u8
-#EXTINF:-1group-title="TOT套餐",Channel 7
-http://iliketot.dyndns.tv/tot/web/ddfa47e726444446864b14e0e819fdde.m3u8
-#EXTINF:-1group-title="TOT套餐",Modern 9
-http://iliketot.dyndns.tv/tot/web/3ae2fd6ccaf6499e898de377ed74ea12.m3u8
-#EXTINF:-1group-title="TOT套餐",NBT1
-http://iliketot.dyndns.tv/tot/web/47105f5b5acc488fb43354f6fa3142c1.m3u8
-#EXTINF:-1group-title="TOT套餐",Thai PBS
-http://iliketot.dyndns.tv/tot/web/d7182fae6e9f4d929bdb5ae06059bda8.m3u8
-#EXTINF:-1group-title="TOT套餐",Nation Channel
-http://iliketot.dyndns.tv/tot/web/a5b25476119b46f5b5a34d56f7d1156c.m3u8
-#EXTINF:-1group-title="TOT套餐",Bangkok Channel
-http://iliketot.dyndns.tv/tot/web/26fe491f794f4497ac96bc1571a705bc.m3u8
-#EXTINF:-1group-title="TOT套餐",Modern India TV
-http://iliketot.dyndns.tv/tot/web/c9551ca2c2284826b6aeb398824f3a18.m3u8
-#EXTINF:-1group-title="TOT套餐",TOT Channel
-http://iliketot.dyndns.tv/tot/web/360304543ea24956a78f9ba83edba1c0.m3u8
-#EXTINF:-1group-title="TOT套餐",Spring News
-http://iliketot.dyndns.tv/tot/web/1ae0f87662c248d693d2eed30b698760.m3u8
-#EXTINF:-1group-title="TOT套餐",Voice TV
-http://iliketot.dyndns.tv/tot/web/b29f0e7ada6348c6851bad32728a6ddb.m3u8
-#EXTINF:-1group-title="TOT套餐",Asia Update
-http://iliketot.dyndns.tv/tot/web/6d5587cf7ce94cd8a7477775b7ddc253.m3u8
-#EXTINF:-1group-title="TOT套餐",Bluesky Channel
-http://iliketot.dyndns.tv/tot/web/76221348029846b6a86cce2f76e60f82.m3u8
-#EXTINF:-1group-title="TOT套餐",NEWS1
-http://iliketot.dyndns.tv/tot/web/31dbe17e0c1b4c8684200f83b85b007b.m3u8
-#EXTINF:-1group-title="TOT套餐",GMM Music HD
-http://iliketot.dyndns.tv/tot/web/6419c83b42934de3a333c5a32737b559.m3u8
-#EXTINF:-1group-title="TOT套餐",Green Channel
-http://iliketot.dyndns.tv/tot/web/7454994cef7f464f9bf8e4331ee83902.m3u8
-#EXTINF:-1group-title="TOT套餐",You Channel
-http://iliketot.dyndns.tv/tot/web/8e959f5d739d497c95faa31b3a810dd6.m3u8
-#EXTINF:-1group-title="TOT套餐",POP
-http://iliketot.dyndns.tv/tot/web/5389167315dc4a619ed5bc72f66a1c4f.m3u8
-#EXTINF:-1group-title="TOT套餐",STAR MAX Channel
-http://iliketot.dyndns.tv/tot/web/4e38ed2fa4dd43999828eab81196deff.m3u8
-#EXTINF:-1group-title="TOT套餐",Thai Chaiyo
-http://iliketot.dyndns.tv/tot/web/a2ca06da9478412e9501d968e31bbf75.m3u8
-#EXTINF:-1group-title="TOT套餐",ThaiCH8
-http://iliketot.dyndns.tv/tot/web/15c52eeb21b748319771eb794a6cf242.m3u8
-#EXTINF:-1group-title="TOT套餐",Saranair Channel
-http://iliketot.dyndns.tv/tot/web/bb8f0deba37f4f3a8d0bd0de1656852f.m3u8
-#EXTINF:-1group-title="TOT套餐",AMARIN activ TV
-http://iliketot.dyndns.tv/tot/web/5a84db6569ab4edd9ced59e0d3a620e5.m3u8
-#EXTINF:-1group-title="TOT套餐",Dude TV
-http://iliketot.dyndns.tv/tot/web/2ee9e13bb4e442d29f7e3e858e8222e7.m3u8
-#EXTINF:-1group-title="TOT套餐",You2Play
-http://iliketot.dyndns.tv/tot/web/2abfe809bf0448e08159ef7057ca00d4.m3u8
-#EXTINF:-1group-title="TOT套餐",Fan TV HD
-http://iliketot.dyndns.tv/tot/web/345a4277dd864037b6b4fb5a562af59c.m3u8
-#EXTINF:-1group-title="TOT套餐",Sabaidee TV
-http://iliketot.dyndns.tv/tot/web/b9bedb1b0539456dbc84542cf2ebca7b.m3u8
-#EXTINF:-1group-title="TOT套餐",TV Pool Music Channel
-http://iliketot.dyndns.tv/tot/web/80aad4dd6e424c14921832300c74a202.m3u8
-#EXTINF:-1group-title="TOT套餐",Bang Channel
-http://iliketot.dyndns.tv/tot/web/45607bb280464483896716f7fa17b4d2.m3u8
-#EXTINF:-1group-title="TOT套餐",Miti4
-http://iliketot.dyndns.tv/tot/web/d2dc7d7f3d234b5a9ef526e2fc16fb7b.m3u8
-#EXTINF:-1group-title="TOT套餐",Miracle TV
-http://iliketot.dyndns.tv/tot/web/25713d0629f148adbfedbdf4284afb09.m3u8
-#EXTINF:-1group-title="TOT套餐",VARIETY NEWS CHANNEL
-http://iliketot.dyndns.tv/tot/web/cf984f0c8b6444b49c9c05273a59cfe4.m3u8
-#EXTINF:-1group-title="TOT套餐",IN TV
-http://iliketot.dyndns.tv/tot/web/a5e2f72ac54e4c3489ae8f272f044999.m3u8
-#EXTINF:-1group-title="TOT套餐",Farm Channel
-http://iliketot.dyndns.tv/tot/web/817c9a06488c4ff7bc8d505038a7652a.m3u8
-#EXTINF:-1group-title="TOT套餐",CCTV-4
-http://iliketot.dyndns.tv/tot/web/5289381709e64f8db14a4ed75ab2b59f.m3u8
-#EXTINF:-1group-title="TOT套餐",ITV Choice
-http://iliketot.dyndns.tv/tot/web/e36b99bcd26648af9db2261785c77b7a.m3u8
-#EXTINF:-1group-title="TOT套餐",WeTV HD
-http://iliketot.dyndns.tv/tot/web/dea34fa045074639b3a18123d4b4eda0.m3u8
-#EXTINF:-1group-title="TOT套餐",Zee TV
-http://iliketot.dyndns.tv/tot/web/8be5e8787848472089925a7bb7f43ef1.m3u8
-#EXTINF:-1group-title="TOT套餐",TV Pool Channel
-http://iliketot.dyndns.tv/tot/web/bfee35dc7917423eb68fc3e5edaaae64.m3u8
-#EXTINF:-1group-title="TOT套餐",Vetee Thai
-http://iliketot.dyndns.tv/tot/web/768ab5caf16e44689c3a75e6a3f57b5c.m3u8
-#EXTINF:-1group-title="TOT套餐",Dara Daily
-http://iliketot.dyndns.tv/tot/web/1e2b9312fc384567ac6a12e650d8796a.m3u8
-#EXTINF:-1group-title="TOT套餐",K-Channel
-http://iliketot.dyndns.tv/tot/web/e779ab60cd294e9ca2f3661b7709a286.m3u8
-#EXTINF:-1group-title="TOT套餐",Workpoint TV
-http://iliketot.dyndns.tv/tot/web/a9a68ab5471d4d39ba25695a66957067.m3u8
-#EXTINF:-1group-title="TOT套餐",Cartoon Club
-http://iliketot.dyndns.tv/tot/web/860605f7e16d4c6cacef72ef02ffa2c1.m3u8
-#EXTINF:-1group-title="TOT套餐",Nick Jr
-http://iliketot.dyndns.tv/tot/web/2b72986be9314c139db95f6098d1c413.m3u8
-#EXTINF:-1group-title="TOT套餐",Cartoonito HD
-http://iliketot.dyndns.tv/tot/web/dff1502eb25c4912aea009df5d0fde9b.m3u8
-#EXTINF:-1group-title="TOT套餐",Jimjam
-http://iliketot.dyndns.tv/tot/web/1c660656441b4aa3b57bd1d80c7d14fa.m3u8
-#EXTINF:-1group-title="TOT套餐",Animax
-http://iliketot.dyndns.tv/tot/web/d3edb48a8bb847c78432270e23ddca73.m3u8
-#EXTINF:-1group-title="TOT套餐",Gang Cartoon
-http://iliketot.dyndns.tv/tot/web/7299670a140849a9aaf946b0302ad886.m3u8
-#EXTINF:-1group-title="TOT套餐",B4U Music India
-http://iliketot.dyndns.tv/tot/web/81ff107849124ff389814b0b8816b1ba.m3u8
-#EXTINF:-1group-title="TOT套餐",Channel V India
-http://iliketot.dyndns.tv/tot/web/09cac500285d42ec97465b2219db5f53.m3u8
-#EXTINF:-1group-title="TOT套餐",Nat Geo Wild HD
-http://iliketot.dyndns.tv/tot/web/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
-#EXTINF:-1group-title="TOT套餐",Travel Channel International
-http://iliketot.dyndns.tv/tot/web/4c136f4cb1fd4f62a583a029c2eb6c77.m3u8
-#EXTINF:-1group-title="TOT套餐",WealthTV HD
-http://iliketot.dyndns.tv/tot/web/ce9a1585f45d4379970b95308df3f879.m3u8
-#EXTINF:-1group-title="TOT套餐",Nat Geo Adventure HD
-http://iliketot.dyndns.tv/tot/web/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
-#EXTINF:-1group-title="TOT套餐",Biography Channel
-http://iliketot.dyndns.tv/tot/web/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8
-#EXTINF:-1group-title="TOT套餐",DocuBox HD
-http://iliketot.dyndns.tv/tot/web/77774220bb8e40aa94e549e29ff3ed8a.m3u8
-#EXTINF:-1group-title="TOT套餐",Motorvision HD
-http://iliketot.dyndns.tv/tot/web/4c2ebe80b19049deac5ad59b478a79ac.m3u8
-#EXTINF:-1group-title="TOT套餐",CCTV-9 Documentary
-http://iliketot.dyndns.tv/tot/web/b08a8052e6724bedba5399f662715ad1.m3u8
-#EXTINF:-1group-title="TOT套餐",The Africa Channel
-http://iliketot.dyndns.tv/tot/web/eea31a4e48aa4d51a4ce8cdaa1c3a957.m3u8
-#EXTINF:-1group-title="TOT套餐",ANIPLUS HD
-http://iliketot.dyndns.tv/tot/web/cb2e38c2422b462c8ad1741299d541bb.m3u8
-#EXTINF:-1group-title="TOT套餐",Baby TV HD
-http://iliketot.dyndns.tv/tot/web/7773f3cef0334a28ad248552ea63d9e7.m3u8
-#EXTINF:-1group-title="TOT套餐",Zaa
-http://iliketot.dyndns.tv/tot/web/9623847065ba466e90632cf686fade0b.m3u8
-#EXTINF:-1group-title="TOT套餐",BEARTAI HD
-http://iliketot.dyndns.tv/tot/web/7b7eeecd93ae4364932a8dbc59cb6865.m3u8
-#EXTINF:-1group-title="TOT套餐",Star Chinese Channel
-http://iliketot.dyndns.tv/tot/web/29a09591a6604ff3b798cd7ef809e4bd.m3u8
-#EXTINF:-1group-title="TOT套餐",FASHION TV HD
-http://iliketot.dyndns.tv/tot/web/91fbba1d5af544ac92a2c64e5d177e9d.m3u8
-#EXTINF:-1group-title="TOT套餐",Kix
-http://iliketot.dyndns.tv/tot/web/e584e0adae6440eab366f5fe3a824f91.m3u8
-#EXTINF:-1group-title="TOT套餐",Comedy Central HD
-http://iliketot.dyndns.tv/tot/web/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
-#EXTINF:-1group-title="TOT套餐",Ginx TV
-http://iliketot.dyndns.tv/tot/web/7e069540a35942e89245865a84add64a.m3u8
-#EXTINF:-1group-title="TOT套餐",SET (sony entertainment television)
-http://iliketot.dyndns.tv/tot/web/bd30e27f1c48430ba2104548a1b124ca.m3u8
-#EXTINF:-1group-title="TOT套餐",K-Boom HD
-http://iliketot.dyndns.tv/tot/web/5193bc925612420d849fbce61203e785.m3u8
-#EXTINF:-1group-title="TOT套餐",ACTS Channel
-http://iliketot.dyndns.tv/tot/web/7afa3e0a91bf4cdca51c0a5344fd99dc.m3u8
-#EXTINF:-1group-title="TOT套餐",Play Channel
-http://iliketot.dyndns.tv/tot/web/7ffd465083064140836e6e8b2415ad19.m3u8
-#EXTINF:-1group-title="TOT套餐",JKN
-http://iliketot.dyndns.tv/tot/web/fc8195dc989240348772d00dd9eba3d0.m3u8
-#EXTINF:-1group-title="TOT套餐",Mongkol Channel
-http://iliketot.dyndns.tv/tot/web/fcc2f9d7000747d5a55680d8eba2b3ef.m3u8
-#EXTINF:-1group-title="TOT套餐",Major MIX
-http://iliketot.dyndns.tv/tot/web/ab6acb38607a4aff9dc773a6772c91fc.m3u8
-#EXTINF:-1group-title="TOT套餐",Major Asian Channel
-http://iliketot.dyndns.tv/tot/web/99db2add23b447f696b0effd5ee4ebf4.m3u8
-#EXTINF:-1group-title="TOT套餐",MGTV
-http://iliketot.dyndns.tv/tot/web/0518392dc56246e1808c211c796d5e84.m3u8
-#EXTINF:-1group-title="TOT套餐",ETC
-http://iliketot.dyndns.tv/tot/web/dcf0d550815947f3bacaf3521e118124.m3u8
-#EXTINF:-1group-title="TOT套餐",M Channel
-http://iliketot.dyndns.tv/tot/web/97f3052bec96482584c5de84dda0d745.m3u8
-#EXTINF:-1group-title="TOT套餐",M channel HD
-http://iliketot.dyndns.tv/tot/web/8237601ce3ea4bae8332ebb0d88dba87.m3u8
-#EXTINF:-1group-title="TOT套餐",Star Plus
-http://iliketot.dyndns.tv/tot/web/7c75ad89c1cc417aa0f066133c0a2333.m3u8
-#EXTINF:-1group-title="TOT套餐",Star Gold
-http://iliketot.dyndns.tv/tot/web/53c2bf7e52a44fd8b6df7f9e83891bbc.m3u8
-#EXTINF:-1group-title="TOT套餐",Zing
-http://iliketot.dyndns.tv/tot/web/3e30590edd7940e29335d243342fc6b0.m3u8
-#EXTINF:-1group-title="TOT套餐",Zee Cinema
-http://iliketot.dyndns.tv/tot/web/18560c96b9f446bb87acb8981a2fe9c5.m3u8
-#EXTINF:-1group-title="TOT套餐",Zee Classic
-http://iliketot.dyndns.tv/tot/web/e2f5c5390bbb4e2781454f3f32add81c.m3u8
-#EXTINF:-1group-title="TOT套餐",T Sports Channel
-http://iliketot.dyndns.tv/tot/web/3ee1e656d6ae417a914743328d44f20f.m3u8
-#EXTINF:-1group-title="TOT套餐",SUN CHANNEL HD
-http://iliketot.dyndns.tv/tot/web/ce4efc6a833f424f8d6cdcad5573f369.m3u8
-#EXTINF:-1group-title="TOT套餐",Choice Sport 1 HD
-http://iliketot.dyndns.tv/tot/web/614b0a940fa0486e8c4ad00e51ae22ff.m3u8
-#EXTINF:-1group-title="TOT套餐",Choice Sport 2 HD
-http://iliketot.dyndns.tv/tot/web/3e169d2e76cb46c9b3702e34e51ecdba.m3u8
-#EXTINF:-1group-title="TOT套餐",Ten Cricket
-http://iliketot.dyndns.tv/tot/web/07febaf06cea4afeba557b3836d959d6.m3u8
-#EXTINF:-1group-title="TOT套餐",Channel V International
-http://iliketot.dyndns.tv/tot/web/9e38a0084e6d45d080139a166c60a102.m3u8
-#EXTINF:-1group-title="TOT套餐",Nat Geo Music HD
-http://iliketot.dyndns.tv/tot/web/69c2eab6794344619a049c5dea60ca22.m3u8
-#EXTINF:-1group-title="TOT套餐",Channel V China
-http://iliketot.dyndns.tv/tot/web/9102f3553f3246ecbbc9738dd4803344.m3u8
-#EXTINF:-1group-title="TOT套餐",MTV Asia
-http://iliketot.dyndns.tv/tot/web/ebce2f5139c54eda8b111e5923af9c9e.m3u8
-#EXTINF:-1group-title="TOT套餐",MTV China
-http://iliketot.dyndns.tv/tot/web/deb56e700dbc4d9ea5af08e9d300a675.m3u8
-#EXTINF:-1group-title="TOT套餐",Trace Urban TV HD
-http://iliketot.dyndns.tv/tot/web/69ebf00065494dc39a3911c7d1eb9d71.m3u8
-#EXTINF:-1group-title="TOT套餐",havoc 247 HD
-http://iliketot.dyndns.tv/tot/web/1cc4029ae4ab4a27881f2e83db3fde08.m3u8
-#EXTINF:-1group-title="TOT套餐",KidsCo
-http://iliketot.dyndns.tv/tot/web/fdaede40b27445ac893189bc6332c914.m3u8
-#EXTINF:-1group-title="TOT套餐",Fox Crime HD
-http://iliketot.dyndns.tv/tot/web/5028f7ff1d1b4d5f8189690233364737.m3u8
-#EXTINF:-1group-title="TOT套餐",Universal Channel
-http://iliketot.dyndns.tv/tot/web/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
-#EXTINF:-1group-title="TOT套餐",Syfy
-http://iliketot.dyndns.tv/tot/web/71f197de056e499a85265c03b44bdab1.m3u8
-#EXTINF:-1group-title="TOT套餐",FX HD
-http://iliketot.dyndns.tv/tot/web/2e0e4b05aa6e428593f3b45b710045b7.m3u8
-#EXTINF:-1group-title="TOT套餐",Thrill
-http://iliketot.dyndns.tv/tot/web/c316ed9333e54442b25077f0bb3cc269.m3u8
-#EXTINF:-1group-title="TOT套餐",STAR Chinese Movies
-http://iliketot.dyndns.tv/tot/web/31ce436d1729484082fbe6aec6603f56.m3u8
-#EXTINF:-1group-title="TOT套餐",WBTV
-http://iliketot.dyndns.tv/tot/web/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
-#EXTINF:-1group-title="TOT套餐",SML Channel
-http://iliketot.dyndns.tv/tot/web/16d5c505a447440c820d7927f76dcde0.m3u8
-#EXTINF:-1group-title="TOT套餐",MOPH-TV
-http://iliketot.dyndns.tv/tot/web/22aa27a56d9244539a3b7db29cf097f1.m3u8
-#EXTINF:-1group-title="TOT套餐",OTPC Channel HD
-http://iliketot.dyndns.tv/tot/web/766fa98adc10468dbbff7a893c93053e.m3u8
-#EXTINF:-1group-title="TOT套餐",Nick Jr
-http://iliketot.dyndns.tv/tot/web/2b72986be9314c139db95f6098d1c413.m3u8
-#EXTINF:-1group-title="TOT套餐",Jimjam
-http://iliketot.dyndns.tv/tot/web/1c660656441b4aa3b57bd1d80c7d14fa.m3u8
-#EXTINF:-1group-title="TOT套餐",ANIPLUS HD
-http://iliketot.dyndns.tv/tot/web/cb2e38c2422b462c8ad1741299d541bb.m3u8
-#EXTINF:-1group-title="TOT套餐",Ginx TV
-http://iliketot.dyndns.tv/tot/web/7e069540a35942e89245865a84add64a.m3u8
-#EXTINF:-1group-title="TOT套餐",MOPH-TV
-http://iliketot.dyndns.tv/tot/web/22aa27a56d9244539a3b7db29cf097f1.m3u8
