@@ -1,1185 +1,918 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 乐迷频道
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lm_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 乐视盛典直播
-http://jyzx8.com/tv/m3u8/ipad.php/shengdian_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 乐视垫播
-http://jyzx8.com/tv/m3u8/ipad.php/lb_backup_1000.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 科教纪录片
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jilu_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 科技频道直播
-http://jyzx8.com/tv/m3u8/ipad.php/xc_techlive_800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 唐卡
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_tangka_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 文化遗产
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_whyc_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 美克家居 A.R.T★
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mkmj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 乐视生态
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lsst_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 动物世界
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dwsj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 综合
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zonghe_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 综艺
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ent_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 党建
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dangjian_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 电影
-http://jyzx8.com/tv/m3u8/ipad.php/lb_movie_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 电视剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tv_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 1080P
-http://jyzx8.com/tv/m3u8/ipad.php/lb_1080P_1080p3m.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 乐视动作电影
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dzdy_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 香港电影
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hkmovie_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 喜剧电影
-http://jyzx8.com/tv/m3u8/ipad.php/lb_comedy_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 自制剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_make_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 韩剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_koreatv_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 跟播
-http://jyzx8.com/tv/m3u8/ipad.php/lb_genbo_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 4K
-http://jyzx8.com/tv/m3u8/ipad.php/lb_4k.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 芈月传
-http://jyzx8.com/tv/m3u8/ipad.php/lb_myz_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 北平无战事
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bpwzs_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 公开课
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gkk_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 我是歌手NEW
-http://jyzx8.com/tv/m3u8/ipad.php/lb_imsinger_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 出彩中国人
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cczgr_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 笑傲江湖
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xajh_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 我看你有戏
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bbhll_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 欢乐喜剧人
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hlxjr_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 舌尖上的中国
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sjsdzg_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 黄段子
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hdz_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 完美游戏
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wmyx_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 电影片花
-http://jyzx8.com/tv/m3u8/ipad.php/lb_trailer_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 周星驰影视
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zxc_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 成龙影视
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cl_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 甄嬛传
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhenhuan_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 纸牌屋
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zpw_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 反法西斯
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ffxs_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 红高粱
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hgl_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 北京傲客
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bjak_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 和平的全盛时代
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hpdqssd_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 少年四大名捕
-http://jyzx8.com/tv/m3u8/ipad.php/lb_snsdmb_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 鹿鼎记
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ldj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 还珠格格
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hzgg_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 裸婚时代
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lhsd_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 步步惊心
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bbjx_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 亮剑
-http://jyzx8.com/tv/m3u8/ipad.php/lb_liangjian_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 士兵突击
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sbtj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 西游记
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xyj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 包青天
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bqt_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 满仓进城
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mcjc_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 因为爱情有奇迹
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ywaqyqj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 北平无战事
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bpwzs_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 武林外传
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wlwz_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 龙门镖局
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lmbj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 好莱坞
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hlw_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 华语电影
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hydy_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 日韩电影
-http://jyzx8.com/tv/m3u8/ipad.php/lb_rhdy_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 北京傲客
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bjak_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 新济公活佛
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xjghf_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 花样姐姐
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hyjj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 想明白了再结婚
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xmblzjh_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 极品新娘
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jpxn_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 虎妈猫爸
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hmmb_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 聊斋新编
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lzxb_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 何以笙箫默
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hysxm_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 粤语频道
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yylbpd_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 平凡的世界
-http://jyzx8.com/tv/m3u8/ipad.php/lb_pfdsj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 封神英雄
-http://jyzx8.com/tv/m3u8/ipad.php/lb_fsyx_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 隋唐英雄
-http://jyzx8.com/tv/m3u8/ipad.php/lb_styx_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 锦绣缘华丽冒险
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jxyhlmx_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 活色生香
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hssx_800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 武媚娘传奇
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wmncq_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 拐个皇帝回现代
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gghdhxd_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 我的老师是传奇
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wdlsscq_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 冰与火的青春
-http://jyzx8.com/tv/m3u8/ipad.php/lb_byhdqc_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 琅琊榜
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lyb_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 十周嫁出去
-http://jyzx8.com/tv/m3u8/ipad.php/lb_szjcq_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 伪装者
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wzz_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 调皮王妃
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tpwf_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 两生花
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_lsh_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 小时代
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xsd_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 想明白了再结婚
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xmblzjh_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 极品新娘
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jpxn_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 欢乐喜剧人
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hlxjr_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 偏偏喜欢你
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_ppxhn_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 后海不是海
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_hhbsh_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 你是我的姐妹
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_nswdjm_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 克拉恋人
-http://jyzx8.com/tv/m3u8/ipad.php/lb_kllr_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 挑战者联盟
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tzzlm_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 少年神探狄仁杰
-http://jyzx8.com/tv/m3u8/ipad.php/lb_snstdrj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 神犬小七
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sqxq_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 潜伏
-http://jyzx8.com/tv/m3u8/ipad.php/lb_qianfu_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 欢乐季
-http://jyzx8.com/tv/m3u8/ipad.php/lb_2015xjdws_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 大汉情缘之云中歌
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dhqyzyzg_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 来自未来的史密特
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lzwldsmt_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 特工卡特
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tgkt_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 音乐
-http://jyzx8.com/tv/m3u8/ipad.php/lb_music_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 演唱会
-http://jyzx8.com/tv/m3u8/ipad.php/lb_concert_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 娱乐
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yule_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - MV
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mv_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 古典音乐
-http://jyzx8.com/tv/m3u8/ipad.php/lb_classical_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 戏曲
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xiqu_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 音乐节
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yinyuejie_1000.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - LIVE生活
-http://jyzx8.com/tv/m3u8/ipad.php/lb_livemusic_1000.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 格莱美音乐奖
-http://jyzx8.com/tv/m3u8/ipad.php/lb_glmyyj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 乐听古典音乐轮播台
-http://jyzx8.com/tv/m3u8/ipad.php/lb_leting_classical_music_800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 乐听音乐节轮播台
-http://jyzx8.com/tv/m3u8/ipad.php/lb_leting_festival_800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 乐听蒙面歌王轮播台
-http://jyzx8.com/tv/m3u8/ipad.php/lb_leting_mmgw_800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 乐听我是歌手轮播台
-http://jyzx8.com/tv/m3u8/ipad.php/lb_leting_wsgs_800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 乐听教育轮播台
-http://jyzx8.com/tv/m3u8/ipad.php/lb_leting_800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 华鼎奖颁奖典礼
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hdjbjdl_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - WCA直播
-http://jyzx8.com/tv/m3u8/ipad.php/hz_wca_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 郎朗演唱会
-http://jyzx8.com/tv/m3u8/ipad.php/lb_langlang_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 陈奕迅演唱会
-http://jyzx8.com/tv/m3u8/ipad.php/lb_chenyixun_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 中国摇滚
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zgyg_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 中国民谣
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zgmy_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 日本流行
-http://jyzx8.com/tv/m3u8/ipad.php/lb_rblx_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 欧美流行
-http://jyzx8.com/tv/m3u8/ipad.php/lb_omlx_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 蒙面歌王
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mmgw_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 新华社合作1
-http://jyzx8.com/tv/m3u8/ipad.php/hz_xhs1_800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 新华社合作2
-http://jyzx8.com/tv/m3u8/ipad.php/hz_xhs2_800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 广告频道
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_ggpd_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 环球购物
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_hqgw_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - ★演播室19
-http://jyzx8.com/tv/m3u8/ipad.php/yanboshi19_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - ★演播室20
-http://jyzx8.com/tv/m3u8/ipad.php/yanboshi20_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - ★演播室24
-http://jyzx8.com/tv/m3u8/ipad.php/yanboshi24_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - ★广场舞
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gcw_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 生活
-http://jyzx8.com/tv/m3u8/ipad.php/lb_shenghuo_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 财经频道直播
-http://jyzx8.com/tv/m3u8/ipad.php/xc_cjpdzb_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 超级超级
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zdyjfc_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - ★炉石传说
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hlj_1300.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - ★全景直播
-http://jyzx8.com/tv/m3u8/ipad.php/vr_live_1800.m3u8
-#EXTINF:-1 group-title="乐视综合频道",乐视综合 - 王者归来发布会
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jcytht_1300.m3u8
-
-
-
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 亲子
-http://jyzx8.com/tv/m3u8/ipad.php/lb_qinzi_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 儿歌
-http://jyzx8.com/tv/m3u8/ipad.php/lb_erge_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 动漫
-http://jyzx8.com/tv/m3u8/ipad.php/lb_comic_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 熊出没
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xcm_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 猪猪侠
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zzx_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 倒霉熊
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dmx_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 猫和老鼠
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mhls_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 大头儿子
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dtez_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 宠物小精灵
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cwxjl_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 哆啦A梦
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dlam_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 樱桃小丸子
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ytxwz_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 蜡笔小新
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lbxx_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 小马宝莉
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xmbl_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 黑子的篮球
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hzdlq_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 巨神战击队
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jszjd_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 名侦探柯南
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mztkn_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 变形金刚
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bxjg_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 奥特曼
-http://jyzx8.com/tv/m3u8/ipad.php/lb_atm_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 巴啦啦小魔仙
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bllxmx_1300.m3u8
-#EXTINF:-1 group-title="乐视卡通频道",乐视卡通 - 欧美卡通
-http://jyzx8.com/tv/m3u8/ipad.php/lb_omkt_1300.m3u8
-
-
-
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 小众美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xzmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 热门美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_rmmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 都市剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dsjc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 脱单剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tdjc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_meiju_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 超级英雄
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cjyx_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 跟播美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gbmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 经典美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jdmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 罪案烧脑
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zasn_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 科幻美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_khmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 奇幻美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_qhmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 喜剧美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xjmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 年代剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ndjc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 虐恋美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_nlmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 高冷美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_glmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 单元美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dymj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 肥皂美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_fzmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 律政医务美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lzywmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 热血动作美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_rxdzmj_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 重播之王
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cbzw_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 神话剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_shjc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 情景喜剧剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_qjxjjc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 武侠剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wxjc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 抗战剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_kangz_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 女性剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_nxjc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 宫斗剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gdjc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 军旅剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jljc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 励志剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lzjc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 催泪剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cljc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 兄弟剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xdjc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 姐妹淘剧场
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jmtjc_1300.m3u8
-#EXTINF:-1 group-title="乐视剧场频道",乐视剧场 - 青春偶像美剧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_qcoxmj_1300.m3u8
-
-
-
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 汪峰
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wf_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 邓紫棋
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dengziqi_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 羽泉
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yuquan_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 凤凰传奇
-http://jyzx8.com/tv/m3u8/ipad.php/lb_fhcq_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张杰
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zj_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 韩红
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hanhong_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李宇春
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lyc_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 韩磊
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 杨澜
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yanglan_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张艺谋
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zym_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 邓超
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dengchao_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 郑晓龙
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zxl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 王雷
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 徐克
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xuke_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 黄晓明
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hxm_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 苏芒
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sumang_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 章子怡
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhangziyi_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 沈傲君
-http://jyzx8.com/tv/m3u8/ipad.php/lb_saj_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 叶璇
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 莫小棋
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mxq_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 童瑶
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tongyao_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 沙溢
-http://jyzx8.com/tv/m3u8/ipad.php/lb_shayi_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 代乐乐
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dll_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 颖儿
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ye_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 徐百卉
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xbh_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 曹曦文
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cxw_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李崇霄
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lichongxiao_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 朱锐
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhurui_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 赵立新
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zlx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 艾东
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ad_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 黄绮珊
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hqs_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 宋丹丹
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sdd_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 宁浩
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ninghao_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 曹征
-http://jyzx8.com/tv/m3u8/ipad.php/lb_caozheng_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 金铭
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jm_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 刘恺威
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lkw_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陈小春
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cxc_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 包贝尔
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bbe_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 乔任梁
-http://jyzx8.com/tv/m3u8/ipad.php/lb_qrl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 姜武
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jw_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 于正
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yz_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 何炅
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hj_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 杜海涛
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dht_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 柳岩
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ly_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陈赫
-http://jyzx8.com/tv/m3u8/ipad.php/lb_chenhe_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 高露
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 薛佳凝
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xjn_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 沈泰
-http://jyzx8.com/tv/m3u8/ipad.php/lb_st_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 林申
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ls_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李依晓
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lyx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张晓龙
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhangxiaolong_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 毛俊杰
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mjj_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张若昀
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zrj_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 唐艺昕
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tyx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 孙骁骁
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sxx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 何晟铭
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hsm_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李念
-http://jyzx8.com/tv/m3u8/ipad.php/lb_linian_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 应采儿
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yce_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 赵子琪
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zzq_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 赵宝刚
-http://jyzx8.com/tv/m3u8/ipad.php/lb_z_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 梁丹妮
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ldn_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 刘威葳
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lww_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 王伟
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wangwei_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张博
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhangbo_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 黄晓明
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hxm_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 战菁一
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zjy_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 高云翔
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gyx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 翁虹
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wenghong_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 牛莉
-http://jyzx8.com/tv/m3u8/ipad.php/lb_niuli_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 马伊琍
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mayili_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陈晓
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 孔二狗
-http://jyzx8.com/tv/m3u8/ipad.php/lb_keg_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 薛凯琪
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xkq_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 段奕宏
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dyh_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 孙耀威
-http://jyzx8.com/tv/m3u8/ipad.php/lb_syw_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 古力娜扎
-http://jyzx8.com/tv/m3u8/ipad.php/lb_glnz_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 胡兵
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hubing_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 黄小蕾
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hxl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 郭德纲
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gdg_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 金晨
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jinchen_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张译
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhangyi_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 冯远征
-http://jyzx8.com/tv/m3u8/ipad.php/lb_fyz_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 夏雨
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xiayu_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 田朴珺
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tpj_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 吴宗宪
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wzx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 刘亦菲
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lyf_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 丁子峻
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dzj_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 毛晓彤
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mxt_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 杜淳
-http://jyzx8.com/tv/m3u8/ipad.php/lb_duchun_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 孙坚
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sunjian_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张睿
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zr_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 孟广美
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mgm_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李威
-http://jyzx8.com/tv/m3u8/ipad.php/lb_liwei_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 吕颂贤
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lsx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 何润东
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hrd_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李维嘉
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lwj_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 郭涛
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gt_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陈楚生
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ccs_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 胡彦斌
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hyb_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 刘力扬
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lly_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 田原
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tianyuan_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 萨顶顶
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sadingding_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 査可欣
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zkx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 黄义达
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hyd_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李霄云
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lxy_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李丹
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lidan_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李东学
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ldx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 方中信
-http://jyzx8.com/tv/m3u8/ipad.php/lb_fzx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 蔡少芬
-http://jyzx8.com/tv/m3u8/ipad.php/lb_csf_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 斓曦
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 吕丽萍
-http://jyzx8.com/tv/m3u8/ipad.php/lb_llp_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 巩峥
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gz_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 孙海英
-http://jyzx8.com/tv/m3u8/ipad.php/lb_shy_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 蒋欣
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jiangxin_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陈创
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cc_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 孙红雷
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sunhonglei_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 刘诗诗
-http://jyzx8.com/tv/m3u8/ipad.php/lb_liushishi_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张丰毅
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhangfengyi_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 钟汉良
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhonghanliang_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李晨
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lichen_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李易峰
-http://jyzx8.com/tv/m3u8/ipad.php/lb_liyifeng_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 周笔畅
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zbc_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 周韵
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhouyun_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 郭晓冬
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gxd_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 吴秀波
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wxb_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 海清
-http://jyzx8.com/tv/m3u8/ipad.php/lb_haiqing_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 董璇
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dongxuan_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 佟丽娅
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tly_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 赵丽颖
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zly_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 佟大为
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tdw_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 许晴
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xuqing_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陆毅
-http://jyzx8.com/tv/m3u8/ipad.php/lb_luyi_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陈数
-http://jyzx8.com/tv/m3u8/ipad.php/lb_chenshu_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 郑元畅
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhengyuanchang_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 白百何
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bbh_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陈紫函
-http://jyzx8.com/tv/m3u8/ipad.php/lb_czh_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 王丽坤
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wlk_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陆川
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lc_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 贾青
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jq_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 于明加
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ymj_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 王千源
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wqy_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 秦岚
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ql_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 杨文军
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ywj_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 于小伟
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yxw_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 潘之琳
-http://jyzx8.com/tv/m3u8/ipad.php/lb_pzl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 姚芊羽
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yqy_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 杜江
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mj_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 霍思燕
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hsy_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李承铉
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lcx_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张智尧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zzy_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李小萌
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lxm_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张慧雯
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhw_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陈乔恩
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cqe_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 李小璐
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lxl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 贾乃亮
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jnl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 毛宁
-http://jyzx8.com/tv/m3u8/ipad.php/lb_maoning_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 刘江
-http://jyzx8.com/tv/m3u8/ipad.php/lb_liujiang_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陈梦露
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cml_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 郝云
-http://jyzx8.com/tv/m3u8/ipad.php/lb_haoyun_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 戚薇
-http://jyzx8.com/tv/m3u8/ipad.php/lb_qiwei_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 白凯南
-http://jyzx8.com/tv/m3u8/ipad.php/lb_bkn_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 戴军
-http://jyzx8.com/tv/m3u8/ipad.php/lb_daijun_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 郭品超
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gpc_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 胡歌
-http://jyzx8.com/tv/m3u8/ipad.php/lb_huge_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 任泉
-http://jyzx8.com/tv/m3u8/ipad.php/lb_renquan_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张梓琳
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zzl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 马艳丽
-http://jyzx8.com/tv/m3u8/ipad.php/lb_myl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 黄百鸣
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hbm_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 王宝强
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wbq_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 余心恬
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yxt_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 黄轩
-http://jyzx8.com/tv/m3u8/ipad.php/lb_huangxuan_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 韩庚
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hangeng_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 胡夏
-http://jyzx8.com/tv/m3u8/ipad.php/lb_huxia_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 马天宇
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mty_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 杨烁
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yangshuo_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 刘涛
-http://jyzx8.com/tv/m3u8/ipad.php/lb_liutao_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 刘芸
-http://jyzx8.com/tv/m3u8/ipad.php/lb_liuyun_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 郑钧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhengjun_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 巍子
-http://jyzx8.com/tv/m3u8/ipad.php/lb_weizi_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 黄斌
-http://jyzx8.com/tv/m3u8/ipad.php/lb_huangbin_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 林一峰
-http://jyzx8.com/tv/m3u8/ipad.php/lb_joss_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 郭德纲
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gdg_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 潘粤明
-http://jyzx8.com/tv/m3u8/ipad.php/lb_pym_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 魏楠
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wn_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 王伟光
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wwg_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 殷旭
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yinxu_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 徐翠翠
-http://jyzx8.com/tv/m3u8/ipad.php/lb_xcc_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 宋佳伦
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sjl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 孙茜
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sq_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张睿
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zr_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 曾沛慈
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zpc_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 付费7
-http://jyzx8.com/tv/m3u8/ipad.php/xc_fufei7_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 初音未来
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cywl_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 冯远征
-http://jyzx8.com/tv/m3u8/ipad.php/lb_fyz_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 程璧
-http://jyzx8.com/tv/m3u8/ipad.php/lb_cb_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 谭晶★
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tanjing_1800.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 张译
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhangyi_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 金晨
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jinchen_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 陈珊妮
-http://jyzx8.com/tv/m3u8/ipad.php/lb_musiclive2_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 钟立风
-http://jyzx8.com/tv/m3u8/ipad.php/lb_musiclive17_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 苏阳
-http://jyzx8.com/tv/m3u8/ipad.php/lb_musiclive18_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 沈腾★
-http://jyzx8.com/tv/m3u8/ipad.php/lb_shenteng_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 马丽★
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mali_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 罗大佑
-http://jyzx8.com/tv/m3u8/ipad.php/lb_musiclive20_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 冯绍峰
-http://jyzx8.com/tv/m3u8/ipad.php/lb_fsf_1300.m3u8
-#EXTINF:-1 group-title="乐视名人频道",乐视名人 - 赵咏华
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zyh_1300.m3u8
-
-
-
-#EXTINF:-1 group-title="乐视美少女频道",乐视美少女 - SNH48
-http://jyzx8.com/tv/m3u8/ipad.php/lb_SNH48_1300.m3u8
-#EXTINF:-1 group-title="乐视美少女频道",乐视美少女 - AKB48
-http://jyzx8.com/tv/m3u8/ipad.php/lb_AKB48_1300.m3u8
-#EXTINF:-1 group-title="乐视美少女频道",乐视美少女 - 曾艳芬美少女
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zyf_1300.m3u8
-#EXTINF:-1 group-title="乐视美少女频道",乐视美少女 - 李艺彤美少女
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lyt_1300.m3u8
-#EXTINF:-1 group-title="乐视美少女频道",乐视美少女 - 鞠婧祎美少女
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jjy_1300.m3u8
-#EXTINF:-1 group-title="乐视美少女频道",乐视美少女 - 赵粤美少女
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zhaoyue_1300.m3u8
-#EXTINF:-1 group-title="乐视美少女频道",乐视美少女 - 赵嘉敏美少女
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zjm_1300.m3u8
-#EXTINF:-1 group-title="乐视美少女频道",乐视美少女 - 黄婷婷美少女
-http://jyzx8.com/tv/m3u8/ipad.php/lb_htt_1300.m3u8
-#EXTINF:-1 group-title="乐视美少女频道",乐视美少女 - 邱欣怡美少女
-http://jyzx8.com/tv/m3u8/ipad.php/lb_qxy_1300.m3u8
-#EXTINF:-1 group-title="乐视美少女频道",乐视美少女 - 少女时代HD
-http://jyzx8.com/tv/m3u8/ipad.php/lb_snsd_1800.m3u8
-
-
-
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 体育资讯
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tyzx_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 完美游戏
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wmyx_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 体育
-http://jyzx8.com/tv/m3u8/ipad.php/lb_sports_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 体育2
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tiyu2_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 体育+
-http://jyzx8.com/tv/m3u8/ipad.php/lb_tyzx_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 四海钓鱼
-http://jyzx8.com/tv/m3u8/mg.php?id=shdy
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 快乐垂钓
-http://jyzx8.com/tv/m3u8/mg.php?id=klcd
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 高尔夫一台
-http://jyzx8.com/tv/m3u8/mg.php?id=gef
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 高尔夫
-http://jyzx8.com/tv/m3u8/ipad.php/lb_golf_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 高尔夫大满贯
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gefdmg_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 高尔夫欧巡赛
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gefoxs_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 高尔夫美巡赛
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gefmxs_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 羽毛球
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ymq_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 马术
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ms_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 游泳
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yy_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 帆船
-http://jyzx8.com/tv/m3u8/ipad.php/lb_fc_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 橄榄球
-http://jyzx8.com/tv/m3u8/ipad.php/lb_glq_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 台球
-http://jyzx8.com/tv/m3u8/ipad.php/lb_taiqiu_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 网球
-http://jyzx8.com/tv/m3u8/ipad.php/lb_wangqiu_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 篮球
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lanqiu_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 广厦篮球频道
-http://jyzx8.com/tv/m3u8/ipad.php/lb_gslqpd_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 欧冠
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ouguan_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 足球
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zuqiu_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 风云足球
-http://jyzx8.com/tv/m3u8/mg.php?id=fyzq
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 河南足球
-http://jyzx8.com/tv/m3u8/ipad.php/lb_hnzq_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 亚洲足球
-http://jyzx8.com/tv/m3u8/ipad.php/lb_yzzq_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 欧洲足球
-http://jyzx8.com/tv/m3u8/ipad.php/lb_ozzq_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 国安
-http://jyzx8.com/tv/m3u8/ipad.php/lb_guoan_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 西甲
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_xijia_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 德甲
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_dejia_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 意甲
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_yijia_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 英超
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_yingchao_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 法甲
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lb_fajia_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 体育资讯
-http://jyzx8.com/tv/m3u8/ipad3.php/lb_tyzx_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 汽车频道
-http://jyzx8.com/tv/m3u8/ipad.php/autolive.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 赛车
-http://jyzx8.com/tv/m3u8/ipad.php/lb_F1_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 自行车
-http://jyzx8.com/tv/m3u8/ipad.php/lb_zixingche_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 跑步
-http://jyzx8.com/tv/m3u8/ipad.php/lb_paobu_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 搏击
-http://jyzx8.com/tv/m3u8/ipad.php/lb_boji_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 乐视游戏
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lsyx_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 乐视生态
-http://jyzx8.com/tv/m3u8/ipad.php/lb_lsst_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - GTV游戏竞技
-http://jyzx8.com/tv/m3u8/ipad.php/lb_GTVyxjj_800.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/lb_GTVyxjj
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - GTV合作
-http://jyzx8.com/tv/m3u8/ipad.php/hz_gtv_800.m3u8#http://jyzx8.com/tv/m3u8/ipad.php/hz_gtv_1800.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 电子竞技
-http://jyzx8.com/tv/m3u8/ipad.php/lb_dzjj_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 极限运动
-http://jyzx8.com/tv/m3u8/ipad.php/lb_jxyd_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 美洲杯
-http://jyzx8.com/tv/m3u8/ipad.php/lb_mzb_1300.m3u8
-#EXTINF:-1 group-title="乐视体育频道",乐视体育 - 女足世界杯
-http://jyzx8.com/tv/m3u8/ipad.php/lb_nzsjb_1300.m3u8
-
-
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 凤凰资讯
-http://jyzx8.com/tv/m3u8/ipad.php/ws_fenghuangzx_800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 凤凰资讯
-http://jyzx8.com/tv/m3u8/ipad.php/ws_fenghuangzx_1800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 湖南卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/ws_hunanwsHD_800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 湖南卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/ws_hunanwsHD_1300.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 北京卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/bjwsHD_800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 北京卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/bjwsHD_1300.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 北京卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/bjwsHD_1800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 北京文艺HD
-http://jyzx8.com/tv/m3u8/ipad.php/bjwyHD_800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 北京文艺HD
-http://jyzx8.com/tv/m3u8/ipad.php/bjwyHD_1800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 北京纪实HD
-http://jyzx8.com/tv/m3u8/ipad.php/bjjsHD_800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 北京体育HD
-http://jyzx8.com/tv/m3u8/ipad.php/btv6_800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 深圳卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/shenzhenHD_1300.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 深圳卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/shenzhenHD_1800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 湖北卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/hubeiHD_1800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 广东卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/guangdongHD_800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 广东卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/guangdongHD_1800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 江苏卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/jiangsuHD_800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 江苏卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/jiangsuHD_1300.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 江苏卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/jiangsuHD_1800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 东方卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/dongfangHD_800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 东方卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/dongfangHD_1300.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 东方卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/dongfangHD_1800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 山东卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/shandongHD_800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 山东卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/shandongHD_1300.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 山东卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/shandongHD_1800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 天津卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/tianjinHD_800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 天津卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/tianjinHD_1800.m3u8
-#EXTINF:-1 group-title="乐视ipad",ipad源 - 黑龙江卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/heilongjiangHD_1300.m3u8
-
-
-
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 江苏卫视高清1
-http://icntv.xyz/letv/jiangsuHD_1800.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 北京卫视高清
-http://icntv.xyz/letv/bjwsHD_1800.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 湖南卫视高清
-http://icntv.xyz/letv/ws_hunanwsHD_1300.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视综合
-http://icntv.xyz/letv/lb_zonghe_1000.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 北京卫视
-http://icntv.xyz/letv/bjws.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 安徽卫视
-http://icntv.xyz/letv/anhui.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 天津卫视
-http://icntv.xyz/letv/tianjin.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 江苏卫视
-http://icntv.xyz/letv/jiangsu.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 山西卫视
-http://icntv.xyz/letv/shanxi_350.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 甘肃卫视
-http://icntv.xyz/letv/gansu.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 东南卫视
-http://icntv.xyz/letv/dongnan.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 湖北卫视
-http://icntv.xyz/letv/hubei.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 云南卫视
-http://icntv.xyz/letv/yunnan.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 黑龙江卫视
-http://icntv.xyz/letv/heilongjiang.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 贵州卫视
-http://icntv.xyz/letv/guizhou.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 广西卫视
-http://icntv.xyz/letv/guangxi.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 河南卫视
-http://icntv.xyz/letv/henan.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 旅游卫视
-http://icntv.xyz/letv/lvyou.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 深圳卫视
-http://icntv.xyz/letv/shenzhen.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 内蒙古卫视
-http://icntv.xyz/letv/neimenggu_350.m3u8  
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 新疆卫视
-http://icntv.xyz/letv/xinjiang_350.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 陕西卫视
-http://icntv.xyz/letv/shanxi1.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 重庆卫视
-http://icntv.xyz/letv/chongqing.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 吉林卫视
-http://icntv.xyz/letv/jilin.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 辽宁卫视
-http://icntv.xyz/letv/liaoning.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 江西卫视
-http://icntv.xyz/letv/jiangxi.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 青海卫视
-http://icntv.xyz/letv/qinghai.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 炫动卡通
-http://icntv.xyz/letv/xdkt.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 四川卫视
-http://icntv.xyz/letv/sichuan.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视电影
-http://icntv.xyz/letv/lb_movie_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视1080P
-http://icntv.xyz/letv/lb_1080P_1080p3m.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视音乐
-http://icntv.xyz/letv/lb_music_350.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视电视剧
-http://icntv.xyz/letv/lb_tv_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视动漫
-http://icntv.xyz/letv/lb_comic_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视体育
-http://icntv.xyz/letv/lb_sports_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 科教.纪录片
-http://icntv.xyz/letv/lb_jilu_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 电影片花
-http://icntv.xyz/letv/lb_trailer_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视综艺
-http://icntv.xyz/letv/lb_ent_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视自制剧
-http://icntv.xyz/letv/lb_make_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视韩剧
-http://icntv.xyz/letv/lb_koreatv_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视高尔夫
-http://icntv.xyz/letv/lb_golf_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视网球
-http://icntv.xyz/letv/lb_wangqiu_1000.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视甄嬛传
-http://icntv.xyz/letv/lb_zhenhuan_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视亲子
-http://icntv.xyz/letv/lb_qinzi_1300.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视足球
-http://icntv.xyz/letv/lb_zuqiu_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视演唱会
-http://icntv.xyz/letv/lb_concert_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视篮球
-http://icntv.xyz/letv/lb_lanqiu_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视娱乐
-http://icntv.xyz/letv/lb_yule_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视MV
-http://icntv.xyz/letv/lb_mv_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视风尚
-http://icntv.xyz/letv/lb_fengshang_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 古典音乐
-http://icntv.xyz/letv/lb_classical_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视戏曲
-http://icntv.xyz/letv/lb_xiqu_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 我是歌手NEW
-http://icntv.xyz/letv/lb_imsinger_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视垫播
-http://icntv.xyz/letv/lb_lssd_350.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视盛典
-http://icntv.xyz/letv/lb_lssd_1300.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 乐视儿歌
-http://icntv.xyz/letv/lb_erge_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 动作电影
-http://icntv.xyz/letv/lb_dzdy_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 电影
-http://icntv.xyz/letv/lb_zpw_720p.m3u8
-#EXTINF:-1 group-title="各省卫视频道（乐视）",乐视 - 国际时装周
-http://icntv.xyz/letv/lb_shizhuang_720p.m3u8
-
-
-
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - CCTV13-新闻
-http://jyzx8.com/tv/m3u8/ipad.php/cctvnew.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 湖南卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/ws_hunanwsHD_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 北京卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/bjwsHD_1800.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 深圳卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/shenzhenHD_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 湖北卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/hubeiHD_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 广东卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/guangdongHD_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 江苏卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/jiangsuHD_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 东方卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/dongfangHD_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 山东卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/shandongHD_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 天津卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/tianjinHD_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 黑龙江卫视HD
-http://jyzx8.com/tv/m3u8/ipad.php/heilongjiangHD_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 甘肃卫视
-http://jyzx8.com/tv/m3u8/ipad.php/gansu.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 陕西卫视
-http://jyzx8.com/tv/m3u8/ipad.php/shanxi1.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 山西卫视
-http://jyzx8.com/tv/m3u8/ipad.php/shanxi.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 吉林卫视
-http://jyzx8.com/tv/m3u8/ipad.php/jilin.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 四川卫视
-http://jyzx8.com/tv/m3u8/ipad.php/sichuan.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 北京文艺HD
-http://jyzx8.com/tv/m3u8/ipad.php/bjwyHD_1800.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 北京纪实HD
-http://jyzx8.com/tv/m3u8/ipad.php/bjjsHD_1800.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 北京体育HD
-http://jyzx8.com/tv/m3u8/ipad.php/btv6_1800.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 北京科教
-http://jyzx8.com/tv/m3u8/ipad.php/bjkj.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 北京影视
-http://jyzx8.com/tv/m3u8/ipad.php/bjys.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 北京财经
-http://jyzx8.com/tv/m3u8/ipad.php/bjcj.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 北京生活
-http://jyzx8.com/tv/m3u8/ipad.php/bjsh.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 北京青年
-http://jyzx8.com/tv/m3u8/ipad.php/bjqn.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 北京新闻
-http://jyzx8.com/tv/m3u8/ipad.php/bjxw.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 上海新闻HD
-http://jyzx8.com/tv/m3u8/ipad.php/ws_shxw_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 广东珠江
-http://jyzx8.com/tv/m3u8/ipad.php/ws_gdzj_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 广东新闻
-http://jyzx8.com/tv/m3u8/ipad.php/ws_gdxw_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 深圳都市
-http://jyzx8.com/tv/m3u8/ipad.php/ws_szds_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 深圳电视剧
-http://jyzx8.com/tv/m3u8/ipad.php/ws_szdsj_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 深圳体育健康
-http://jyzx8.com/tv/m3u8/ipad.php/ws_sztyjk_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 深圳财经
-http://jyzx8.com/tv/m3u8/ipad.php/ws_szcj_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 深圳娱乐
-http://jyzx8.com/tv/m3u8/ipad.php/ws_szyl_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 深圳少儿
-http://jyzx8.com/tv/m3u8/ipad.php/ws_szse_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 南方经济科教
-http://jyzx8.com/tv/m3u8/ipad.php/ws_nfjj_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 南方影视
-http://jyzx8.com/tv/m3u8/ipad.php/ws_nfys_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 南方少儿
-http://jyzx8.com/tv/m3u8/ipad.php/ws_nfse_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 南方综艺
-http://jyzx8.com/tv/m3u8/ipad.php/ws_nfzy_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 江苏城市
-http://jyzx8.com/tv/m3u8/ipad.php/ws_jscs_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 江苏综艺
-http://jyzx8.com/tv/m3u8/ipad.php/ws_jszy_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 江苏影视
-http://jyzx8.com/tv/m3u8/ipad.php/ws_jsys_1300.m3u8
-#EXTINF:-1 group-title="乐视国内直播",乐视国内直播 - 江苏体育休闲
-http://jyzx8.com/tv/m3u8/ipad.php/ws_jstyxx_1300.m3u8
+#EXTINF:-1group-title="乐视频道",乐迷频道
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视垫播
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_backup_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",科教纪录片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",唐卡
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_tangka_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",文化遗产
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_whyc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",美克家居A.R.T★
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mkmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视生态
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsst_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",动物世界
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",综合
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zonghe_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",综艺
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ent_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",党建
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dangjian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",电视剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",1080P
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视动作电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",香港电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",喜剧电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",自制剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_make_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",韩剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_koreatv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",跟播
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_genbo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",4K
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",芈月传
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",北平无战事
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bpwzs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",公开课
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gkk_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",我是歌手NEW
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_imsinger_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",出彩中国人
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cczgr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",笑傲江湖
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xajh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",我看你有戏
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbhll_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",欢乐喜剧人
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlxjr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",舌尖上的中国
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sjsdzg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",黄段子
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hdz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",完美游戏
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wmyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",电影片花
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_trailer_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",周星驰影视
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zxc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",成龙影视
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",甄嬛传
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhenhuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",纸牌屋
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zpw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",反法西斯
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ffxs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",红高粱
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hgl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",北京傲客
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bjak_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",和平的全盛时代
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hpdqssd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",少年四大名捕
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snsdmb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",鹿鼎记
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ldj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",还珠格格
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hzgg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",裸婚时代
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lhsd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",步步惊心
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbjx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",亮剑
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_liangjian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",士兵突击
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sbtj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",西游记
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",包青天
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",满仓进城
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mcjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",因为爱情有奇迹
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ywaqyqj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",北平无战事
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bpwzs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",武林外传
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wlwz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",龙门镖局
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lmbj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",好莱坞
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",华语电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hydy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",日韩电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rhdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",北京傲客
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bjak_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",新济公活佛
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjghf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",花样姐姐
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hyjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",想明白了再结婚
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xmblzjh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",极品新娘
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jpxn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",虎妈猫爸
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hmmb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",聊斋新编
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzxb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",何以笙箫默
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hysxm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",粤语频道
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",平凡的世界
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_pfdsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",封神英雄
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fsyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",隋唐英雄
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_styx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",锦绣缘华丽冒险
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jxyhlmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",活色生香
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hssx_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",武媚娘传奇
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wmncq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",拐个皇帝回现代
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gghdhxd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",我的老师是传奇
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wdlsscq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",冰与火的青春
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_byhdqc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",琅琊榜
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lyb_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",十周嫁出去
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_szjcq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",伪装者
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wzz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",调皮王妃
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tpwf_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",两生花
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_lsh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",小时代
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xsd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",想明白了再结婚
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xmblzjh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",极品新娘
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jpxn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",欢乐喜剧人
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlxjr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",偏偏喜欢你
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_ppxhn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",后海不是海
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_hhbsh_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",你是我的姐妹
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_nswdjm_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",克拉恋人
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kllr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",挑战者联盟
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tzzlm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",少年神探狄仁杰
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",神犬小七
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sqxq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",潜伏
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qianfu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",欢乐季
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_2015xjdws_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",大汉情缘之云中歌
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dhqyzyzg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",来自未来的史密特
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzwldsmt_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",特工卡特
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tgkt_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",音乐
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_music_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",演唱会
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_concert_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",娱乐
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yule_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",MV
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",古典音乐
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_classical_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",戏曲
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xiqu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",音乐节
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yinyuejie_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",LIVE生活
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_livemusic_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",格莱美音乐奖
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glmyyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐听古典音乐轮播台
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_leting_classical_music_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐听音乐节轮播台
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_leting_festival_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐听蒙面歌王轮播台
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_leting_mmgw_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐听我是歌手轮播台
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_leting_wsgs_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐听教育轮播台
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_leting_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",华鼎奖颁奖典礼
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hdjbjdl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",郎朗演唱会
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_langlang_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陈奕迅演唱会
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_chenyixun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",中国摇滚
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zgyg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",中国民谣
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zgmy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",日本流行
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rblx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rblx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",欧美流行
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_omlx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",蒙面歌王
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mmgw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",广告频道
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_ggpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",环球购物
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_hqgw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",★广场舞
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gcw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",生活
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shenghuo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",超级超级
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zdyjfc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",★炉石传说
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",王者归来发布会
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jcytht_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",亲子
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qinzi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",儿歌
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_erge_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",动漫
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comic_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",熊出没
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xcm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",猪猪侠
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",倒霉熊
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",猫和老鼠
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",大头儿子
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dtez_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",宠物小精灵
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cwxjl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",哆啦A梦
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dlam_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",樱桃小丸子
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ytxwz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",蜡笔小新
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lbxx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",小马宝莉
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xmbl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",黑子的篮球
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hzdlq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",巨神战击队
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jszjd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",名侦探柯南
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mztkn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",变形金刚
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bxjg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",奥特曼
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_atm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",巴啦啦小魔仙
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bllxmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",欧美卡通
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_omkt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",小众美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",热门美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rmmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",都市剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dsjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",脱单剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_meiju_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",超级英雄
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cjyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",跟播美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",经典美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",罪案烧脑
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zasn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",科幻美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",奇幻美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qhmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",喜剧美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",年代剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ndjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",虐恋美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nlmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",高冷美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",单元美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dymj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",肥皂美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",律政医务美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzywmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",热血动作美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",重播之王
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cbzw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",神话剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",情景喜剧剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qjxjjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",武侠剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wxjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",抗战剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kangz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",女性剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nxjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",宫斗剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",军旅剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jljc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",励志剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",催泪剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cljc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",兄弟剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xdjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",姐妹淘剧场
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jmtjc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",青春偶像美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qcoxmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",汪峰
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",邓紫棋
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dengziqi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",羽泉
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yuquan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",凤凰传奇
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fhcq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张杰
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",韩红
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hanhong_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李宇春
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lyc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",韩磊
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",杨澜
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yanglan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张艺谋
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zym_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",邓超
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dengchao_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",郑晓龙
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zxl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",王雷
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",徐克
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xuke_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",黄晓明
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hxm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",苏芒
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sumang_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",章子怡
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhangziyi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",沈傲君
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_saj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",叶璇
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",莫小棋
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mxq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",童瑶
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tongyao_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",沙溢
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shayi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",代乐乐
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dll_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",颖儿
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ye_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",徐百卉
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xbh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",曹曦文
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cxw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李崇霄
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lichongxiao_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",朱锐
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhurui_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",赵立新
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zlx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",艾东
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ad_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",黄绮珊
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hqs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",宋丹丹
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sdd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",宁浩
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ninghao_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",曹征
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_caozheng_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",金铭
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",刘恺威
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lkw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陈小春
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cxc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",包贝尔
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbe_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乔任梁
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qrl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",姜武
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",于正
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",何炅
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",杜海涛
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dht_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",柳岩
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ly_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陈赫
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_chenhe_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",高露
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",薛佳凝
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",沈泰
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_st_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",林申
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李依晓
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张晓龙
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhangxiaolong_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",毛俊杰
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张若昀
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zrj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",唐艺昕
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",孙骁骁
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sxx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",何晟铭
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hsm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李念
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_linian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",应采儿
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yce_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",赵子琪
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zzq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",赵宝刚
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_z_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",梁丹妮
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ldn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",刘威葳
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lww_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",王伟
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wangwei_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张博
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhangbo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",黄晓明
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hxm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",战菁一
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zjy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",高云翔
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",翁虹
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wenghong_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",牛莉
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_niuli_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",马伊琍
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mayili_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陈晓
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",孔二狗
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_keg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",薛凯琪
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xkq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",段奕宏
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dyh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",孙耀威
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_syw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",古力娜扎
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glnz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",胡兵
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hubing_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",黄小蕾
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hxl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",郭德纲
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gdg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",金晨
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jinchen_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张译
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhangyi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",冯远征
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fyz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",夏雨
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xiayu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",田朴珺
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tpj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",吴宗宪
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",刘亦菲
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lyf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",丁子峻
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",毛晓彤
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mxt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",杜淳
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_duchun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",孙坚
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sunjian_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张睿
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",孟广美
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mgm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李威
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_liwei_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",吕颂贤
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",何润东
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hrd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李维嘉
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lwj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",郭涛
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陈楚生
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ccs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",胡彦斌
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hyb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",刘力扬
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lly_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",田原
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tianyuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",萨顶顶
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sadingding_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",査可欣
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zkx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",黄义达
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hyd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李霄云
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lxy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李丹
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lidan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李东学
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ldx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",方中信
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",蔡少芬
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_csf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",斓曦
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",吕丽萍
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_llp_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",巩峥
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",孙海英
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",蒋欣
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jiangxin_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陈创
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",孙红雷
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sunhonglei_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",刘诗诗
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_liushishi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张丰毅
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhangfengyi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",钟汉良
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhonghanliang_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李晨
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lichen_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李易峰
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_liyifeng_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",周笔畅
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zbc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",周韵
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhouyun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",郭晓冬
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gxd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",吴秀波
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wxb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",海清
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_haiqing_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",董璇
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dongxuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",佟丽娅
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tly_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",赵丽颖
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zly_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",佟大为
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tdw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",许晴
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xuqing_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陆毅
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_luyi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陈数
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_chenshu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",郑元畅
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhengyuanchang_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",白百何
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陈紫函
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_czh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",王丽坤
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wlk_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陆川
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",贾青
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",于明加
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ymj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",王千源
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wqy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",秦岚
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ql_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",杨文军
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ywj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",于小伟
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yxw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",潘之琳
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_pzl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",姚芊羽
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yqy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",杜江
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",霍思燕
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hsy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李承铉
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lcx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张智尧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zzy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李小萌
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lxm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张慧雯
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陈乔恩
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cqe_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李小璐
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lxl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",贾乃亮
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jnl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",毛宁
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_maoning_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",刘江
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_liujiang_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陈梦露
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cml_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",郝云
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_haoyun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",戚薇
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qiwei_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",白凯南
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bkn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",戴军
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_daijun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",郭品超
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gpc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",胡歌
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_huge_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",任泉
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_renquan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张梓琳
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zzl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",马艳丽
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",黄百鸣
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hbm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",王宝强
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wbq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",余心恬
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yxt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",黄轩
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_huangxuan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",韩庚
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hangeng_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",胡夏
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_huxia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",马天宇
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mty_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",杨烁
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yangshuo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",刘涛
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_liutao_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",刘芸
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_liuyun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",郑钧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhengjun_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",巍子
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_weizi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",黄斌
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_huangbin_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",林一峰
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_joss_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",郭德纲
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gdg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",潘粤明
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_pym_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",魏楠
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",王伟光
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wwg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",殷旭
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yinxu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",徐翠翠
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xcc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",宋佳伦
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sjl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",孙茜
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张睿
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",曾沛慈
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zpc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",初音未来
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cywl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",冯远征
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fyz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",程璧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",谭晶★
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tanjing_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",张译
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhangyi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",金晨
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jinchen_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",陈珊妮
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_musiclive2_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",钟立风
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_musiclive17_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",苏阳
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_musiclive18_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",沈腾★
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shenteng_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",马丽★
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mali_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",罗大佑
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_musiclive20_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",冯绍峰
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fsf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",赵咏华
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zyh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",SNH48
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_SNH48_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",AKB48
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_AKB48_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",曾艳芬美少女
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zyf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",李艺彤美少女
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lyt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",鞠婧祎美少女
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jjy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",赵粤美少女
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhaoyue_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",赵嘉敏美少女
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zjm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",黄婷婷美少女
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_htt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",邱欣怡美少女
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qxy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",少女时代HD
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snsd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",体育资讯
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tyzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",完美游戏
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wmyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",体育
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",体育2
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tiyu2_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",体育+
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tyzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",高尔夫
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_golf_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",高尔夫大满贯
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gefdmg_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",高尔夫欧巡赛
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gefoxs_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",高尔夫美巡赛
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gefmxs_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",羽毛球
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ymq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",马术
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ms_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",游泳
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",帆船
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",橄榄球
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_glq_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",台球
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_taiqiu_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",网球
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wangqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",篮球
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lanqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",广厦篮球频道
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gslqpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",欧冠
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ouguan_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",足球
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zuqiu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",亚洲足球
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yzzq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",欧洲足球
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ozzq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#
+http://stream1.grtn.cn/ozzq/sd/live.m3u8?_upt=?ts
+#EXTINF:-1group-title="乐视频道",国安
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_guoan_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",西甲
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_xijia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",德甲
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_dejia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",意甲
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_yijia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",英超
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_yingchao_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",法甲
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_fajia_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",赛车
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_F1_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",自行车
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zixingche_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",跑步
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_paobu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",搏击
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_boji_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视游戏
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsyx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视生态
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsst_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",电子竞技
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzjj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",极限运动
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jxyd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",美洲杯
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mzb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",女足世界杯
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nzsjb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",综合
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zonghe_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视1080P
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视音乐
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_music_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视电视剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视动漫
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comic_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",科教.纪录片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",电影片花
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_trailer_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视综艺
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ent_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视自制剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_make_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视韩剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_koreatv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视甄嬛传
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhenhuan_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视亲子
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qinzi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视演唱会
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_concert_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视娱乐
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yule_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视MV
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视风尚
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fengshang_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",古典音乐
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_classical_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视戏曲
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xiqu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",我是歌手NEW
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_imsinger_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视垫播
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lssd_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视盛典
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lssd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",乐视儿歌
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_erge_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",动作电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zpw_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1group-title="乐视频道",国际时装周
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_shizhuang_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
