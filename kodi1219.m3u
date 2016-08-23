@@ -1,11 +1,6 @@
 #EXTM3U
 
 
-<<<<<<< HEAD
-
-
-
-
 
 #EXTINF:-1group-title="61台湾",FOX_HD
 http://61.216.71.67/sta/ch01.m3u8
@@ -257,7 +252,6 @@ http://61.216.71.67/std/ch001.m3u8
 
 
 
-=======
 #EXTINF:-1group-title="北方云",CCTV-1HD
 http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/hdcctv1_.m3u8
 #EXTINF:-1group-title="北方云",CCTV-2HD
@@ -504,7 +498,7 @@ http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/sdpjyt_.m3u8
 http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/sdhldyt_.m3u8
 #EXTINF:-1group-title="北方云",阜新一套
 http://httpdvb.slave.bfgd.com.cn:13164/httpdvb/sdfxyt_.m3u8
->>>>>>> origin/master
+
 
 
 #EXTINF:-1group-title="210台湾",FOX HD
@@ -1409,8 +1403,6 @@ http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001142/index.m3u8
 http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001188/index.m3u8
 #EXTINF:-1group-title="HOT南京电信",黑龙江卫视
 http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001189/index.m3u8
-<<<<<<< HEAD
-
 
 
 
@@ -2142,9 +2134,6 @@ http://httpdvb.slave.mycatv.cn:13164/playurl?playtype=live&protocol=hls&accessto
 http://httpdvb.slave.mycatv.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R576CB9AAU3192FF25K7735963BM2FAF583W29219&programid=4200851178&playtype=live&auth=no
 #EXTINF:-1group-title="绵阳有线",深圳DV生活
 http://httpdvb.slave.mycatv.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R576CB9AAU3192FF25K7735963BM2FAF583W29219&programid=4200851171&playtype=live&auth=no
-
-
-
 
 
 
@@ -3017,10 +3006,6 @@ http://223.75.3.82:8081/live/live2/ZhongxiangWenhua/2000/ZhongxiangWenhua-2000-n
 
 
 
-
-
-
-
 #EXTINF:-1 group-title="搜狐华数",华数A-CCTV-1
 http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_cctv1/z.m3u8
 #EXTINF:-1 group-title="搜狐华数",华数A-CCTV-5
@@ -3102,21 +3087,3 @@ http://112.253.38.62:80/livehls1-cnc.wasu.cn/shjs/z.m3u8
 #EXTINF:-1 group-title="搜狐华数",华数D-北京纪实
 http://112.253.38.62:80/livehls1-cnc.wasu.cn/bjjs/z.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> origin/master
