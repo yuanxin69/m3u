@@ -1,32 +1,5 @@
 #EXTM3U
 
-
-
-
-EXTINF:-1 group-title="日本", 日欧无码
-http://64.140.160.186:8066/HLS/live/101/index.m3u8?mid=64&pwd=mars
-#EXTINF:-1 group-title="日本", 日本无码
-http://64.140.160.186:8066/HLS/live/102/index.m3u8?mid=64&pwd=mars
-#EXTINF:-1 group-title="日本", 日本薄码
-http://64.140.160.186:8066/HLS/live/103/index.m3u8?mid=64&pwd=mars
-#EXTINF:-1 group-title="日本", 日本薄码
-http://64.140.160.186:8066/HLS/live/201/index.m3u8?mid=64&pwd=mars
-#EXTINF:-1 group-title="日本", 日欧无码
-http://64.140.160.186:8066/HLS/live/202/index.m3u8?mid=64&pwd=mars
-#EXTINF:-1 group-title="日本", 日本无码
-http://64.140.160.186:8066/HLS/live/203/index.m3u8?mid=64&pwd=mars
-#EXTINF:-1 group-title="日本", 潘多拉完美有码HD
-http://64.140.160.186:8066/HLS/live/301/index.m3u8?mid=64&pwd=mars
-#EXTINF:-1 group-title="日本", 潘多拉粉红有码HD
-http://64.140.160.186:8066/HLS/live/302/index.m3u8?mid=64&pwd=mars
-#EXTINF:-1 group-title="日本", 潘多拉天使薄码成人
-http://58.99.33.4:1935/liveedge/live_413_3.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本", 潘多拉天使薄码成人
-http://58.99.33.4:1935/liveedge/live_785_3.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本", 潘多拉宝贝薄码成人
-http://58.99.33.4:1935/liveedge/live_414_3.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本", 潘多拉宝贝薄码成人
-http://58.99.33.4:1935/liveedge/live_786_3.stream/playlist.m3u8
 #EXTINF:-1 group-title="日本", ★韩国04台
 http://123.108.164.75/etv2sb/pld10062/playlist.m3u8
 #EXTINF:-1 group-title="日本", ★韩国06台
@@ -94,16 +67,7 @@ http://edge2.everyon.tv/etv2/phd1008/HasBahca.m3u8
 #EXTINF:-1 group-title="韩国", XXX01
 http://edge2.everyon.tv/etv2/phd1008/huraivza.m3u8
 
-#EXTINF:-1 group-title="台湾",松视一台
-http://211.22.61.109/stc/ch168022.m3u8
-#EXTINF:-1 group-title="台湾",松视二台
-http://211.22.61.109/stc/ch168019.m3u8
-#EXTINF:-1 group-title="台湾",松视四台
-http://211.22.61.109/stc/ch168021.m3u8
-#EXTINF:-1 group-title="台湾",松视HD
-http://211.22.61.109/stc/ch168023.m3u8
-#EXTINF:-1 group-title="台湾",魅力1台
-http://211.22.61.109/sta/32350000.m3u8
+
 #EXTINF:-1 group-title="台湾",奥视惊艳
 http://211.22.61.109/stc/ch168172.m3u8
 #EXTINF:-1 group-title="台湾",奥视惊艳
