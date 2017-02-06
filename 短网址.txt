@@ -70,6 +70,8 @@ http://d1.51gugu.com/184116/mrmc_20160105.m3u8
 短地址：http://www.dwz.cn/2NC6nW
 长地址：https://raw.githubusercontent.com/yuanxin69/m3u/master/get_list.json
 短地址：http://www.dwz.cn/2O3MpV
+长地址：https://raw.githubusercontent.com/yuanxin69/m3u/master/hanguo.m3u
+短地址：http://www.dwz.cn/5dxNEu
 最美直播：http://7xq1rb.com1.z0.glb.clouddn.com/%E6%9C%80%E7%BE%8E%E7%9B%B4%E6%92%AD.txt
 国外:http://221.232.65.26:8880/guowai.m3u
 xxx,http://www.ipgogogo.com:8880/pineapple/data/livehytv.xml
