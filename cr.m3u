@@ -1,91 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="日本", ★韩国04台
+#EXTINF:-1 group-title="电视台",奥视惊艳
+http://211.22.61.109/stc/ch168172.m3u8#http://211.22.61.109/stc/ch168162.m3u8#http://211.23.194.247/stc/ch168172.m3u8
+#EXTINF:-1 group-title="电视台",香蕉台Banana
+http://211.22.61.109/stc/ch168173.m3u8#http://211.22.61.109/stc/ch168163.m3u8#http://211.23.194.247/stc/ch168173.m3u8
+#EXTINF:-1 group-title="电视台",乐活频道(18age)
+http://211.22.61.109/stc/ch168161.m3u8#http://211.23.194.247/stc/ch168171.m3u8
+#EXTINF:-1 group-title="电视台",女孩电视
+http://123.108.164.71/etv2sb/phd10501/playlist.m3u8#http://123.108.164.75/etv2sb/pld10501/playlist.m3u8#http://edge2.everyon.tv/etv2sb/phd10501/playlist.m3u8#http://edge1.everyon.tv/etv1sb/phd10928/playlist.m3u8
+#EXTINF:-1 group-title="电视台",粉红高清
+http://123.108.164.110/etv1sb/phd10928/playlist.m3u8#http://123.108.164.110/etv1sb/pld10928/playlist.m3u8#rtmp://edge1.everyon.tv/etv1sb/pld10928
+#EXTINF:-1 group-title="电视台",午夜19高清
+http://edge1.everyon.tv:1935/etv1sb/pld10766/playlist.m3u8#http://123.108.164.110/etv1sb/phd10766/playlist.m3u8#rtmp://edge1.everyon.tv/etv1sb/phd10766
+#EXTINF:-1 group-title="电视台",花花公子19
+http://123.108.164.110/etv1sb/phd10497/playlist.m3u8#rtmp://edge1.everyon.tv/etv1sb/phd10497#http://edge1.everyon.tv/etv1sb/phd10497/playlist.m3u8
+#EXTINF:-1 group-title="电视台",绚丽19高清
+http://123.108.164.71/etv2sb/phd10769/playlist.m3u8#http://123.108.164.75/etv2sb/pld10769/playlist.m3u8#http://edge2.everyon.tv/etv2sb/pld10769/playlist.m3u8
+#EXTINF:-1 group-title="电视台",金碧的马
+http://123.108.164.110/etv1sb/phd10927/playlist.m3u8#rtmp://edge1.everyon.tv/etv1sb/phd10927#http://123.108.164.110/etv1sb/pld10927/playlist.m3u8#http://edge1.everyon.tv/etv1sb/phd10927/playlist.m3u8
+#EXTINF:-1 group-title="电视台",色彩
+http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8#http://123.108.164.71/etv2sb/phd10062/playlist.m3u8#http://123.108.164.75/etv2sb/pld10062/playlist.m3u8
+#EXTINF:-1 group-title="电视台",情趣电视
+http://123.108.164.71/etv2sb/phd10499/playlist.m3u8#http://123.108.164.75/etv2sb/pld10499/playlist.m3u8#http://edge2.everyon.tv/etv2sb/phd10499/playlist.m3u8
+#EXTINF:-1 group-title="电视台",THE马高清
+http://123.108.164.71/etv2sb/phd10771/playlist.m3u8#http://123.108.164.75/etv2sb/pld10771/playlist.m3u8
+#EXTINF:-1 group-title="电视台",ButGO高清2
+http://123.108.164.75/etv2sb/pld10772/playlist.m3u8#http://edge2.everyon.tv/etv2sb/pld10772/playlist.m3u8#http://edge2.everyon.tv/etv2sb/phd10772/playlist.m3u8
+#EXTINF:-1 group-title="电视台",VIKI
+http://123.108.164.110/etv1sb/phd10765/playlist.m3u8#http://123.108.164.110/etv1sb/pld10765/playlist.m3u8#rtmp://edge1.everyon.tv/etv1sb/phd10765
+#EXTINF:-1 group-title="电视台", ★韩国04台
 http://123.108.164.75/etv2sb/pld10062/playlist.m3u8
-#EXTINF:-1 group-title="日本", ★韩国06台
-http://123.108.164.75/etv2sb/pld10064/playlist.m3u8
-#EXTINF:-1 group-title="日本", ★playboy
-http://123.108.164.110/etv1sb/pld10497/playlist.m3u8
-#EXTINF:-1 group-title="日本", ★韩国08台
-http://123.108.164.75/etv2sb/pld10499/playlist.m3u8
-#EXTINF:-1 group-title="日本", ★girlsTV
-http://123.108.164.75/etv2sb/pld10501/playlist.m3u8
-#EXTINF:-1 group-title="日本", ★VIKI 19
-http://123.108.164.110/etv1sb/pld10765/playlist.m3u8
-#EXTINF:-1 group-title="日本", ★韩国11台
-http://123.108.164.110/etv1sb/pld10766/playlist.m3u8
-#EXTINF:-1 group-title="日本", ★playy台
-http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
-#EXTINF:-1 group-title="日本", ★THE马
-http://123.108.164.75/etv2sb/pld10771/playlist.m3u8
-#EXTINF:-1 group-title="日本", ★ButGO
-http://123.108.164.75/etv2sb/pld10772/playlist.m3u8
-#EXTINF:-1 group-title="日本", ★韩国19限
-http://123.108.164.110/etv1sb/pld10927/playlist.m3u8
-#EXTINF:-1 group-title="日本", ★Honey HD
-http://123.108.164.110/etv1sb/pld10928/playlist.m3u8
+#EXTINF:-1 group-title="电视台", ★韩国11台
+http://123.108.164.110/etv1sb/pld10766/playlist.m3u8#http://edge1.everyon.tv/etv1sb/phd10766/playlist.m3u8
 
 
-#EXTINF:-1 group-title="欧美", 15.★Playboy
-http://edge1.everyon.tv/etv1sb/phd10497/playlist.m3u8
-#EXTINF:-1 group-title="欧美", 16.Delight
-http://edge2.everyon.tv/etv2sb/phd10499/playlist.m3u8
-#EXTINF:-1 group-title="日本", 17.Girls TV
-http://edge2.everyon.tv/etv2sb/phd10501/playlist.m3u8
-#EXTINF:-1 group-title="欧美", 18.Viki
-http://edge1.everyon.tv/etv1sb/phd10765/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 19.Mid-Night
-http://edge1.everyon.tv/etv1sb/phd10766/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 20.Playy19+
-http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 21.The Yahada
-http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
-#EXTINF:-1 group-title="欧美", 22.BUT GO
-http://edge2.everyon.tv/etv2sb/phd10772/playlist.m3u8
-#EXTINF:-1 group-title="欧美", 23.PentHouse TV
-http://edge1.everyon.tv/etv1sb/phd10927/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 24.Honey HD
-http://edge1.everyon.tv/etv1sb/phd10928/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 25.Feish Woman
-http://edge2.everyon.tv/etv2sb/phd10968/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 26.Red Doot1
-http://edge2.everyon.tv/etv2sb/phd10991/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 27.Red Doot2
-http://edge2.everyon.tv/etv2sb/phd10992/playlist.m3u8
-#EXTINF:-1 group-title="韩国", 28.Red Doot3
-http://edge2.everyon.tv/etv2sb/phd10993/playlist.m3u8
-#EXTINF:-1 group-title="欧美", 29.PRIVATE
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1 group-title="欧美", 30.PASSION XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1 group-title="日本", 31.潘朵拉天使台
-http://58.99.33.4:1935/liveedge/live_413_3.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本", 32.潘朵拉宝贝台
-http://58.99.33.4:1935/liveedge/live_786_3.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本", 32.PHD1008
-http://edge2.everyon.tv/etv2/phd1008/HasBahca.m3u8
-#EXTINF:-1 group-title="韩国", XXX01
-http://edge2.everyon.tv/etv2/phd1008/huraivza.m3u8
-
-
-#EXTINF:-1 group-title="台湾",奥视惊艳
-http://211.22.61.109/stc/ch168172.m3u8
-#EXTINF:-1 group-title="台湾",奥视惊艳
-http://211.22.61.109/stc/ch168162.m3u8
-#EXTINF:-1 group-title="台湾",香蕉台Banana
-http://211.22.61.109/stc/ch168173.m3u8
-#EXTINF:-1 group-title="台湾",香蕉台Banana
-http://211.22.61.109/stc/ch168163.m3u8
-#EXTINF:-1 group-title="台湾",乐活频道(18age)
-http://211.22.61.109/stc/ch168161.m3u8
-#EXTINF:-1 group-title="台湾",樂活台720
-http://211.23.194.247/stc/ch168171.m3u8
-#EXTINF:-1 group-title="台湾",驚豔台720
-http://211.23.194.247/stc/ch168172.m3u8
-#EXTINF:-1 group-title="台湾",香蕉台720
-http://211.23.194.247/stc/ch168173.m3u8
-#EXTINF:-1 group-title="韩国",韩国成人5
-rtmp://edge2.everyon.tv:1935/etv2/phd877
 #EXTINF:-1 group-title="成人频道",极乱家族1
 http://69.46.75.107/files/videos/140747456300c03.flv
 #EXTINF:-1 group-title="成人频道",极乱家族2
