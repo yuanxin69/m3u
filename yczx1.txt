@@ -1,16 +1,306 @@
-﻿叮噹成人,p2p://211.75.214.186:9906/5783bebd00085f2d065b8e87b44ea816&link=wvw.f0rcetech.c0m.ts
-HOT,p2p://211.75.214.186:9906/5783cc1900045017068fbcdd36c5599d&link=wvw.f0rcetech.c0m.ts
-潘朵拉高画质完美台,p2p://211.75.214.186:9906/5783c0d5000994490663bc969f33babd&link=wvw.f0rcetech.c0m.ts
-潘朵拉高画质粉红台,p2p://211.75.214.186:9906/5783bee90009bc99065c3ac140ced589&link=wvw.f0rcetech.c0m.ts
-星颖频道,p2p://211.75.214.186:9906/5783c0ab0003d78a0663170ec3f0a89a&link=wvw.f0rcetech.c0m.ts
-HAPPY,p2p://211.75.214.186:9906/5783c37f00003fa5066e22439d37e3a1&link=wvw.f0rcetech.c0m.ts
-Hiplay,p2p://211.75.214.186:9906/5783c20b000d11b70668786b488404a5&link=wvw.f0rcetech.c0m.ts
-松视1台HD,p2p://211.75.214.186:9906/5783bf2e000c090a065d48df919ae312&link=wvw.f0rcetech.c0m.ts
-松视2台,p2p://211.75.214.186:9906/5783bf8200075cb4065e8fcd3df3d4fc&link=wvw.f0rcetech.c0m.ts
-松视3台,p2p://211.75.214.186:9906/5783c0be000087670663606dc8d85a0b&link=wvw.f0rcetech.c0m.ts
-松视4台,p2p://211.75.214.186:9906/5783c09a0000a39b0662d3d52afa970f&link=wvw.f0rcetech.c0m.ts
-乐活频道,p2p://211.75.214.186:9906/5783bead000228bd065b4e7063eca98c&link=wvw.f0rcetech.c0m.ts
-彩虹电影台,p2p://211.75.214.186:9906/5783bf7100003d87065e4b92599bc27d&link=wvw.f0rcetech.c0m.ts
-K频道,p2p://211.75.214.186:9906/5783bf3e00076cf8065d863168c70f2f&link=wvw.f0rcetech.c0m.ts
-彩虹台,p2p://211.75.214.186:9906/5783cc28000ab89f068ff9190b56e986&link=wvw.f0rcetech.c0m.ts
-樱花台,p2p://211.75.214.186:9906/5783c81e000ef4a30680331f1cb92e37&link=wvw.f0rcetech.c0m.ts
+﻿DMAX,p2p://211.75.214.186:9906/57a730380007eb2b3d943aad4875e56f.ts
+HMC電影台,p2p://211.75.214.186:9906/579246380007923d2a99a0e0b477047d.ts
+thrill電影台,p2p://211.75.214.186:9906/57a690d0000c00f53b258d795d567843.ts
+KIX電影台,p2p://211.75.214.186:9906/57a690b80000cae13b252cda667c634c.ts
+罪案偵緝頻道,p2p://211.75.214.186:9906/57a71265000bbc213d1fbb703f5a1b9d.ts
+ViuTV,p2p://aa8.slsltaiwan.com:15342/57fedefb000146970c8cb1efc2994e19&link=你們再來盜啊123abcd@PWUSERID@
+ViuTV-1,p2p://aa8.slsltaiwan.com:15342/57fee2f7000bc9c50c9c4500de450e4d&link=你們再來盜啊123abcd@PWUSERID@
+翡翠台,p2p://aa8.slsltaiwan.com:15342/57fedf4b000293a30c8deac4aa48002e&link=你們再來盜啊123abcd@PWUSERID@
+翡翠台-1,p2p://aa8.slsltaiwan.com:15342/57fee31e0000cfc60c9cda89dc5136b4&link=你們再來盜啊123abcd@PWUSERID@
+J5,p2p://aa8.slsltaiwan.com:15342/57fedf65000084360c8e4fcd5cfcd1c9&link=你們再來盜啊123abcd@PWUSERID@
+J5-1,p2p://aa8.slsltaiwan.com:15342/57fee308000802fc0c9c8671cd7450ec&link=你們再來盜啊123abcd@PWUSERID@
+明珠台,p2p://aa8.slsltaiwan.com:15342/57fedf33000d3aca0c8d8fbfc55a1004&link=你們再來盜啊123abcd@PWUSERID@
+明珠台-1,p2p://aa8.slsltaiwan.com:15342/57fee2e600018f320c9bfffa9a524247&link=你們再來盜啊123abcd@PWUSERID@
+互動新聞,p2p://aa8.slsltaiwan.com:15342/57fec7a100030d3f0c317ad488835984&link=你們再來盜啊123abcd@PWUSERID@
+互動新聞-1,p2p://aa8.slsltaiwan.com:15342/57fee2cb0008f0090c9b9865022ec38c&link=你們再來盜啊123abcd@PWUSERID@
+TVB星河,p2p://aa8.slsltaiwan.com:15342/57feec040005c7690cbf9e3e5f5be85d&link=你們再來盜啊123abcd@PWUSERID@
+HKC 電影台,p2p://aa9.slsltaiwan.com:15342/57fee7de0005e9580caf69d72ad19295&link=你們再來盜啊123abcd@PWUSERID@
+HKC 新聞,p2p://aa8.slsltaiwan.com:15342/57fee7d000052ad60caf32f68885b9f9&link=你們再來盜啊123abcd@PWUSERID@
+鳳凰香港台,p2p://aa8.slsltaiwan.com:15342/57feec49000400c30cc0ab52191b822e&link=你們再來盜啊123abcd@PWUSERID@
+鳳凰資訊台,p2p://aa8.slsltaiwan.com:15342/57feec12000832a30cbfd58d0f29b151&link=你們再來盜啊123abcd@PWUSERID@
+鳳凰中文台,p2p://aa8.slsltaiwan.com:15342/57fee96000004ed60cb54c3860763bb9&link=你們再來盜啊123abcd@PWUSERID@
+澳門蓮花台,p2p://aa8.slsltaiwan.com:15342/57feebf60006f07f0cbf67dad17da869&link=你們再來盜啊123abcd@PWUSERID@
+Astro华丽台,p2p://211.75.214.186:9906/57bcdf45000aa51b48f4077e1aebb0a6
+Astro华丽台,p2p://211.75.214.186:9906/57bcdf45000aa51b48f4077e1aebb0a6
+Astro双星台,p2p://211.75.214.186:9906/57bce0490005eaef48f7fde815255ab3
+Astro欢喜台HD,p2p://211.75.214.186:9906/57bcdfe5000ebe0a48f6798b50441b2f
+Astro全佳HD,p2p://211.75.214.186:9906/57bcde830001031b48f10f37e6ca06e0
+AstroAEC_HD,p2p://211.75.214.186:9906/57be3851000ca5e84e37dee2228d32c7
+Astro喜悦台,p2p://211.75.214.186:9906/57bcdfbd0003648948f5da631b3bc494
+Astro小太阳,p2p://211.75.214.186:9906/57bce08f0008a18048f9100a7e2e30a8
+全佳,p2p://aa8.slsltaiwan.com:15342/57fefd6e00049b300d03a401f68d6452&link=你們再來盜啊123abcd@PWUSERID@
+华丽台,p2p://aa8.slsltaiwan.com:15342/57fefd5f0003f51a0d03693f106ca760&link=你們再來盜啊123abcd@PWUSERID@
+嘉丽台,p2p://aa8.slsltaiwan.com:15342/57fefd4f000d2c3d0d032d1bd9687191&link=你們再來盜啊123abcd@PWUSERID@
+喜悦,p2p://aa8.slsltaiwan.com:15342/57fefd40000b643d0d02f20eefc89173&link=你們再來盜啊123abcd@PWUSERID@
+欢喜台,p2p://aa8.slsltaiwan.com:15342/57fefd320007d1090d02ba74aef6319b&link=你們再來盜啊123abcd@PWUSERID@
+双星,p2p://aa8.slsltaiwan.com:15342/57fefd2200040ec20d027afe9ff618a2&link=你們再來盜啊123abcd@PWUSERID@
+天映频道,p2p://aa8.slsltaiwan.com:15342/57fefd13000756a90d02413de6cad3c4&link=你們再來盜啊123abcd@PWUSERID@
+ASSP3,p2p://aa8.slsltaiwan.com:15342/57fefcd700019c550d01556528b33947&link=你們再來盜啊123abcd@PWUSERID@
+ASSP4,p2p://aa8.slsltaiwan.com:15342/57fefcc7000270100d01171b8686b390&link=你們再來盜啊123abcd@PWUSERID@
+ASSP1,p2p://aa8.slsltaiwan.com:15342/57fefcb80000bb080d00dc137d30ce5b&link=你們再來盜啊123abcd@PWUSERID@
+ASSP2,p2p://aa8.slsltaiwan.com:15342/57fefca7000d303b0d009cdc131c65e0&link=你們再來盜啊123abcd@PWUSERID@
+AOD(350),p2p://aa8.slsltaiwan.com:15342/57fefc970007cf400d005cfb8bb5ac3c&link=你們再來盜啊123abcd@PWUSERID@
+AOD(351),p2p://aa8.slsltaiwan.com:15342/57fefc880007b34a0d00225cbc17c18d&link=你們再來盜啊123abcd@PWUSERID@
+AOD(352),p2p://aa8.slsltaiwan.com:15342/57fefc79000a8c9a0cffe87f79088ada&link=你們再來盜啊123abcd@PWUSERID@
+AOD(353),p2p://aa8.slsltaiwan.com:15342/57fefc33000c68360cfed7896b5f0e3c&link=你們再來盜啊123abcd@PWUSERID@
+AOD(361),p2p://aa8.slsltaiwan.com:15342/57fefc25000605f30cfe9f36f56e6b59&link=你們再來盜啊123abcd@PWUSERID@
+AOD(362),p2p://aa8.slsltaiwan.com:15342/57fefc17000955d30cfe69 5ff96b8fef&link=你們再來盜啊123abcd@PWUSERID@
+AEC,p2p://aa8.slsltaiwan.com:15342/57fefbf400008d650cfdde689528ef27&link=你們再來盜啊123abcd@PWUSERID@
+OASIS,p2p://aa8.slsltaiwan.com:15342/57fefbb4000ae0cf0cfce70dcda58e28&link=你們再來盜啊123abcd@PWUSERID@
+Prima,p2p://aa8.slsltaiwan.com:15342/57fefb97000b7dd60cfc75edc4e7fd55&link=你們再來盜啊123abcd@PWUSERID@
+新加坡新聞,p2p://aa8.slsltaiwan.com:15342/57fef234000adddf0cd7cb0cc2edcde1&link=你們再來盜啊123abcd@PWUSERID@
+CNN,p2p://aa8.slsltaiwan.com:15342/57fef83c000572630cef58e9f8c89de8&link=你們再來盜啊123abcd@PWUSERID@
+CNBC,p2p://aa8.slsltaiwan.com:15342/57fef72b000eccc10ceb30e6569eb657&link=你們再來盜啊123abcd@PWUSERID@
+France_24,p2p://aa8.slsltaiwan.com:15342/57fef6ff000bf3300cea844b3ec835ee&link=你們再來盜啊123abcd@PWUSERID@
+Star Movies HD,p2p://aa8.slsltaiwan.com:15342/57fef3df000eb5ae0cde50003d29d06d&link=你們再來盜啊123abcd@PWUSERID@
+FOX頻道,p2p://aa8.slsltaiwan.com:15342/57fef3b3000e20280cdda3f9f60a7ae2&link=你們再來盜啊123abcd@PWUSERID@
+Lifetime,p2p://aa8.slsltaiwan.com:15342/57fef3a5000841060cdd6bc918002be3&link=你們再來盜啊123abcd@PWUSERID@
+FOXCRIME,p2p://aa8.slsltaiwan.com:15342/57fef3990006eb960cdd3c91ddd48d9c&link=你們再來盜啊123abcd@PWUSERID@
+Comedy Central,p2p://aa8.slsltaiwan.com:15342/57fef36e0007ae110cdc94cbf03ffefb&link=你們再來盜啊123abcd@PWUSERID@
+Travel Channel,p2p://aa8.slsltaiwan.com:15342/57fef35e000cc95b0cdc579aefb6dc7a&link=你們再來盜啊123abcd@PWUSERID@
+TV N,p2p://aa8.slsltaiwan.com:15342/57fef3520006f2040cdc273bad80d52a&link=你們再來盜啊123abcd@PWUSERID@
+MTV綜合電視台,p2p://aa8.slsltaiwan.com:15342/57fef346000b7f870cdbf9857f437b6a&link=你們再來盜啊123abcd@PWUSERID@
+TRACE Urban,p2p://aa8.slsltaiwan.com:15342/57fef3390007fd820cdbc5d70ff860d5&link=你們再來盜啊123abcd@PWUSERID@
+FX-HD,p2p://aa8.slsltaiwan.com:15342/57fef32b00037c220cdb8e00f0693a9e&link=你們再來盜啊123abcd@PWUSERID@
+MY KIDS,p2p://aa8.slsltaiwan.com:15342/57fef31d000125ee0cdb56b776e633c1&link=你們再來盜啊123abcd@PWUSERID@
+ASN,p2p://aa8.slsltaiwan.com:15342/57 fef2f00001b6050cdaa7142f3f99ef&link=你們再來盜啊123abcd@PWUSERID@
+DW-TV ASIEN,p2p://aa8.slsltaiwan.com:15342/57fef2e100037a500cda6cf08b2c8aba&link=你們再來盜啊123abcd@PWUSERID@
+TV5,p2p://aa8.slsltaiwan.com:15342/57fef2c30008e9c90cd9f92494cb6161&link=你們再來盜啊123abcd@PWUSERID@
+尼克兒童頻道,p2p://aa8.slsltaiwan.com:15342/57fef161000e9d1a0cd493c91ecadc8b&link=你們再來盜啊123abcd@PWUSERID@
+Disney Junior,p2p://aa8.slsltaiwan.com:15342/57fef1360009ca370cd3ea95ca50fa65&link=你們再來盜啊123abcd@PWUSERID@
+BBC WORLD NEWS,p2p://aa8.slsltaiwan.com:15342/57fef1280001e7050cd3b1e06161cb96&link=你們再來盜啊123abcd@PWUSERID@
+CNN Internationa,p2p://aa8.slsltaiwan.com:15342/57fef118000966130cd3754ce9aa1104&link=你們再來盜啊123abcd@PWUSERID@
+TCM,p2p://aa8.slsltaiwan.com:15342/57fef0f4000313310cd2e70dc2d972b7&link=你們再來盜啊123abcd@PWUSERID@
+JET綜合台,p2p://aa8.slsltaiwan.com:15342/57fef0e5000a2fda0cd2ae473641f095&link=你們再來盜啊123abcd@PWUSERID@
+AnimaxHD,p2p://aa8.slsltaiwan.com:15342/57feef0e000b952d0ccb7ecbddcf4266&link=你們再來盜啊123abcd@PWUSERID@
+FRANCE24,p2p://aa8.slsltaiwan.com:15342/57feeef10004c7f60ccb0bc5c19b7abd&link=你們再來盜啊123abcd@PWUSERID@
+CNBC Asia,p2p://aa8.slsltaiwan.com:15342/57feeee300061d530ccad56ceb025e9c&link=你們再來盜啊123abcd@PWUSERID@
+Bloomberg TV,p2p://aa8.slsltaiwan.com:15342/57feeeca0007cfef0cca7434945595bb&link=你們再來盜啊123abcd@PWUSERID@
+E! Entertainment,p2p://aa8.slsltaiwan.com:15342/57feeeb2000645520cca160fa6ae19df&link=你們再來盜啊123abcd@PWUSERID@
+Warner TV,p2p://aa8.slsltaiwan.com:15342/57feedfc000bcc440cc7508911a3ac54&link=你們再來盜啊123abcd@PWUSERID@
+ITV Choice,p2p://aa8.slsltaiwan.com:15342/57feede0000dc5e20cc6e3aaf639cabc&link=你們再來盜啊123abcd@PWUSERID@
+AXN洋片台,p2p://aa8.slsltaiwan.com:15342/57feecea0006250c0cc320c66caec7bd&link=你們再來盜啊123abcd@PWUSERID@
+Nick Jr,p2p://aa8.slsltaiwan.com:15342/57fee3c3000e85ee0c9f6293f6610b77&link=你們再來盜啊123abcd@PWUSERID@
+達文西頻道,p2p://aa8.slsltaiwan.com:15342/57fee3b5000355c70c9f290638e334f7&link=你們再來盜啊123abcd@PWUSERID@
+H2,p2p://aa8.slsltaiwan.com:15342/57fee3a90000e1eb0c9ef9851b6324c5&link=你們再來盜啊123abcd@PWUSERID@
+Mezzo Live,p2p://aa8.slsltaiwan.com:15342/57fee39d00048f090c9ecb96626714fd&link=你們再來盜啊123abcd@PWUSERID@
+Living,p2p://aa8.slsltaiwan.com:15342/57fee3900009b9790c9e9a21e7163cfd&link=你們再來盜啊123abcd@PWUSERID@67890abcde12345abcde54321.ts
+BBC Lifestyle,p2p://aa8.slsltaiwan.com:15342/57fee3760003bc050c9e3308cb03d036&link=你們再來盜啊123abcd@PWUSERID@
+BBC Earth,p2p://aa8.slsltaiwan.com:15342/57fee362000d6abf0c9de763ec371b06&link=你們再來盜啊123abcd@PWUSERID@
+BBC Entertainment,p2p://aa8.slsltaiwan.com:15342/57fee45f0006f1d70ca1c2035eb7f4b5&link=你們再來盜啊123abcd@PWUSERID@
+AMC,p2p://aa8.slsltaiwan.com:15342/57fee5170000ba1e0ca48f2b2b7bb27e&link=你們再來盜啊123abcd@PWUSERID@
+EYE TV旅遊台,p2p://aa8.slsltaiwan.com:15342/57fee5e8000de0c80ca7c2f1b9f12592&link=你們再來盜啊123abcd@PWUSERID@
+CinemaWorld,p2p://aa8.slsltaiwan.com:15342/57fee5d9000edcdf0ca7889ac9630b0f&link=你們再來盜啊123abcd@PWUSERID@
+CatchPlay電影台,p2p://aa8.slsltaiwan.com:15342/57fee5b9000a613b0ca70a74ebdec8ac&link=你們再來盜啊123abcd@PWUSERID@
+SYFY,p2p://aa8.slsltaiwan.com:15342/57fee5680008e8c80ca5cdabe0503634&link=你們再來盜啊123abcd@PWUSERID@
+UND 新聞,p2p://aa8.slsltaiwan.com:15342/57fee559000b1bc30ca593a477fa8842&link=你們再來盜啊123abcd@PWUSERID@
+univeralchannel,p2p://aa8.slsltaiwan.com:15342/57fee54b000c3a0d0ca55d3d80f3addb&link=你們再來盜啊123abcd@PWUSERID@
+MTV Live,p2p://aa8.slsltaiwan.com:15342/57fee53d000773860ca5255431ff5660&link=你們再來盜啊123abcd@PWUSERID@
+EVE,p2p://aa8.slsltaiwan.com:15342/57fee722000b5cf20cac8cdc5a3f59c0&link=你們再來盜啊123abcd@PWUSERID@
+DMAX,p2p://aa8.slsltaiwan.com:15342/57fee7150005b8f80cac58a3e80e8318&link=你們再來盜啊123abcd@PWUSERID@
+探索科學,p2p://aa8.slsltaiwan.com:15342/57fee708000198e00cac24ccc5f6ba0d&link=你們再來盜啊123abcd@PWUSERID@
+探索,p2p://aa8.slsltaiwan.com:15342/57fee6fc00088d800cabf7b41a2072bb&link=你們再來盜啊123abcd@PWUSERID@
+TVB 8,p2p://aa8.slsltaiwan.com:15342/57fee6ee00072d790cabc0aa003bac77&link=你們再來盜啊123abcd@PWUSERID@
+MY 101綜合台,p2p://aa8.slsltaiwan.com:15342/57fee6e0000c4f5b0cab8b4aafe89e39&link=你們再來盜啊123abcd@PWUSERID@
+罪案偵緝頻道,p2p://aa8.slsltaiwan.com:15342/57fee6d2000282ee0cab5218e96eff66&link=你們再來盜啊123abcd@PWUSERID@
+LUXE TV,p2p://aa8.slsltaiwan.com:15342/57fee6c60006f2e10cab245bf661b7ed&link=你們再來盜啊123abcd@PWUSERID@
+歷史頻道,p2p://aa8.slsltaiwan.com:15342/57fee6ba000f3a590caaf79a52f6ca28&link=你們再來盜啊123abcd@PWUSERID@
+Outdoor HD,p2p://aa8.slsltaiwan.com:15342/57fee6aa000cafcf0caab87330868093&link=你們再來盜啊123abcd@PWUSERID@
+Fashion TV,p2p://aa8.slsltaiwan.com:15342/57fee691000670240caa5532acee67ae&link=你們再來盜啊123abcd@PWUSERID@
+i-Fun動漫台,p2p://aa8.slsltaiwan.com:15342/57fee681000cd5e70caa185571a44291&link=你們再來盜啊123abcd@PWUSERID@
+亞洲美食頻道,p2p://aa8.slsltaiwan.com:15342/57fee675000762270ca9e80ff9fee8d7&link=你們再來盜啊123abcd@PWUSERID@
+華視 HD,p2p://aa8.slsltaiwan.com:15342/57feefe300098ba80ccebe4dcef30fdb&link=你們再來盜啊123abcd@PWUSERID@
+華視綜合,p2p://aa8.slsltaiwan.com:15342/57feef610009823a0cccc27bd6a84701&link=你們再來盜啊123abcd@PWUSERID@
+中視精彩,p2p://aa8.slsltaiwan.com:15342/57feefd4000c88430cce847926bc4754&link=你們再來盜啊123abcd@PWUSERID@
+中視 HD,p2p://aa8.slsltaiwan.com:15342/57feefc4000d1f430cce4620305cde68&link=你們再來盜啊123abcd@PWUSERID@
+中視 SD,p2p://aa8.slsltaiwan.com:15342/57feeccf0001f87c0cc2b63d39ae73ce&link=你們再來盜啊123abcd@PWUSERID@
+台視 HD,p2p://aa8.slsltaiwan.com:15342/57feefb30002dcce0cce0117594db513&link=你們再來盜啊123abcd@PWUSERID@
+台視綜合,p2p://aa8.slsltaiwan.com:15342/57feef37000366a10ccc1cda2770427b&link=你們再來盜啊123abcd@PWUSERID@
+民視四季,p2p://aa8.slsltaiwan.com:15342/57feefa5000e17b50ccdcd47356fc3e2&link=你們再來盜啊123abcd@PWUSERID@
+民視綜合,p2p://aa8.slsltaiwan.com:15342/57feef96000d8f6d0ccd928cc41fd3c8&link=你們再來盜啊123abcd@PWUSERID@
+公視 HD,p2p://aa8.slsltaiwan.com:15342/57fef055000a38570cd07bc9dd2b7543&link=你們再來盜啊123abcd@PWUSERID@
+公視,p2p://aa8.slsltaiwan.com:15342/57feef5200052f420ccc86c72b4392a3&link=你們再來盜啊123abcd@PWUSERID@
+公視3,p2p://aa8.slsltaiwan.com:15342/57feec78000b8b600cc164d8ef9f68dd&link=你們再來盜啊123abcd@PWUSERID@
+台灣交通台,p2p://aa8.slsltaiwan.com:15342/57feef2a000db1c50ccbecb525c70bbb&link=你們再來盜啊123abcd@PWUSERID@
+美食星球頻道,p2p://aa8.slsltaiwan.com:15342/57fef41b00089cb50cdf38d0181a0804&link=你們再來盜啊123abcd@PWUSERID@
+龍華戲劇,p2p://aa8.slsltaiwan.com:15342/57fef40d000214a80cdf0074ded193c8&link=你們再來盜啊123abcd@PWUSERID@
+日舞電影台,p2p://aa8.slsltaiwan.com:15342/57fef3ff000a993e0cdecbf2715f2860&link=你們再來盜啊123abcd@PWUSERID@
+福斯家庭電影台,p2p://aa8.slsltaiwan.com:15342/57fef3ec000b474d0cde81e7492686e4&link=你們再來盜啊123abcd@PWUSERID@
+星衛HD電影台,p2p://aa8.slsltaiwan.com:15342/57fef3d0000350110cde127d2c53e7e4&link=你們再來盜啊123abcd@PWUSERID@
+美亞電影台,p2p://aa8.slsltaiwan.com:15342/57fef3c30005e6d30cdde05ed6e06cff&link=你們再來盜啊123abcd@PWUSERID@
+壹電視新聞台,p2p://aa8.slsltaiwan.com:15342/57fef38b000b1a5e0cdd06f3148f8f61&link=你們再來盜啊123abcd@PWUSERID@
+靖天電影台,p2p://aa8.slsltaiwan.com:15342/57fef37f00095dfa0cdcd7a1079bfdc4&link=你們再來盜啊123abcd@PWUSERID@
+阿里郎電視台,p2p://aa8.slsltaiwan.com:15342/57fef2d100092bb20cda2fe5f872d751&link=你們再來盜啊123abcd@PWUSERID@
+愛爾達育樂台,p2p://aa8.slsltaiwan.com:15342/57fef2270001bf920cd795ee3434ea02&link=你們再來盜啊123abcd@PWUSERID@
+古典音樂台,p2p://aa8.slsltaiwan.com:15342/57fef20c000cfe7a0cd72f5758002585&link=你們再來盜啊123abcd@PWUSERID@
+靖天國際,p2p://aa8.slsltaiwan.com:15342/57fef1fe0005e1fb0cd6f6d5073993b8&link=你們再來盜啊123abcd@PWUSERID@
+天天,p2p://aa8.slsltaiwan.com:15342/57fef1ef000455440cd6bbd8fca57fa8&link=你們再來盜啊123abcd@PWUSERID@
+寰宇HD綜合,p2p://aa8.slsltaiwan.com:15342/57fef1de000f23d20cd67c344ae79eea&link=你們再來盜啊123abcd@PWUSERID@
+亞旅遊台,p2p://aa8.slsltaiwan.com:15342/57fef1d10004d8e10cd646c96f9eb732&link=你們再來盜啊123abcd@PWUSERID@
+亞洲綜合台,p2p://aa8.slsltaiwan.com:15342/57fef1c4000d95d10cd6163e5f7000c5&link=你們再來盜啊123abcd@PWUSERID@
+靖天日本台,p2p://aa8.slsltaiwan.com:15342/57fef1b8000e8ca20cd5e79d42e8db2b&link=你們再來盜啊123abcd@PWUSERID@
+靖天綜合台,p2p://aa8.slsltaiwan.com:15342/57fef1ad000b56dd0cd5bbd3356a5a0e&link=你們再來盜啊123abcd@PWUSERID@
+靖天資訊台,p2p://aa8.slsltaiwan.com:15342/57fef1a100045e920cd58b2abe1b8e88&link=你們再來盜啊123abcd@PWUSERID@
+愛爾達綜合台,p2p://aa8.slsltaiwan.com:15342/57fef18800093e960cd52ac1aa67dc56&link=你們再來盜啊123abcd@PWUSERID@
+靖天卡通台,p2p://aa8.slsltaiwan.com:15342/57fef17b000b61250cd4f8853c21dcaa&link=你們再來盜啊123abcd@PWUSERID@
+靖洋卡通台,p2p://aa8.slsltaiwan.com:15342/57fef16e000c9d080cd4c60e277a72ca&link=你們再來盜啊123abcd@PWUSERID@
+迪士尼卡通,p2p://aa8.slsltaiwan.com:15342/57fef07b000c9aeb0cd110d6f005df8f&link=你們再來盜啊123abcd@PWUSERID@
+中天新聞,p2p://aa8.slsltaiwan.com:15342/57fef046000bbff00cd0419671ce0965&link=你們再來盜啊123abcd@PWUSERID@
+新視覺,p2p://aa8.slsltaiwan.com:15342/57fef03400096ecd0ccffaae42fa7042&link=你們再來盜啊123abcd@PWUSERID@
+天映電影,p2p://aa8.slsltaiwan.com:15342/57fef0270001255c0ccfc5c759b2d6a7&link=你們再來盜啊123abcd@PWUSERID@
+高清影院,p2p://aa8.slsltaiwan.com:15342/57fef014000748390ccf7d21fb609b5b&link=你們再來盜啊123abcd@PWUSERID@
+高清探索,p2p://aa8.slsltaiwan.com:15342/57feeff4000052f10ccefe59085f62b3&link=你們再來盜啊123abcd@PWUSERID@
+年代新聞,p2p://aa8.slsltaiwan.com:15342/57feef87000cebea0ccd57ca6d2346ac&link=你們再來盜啊123abcd@PWUSERID@
+非凡新聞,p2p://aa8.slsltaiwan.com:15342/57feef7b00077bd20ccd2786a838ae56&link=你們再來盜啊123abcd@PWUSERID@
+民視新聞,p2p://aa8.slsltaiwan.com:15342/57feef6d000df51d0cccf27e1ded0ca4&link=你們再來盜啊123abcd@PWUSERID@
+台視財經,p2p://aa8.slsltaiwan.com:15342/57feef460005baef0ccc580b933537e5&link=你們再來盜啊123abcd@PWUSERID@
+寶寶世界,p2p://aa8.slsltaiwan.com:15342/57feedef0005f2880cc71c41ff9d0c4a&link=你們再來盜啊123abcd@PWUSERID@
+視納華仁紀實台,p2p://aa8.slsltaiwan.com:15342/57feedd2000e34f80cc6ad172fe55184&link=你們再來盜啊123abcd@PWUSERID@
+韓國娛樂台KMTV,p2p://aa8.slsltaiwan.com:15342/57feedc500020df60cc677322233d35c&link=你們再來盜啊123abcd@PWUSERID@
+三立都會台,p2p://aa8.slsltaiwan.com:15342/57fee7ed0008495e0cafa50bc82df048&link=你們再來盜啊123abcd@PWUSERID@
+三立財經,p2p://aa8.slsltaiwan.com:15342/57fef428000c4a940cdf6c89d9a2f685&link=你們再來盜啊123abcd@PWUSERID@
+三立新聞,p2p://aa8.slsltaiwan.com:15342/57fef0b0000d62110cd1e011200f1580&link=你們再來盜啊123abcd@PWUSERID@
+三立國際,p2p://aa8.slsltaiwan.com:15342/57feed73000672390cc53802eb5d4fae&link=你們再來盜啊123abcd@PWUSERID@
+三立台灣台,p2p://aa8.slsltaiwan.com:15342/57feeca20001a6c70cc20660cbbc62d7&link=你們再來盜啊123abcd@PWUSERID@
+八大綜合,p2p://aa8.slsltaiwan.com:15342/57feed67000a9a160cc50a32cf1db7e3&link=你們再來盜啊123abcd@PWUSERID@
+八大第一,p2p://aa8.slsltaiwan.com:15342/57feed590008d5ec0cc4d30f3d51e86a&link=你們再來盜啊123abcd@PWUSERID@
+東森綜合,p2p://aa8.slsltaiwan.com:15342/57feed4a000e32820cc499d658aa4174&link=你們再來盜啊123abcd@PWUSERID@
+壹電視電影台,p2p://aa8.slsltaiwan.com:15342/57feed3d0008701e0cc465958a0a587b&link=你們再來盜啊123abcd@PWUSERID@
+緯來戲劇台,p2p://aa8.slsltaiwan.com:15342/57feed30000c46090cc433c8b2745e62&link=你們再來盜啊123abcd@PWUSERID@
+緯來綜合台,p2p://aa8.slsltaiwan.com:15342/57feed2500069b1d0cc4075d070ca32c&link=你們再來盜啊123abcd@PWUSERID@
+緯來電影台,p2p://aa8.slsltaiwan.com:15342/57feed140009568a0cc3c5a802d9633b&link=你們再來盜啊123abcd@PWUSERID@
+緯來日本台,p2p://aa8.slsltaiwan.com:15342/57feecbf0004ea7e0cc2787ee2961016&link=你們再來盜啊123abcd@PWUSERID@
+緯來育樂台,p2p://aa8.slsltaiwan.com:15342/57feecb1000ee8e40cc2445dc3677aa4&link=你們再來盜啊123abcd@PWUSERID@
+緯來體育,p2p://aa8.slsltaiwan.com:15342/57fee947000041c10cb4ea8ca4aae19c&link=你們再來盜啊123abcd@PWUSERID@
+國興,p2p://aa8.slsltaiwan.com:15342/57feecdc000be5a40cc2eb8f7ad258c8&link=你們再來盜啊123abcd@PWUSERID@
+中天亞洲,p2p://aa8.slsltaiwan.com:15342/57fee91e00007c230cb44a73766284ba&link=你們再來盜啊123abcd@PWUSERID@
+中天娛樂台,p2p://aa8.slsltaiwan.com:15342/57feec94000871a40cc1d16dadedc0b2&link=你們再來盜啊123abcd@PWUSERID@
+中天綜合台,p2p://aa8.slsltaiwan.com:15342/57feec860000d61b0cc198ca0270eef1&link=你們再來盜啊123abcd@PWUSERID@
+東森亞洲新聞,p2p://aa8.slsltaiwan.com:15342/57feec5b00084c140cc0f2bbd1c0fbfa&link=你們再來盜啊123abcd@PWUSERID@
+東森洋片台,p2p://aa8.slsltaiwan.com:15342/57feea380007cfe10cb899e4169dccb7&link=你們再來盜啊123abcd@PWUSERID@
+東森電影台,p2p://aa8.slsltaiwan.com:15342/57feea1c000e57c70cb82e30ecd1aa89&link=你們再來盜啊123abcd@PWUSERID@
+東森新聞,p2p://aa8.slsltaiwan.com:15342/57fee952000e2e560cb519157a636081&link=你們再來盜啊123abcd@PWUSERID@
+東森財經,p2p://aa8.slsltaiwan.com:15342/57fee939000ece8a0cb4b7968bc83d4d&link=你們再來盜啊123abcd@PWUSERID@
+東森戲劇,p2p://aa8.slsltaiwan.com:15342/57fee92b000dece90cb480ac010c6a64&link=你們再來盜啊123abcd@PWUSERID@
+東森幼幼,p2p://aa8.slsltaiwan.com:15342/57feed800009e1ed0cc56bab51baff97&link=你們再來盜啊123abcd@PWUSERID@
+MoMo親子台,p2p://aa8.slsltaiwan.com:15342/57feed06000b987e0cc38f8c0777f9fb&link=你們再來盜啊123abcd@PWUSERID@
+CN卡通台,p2p://aa8.slsltaiwan.com:15342/57feec3a0006e70d0cc0717897fa9678&link=你們再來盜啊123abcd@PWUSERID@
+TVBS-N,p2p://aa8.slsltaiwan.com:15342/57fef06f000e85fc0cd0e273ee4ec3b3&link=你們再來盜啊123abcd@PWUSERID@
+TVBS新闻台184HD,p2p://198.255.110.226:6004/579efcfe0000db6308431f7f79000e11.ts
+TVBS 歡樂台,p2p://aa8.slsltaiwan.com:15342/57feec290000868b0cc02d6eeb177175&link=你們再來盜啊123abcd@PWUSERID@
+TVBS,p2p://aa8.slsltaiwan.com:15342/57feec6b000725330cc130f073d92e12&link=你們再來盜啊123abcd@PWUSERID@
+龍祥電影台,p2p://aa8.slsltaiwan.com:15342/57feea2a0009fdad0cb863c27bfae60d&link=你們再來盜啊123abcd@PWUSERID@
+NBA,p2p://aa8.slsltaiwan.com:15342/57fee90f000c0d020cb412d18ee33a5c&link=你們再來盜啊123abcd@PWUSERID@
+thrill電影台,p2p://aa8.slsltaiwan.com:15342/57fee901000eebe60cb3dcde91a1262f&link=你們再來盜啊123abcd@PWUSERID@
+KIX電影台,p2p://aa8.slsltaiwan.com:15342/57fee8f1000d03810cb39de0966f7a89&link=你們再來盜啊123abcd@PWUSERID@
+衛視國際電影台,p2p://aa8.slsltaiwan.com:15342/57fee8e400065fe50b369656589a1ff&link=你們再來盜啊123abcd@PWUSERID@
+FOX優質電影台,p2p://aa8.slsltaiwan.com:15342/57fee8d50003f14f0cb32e2ef3d3eac2&link=你們再來盜啊123abcd@PWUSERID@
+FOX動作台,p2p://aa8.slsltaiwan.com:15342/57fee8c700074b230cb2f85a5f179ae9&link=你們再來盜啊123abcd@PWUSERID@
+Cinemax,p2p://aa8.slsltaiwan.com:15342/57fee8ba000b563c0cb2c69bd2e0ade9&link=你們再來盜啊123abcd@PWUSERID@
+Fight Sports HD,p2p://aa8.slsltaiwan.com:15342/57fee8ac0004cc020cb28e3e1c1809a9&link=你們再來盜啊123abcd@PWUSERID@
+天映經典,p2p://aa8.slsltaiwan.com:15342/57fee89d000ab8110cbe552acb2f210d&link=你們再來盜啊123abcd@PWUSERID@
+HBO HD,p2p://aa8.slsltaiwan.com:15342/57fee88f0001beef0cb21c2ede6dc686&link=你們再來盜啊123abcd@PWUSERID@
+霹靂台,p2p://aa8.slsltaiwan.com:15342/57fee871000bf2a30cb1a99be6ad25a3&link=你們再來盜啊123abcd@PWUSERID@
+FOX 體育,p2p://aa8.slsltaiwan.com:15342/57fee84200048d4d0cb0f01edd233fdc&link=你們再來盜啊123abcd@PWUSERID@
+TLC 旅遊台,p2p://aa8.slsltaiwan.com:15342/57fee8290009559f0cb08faf31b06be4&link=你們再來盜啊123abcd@PWUSERID@
+動物頻道,p2p://aa8.slsltaiwan.com:15342/57fee8190007ccf10cb050cb6387d754&link=你們再來盜啊123abcd@PWUSERID@
+HBO Signature,p2p://aa8.slsltaiwan.com:15342/57fee7fd000027fe0cafe176804a0d6b&link=你們再來盜啊123abcd@PWUSERID@
+Baby TV,p2p://aa8.slsltaiwan.com:15342/57fee7c00001a85d0caef390ba43b634&link=你們再來盜啊123abcd@PWUSERID@
+國家人文,p2p://aa8.slsltaiwan.com:15342/57fee7b3000ba9460caec358167a18e5&link=你們再來盜啊123abcd@PWUSERID@
+國家野生,p2p://aa8.slsltaiwan.com:15342/57fee7a8000099380cae958b0ecbad1c&link=你們再來盜啊123abcd@PWUSERID@
+國家地理,p2p://aa8.slsltaiwan.com:15342/57 fee79b000664350cae643e8be5f646&link=你們再來盜啊123abcd@PWUSERID@
+FOX NEW,p2p://aa8.slsltaiwan.com:15342/57fee78f000893490cae35eebf738456&link=你們再來盜啊123abcd@PWUSERID@
+大愛二台,p2p://aa8.slsltaiwan.com:15342/57fee7670008c39c0cad99bae075b1f6&link=你們再來盜啊123abcd@PWUSERID@
+FYI,p2p://aa8.slsltaiwan.com:15342/57fee75b000614570cad6a2a0ed21b63&link=你們再來盜啊123abcd@PWUSERID@
+愛爾達體育,p2p://aa8.slsltaiwan.com:15342/57fee74d000d59a10cad3557f3e698ea&link=你們再來盜啊123abcd@PWUSERID@
+TRACE Sport Stars,p2p://aa8.slsltaiwan.com:15342/57fee74000068fc30cad00d2f534d69d&link=你們再來盜啊123abcd@PWUSERID@
+MOTORVISION TV,p2p://aa8.slsltaiwan.com:15342/57fee732000c7ce60caccba6ea09ed33&link=你們再來盜啊123abcd@PWUSERID@
+曼迪日本台,p2p://aa8.slsltaiwan.com:15342/57fee668000543ee0ca9b4bd181e3edd&link=你們再來盜啊123abcd@PWUSERID@
+星衛娛樂台,p2p://aa8.slsltaiwan.com:15342/57fee65b000da8080ca9841b13e42f46&link=你們再來盜啊123abcd@PWUSERID@
+DIVA,p2p://aa8.slsltaiwan.com:15342/57fee64e0003fdca0ca94ed965895d69&link=你們再來盜啊123abcd@PWUSERID@
+EYE TV戲劇台,p2p://aa8.slsltaiwan.com:15342/57fee6400009955d0ca91998f435af60&link=你們再來盜啊123abcd@PWUSERID@
+愛爾達影劇台,p2p://aa8.slsltaiwan.com:15342/57fee631000ac0660ca8df4cb46e5aad&link=你們再來盜啊123abcd@PWUSERID@
+三立戲劇台,p2p://aa8.slsltaiwan.com:15342/57fee6240008a1e50ca8abf93b597104&link=你們再來盜啊123abcd@PWUSERID@
+台灣戲劇台,p2p://aa8.slsltaiwan.com:15342/57fee616000d7f3a0ca87688bfe81264&link=你們再來盜啊123abcd@PWUSERID@
+Li時尚生活台,p2p://aa8.slsltaiwan.com:15342/57fee608000f22e20ca8404425191f51&link=你們再來盜啊123abcd@PWUSERID@
+三立綜合台,p2p://aa8.slsltaiwan.com:15342/57fee5f8000dce420ca8016cf124f987&link=你們再來盜啊123abcd@PWUSERID@
+遠富綜合台,p2p://aa8.slsltaiwan.com:15342/57fee52b000eb05e0ca4e0deaca397d2&link=你們再來盜啊123abcd@PWUSERID@
+龍華經典,p2p://aa8.slsltaiwan.com:15342/57fee5050005020b0ca449f4c08cfa34&link=你們再來盜啊123abcd@PWUSERID@
+鴻基台灣台,p2p://aa8.slsltaiwan.com:15342/57fee4f80006b9ae0ca4179cfcf18491&link=你們再來盜啊123abcd@PWUSERID@
+中視經典台,p2p://aa8.slsltaiwan.com:15342/57fee4eb000c491f0ca3e641e1b4126c&link=你們再來盜啊123abcd@PWUSERID@
+靖天映畫,p2p://aa8.slsltaiwan.com:15342/57fee4dc0007543d0ca3aa643564ecc9&link=你們再來盜啊123abcd@PWUSERID@
+Channel V,p2p://aa8.slsltaiwan.com:15342/57fee4cf00073fdc0ca37797c3ea39d7&link=你們再來盜啊123abcd@PWUSERID@
+龍華影劇,p2p://aa8.slsltaiwan.com:15342/57fee4bf000b223b0ca33a152354d848&link=你們再來盜啊123abcd@PWUSERID@
+龍華電影,p2p://aa8.slsltaiwan.com:15342/57fee4b3000b92850ca30b52c6a635ea&link=你們再來盜啊123abcd@PWUSERID@
+國家地理音樂,p2p://aa8.slsltaiwan.com:15342/57fee4a4000d3fac0ca2d12836fa7ec4&link=你們再來盜啊123abcd@PWUSERID@
+寰宇財經台,p2p://aa8.slsltaiwan.com:15342/57fee497000634c60ca29c92da912488&link=你們再來盜啊123abcd@PWUSERID@
+寰宇新聞二台,p2p://aa8.slsltaiwan.com:15342/57fee489000e15c80ca267e7df19d2db&link=你們再來盜啊123abcd@PWUSERID@
+寰宇新聞台,p2p://aa8.slsltaiwan.com:15342/57fee47c0008851a0ca233b2f71e1d28&link=你們再來盜啊123abcd@PWUSERID@
+壹電視綜合台,p2p://aa8.slsltaiwan.com:15342/57fee470000bfc280ca205b5d94aa7f0&link=你們再來盜啊123abcd@PWUSERID@
+龍華洋片,p2p://aa8.slsltaiwan.com:15342/57fee4430005cbf20ca1545713f74285&link=你們再來盜啊123abcd@PWUSERID@
+靖洋戲劇台,p2p://aa8.slsltaiwan.com:15342/57fee43300080ffb0ca1166ca481845a&link=你們再來盜啊123abcd@PWUSERID@
+靖天戲劇台,p2p://aa8.slsltaiwan.com:15342/57fee425000a43940ca0e04c89ca1fbb&link=你們再來盜啊123abcd@PWUSERID@
+龍華偶像,p2p://aa8.slsltaiwan.com:15342/57fee418000dcfcf0ca0ae6d66f82ee6&link=你們再來盜啊123abcd@PWUSERID@
+鴻基影劇台HD,p2p://aa8.slsltaiwan.com:15342/57fee383000dd3670c9e68664aaf2a7a&link=你們再來盜啊123abcd@PWUSERID@
+RTL CBSENT,p2p://aa8.slsltaiwan.com:15342/57fee408000b915e0ca06f5aa89677c2&link=你們再來盜啊123abcd@PWUSERID@
+八大HD戲劇台,p2p://aa8.slsltaiwan.com:15342/57fee3fb00020a880ca03a21e3a8af4c&link=你們再來盜啊123abcd@PWUSERID@
+采昌影劇台,p2p://aa8.slsltaiwan.com:15342/57fee3ec0006d1100ca000c231d30633&link=你們再來盜啊123abcd@PWUSERID@
+緯來精采台,p2p://aa8.slsltaiwan.com:15342/57fee3de000bcefe0c9fcb5911dadf94&link=你們再來盜啊123abcd@PWUSERID@
+影迷數位紀實台,p2p://aa8.slsltaiwan.com:15342/57fee3d20003de930c9f9a7123 f15dfe&link=你們再來盜啊123abcd@PWUSERID@
+智林體育,p2p://aa8.slsltaiwan.com:15342/57fee352000905d10c9da7c3f24d8599&link=你們再來盜啊123abcd@PWUSERID@
+setanta,p2p://aa8.slsltaiwan.com:15342/57fee450000d7a520ca189177544dce9&link=你們再來盜啊123abcd@PWUSERID@
+愛爾達足球,p2p://aa8.slsltaiwan.com:15342/57fee5ca000836050ca74c4e9599a613&link=你們再來盜啊123abcd@PWUSERID@
+愛爾達體育,p2p://aa8.slsltaiwan.com:15342/57fee74d000d59a10cad3557f3e698ea&link=你們再來盜啊123abcd@PWUSERID@
+TRACE Sport Stars,p2p://aa8.slsltaiwan.com:15342/57fee74000068fc30cad00d2f534d69d&link=你們再來盜啊123abcd@PWUSERID@
+FOX3 體育,p2p://aa8.slsltaiwan.com:15342/57fee7740002e9d90cadcb03f1d4df8a&link=你們再來盜啊123abcd@PWUSERID@
+FOX 體育2,p2p://aa8.slsltaiwan.com:15342/57fee86300033aa60cb170af446ecd5e&link=你們再來盜啊123abcd@PWUSERID@
+FOX 體育,p2p://aa8.slsltaiwan.com:15342/57fee84200048d4d0cb0f01edd233fdc&link=你們再來盜啊123abcd@PWUSERID@
+Fight Sports HD,p2p://aa8.slsltaiwan.com:15342/57fee8ac0004cc020cb28e3e1c1809a9&link=你們再來盜啊123abcd@PWUSERID@
+博斯運動網,p2p://aa8.slsltaiwan.com:15342/57feeea00007ff160cc9d030275081dd&link=你們再來盜啊123abcd@PWUSERID@
+博斯足球台,p2p://aa8.slsltaiwan.com:15342/57feee76000c7b500cc92d46d9c855c2&link=你們再來盜啊123abcd@PWUSERID@
+美國高爾夫球,p2p://aa8.slsltaiwan.com:15342/57feee68000a2d010cc8f5fe228b4a3b&link=你們再來盜啊123abcd@PWUSERID@
+博斯高球二台,p2p://aa8.slsltaiwan.com:15342/57feee210003b5560cc7deffb22f76f0&link=你們再來盜啊123abcd@PWUSERID@
+博斯電玩台,p2p://aa8.slsltaiwan.com:15342/57feee140008a01e0cc7ad79c69d1c13&link=你們再來盜啊123abcd@PWUSERID@
+博斯高球,p2p://aa8.slsltaiwan.com:15342/57feee09000503700cc78194e5927571&link=你們再來盜啊123abcd@PWUSERID@
+新視覺,p2p://aa8.slsltaiwan.com:15342/57fef03400096ecd0ccffaae42fa7042&link=你們再來盜啊123abcd@PWUSERID@
+博斯網球,p2p://aa8.slsltaiwan.com:15342/57fef240000c247b0cd7fa3f34114ebf&link=你們再來盜啊123abcd@PWUSERID@
+廣東體育台,p2p://aa8.slsltaiwan.com:15342/57feeb50000ea1180cbce1625b93d3cd&link=你們再來盜啊123abcd@PWUSERID@
+NBA,p2p://aa8.slsltaiwan.com:15342/57fee90f000c0d020cb412d18ee33a5c&link=你們再來盜啊123abcd@PWUSERID@
+緯來體育,p2p://aa8.slsltaiwan.com:15342/57fee947000041c10cb4ea8ca4aae19c&link=你們再來盜啊123abcd@PWUSERID@
+橄欖球頻道,p2p://aa8.slsltaiwan.com:15342/57fee450000d7a520ca189177544dce9&link=你們再來盜啊123abcd@PWUSERID@
+愛爾達足球,p2p://aa8.slsltaiwan.com:15342/57fee5ca000836050ca74c4e9599a613&link=你們再來盜啊123abcd@PWUSERID@
+博斯網球,p2p://aa8.slsltaiwan.com:15342/57fef240000c247b0cd7fa3f34114ebf&link=你們再來盜啊123abcd@PWUSERID@
+博斯運動網,p2p://aa8.slsltaiwan.com:15342/57feeea00007ff160cc9d030275081dd&link=你們再來盜啊123abcd@PWUSERID@
+博斯足球台,p2p://aa8.slsltaiwan.com:15342/57feee76000c7b500cc92d46d9c855c2&link=你們再來盜啊123abcd@PWUSERID@
+美國高爾夫球,p2p://aa8.slsltaiwan.com:15342/57feee68000a2d010cc8f5fe228b4a3b&link=你們再來盜啊123abcd@PWUSERID@
+博斯高球二台,p2p://aa8.slsltaiwan.com:15342/57feee210003b5560cc7deffb22f76f0&link=你們再來盜啊123abcd@PWUSERID@
+博斯電玩台,p2p://aa8.slsltaiwan.com:15342/57feee140008a01e0cc7ad79c69d1c13&link=你們再來盜啊123abcd@PWUSERID@
+博斯高球,p2p://aa8.slsltaiwan.com:15342/57feee09000503700cc78194e5927571&link=你們再來盜啊123abcd@PWUSERID@
+松视1,p2p://211.75.214.186:9906/57a7be270000d14c3fbea6741cfc7759&link=wvw.f0rcetech.c0m.ts
+松视2,p2p://211.75.214.186:9906/57a7bec5000b977b3fc112660cc7da4e&link=wvw.f0rcetech.c0m.ts
+松视3,p2p://211.75.214.186:9906/57a7bf0b000653f33fc2227df152c2f6&link=wvw.f0rcetech.c0m.ts
+松视4台,p2p://211.75.214.186:9906/57a7bedd000b4fd83fc170144f0c8cef.ts
+奥视香蕉,p2p://211.75.214.186:9906/57a7bedd000b4fd83fc170144f0c8cef&link=wvw.f0rcetech.c0m.ts
+潘多拉HD1,p2p://211.75.214.186:9906/57a7bf20000e056f3fc2767d7737890e&link=wvw.f0rcetech.c0m.ts
+潘多拉HD2,p2p://211.75.214.186:9906/57a7bf20000e056f3fc2767d7737890e&link=wvw.f0rcetech.c0m.ts
+潘多拉HD3,p2p://211.75.214.186:9906/57a7bcd4000720873fb97bdac7da2ad5&link=wvw.f0rcetech.c0m.ts
+星颖,p2p://211.75.214.186:9906/57a7bef50001b5f13fc1cb5f92b3e7ef&link=wvw.f0rcetech.c0m.ts
+HiPLAY,p2p://211.75.214.186:9906/57a7bfb90000ccb73fc4c8c3880da438&link=wvw.f0rcetech.c0m.ts
+乐活频道,p2p://211.75.214.186:9906/57a7bc250004311a3fb6cf81b1ee86b2.ts
+彩虹电影台,p2p://211.75.214.186:9906/57a7beac0007dd933fc0afca3197e783.ts
+K频道,p2p://211.75.214.186:9906/57a7be66000b6ad33fbf9f43668ae2d8.ts
+彩虹台,p2p://211.75.214.186:9906/57a693d7000659e53b315f5ff58ada11.ts
+樱花台,p2p://211.75.214.186:9906/57a72512000284313d68acdb1ba458fb.ts
+一本道,p2p://211.75.214.186:9906/57c34feb000c1d40621c104ffa57ab0f
+二本道,p2p://211.75.214.186:9906/57c3500c000af6bf621c90eb47cf108f
+三本道,p2p://211.75.214.186:9906/57c3502d000e14d2621d129f3a462c2d
+五本道,p2p://211.75.214.186:9906/57c35084000c9887621e661669655d5a
+HOT,p2p://211.75.214.186:9906/57a693c100020e5f3b310855fa9b2229.ts
+欧美一,p2p://211.75.214.186:9906/57c350af00025be2621f0b6f9b496434
+欧美二,p2p://211.75.214.186:9906/57c350d200039264621f9477d90de06
+欧美三,p2p://211.75.214.186:9906/57c351080001ea12622066fa78c2abfa
+卡通,p2p://211.75.214.186:9906/57c3512d000c57126220fa2db3a9c6a9
+潘朵拉高画质完美台,p2p://211.75.214.186:9906/57a7bf20000e056f3fc2767d7737890e.ts
+潘朵拉高画质粉红台,p2p://211.75.214.186:9906/57a7bcd4000720873fb97bdac7da2ad5.ts
+
+
