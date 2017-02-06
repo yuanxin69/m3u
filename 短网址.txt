@@ -51,7 +51,7 @@ VST  http://live.91vst.com/list.html
 客户定制版  http://7xl8no.com1.z0.glb.clouddn.com/kehudingzhiban.txt
 
 台长直播20150923 http://disk.hsxedu.com/myfile/liling250/tz.txt
-
+龙：http://7xu2hp.com1.z0.glb.clouddn.com/LS1.1.php
 小埋TV:http://45.78.3.66/hunshi/jiemuyuan/haoyong/woaini%20huanshi%20jdiajdkalhfahfjhakhskjahdkjabfkjahkjdhalshflahfkxhdklashlkfa.json
 iHDTV:http://116.255.249.3:18006/gemini-iptv/init.php?leftday=-1&mac=08:00:27:48:60:2d&ipcode=CN&cpuid=GEMINI0960442064206702&key=2f2yPgiY5SL0erTaEqXZerIg9hUrlQjbCqmDnIDN21EJeVmmQemderjq2f2yPgiY&version=64
 ottbclub云地址：http://api.ottclub.info/api/get_list?AccountGUID=37cdab04-c332-11e5-971e-001ec9f7f776&AccountChannelCategoryGUID=596ad53e-adaf-11e3-b3a3-56b55c4f22cc&SessionID=8cc877d4978708e0f62d5a6dec0158cd&ChannelCategoryGUID=596ad53e-adaf-11e3-b3a3-56b55c4f22cc&ChannelClassGUID=c7270725-adb4-11e3-b3a3-56b55c4f22cc
