@@ -1,37 +1,101 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="电视台",奥视惊艳
-http://211.22.61.109/stc/ch168172.m3u8#http://211.22.61.109/stc/ch168162.m3u8#http://211.23.194.247/stc/ch168172.m3u8
+http://211.22.61.109/stc/ch168172.m3u8
+#EXTINF:-1 group-title="电视台",奥视惊艳
+http://211.22.61.109/stc/ch168162.m3u8
+#EXTINF:-1 group-title="电视台",奥视惊艳
+http://211.23.194.247/stc/ch168172.m3u8
 #EXTINF:-1 group-title="电视台",香蕉台Banana
-http://211.22.61.109/stc/ch168173.m3u8#http://211.22.61.109/stc/ch168163.m3u8#http://211.23.194.247/stc/ch168173.m3u8
+http://211.22.61.109/stc/ch168173.m3u8
+#EXTINF:-1 group-title="电视台",香蕉台Banana
+http://211.22.61.109/stc/ch168163.m3u8
+#EXTINF:-1 group-title="电视台",香蕉台Banana
+http://211.23.194.247/stc/ch168173.m3u8
 #EXTINF:-1 group-title="电视台",乐活频道(18age)
-http://211.22.61.109/stc/ch168161.m3u8#http://211.23.194.247/stc/ch168171.m3u8
+http://211.22.61.109/stc/ch168161.m3u8
+#EXTINF:-1 group-title="电视台",乐活频道(18age)
+http://211.23.194.247/stc/ch168171.m3u8
 #EXTINF:-1 group-title="电视台",女孩电视
-http://123.108.164.71/etv2sb/phd10501/playlist.m3u8#http://123.108.164.75/etv2sb/pld10501/playlist.m3u8#http://edge2.everyon.tv/etv2sb/phd10501/playlist.m3u8#http://edge1.everyon.tv/etv1sb/phd10928/playlist.m3u8
+http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
+#EXTINF:-1 group-title="电视台",女孩电视
+http://123.108.164.75/etv2sb/pld10501/playlist.m3u8
+#EXTINF:-1 group-title="电视台",女孩电视
+http://edge2.everyon.tv/etv2sb/phd10501/playlist.m3u8
+#EXTINF:-1 group-title="电视台",女孩电视
+http://edge1.everyon.tv/etv1sb/phd10928/playlist.m3u8
 #EXTINF:-1 group-title="电视台",粉红高清
-http://123.108.164.110/etv1sb/phd10928/playlist.m3u8#http://123.108.164.110/etv1sb/pld10928/playlist.m3u8#rtmp://edge1.everyon.tv/etv1sb/pld10928
+http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
+#EXTINF:-1 group-title="电视台",粉红高清
+http://123.108.164.110/etv1sb/pld10928/playlist.m3u8
+#EXTINF:-1 group-title="电视台",粉红高清
+rtmp://edge1.everyon.tv/etv1sb/pld10928
 #EXTINF:-1 group-title="电视台",午夜19高清
-http://edge1.everyon.tv:1935/etv1sb/pld10766/playlist.m3u8#http://123.108.164.110/etv1sb/phd10766/playlist.m3u8#rtmp://edge1.everyon.tv/etv1sb/phd10766
+http://edge1.everyon.tv:1935/etv1sb/pld10766/playlist.m3u8
+#EXTINF:-1 group-title="电视台",午夜19高清
+http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
+#EXTINF:-1 group-title="电视台",午夜19高清
+rtmp://edge1.everyon.tv/etv1sb/phd10766
 #EXTINF:-1 group-title="电视台",花花公子19
-http://123.108.164.110/etv1sb/phd10497/playlist.m3u8#rtmp://edge1.everyon.tv/etv1sb/phd10497#http://edge1.everyon.tv/etv1sb/phd10497/playlist.m3u8
+http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
+#EXTINF:-1 group-title="电视台",花花公子19
+rtmp://edge1.everyon.tv/etv1sb/phd10497
+#EXTINF:-1 group-title="电视台",花花公子19
+http://edge1.everyon.tv/etv1sb/phd10497/playlist.m3u8
 #EXTINF:-1 group-title="电视台",绚丽19高清
-http://123.108.164.71/etv2sb/phd10769/playlist.m3u8#http://123.108.164.75/etv2sb/pld10769/playlist.m3u8#http://edge2.everyon.tv/etv2sb/pld10769/playlist.m3u8
+http://123.108.164.71/etv2sb/phd10769/playlist.m3u8
+#EXTINF:-1 group-title="电视台",绚丽19高清
+http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
+#EXTINF:-1 group-title="电视台",绚丽19高清
+http://edge2.everyon.tv/etv2sb/pld10769/playlist.m3u8
 #EXTINF:-1 group-title="电视台",金碧的马
-http://123.108.164.110/etv1sb/phd10927/playlist.m3u8#rtmp://edge1.everyon.tv/etv1sb/phd10927#http://123.108.164.110/etv1sb/pld10927/playlist.m3u8#http://edge1.everyon.tv/etv1sb/phd10927/playlist.m3u8
+http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
+#EXTINF:-1 group-title="电视台",金碧的马
+rtmp://edge1.everyon.tv/etv1sb/phd10927
+#EXTINF:-1 group-title="电视台",金碧的马
+http://123.108.164.110/etv1sb/pld10927/playlist.m3u8
+#EXTINF:-1 group-title="电视台",金碧的马
+http://edge1.everyon.tv/etv1sb/phd10927/playlist.m3u8
 #EXTINF:-1 group-title="电视台",色彩
-http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8#http://123.108.164.71/etv2sb/phd10062/playlist.m3u8#http://123.108.164.75/etv2sb/pld10062/playlist.m3u8
+http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8
+#EXTINF:-1 group-title="电视台",色彩
+http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
+#EXTINF:-1 group-title="电视台",色彩
+http://123.108.164.75/etv2sb/pld10062/playlist.m3u8
 #EXTINF:-1 group-title="电视台",情趣电视
-http://123.108.164.71/etv2sb/phd10499/playlist.m3u8#http://123.108.164.75/etv2sb/pld10499/playlist.m3u8#http://edge2.everyon.tv/etv2sb/phd10499/playlist.m3u8
+http://123.108.164.71/etv2sb/phd10499/playlist.m3u8
+#EXTINF:-1 group-title="电视台",情趣电视
+http://123.108.164.75/etv2sb/pld10499/playlist.m3u8
+#EXTINF:-1 group-title="电视台",情趣电视
+http://edge2.everyon.tv/etv2sb/phd10499/playlist.m3u8
 #EXTINF:-1 group-title="电视台",THE马高清
-http://123.108.164.71/etv2sb/phd10771/playlist.m3u8#http://123.108.164.75/etv2sb/pld10771/playlist.m3u8
+http://123.108.164.71/etv2sb/phd10771/playlist.m3u8
+#EXTINF:-1 group-title="电视台",THE马高清
+http://123.108.164.75/etv2sb/pld10771/playlist.m3u8
 #EXTINF:-1 group-title="电视台",ButGO高清2
-http://123.108.164.75/etv2sb/pld10772/playlist.m3u8#http://edge2.everyon.tv/etv2sb/pld10772/playlist.m3u8#http://edge2.everyon.tv/etv2sb/phd10772/playlist.m3u8
+http://123.108.164.75/etv2sb/pld10772/playlist.m3u8
+#EXTINF:-1 group-title="电视台",ButGO高清2
+http://edge2.everyon.tv/etv2sb/pld10772/playlist.m3u8
+#EXTINF:-1 group-title="电视台",ButGO高清2
+http://edge2.everyon.tv/etv2sb/phd10772/playlist.m3u8
 #EXTINF:-1 group-title="电视台",VIKI
-http://123.108.164.110/etv1sb/phd10765/playlist.m3u8#http://123.108.164.110/etv1sb/pld10765/playlist.m3u8#rtmp://edge1.everyon.tv/etv1sb/phd10765
+http://123.108.164.110/etv1sb/pld10765/playlist.m3u8
+#EXTINF:-1 group-title="电视台",VIKI
+rtmp://edge1.everyon.tv/etv1sb/phd10765
 #EXTINF:-1 group-title="电视台", ★韩国04台
 http://123.108.164.75/etv2sb/pld10062/playlist.m3u8
 #EXTINF:-1 group-title="电视台", ★韩国11台
-http://123.108.164.110/etv1sb/pld10766/playlist.m3u8#http://edge1.everyon.tv/etv1sb/phd10766/playlist.m3u8
+http://123.108.164.110/etv1sb/pld10766/playlist.m3u8
+#EXTINF:-1 group-title="电视台", ★韩国11台
+http://edge1.everyon.tv/etv1sb/phd10766/playlist.m3u8
+#EXTINF:-1 group-title="电视台",成人1台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_14/bbb.m3u8
+#EXTINF:-1 group-title="电视台",成人2台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_15/bbb.m3u8
+#EXTINF:-1 group-title="电视台",成人3台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_16/bbb.m3u8
+#EXTINF:-1 group-title="电视台",成人4台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_17/bbb.m3u8
 
 
 #EXTINF:-1 group-title="成人频道",极乱家族1
@@ -46,14 +110,6 @@ http://69.46.75.107/files/videos/141188120614378.flv
 http://69.46.75.107/files/videos/141344498070660.flv
 #EXTINF:-1 group-title="成人频道",极乱家族6
 http://69.46.75.107/files/videos/141344498070660.flv
-#EXTINF:-1 group-title="台湾",成人1台
-http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_14/bbb.m3u8
-#EXTINF:-1 group-title="台湾",成人2台
-http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_15/bbb.m3u8
-#EXTINF:-1 group-title="台湾",成人3台
-http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_16/bbb.m3u8
-#EXTINF:-1 group-title="台湾",成人4台
-http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_17/bbb.m3u8
 
 #EXTINF:-1 group-title="日本无码单片",2日本無碼
 http://120.52.73.65/data1.cache.directory/media/videos/iphone/4002.mp4
