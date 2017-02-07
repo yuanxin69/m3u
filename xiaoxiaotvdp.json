@@ -10671,47 +10671,47 @@
   ],
   "type": [
     {
-      "id": 1
+      "id": "uid1",
       "name": "★小小TV中央台"
     },
     {
-      "id": 2
+      "id": "uid2",
       "name": "★小小TV卫视台"
     },
     {
-      "id": 3
+      "id": "uid3",
       "name": "★小小TV香港台"
     },
     {
-      "id": 4
+      "id": "uid4",
       "name": "★小小TV台湾台"
     },
     {
-      "id": 5
+      "id": "uid5",
       "name": "★小小TV港台P2P"
     },
     {
-      "id": 6
+      "id": "uid6",
       "name": "★小小TV高清影视台"
     },
     {
-      "id": 7
+      "id": "uid7",
       "name": "★小小TV战旗熊猫"
     },
     {
-      "id": 8
+      "id": "uid8",
       "name": "★小小TV乐视高清"
     },
     {
-      "id": 9
+      "id": "uid9",
       "name": "★小小TV美剧1080"
     },
     {
-      "id": 10
+      "id": "uid10",
       "name": "★小小TV纪录片"
     },
     {
-      "id": 11
+      "id": "uid11",
       "name": "★小小TV新后宫"
     }
   ]
