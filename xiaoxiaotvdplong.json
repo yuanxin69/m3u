@@ -1,4 +1,5 @@
-[
+{
+  "live":[
  {
    "num": 1,
    "itemid": "★小小TV中央台",
@@ -10667,4 +10668,51 @@
    "name": "★小小TV新撸管",
    "urllist": "http://120.52.73.65/data1.cache.directory/media/videos/iphone/4404.mp4"
  }
-]
+],
+ "type": [
+    {
+      "id": "uid1",
+      "name": "1.小小TV中央台"
+    },
+    {
+      "id": "uid2",
+      "name": "2.小小TV卫视台"
+    },
+    {
+      "id": "uid3",
+      "name": "3.小小TV香港台"
+    },
+    {
+      "id": "uid4",
+      "name": "4.小小TV台湾台"
+    },
+    {
+      "id": "uid5",
+      "name": "5.小小TV港台P2P"
+    },
+    {
+      "id": "uid6",
+      "name": "6.小小TV高清影视台"
+    },
+    {
+      "id": "uid7",
+      "name": "7.小小TV战旗熊猫"
+    },
+    {
+      "id": "uid9",
+      "name": "9.小小TV乐视高清"
+    },
+    {
+      "id": "uid10",
+      "name": "10.小小TV美剧1080"
+    },
+    {
+      "id": "uid11",
+      "name": "11.小小TV纪录片"
+    },
+    {
+      "id": "uid12",
+      "name": "12.小小TV新后宫"
+    }
+     ]
+}
