@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="电视台",奥视惊艳
+http://125.227.22.115/stc/168172.m3u8
 #EXTINF:-1 group-title="电视台",奥视惊艳
 http://211.22.61.109/stc/ch168172.m3u8
 #EXTINF:-1 group-title="电视台",奥视惊艳
@@ -7,11 +10,15 @@ http://211.22.61.109/stc/ch168162.m3u8
 #EXTINF:-1 group-title="电视台",奥视惊艳
 http://211.23.194.247/stc/ch168172.m3u8
 #EXTINF:-1 group-title="电视台",香蕉台Banana
+http://125.227.22.115/stc/168173.m3u8
+#EXTINF:-1 group-title="电视台",香蕉台Banana
 http://211.22.61.109/stc/ch168173.m3u8
 #EXTINF:-1 group-title="电视台",香蕉台Banana
 http://211.22.61.109/stc/ch168163.m3u8
 #EXTINF:-1 group-title="电视台",香蕉台Banana
 http://211.23.194.247/stc/ch168173.m3u8
+#EXTINF:-1 group-title="电视台",乐活频道(18age)
+http://125.227.22.115/stc/168171.m3u8
 #EXTINF:-1 group-title="电视台",乐活频道(18age)
 http://211.22.61.109/stc/ch168161.m3u8
 #EXTINF:-1 group-title="电视台",乐活频道(18age)
