@@ -1,6 +1,478 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="台湾频道",CNN
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_1/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",NHK
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_2/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",台视
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_3/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",中视
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_4/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",华视
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_5/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",民视
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_6/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",公视
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_7/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",霹雳台湾台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_8/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",客家台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_9/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",人间卫视
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_10/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",大愛台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_11/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",壹電視
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_12/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",JET日本綜合
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_13/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",國家地理頻道
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_18/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",Discovery探索
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_19/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",非凡新聞台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_20/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",民視新聞
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_21/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",三立新聞
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_22/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS新聞
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_23/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",中天新聞台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_24/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",年代新聞台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_25/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",東森新聞台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_26/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",東森財經
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_27/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",非凡商業台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_28/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",三立台灣台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_29/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",三立都會台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_30/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",八大一台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_31/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS歡樂台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_32/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",衛視中文台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_33/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",東森綜合台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_34/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",中天綜合台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_35/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",中天娛樂台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_36/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",Disney迪士尼
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_37/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",CN卡通台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_38/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",momo親子卡通
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_39/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",東森戲劇
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_40/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",緯來戲劇台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_41/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",緯來日本台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_42/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",FOX福斯國際	
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_43/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",HBO HD
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_44/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",衛視電影台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_45/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",衛視HD電影
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_46/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",HBOHiTs
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_47/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",東森電影台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_48/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",東森洋片台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_49/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",好萊塢電影台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_50/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",FX HD
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_51/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",東風衛視
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_52/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",緯來體育台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_53/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",福斯體育1台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_54/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",福斯體育2台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_55/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",愛爾達體育HD
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_56/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",NHK WORLO
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_57/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",日本BS1台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_58/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",日本BS2台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_59/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",未知1
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_60/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",未知2
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_61/aaa.m3u8
+#EXTINF:-1 group-title="台湾频道",成人1台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_14/bbb.m3u8
+#EXTINF:-1 group-title="台湾频道",成人2台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_15/bbb.m3u8
+#EXTINF:-1 group-title="台湾频道",成人3台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_16/bbb.m3u8
+#EXTINF:-1 group-title="台湾频道",成人4台
+http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_17/bbb.m3u8
+
+
+
+#EXTINF:-1 group-title="WZYTV",CCTV-1综合
+http://tv.cnbeijing.xyz/tvnx.php?id=001
+#EXTINF:-1 group-title="WZYTV",CCTV-2财经
+http://tv.cnbeijing.xyz/tvnx.php?id=002
+#EXTINF:-1 group-title="WZYTV",CCTV-3综艺
+http://tv.cnbeijing.xyz/tvnx.php?id=003
+#EXTINF:-1 group-title="WZYTV",CCTV-4中文国际
+http://tv.cnbeijing.xyz/tvnx.php?id=004
+#EXTINF:-1 group-title="WZYTV",CCTV-5体育
+http://tv.cnbeijing.xyz/tvnx.php?id=005
+#EXTINF:-1 group-title="WZYTV",CCTV-6电影
+http://tv.cnbeijing.xyz/tvnx.php?id=006
+#EXTINF:-1 group-title="WZYTV",CCTV-7军事农业
+http://tv.cnbeijing.xyz/tvnx.php?id=007
+#EXTINF:-1 group-title="WZYTV",CCTV-8电视剧
+http://tv.cnbeijing.xyz/tvnx.php?id=008
+#EXTINF:-1 group-title="WZYTV",CCTV-9记录
+http://tv.cnbeijing.xyz/tvnx.php?id=009
+#EXTINF:-1 group-title="WZYTV",CCTV-10科教
+http://tv.cnbeijing.xyz/tvnx.php?id=010
+#EXTINF:-1 group-title="WZYTV",CCTV-11戏曲
+http://tv.cnbeijing.xyz/tvnx.php?id=011
+#EXTINF:-1 group-title="WZYTV",CCTV-12社会与法
+http://tv.cnbeijing.xyz/tvnx.php?id=012
+#EXTINF:-1 group-title="WZYTV",CCTV-13新闻
+http://tv.cnbeijing.xyz/tvnx.php?id=013
+#EXTINF:-1 group-title="WZYTV",CCTV-14少儿
+http://tv.cnbeijing.xyz/tvnx.php?id=015
+#EXTINF:-1 group-title="WZYTV",湖南卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=021
+#EXTINF:-1 group-title="WZYTV",江苏卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=027
+#EXTINF:-1 group-title="WZYTV",浙江卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=028
+#EXTINF:-1 group-title="WZYTV",山东卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=029
+#EXTINF:-1 group-title="WZYTV",北京卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=030
+#EXTINF:-1 group-title="WZYTV",东方卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=031
+#EXTINF:-1 group-title="WZYTV",天津卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=032
+#EXTINF:-1 group-title="WZYTV",重庆卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=033
+#EXTINF:-1 group-title="WZYTV",安徽卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=034
+#EXTINF:-1 group-title="WZYTV",甘肃卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=035
+#EXTINF:-1 group-title="WZYTV",宁夏卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=017
+#EXTINF:-1 group-title="WZYTV",青海卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=036
+#EXTINF:-1 group-title="WZYTV",环球购物
+http://tv.cnbeijing.xyz/tvnx.php?id=037
+#EXTINF:-1 group-title="WZYTV",家有购物
+http://tv.cnbeijing.xyz/tvnx.php?id=014
+#EXTINF:-1 group-title="WZYTV",金鹰卡通
+http://tv.cnbeijing.xyz/tvnx.php?id=038
+#EXTINF:-1 group-title="WZYTV",四川卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=039
+#EXTINF:-1 group-title="WZYTV",云南卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=040
+#EXTINF:-1 group-title="WZYTV",贵州卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=041
+#EXTINF:-1 group-title="WZYTV",内蒙古卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=042
+#EXTINF:-1 group-title="WZYTV",河北卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=043
+#EXTINF:-1 group-title="WZYTV",山西卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=044
+#EXTINF:-1 group-title="WZYTV",辽宁卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=045
+#EXTINF:-1 group-title="WZYTV",吉林卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=046
+#EXTINF:-1 group-title="WZYTV",黑龙江卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=047
+#EXTINF:-1 group-title="WZYTV",河南卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=048
+#EXTINF:-1 group-title="WZYTV",陕西卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=049
+#EXTINF:-1 group-title="WZYTV",湖北卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=050
+#EXTINF:-1 group-title="WZYTV",江西卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=051
+#EXTINF:-1 group-title="WZYTV",福建东南卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=052
+#EXTINF:-1 group-title="WZYTV",广东卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=053
+#EXTINF:-1 group-title="WZYTV",广西卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=054
+#EXTINF:-1 group-title="WZYTV",深圳卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=055
+#EXTINF:-1 group-title="WZYTV",旅游卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=056
+#EXTINF:-1 group-title="WZYTV",兵团卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=057
+#EXTINF:-1 group-title="WZYTV",新疆卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=062
+#EXTINF:-1 group-title="WZYTV",西藏卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=063
+#EXTINF:-1 group-title="WZYTV",中国气象频道
+http://tv.cnbeijing.xyz/tvnx.php?id=064
+#EXTINF:-1 group-title="WZYTV",CCTVNEWS
+http://tv.cnbeijing.xyz/tvnx.php?id=058
+#EXTINF:-1 group-title="WZYTV",CCTV蒙文
+http://tv.cnbeijing.xyz/tvnx.php?id=059
+#EXTINF:-1 group-title="WZYTV",CCTV-15音乐
+http://tv.cnbeijing.xyz/tvnx.php?id=060
+#EXTINF:-1 group-title="WZYTV",CETV-1
+http://tv.cnbeijing.xyz/tvnx.php?id=061
+#EXTINF:-1 group-title="WZYTV",CCTV中学生
+http://tv.cnbeijing.xyz/tvnx.php?id=065
+#EXTINF:-1 group-title="WZYTV",CHC家庭影院
+http://tv.cnbeijing.xyz/tvnx.php?id=066
+#EXTINF:-1 group-title="WZYTV",CCTV国防军事
+http://tv.cnbeijing.xyz/tvnx.php?id=067
+#EXTINF:-1 group-title="WZYTV",江苏靓妆
+http://tv.cnbeijing.xyz/tvnx.php?id=068
+#EXTINF:-1 group-title="WZYTV",考试在线
+http://tv.cnbeijing.xyz/tvnx.php?id=069
+#EXTINF:-1 group-title="WZYTV",四海钓鱼
+http://tv.cnbeijing.xyz/tvnx.php?id=070
+#EXTINF:-1 group-title="WZYTV",车迷频道
+http://tv.cnbeijing.xyz/tvnx.php?id=071
+#EXTINF:-1 group-title="WZYTV",新娱乐
+http://tv.cnbeijing.xyz/tvnx.php?id=072
+#EXTINF:-1 group-title="WZYTV",人物频道
+http://tv.cnbeijing.xyz/tvnx.php?id=073
+#EXTINF:-1 group-title="WZYTV",环球旅游
+http://tv.cnbeijing.xyz/tvnx.php?id=074
+#EXTINF:-1 group-title="WZYTV",天下收藏
+http://tv.cnbeijing.xyz/tvnx.php?id=075
+#EXTINF:-1 group-title="WZYTV",武术世界
+http://tv.cnbeijing.xyz/tvnx.php?id=076
+#EXTINF:-1 group-title="WZYTV",江苏财富天下
+http://tv.cnbeijing.xyz/tvnx.php?id=077
+#EXTINF:-1 group-title="WZYTV",CCTV发现之旅
+http://tv.cnbeijing.xyz/tvnx.php?id=078
+#EXTINF:-1 group-title="WZYTV",英语辅导
+http://tv.cnbeijing.xyz/tvnx.php?id=079
+#EXTINF:-1 group-title="WZYTV",时代出行
+http://tv.cnbeijing.xyz/tvnx.php?id=080
+#EXTINF:-1 group-title="WZYTV",天元围棋
+http://tv.cnbeijing.xyz/tvnx.php?id=081
+#EXTINF:-1 group-title="WZYTV",摄影频道
+http://tv.cnbeijing.xyz/tvnx.php?id=082
+#EXTINF:-1 group-title="WZYTV",CCTV怀旧剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=083
+#EXTINF:-1 group-title="WZYTV",CCTV风云音乐
+http://tv.cnbeijing.xyz/tvnx.php?id=084
+#EXTINF:-1 group-title="WZYTV",CCTV风云剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=085
+#EXTINF:-1 group-title="WZYTV",时代美食
+http://tv.cnbeijing.xyz/tvnx.php?id=086
+#EXTINF:-1 group-title="WZYTV",CCTV新科动漫
+http://tv.cnbeijing.xyz/tvnx.php?id=087
+#EXTINF:-1 group-title="WZYTV",快乐宠物
+http://tv.cnbeijing.xyz/tvnx.php?id=088
+#EXTINF:-1 group-title="WZYTV",CCTV风云足球
+http://tv.cnbeijing.xyz/tvnx.php?id=089
+#EXTINF:-1 group-title="WZYTV",书法世界
+http://tv.cnbeijing.xyz/tvnx.php?id=090
+#EXTINF:-1 group-title="WZYTV",CCTV老故事
+http://tv.cnbeijing.xyz/tvnx.php?id=091
+#EXTINF:-1 group-title="WZYTV",CCTV世界地理
+http://tv.cnbeijing.xyz/tvnx.php?id=092
+#EXTINF:-1 group-title="WZYTV",环球奇观
+http://tv.cnbeijing.xyz/tvnx.php?id=093
+#EXTINF:-1 group-title="WZYTV",CCTV第一剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=094
+#EXTINF:-1 group-title="WZYTV",CCTV央视文化精品
+http://tv.cnbeijing.xyz/tvnx.php?id=095
+#EXTINF:-1 group-title="WZYTV",CCTV女性时尚
+http://tv.cnbeijing.xyz/tvnx.php?id=096
+#EXTINF:-1 group-title="WZYTV",CETV早期教育
+http://tv.cnbeijing.xyz/tvnx.php?id=097
+#EXTINF:-1 group-title="WZYTV",梨园频道
+http://tv.cnbeijing.xyz/tvnx.php?id=098
+#EXTINF:-1 group-title="WZYTV",老年福
+http://tv.cnbeijing.xyz/tvnx.php?id=099
+#EXTINF:-1 group-title="WZYTV",CHC动作电影
+http://tv.cnbeijing.xyz/tvnx.php?id=100
+#EXTINF:-1 group-title="WZYTV",湖南先锋乒羽
+http://tv.cnbeijing.xyz/tvnx.php?id=101
+#EXTINF:-1 group-title="WZYTV",Food中华美食
+http://tv.cnbeijing.xyz/tvnx.php?id=102
+#EXTINF:-1 group-title="WZYTV",网络棋牌
+http://tv.cnbeijing.xyz/tvnx.php?id=103
+#EXTINF:-1 group-title="WZYTV",新动漫
+http://tv.cnbeijing.xyz/tvnx.php?id=104
+#EXTINF:-1 group-title="WZYTV",篮球
+http://tv.cnbeijing.xyz/tvnx.php?id=105
+#EXTINF:-1 group-title="WZYTV",华娱卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=106
+#EXTINF:-1 group-title="WZYTV",凤凰卫视中文
+http://tv.cnbeijing.xyz/tvnx.php?id=107
+#EXTINF:-1 group-title="WZYTV",星空卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=108
+#EXTINF:-1 group-title="WZYTV",TVB8
+http://tv.cnbeijing.xyz/tvnx.php?id=109
+#EXTINF:-1 group-title="WZYTV",凤凰卫视资讯
+http://tv.cnbeijing.xyz/tvnx.php?id=110
+#EXTINF:-1 group-title="WZYTV",星空卫视电影
+http://tv.cnbeijing.xyz/tvnx.php?id=111
+#EXTINF:-1 group-title="WZYTV",凤凰卫视电影
+http://tv.cnbeijing.xyz/tvnx.php?id=112
+#EXTINF:-1 group-title="WZYTV",[V]音乐亚洲
+http://tv.cnbeijing.xyz/tvnx.php?id=113
+#EXTINF:-1 group-title="WZYTV",国家地理
+http://tv.cnbeijing.xyz/tvnx.php?id=114
+#EXTINF:-1 group-title="WZYTV",HBO亚洲电影
+http://tv.cnbeijing.xyz/tvnx.php?id=115
+#EXTINF:-1 group-title="WZYTV",天映频道
+http://tv.cnbeijing.xyz/tvnx.php?id=116
+#EXTINF:-1 group-title="WZYTV",CHC高清电影
+http://tv.cnbeijing.xyz/tvnx.php?id=121
+#EXTINF:-1 group-title="WZYTV",BTV北京卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=122
+#EXTINF:-1 group-title="WZYTV",东方卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=123
+#EXTINF:-1 group-title="WZYTV",湖南卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=124
+#EXTINF:-1 group-title="WZYTV",江苏卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=125
+#EXTINF:-1 group-title="WZYTV",浙江卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=126
+#EXTINF:-1 group-title="WZYTV",广东卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=127
+#EXTINF:-1 group-title="WZYTV",深圳卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=128
+#EXTINF:-1 group-title="WZYTV",天津卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=133
+#EXTINF:-1 group-title="WZYTV",山东卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=134
+#EXTINF:-1 group-title="WZYTV",湖北卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=135
+#EXTINF:-1 group-title="WZYTV",黑龙江卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=136
+#EXTINF:-1 group-title="WZYTV",CCTV-1综合高清
+http://tv.cnbeijing.xyz/tvnx.php?id=119
+#EXTINF:-1 group-title="WZYTV",CCTV-5+体育赛事高清
+http://tv.cnbeijing.xyz/tvnx.php?id=120
+#EXTINF:-1 group-title="WZYTV",CCTV-3综艺高清
+http://tv.cnbeijing.xyz/tvnx.php?id=129
+#EXTINF:-1 group-title="WZYTV",CCTV-5体育高清
+http://tv.cnbeijing.xyz/tvnx.php?id=130
+#EXTINF:-1 group-title="WZYTV",CCTV-6电影高清
+http://tv.cnbeijing.xyz/tvnx.php?id=131
+#EXTINF:-1 group-title="WZYTV",CCTV-8电视剧高清
+http://tv.cnbeijing.xyz/tvnx.php?id=132
+#EXTINF:-1 group-title="WZYTV",CCTV-2财经高清
+http://tv.cnbeijing.xyz/tvnx.php?id=137
+#EXTINF:-1 group-title="WZYTV",CCTV-7军事农业高清
+http://tv.cnbeijing.xyz/tvnx.php?id=138
+#EXTINF:-1 group-title="WZYTV",CCTV-9记录高清
+http://tv.cnbeijing.xyz/tvnx.php?id=139
+#EXTINF:-1 group-title="WZYTV",CCTV-10科教高清
+http://tv.cnbeijing.xyz/tvnx.php?id=140
+#EXTINF:-1 group-title="WZYTV",CCTV-12社会与法高清
+http://tv.cnbeijing.xyz/tvnx.php?id=141
+#EXTINF:-1 group-title="WZYTV",CCTV-14少儿高清
+http://tv.cnbeijing.xyz/tvnx.php?id=142
+#EXTINF:-1 group-title="WZYTV",辽宁卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=143
+#EXTINF:-1 group-title="WZYTV",四川卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=198
+#EXTINF:-1 group-title="WZYTV",天华高清电影
+http://tv.cnbeijing.xyz/tvnx.php?id=144
+#EXTINF:-1 group-title="WZYTV",天华高清剧集
+http://tv.cnbeijing.xyz/tvnx.php?id=145
+#EXTINF:-1 group-title="WZYTV",韩国综艺
+http://tv.cnbeijing.xyz/tvnx.php?id=146
+#EXTINF:-1 group-title="WZYTV",天华高清探索
+http://tv.cnbeijing.xyz/tvnx.php?id=147
+#EXTINF:-1 group-title="WZYTV",极速汽车
+http://tv.cnbeijing.xyz/tvnx.php?id=148
+#EXTINF:-1 group-title="WZYTV",都市剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=149
+#EXTINF:-1 group-title="WZYTV",欢笑剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=150
+#EXTINF:-1 group-title="WZYTV",生活时尚
+http://tv.cnbeijing.xyz/tvnx.php?id=151
+#EXTINF:-1 group-title="WZYTV",全纪实
+http://tv.cnbeijing.xyz/tvnx.php?id=152
+#EXTINF:-1 group-title="WZYTV",劲爆体育
+http://tv.cnbeijing.xyz/tvnx.php?id=153
+#EXTINF:-1 group-title="WZYTV",魅力音乐
+http://tv.cnbeijing.xyz/tvnx.php?id=154
+#EXTINF:-1 group-title="WZYTV",幸福彩
+http://tv.cnbeijing.xyz/tvnx.php?id=155
+#EXTINF:-1 group-title="WZYTV",动漫秀场
+http://tv.cnbeijing.xyz/tvnx.php?id=156
+#EXTINF:-1 group-title="WZYTV",游戏风云
+http://tv.cnbeijing.xyz/tvnx.php?id=157
+#EXTINF:-1 group-title="WZYTV",求索记录
+http://tv.cnbeijing.xyz/tvnx.php?id=158
+#EXTINF:-1 group-title="WZYTV",求索动物
+http://tv.cnbeijing.xyz/tvnx.php?id=159
+#EXTINF:-1 group-title="WZYTV",求索生活
+http://tv.cnbeijing.xyz/tvnx.php?id=160
+#EXTINF:-1 group-title="WZYTV",求索科学
+http://tv.cnbeijing.xyz/tvnx.php?id=161
+#EXTINF:-1 group-title="WZYTV",HOT亚洲影院
+http://tv.cnbeijing.xyz/tvnx.php?id=162
+#EXTINF:-1 group-title="WZYTV",HOT欧美影院
+http://tv.cnbeijing.xyz/tvnx.php?id=163
+#EXTINF:-1 group-title="WZYTV",HOT精品剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=164
+#EXTINF:-1 group-title="WZYTV",新视觉HD
+http://tv.cnbeijing.xyz/tvnx.php?id=165
+#EXTINF:-1 group-title="WZYTV",HOT风尚音乐
+http://tv.cnbeijing.xyz/tvnx.php?id=166
+#EXTINF:-1 group-title="WZYTV",HOT少儿动漫
+http://tv.cnbeijing.xyz/tvnx.php?id=167
+#EXTINF:-1 group-title="WZYTV",3D试验频道
+http://tv.cnbeijing.xyz/tvnx.php?id=168
+#EXTINF:-1 group-title="WZYTV",HOT高清娱乐
+http://tv.cnbeijing.xyz/tvnx.php?id=169
+#EXTINF:-1 group-title="WZYTV",HOT探索记录
+http://tv.cnbeijing.xyz/tvnx.php?id=170
+#EXTINF:-1 group-title="WZYTV",优漫卡通
+http://tv.cnbeijing.xyz/tvnx.php?id=172
+#EXTINF:-1 group-title="WZYTV",游戏竞技
+http://tv.cnbeijing.xyz/tvnx.php?id=173
+#EXTINF:-1 group-title="WZYTV",家有购物
+http://tv.cnbeijing.xyz/tvnx.php?id=174
+#EXTINF:-1 group-title="WZYTV",DOX映画HD
+http://tv.cnbeijing.xyz/tvnx.php?id=190
+#EXTINF:-1 group-title="WZYTV",DOX剧场HD
+http://tv.cnbeijing.xyz/tvnx.php?id=191
+#EXTINF:-1 group-title="WZYTV",DOX新知HD
+http://tv.cnbeijing.xyz/tvnx.php?id=192
+#EXTINF:-1 group-title="WZYTV",DOX新艺HD
+http://tv.cnbeijing.xyz/tvnx.php?id=193
+#EXTINF:-1 group-title="WZYTV",DOX怡家HD
+http://tv.cnbeijing.xyz/tvnx.php?id=194
+#EXTINF:-1 group-title="WZYTV",DOX英伦HD
+http://tv.cnbeijing.xyz/tvnx.php?id=195
+#EXTINF:-1 group-title="WZYTV",DOX院线HD
+http://tv.cnbeijing.xyz/tvnx.php?id=196
+#EXTINF:-1 group-title="WZYTV",DOX韩流HD
+http://tv.cnbeijing.xyz/tvnx.php?id=197
+
+
+
+
+
 #EXTINF:-1 group-title="台湾好",哈Hot!電影台
 http://220.128.208.117/ftvLive/hamovie/playlist.m3u8
 #EXTINF:-1 group-title="台湾好",民視戲劇台

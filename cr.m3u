@@ -1,40 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="电视台",奥视惊艳
-http://125.227.22.115/stc/168172.m3u8
-#EXTINF:-1 group-title="电视台",奥视惊艳
-http://211.22.61.109/stc/ch168172.m3u8
-#EXTINF:-1 group-title="电视台",奥视惊艳
-http://211.22.61.109/stc/ch168162.m3u8
-#EXTINF:-1 group-title="电视台",奥视惊艳
-http://211.23.194.247/stc/ch168172.m3u8
-#EXTINF:-1 group-title="电视台",香蕉台Banana
-http://125.227.22.115/stc/168173.m3u8
-#EXTINF:-1 group-title="电视台",香蕉台Banana
-http://211.22.61.109/stc/ch168173.m3u8
-#EXTINF:-1 group-title="电视台",香蕉台Banana
-http://211.22.61.109/stc/ch168163.m3u8
-#EXTINF:-1 group-title="电视台",香蕉台Banana
-http://211.23.194.247/stc/ch168173.m3u8
-#EXTINF:-1 group-title="电视台",乐活频道(18age)
-http://125.227.22.115/stc/168171.m3u8
-#EXTINF:-1 group-title="电视台",乐活频道(18age)
-http://211.22.61.109/stc/ch168161.m3u8
-#EXTINF:-1 group-title="电视台",乐活频道(18age)
-http://211.23.194.247/stc/ch168171.m3u8
+
 #EXTINF:-1 group-title="电视台",女孩电视
 http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
 #EXTINF:-1 group-title="电视台",女孩电视
 http://123.108.164.75/etv2sb/pld10501/playlist.m3u8
-#EXTINF:-1 group-title="电视台",女孩电视
+#EXTINF:-1 group-title="电视台",girlsTV
 http://edge2.everyon.tv/etv2sb/phd10501/playlist.m3u8
-#EXTINF:-1 group-title="电视台",女孩电视
+#EXTINF:-1 group-title="电视台",honeys
 http://edge1.everyon.tv/etv1sb/phd10928/playlist.m3u8
-#EXTINF:-1 group-title="电视台",粉红高清
-http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
-#EXTINF:-1 group-title="电视台",粉红高清
-http://123.108.164.110/etv1sb/pld10928/playlist.m3u8
 #EXTINF:-1 group-title="电视台",粉红高清
 rtmp://edge1.everyon.tv/etv1sb/pld10928
 #EXTINF:-1 group-title="电视台",午夜19高清
@@ -101,8 +76,6 @@ http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_14/b
 http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_15/bbb.m3u8
 #EXTINF:-1 group-title="电视台",成人3台
 http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_16/bbb.m3u8
-#EXTINF:-1 group-title="电视台",成人4台
-http://220.133.120.234/2FJRC5-7HGTL-9DXsS-6hCCT/gkY8-kub5-tXg4-ex4u/live/ch_17/bbb.m3u8
 
 
 #EXTINF:-1 group-title="成人频道",极乱家族1
