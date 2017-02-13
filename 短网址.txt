@@ -9,7 +9,7 @@ PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGxpdmVUVj4KPENhdGVnb3J5IG5h
 灰灰影音 http://j1.44hdb1.com:22345/index.json
 古飛世紀內部免綁版 http://of0mqmlst.bkt.clouddn.com/wwkk.php
 ★雷锋TVAPP http://oem.square7.ch/tvapp/list.php
-威视地址http://7vzpya.com1.z0.glb.clouddn.com/ws20170210.xml（已加密）
+威视地址http://7vzpya.com1.z0.glb.clouddn.com/ws20170210.xml（IDM下载）
 ★台长电视http://7xk7n2.com1.z0.glb.clouddn.com/wwTaizhang33.php
 >>>>>>> origin/master
 小小TV http://7xku1w.com1.z0.glb.clouddn.com/yczx1.txt
@@ -26,6 +26,7 @@ http://7xku1w.com1.z0.glb.clouddn.com/yczx1.txt
 
 
 ★电视家2.0的列表http://api.ibestv.com/api/channel/list
+
 
 华人葫芦COPY_PASTE:http://7xiyku.com1.z0.glb.clouddn.com/channel.txt
 
@@ -70,6 +71,8 @@ ottbclub云地址：http://api.ottclub.info/api/get_list?AccountGUID=37cdab04-c3
 skyHD云地址：http://skyhd.117yes.com:18006/gemini-iptv/init.php?leftday=1&mac=08:00:27:48:60:2d&ipcode=CN&cpuid=GEMINI0960442064206702&key=U33wMjlqWX3fa1a8cqXdT61yWl6pNrp6aHHGcmXsWpaheem0FVnhEvppU33wMjlq&version=73
 华新TV测试地址：http://wwwww.huarentv.net:17006/gemini-iptv/admin/jiemus.asp?leftday=1&bz2=0&mac=08:00:27:48:60:2d&ipcode=cn&cpuid=GEMINI3920364092943987&key=268Czgns56Kt7pBS2W3d7g6S2W3d7g6kL6Kt7p2r2LXyjg0nQXVXVlj6EXpI9Ecb9iZuKkE6EX9hVrLfQXls732w9iky&version=46
 ★http://api.hdtv.letv.com/iptv/api/live/playlist/channellist
+https://github.com/snyzf/tv-live-stream/blob/master/live.m3u
+https://raw.githubusercontent.com/snyzf/tv-live-stream/master/live.m3u
 http://d1.51gugu.com/184116/ohmtv_20160105.m3u8
 http://d1.51gugu.com/184116/mrmc_20160105.m3u8
 长地址：https://raw.githubusercontent.com/yuanxin69/m3u/master/kodi1219.m3u
