@@ -10,6 +10,22 @@ http://access.nx96200.cn:13164/playurl?programid=4200900161&playtype=live&access
 http://access.nx96200.cn:13164/playurl?programid=4200900160&playtype=live&accesstoken=R5879D441U30668289K774A58FEM30F218FW238075&qamname=undefined&auth=no
 
 
+
+#EXTINF:-1 group-title="壹新聞",壹新聞1
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8
+#EXTINF:-1 group-title="壹新聞",壹新聞2
+http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1 group-title="壹新聞",壹新聞3
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+#EXTINF:-1 group-title="壹新聞",壹新聞4
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+#EXTINF:-1 group-title="壹新聞",壹新聞5
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1 group-title="壹新聞",壹新聞6
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8
+
+
+
 #EXTINF:-1 group-title="福建电信",福建综合
 http://27.148.240.138/PLTV/88888888/224/3221226033/index.m3u8
 #EXTINF:-1 group-title="福建电信",东南卫视
@@ -299,1408 +315,33 @@ http://27.148.240.138/PLTV/88888888/224/3221226021/index.m3u8
 
 
 
-#EXTINF:-1 group-title="数字线路",CCTV-1
-http://59.110.139.3:8080/wzypyt?id=007
-#EXTINF:-1 group-title="数字线路",CCTV-2
-http://59.110.139.3:8080/wzypyt?id=008
-#EXTINF:-1 group-title="数字线路",CCTV-3
-http://59.110.139.3:8080/wzypyt?id=018
-#EXTINF:-1 group-title="数字线路",CCTV-4
-http://59.110.139.3:8080/wzypyt?id=014
-#EXTINF:-1 group-title="数字线路",CCTV-5
-http://59.110.139.3:8080/wzypyt?id=019
-#EXTINF:-1 group-title="数字线路",CCTV-6
-http://59.110.139.3:8080/wzypyt?id=020
-#EXTINF:-1 group-title="数字线路",CCTV-7
-http://59.110.139.3:8080/wzypyt?id=009
-#EXTINF:-1 group-title="数字线路",CCTV-8
-http://59.110.139.3:8080/wzypyt?id=021
-#EXTINF:-1 group-title="数字线路",CCTV-9
-http://59.110.139.3:8080/wzypyt?id=022
-#EXTINF:-1 group-title="数字线路",CCTV-10
-http://59.110.139.3:8080/wzypyt?id=010
-#EXTINF:-1 group-title="数字线路",CCTV-11
-http://59.110.139.3:8080/wzypyt?id=011
-#EXTINF:-1 group-title="数字线路",CCTV-12
-http://59.110.139.3:8080/wzypyt?id=012
-#EXTINF:-1 group-title="数字线路",CCTV-13
-http://59.110.139.3:8080/wzypyt?id=023
-#EXTINF:-1 group-title="数字线路",CCTV-14
-http://59.110.139.3:8080/wzypyt?id=024
-#EXTINF:-1 group-title="数字线路",CCTV-15
-http://59.110.139.3:8080/wzypyt?id=013
-#EXTINF:-1 group-title="数字线路",北京卫视
-http://59.110.139.3:8080/wzypyt?id=025
-#EXTINF:-1 group-title="数字线路",东方卫视
-http://59.110.139.3:8080/wzypyt?id=063
-#EXTINF:-1 group-title="数字线路",天津卫视
-http://59.110.139.3:8080/wzypyt?id=026
-#EXTINF:-1 group-title="数字线路",重庆卫视
-http://59.110.139.3:8080/wzypyt?id=115
-#EXTINF:-1 group-title="数字线路",河北卫视
-http://59.110.139.3:8080/wzypyt?id=029
-#EXTINF:-1 group-title="数字线路",山西卫视
-http://59.110.139.3:8080/wzypyt?id=027
-#EXTINF:-1 group-title="数字线路",内蒙古卫视
-http://59.110.139.3:8080/wzypyt?id=064
-#EXTINF:-1 group-title="数字线路",辽宁卫视
-http://59.110.139.3:8080/wzypyt?id=041
-#EXTINF:-1 group-title="数字线路",吉林卫视
-http://59.110.139.3:8080/wzypyt?id=033
-#EXTINF:-1 group-title="数字线路",黑龙江卫视
-http://59.110.139.3:8080/wzypyt?id=032
-#EXTINF:-1 group-title="数字线路",陕西卫视
-http://59.110.139.3:8080/wzypyt?id=120
-#EXTINF:-1 group-title="数字线路",甘肃卫视
-http://59.110.139.3:8080/wzypyt?id=122
-#EXTINF:-1 group-title="数字线路",宁夏卫视
-http://59.110.139.3:8080/wzypyt?id=117
-#EXTINF:-1 group-title="数字线路",青海卫视
-http://59.110.139.3:8080/wzypyt?id=059
-#EXTINF:-1 group-title="数字线路",新疆卫视
-http://59.110.139.3:8080/wzypyt?id=036
-#EXTINF:-1 group-title="数字线路",山东卫视
-http://59.110.139.3:8080/wzypyt?id=028
-#EXTINF:-1 group-title="数字线路",浙江卫视
-http://59.110.139.3:8080/wzypyt?id=030
-#EXTINF:-1 group-title="数字线路",江苏卫视
-http://59.110.139.3:8080/wzypyt?id=039
-#EXTINF:-1 group-title="数字线路",安徽卫视
-http://59.110.139.3:8080/wzypyt?id=114
-#EXTINF:-1 group-title="数字线路",江西卫视
-http://59.110.139.3:8080/wzypyt?id=119
-#EXTINF:-1 group-title="数字线路",河南卫视
-http://59.110.139.3:8080/wzypyt?id=116
-#EXTINF:-1 group-title="数字线路",湖南卫视
-http://59.110.139.3:8080/wzypyt?id=040
-#EXTINF:-1 group-title="数字线路",湖北卫视
-http://59.110.139.3:8080/wzypyt?id=060
-#EXTINF:-1 group-title="数字线路",福建卫视
-http://59.110.139.3:8080/wzypyt?id=037
-#EXTINF:-1 group-title="数字线路",旅游卫视
-http://59.110.139.3:8080/wzypyt?id=031
-#EXTINF:-1 group-title="数字线路",广东卫视
-http://59.110.139.3:8080/wzypyt?id=097
-#EXTINF:-1 group-title="数字线路",广西卫视
-http://59.110.139.3:8080/wzypyt?id=096
-#EXTINF:-1 group-title="数字线路",四川卫视
-http://59.110.139.3:8080/wzypyt?id=118
-#EXTINF:-1 group-title="数字线路",贵州卫视
-http://59.110.139.3:8080/wzypyt?id=038
-#EXTINF:-1 group-title="数字线路",云南卫视
-http://59.110.139.3:8080/wzypyt?id=098
-#EXTINF:-1 group-title="数字线路",西藏卫视
-http://59.110.139.3:8080/wzypyt?id=035
-#EXTINF:-1 group-title="数字线路",深圳卫视
-http://59.110.139.3:8080/wzypyt?id=099
-#EXTINF:-1 group-title="数字线路",兵团卫视
-http://59.110.139.3:8080/wzypyt?id=101
-#EXTINF:-1 group-title="数字线路",中学生
-http://59.110.139.3:8080/wzypyt?id=130
-#EXTINF:-1 group-title="数字线路",中教一台
-http://59.110.139.3:8080/wzypyt?id=061
-#EXTINF:-1 group-title="数字线路",中教二台
-http://59.110.139.3:8080/wzypyt?id=132
-#EXTINF:-1 group-title="数字线路",空中课堂
-http://59.110.139.3:8080/wzypyt?id=133
-#EXTINF:-1 group-title="数字线路",CCTV-News
-http://59.110.139.3:8080/wzypyt?id=016
-#EXTINF:-1 group-title="数字线路",新华新闻
-http://59.110.139.3:8080/wzypyt?id=126
-#EXTINF:-1 group-title="数字线路",新视觉
-http://59.110.139.3:8080/wzypyt?id=147
-#EXTINF:-1 group-title="数字线路",凤凰资讯
-http://59.110.139.3:8080/wzypyt?id=110
-#EXTINF:-1 group-title="数字线路",凤凰中文
-http://59.110.139.3:8080/wzypyt?id=111
-#EXTINF:-1 group-title="数字线路",都市剧场
-http://59.110.139.3:8080/wzypyt?id=095
-#EXTINF:-1 group-title="数字线路",怀旧剧场
-http://59.110.139.3:8080/wzypyt?id=069
-#EXTINF:-1 group-title="数字线路",风云剧场
-http://59.110.139.3:8080/wzypyt?id=071
-#EXTINF:-1 group-title="数字线路",第一剧场
-http://59.110.139.3:8080/wzypyt?id=072
-#EXTINF:-1 group-title="数字线路",中国电影
-http://59.110.139.3:8080/wzypyt?id=104
-#EXTINF:-1 group-title="数字线路",山东教育
-http://59.110.139.3:8080/wzypyt?id=106
-#EXTINF:-1 group-title="数字线路",阳光卫视
-http://59.110.139.3:8080/wzypyt?id=108
-#EXTINF:-1 group-title="数字线路",新华英语
-http://59.110.139.3:8080/wzypyt?id=112
-#EXTINF:-1 group-title="数字线路",中国黄河
-http://59.110.139.3:8080/wzypyt?id=113
-#EXTINF:-1 group-title="数字线路",莲花卫视
-http://59.110.139.3:8080/wzypyt?id=109
-#EXTINF:-1 group-title="数字线路",HBO影院
-http://59.110.139.3:8080/wzypyt?id=123
-#EXTINF:-1 group-title="数字线路",星空卫视
-http://59.110.139.3:8080/wzypyt?id=124
-#EXTINF:-1 group-title="数字线路",华娱卫视
-http://59.110.139.3:8080/wzypyt?id=125
-#EXTINF:-1 group-title="数字线路",天华电影
-http://59.110.139.3:8080/wzypyt?id=102
-#EXTINF:-1 group-title="数字线路",电影一台
-http://59.110.139.3:8080/wzypyt?id=103
-#EXTINF:-1 group-title="数字线路",天映频道
-http://59.110.139.3:8080/wzypyt?id=105
-#EXTINF:-1 group-title="数字线路",农林卫视
-http://59.110.139.3:8080/wzypyt?id=121
-#EXTINF:-1 group-title="数字线路",延边卫视
-http://59.110.139.3:8080/wzypyt?id=034
-#EXTINF:-1 group-title="数字线路",气象频道
-http://59.110.139.3:8080/wzypyt?id=015
-#EXTINF:-1 group-title="数字线路",东方财经
-http://59.110.139.3:8080/wzypyt?id=047
-#EXTINF:-1 group-title="数字线路",武术世界
-http://59.110.139.3:8080/wzypyt?id=085
-#EXTINF:-1 group-title="数字线路",极速汽车
-http://59.110.139.3:8080/wzypyt?id=094
-#EXTINF:-1 group-title="数字线路",劲爆体育
-http://59.110.139.3:8080/wzypyt?id=045
-#EXTINF:-1 group-title="数字线路",中视购物
-http://59.110.139.3:8080/wzypyt?id=057
-#EXTINF:-1 group-title="数字线路",天元围棋
-http://59.110.139.3:8080/wzypyt?id=079
-#EXTINF:-1 group-title="数字线路",现代女性
-http://59.110.139.3:8080/wzypyt?id=056
-#EXTINF:-1 group-title="数字线路",生活时尚
-http://59.110.139.3:8080/wzypyt?id=093
-#EXTINF:-1 group-title="数字线路",七彩戏剧
-http://59.110.139.3:8080/wzypyt?id=091
-#EXTINF:-1 group-title="数字线路",法治天地
-http://59.110.139.3:8080/wzypyt?id=088
-#EXTINF:-1 group-title="数字线路",金色频道
-http://59.110.139.3:8080/wzypyt?id=092
-#EXTINF:-1 group-title="数字线路",欢笑剧场
-http://59.110.139.3:8080/wzypyt?id=089
-#EXTINF:-1 group-title="数字线路",靓妆频道
-http://59.110.139.3:8080/wzypyt?id=073
-#EXTINF:-1 group-title="数字线路",女性时尚
-http://59.110.139.3:8080/wzypyt?id=055
-#EXTINF:-1 group-title="数字线路",彩民在线
-http://59.110.139.3:8080/wzypyt?id=084
-#EXTINF:-1 group-title="数字线路",魅力音乐
-http://59.110.139.3:8080/wzypyt?id=090
-#EXTINF:-1 group-title="数字线路",风云音乐
-http://59.110.139.3:8080/wzypyt?id=067
-#EXTINF:-1 group-title="数字线路",央视精品
-http://59.110.139.3:8080/wzypyt?id=068
-#EXTINF:-1 group-title="数字线路",DV生活
-http://59.110.139.3:8080/wzypyt?id=078
-#EXTINF:-1 group-title="数字线路",梨园频道
-http://59.110.139.3:8080/wzypyt?id=075
-#EXTINF:-1 group-title="数字线路",茶频道
-http://59.110.139.3:8080/wzypyt?id=077
-#EXTINF:-1 group-title="数字线路",老年福
-http://59.110.139.3:8080/wzypyt?id=048
-#EXTINF:-1 group-title="数字线路",老故事
-http://59.110.139.3:8080/wzypyt?id=053
-#EXTINF:-1 group-title="数字线路",优漫卡通
-http://59.110.139.3:8080/wzypyt?id=017
-#EXTINF:-1 group-title="数字线路",炫动卡通
-http://59.110.139.3:8080/wzypyt?id=062
-#EXTINF:-1 group-title="数字线路",早期教育
-http://59.110.139.3:8080/wzypyt?id=083
-#EXTINF:-1 group-title="数字线路",宝贝家
-http://59.110.139.3:8080/wzypyt?id=086
-#EXTINF:-1 group-title="数字线路",新科动漫
-http://59.110.139.3:8080/wzypyt?id=128
-#EXTINF:-1 group-title="数字线路",英语辅导
-http://59.110.139.3:8080/wzypyt?id=082
-#EXTINF:-1 group-title="数字线路",留学世界
-http://59.110.139.3:8080/wzypyt?id=074
-#EXTINF:-1 group-title="数字线路",书画频道
-http://59.110.139.3:8080/wzypyt?id=054
-#EXTINF:-1 group-title="数字线路",国学频道
-http://59.110.139.3:8080/wzypyt?id=127
-#EXTINF:-1 group-title="数字线路",金鹰卡通
-http://59.110.139.3:8080/wzypyt?id=042
-#EXTINF:-1 group-title="数字线路",摄影频道
-http://59.110.139.3:8080/wzypyt?id=081
-#EXTINF:-1 group-title="数字线路",动漫秀场
-http://59.110.139.3:8080/wzypyt?id=044
-#EXTINF:-1 group-title="数字线路",嘉佳卡通
-http://59.110.139.3:8080/wzypyt?id=100
-#EXTINF:-1 group-title="数字线路",文物宝库
-http://59.110.139.3:8080/wzypyt?id=131
-#EXTINF:-1 group-title="数字线路",卫生健康
-http://59.110.139.3:8080/wzypyt?id=058
-#EXTINF:-1 group-title="数字线路",快乐垂钓
-http://59.110.139.3:8080/wzypyt?id=129
-#EXTINF:-1 group-title="数字线路",幸福彩
-http://59.110.139.3:8080/wzypyt?id=049
-#EXTINF:-1 group-title="数字线路",游戏风云
-http://59.110.139.3:8080/wzypyt?id=050
-#EXTINF:-1 group-title="数字线路",游戏竞技
-http://59.110.139.3:8080/wzypyt?id=076
-#EXTINF:-1 group-title="数字线路",汽摩
-http://59.110.139.3:8080/wzypyt?id=080
-#EXTINF:-1 group-title="数字线路",城市建设
-http://59.110.139.3:8080/wzypyt?id=087
-#EXTINF:-1 group-title="数字线路",发现之旅
-http://59.110.139.3:8080/wzypyt?id=052
-#EXTINF:-1 group-title="数字线路",环球奇观
-http://59.110.139.3:8080/wzypyt?id=051
-#EXTINF:-1 group-title="数字线路",全纪实
-http://59.110.139.3:8080/wzypyt?id=046
-#EXTINF:-1 group-title="数字线路",风云足球
-http://59.110.139.3:8080/wzypyt?id=070
-#EXTINF:-1 group-title="数字线路",世界地理
-http://59.110.139.3:8080/wzypyt?id=065
-#EXTINF:-1 group-title="数字线路",国防军事
-http://59.110.139.3:8080/wzypyt?id=066
-#EXTINF:-1 group-title="数字线路",CCTV-1高清
-http://59.110.139.3:8080/wzypyt?id=158
-#EXTINF:-1 group-title="数字线路",CCTV-2高清
-http://59.110.139.3:8080/wzypyt?id=139
-#EXTINF:-1 group-title="数字线路",CCTV-3高清
-http://59.110.139.3:8080/wzypyt?id=152
-#EXTINF:-1 group-title="数字线路",CCTV-4高清
-http://59.110.139.3:8080/wzypyt?id=140
-#EXTINF:-1 group-title="数字线路",CCTV-5高清
-http://59.110.139.3:8080/wzypyt?id=151
-#EXTINF:-1 group-title="数字线路",CCTV-5+高清
-http://59.110.139.3:8080/wzypyt?id=160
-#EXTINF:-1 group-title="数字线路",CCTV-6高清
-http://59.110.139.3:8080/wzypyt?id=159
-#EXTINF:-1 group-title="数字线路",CCTV-7高清
-http://59.110.139.3:8080/wzypyt?id=141
-#EXTINF:-1 group-title="数字线路",CCTV-8高清
-http://59.110.139.3:8080/wzypyt?id=150
-#EXTINF:-1 group-title="数字线路",CCTV-9高清
-http://59.110.139.3:8080/wzypyt?id=142
-#EXTINF:-1 group-title="数字线路",CCTV-10高清
-http://59.110.139.3:8080/wzypyt?id=143
-#EXTINF:-1 group-title="数字线路",CCTV-12高清
-http://59.110.139.3:8080/wzypyt?id=144
-#EXTINF:-1 group-title="数字线路",CCTV-14高清
-http://59.110.139.3:8080/wzypyt?id=145
-#EXTINF:-1 group-title="数字线路",CCTV-3D
-http://59.110.139.3:8080/wzypyt?id=153
-#EXTINF:-1 group-title="数字线路",上海卫视高清
-http://59.110.139.3:8080/wzypyt?id=161
-#EXTINF:-1 group-title="数字线路",安徽卫视高清
-http://59.110.139.3:8080/wzypyt?id=165
-#EXTINF:-1 group-title="数字线路",湖北卫视高清
-http://59.110.139.3:8080/wzypyt?id=164
-#EXTINF:-1 group-title="数字线路",山东卫视高清
-http://59.110.139.3:8080/wzypyt?id=163
-#EXTINF:-1 group-title="数字线路",天津卫视高清
-http://59.110.139.3:8080/wzypyt?id=162
-#EXTINF:-1 group-title="数字线路",江苏卫视高清
-http://59.110.139.3:8080/wzypyt?id=168
-#EXTINF:-1 group-title="数字线路",浙江卫视高清
-http://59.110.139.3:8080/wzypyt?id=167
-#EXTINF:-1 group-title="数字线路",北京卫视高清
-http://59.110.139.3:8080/wzypyt?id=169
-#EXTINF:-1 group-title="数字线路",湖南卫视高清
-http://59.110.139.3:8080/wzypyt?id=166
-#EXTINF:-1 group-title="数字线路",深圳卫视高清
-http://59.110.139.3:8080/wzypyt?id=173
-#EXTINF:-1 group-title="数字线路",广东卫视高清
-http://59.110.139.3:8080/wzypyt?id=172
-#EXTINF:-1 group-title="数字线路",黑龙江卫视高清
-http://59.110.139.3:8080/wzypyt?id=171
-#EXTINF:-1 group-title="数字线路",重庆卫视高清
-http://59.110.139.3:8080/wzypyt?id=170
-#EXTINF:-1 group-title="数字线路",辽宁卫视高清
-http://59.110.139.3:8080/wzypyt?id=137
-#EXTINF:-1 group-title="数字线路",四川卫视高清
-http://59.110.139.3:8080/wzypyt?id=138
-#EXTINF:-1 group-title="数字线路",北京纪实高清
-http://59.110.139.3:8080/wzypyt?id=135
-#EXTINF:-1 group-title="数字线路",上海纪实高清
-http://59.110.139.3:8080/wzypyt?id=136
-#EXTINF:-1 group-title="数字线路",金鹰纪实高清
-http://59.110.139.3:8080/wzypyt?id=134
-#EXTINF:-1 group-title="数字线路",凤凰卫视资讯HD
-http://59.110.139.3:8080/wzypyt?id=154
-#EXTINF:-1 group-title="数字线路",凤凰卫视中文HD
-http://59.110.139.3:8080/wzypyt?id=155
-#EXTINF:-1 group-title="数字线路",凤凰卫视香港HD
-http://59.110.139.3:8080/wzypyt?id=156
-#EXTINF:-1 group-title="数字线路",新视觉HD
-http://59.110.139.3:8080/wzypyt?id=147
-#EXTINF:-1 group-title="数字线路",DMC轮播电影
-http://59.110.139.3:8080/wzypyt?id=148
-#EXTINF:-1 group-title="数字线路",天华探索HD
-http://59.110.139.3:8080/wzypyt?id=149
-#EXTINF:-1 group-title="数字线路",TVB星河
-http://59.110.139.3:8080/wzypyt?id=107
-#EXTINF:-1 group-title="数字线路",HKC电影一台HD
-http://59.110.139.3:8080/wzypyt?id=157
-#EXTINF:-1 group-title="数字线路",天华电影HD
-http://59.110.139.3:8080/wzypyt?id=146
 
-
-
-
-#EXTINF:-1 group-title="数字线路2",CCTV-1综合
-http://59.110.139.3:8080/wzynx?id=001
-#EXTINF:-1 group-title="数字线路2",CCTV-2财经
-http://59.110.139.3:8080/wzynx?id=002
-#EXTINF:-1 group-title="数字线路2",CCTV-3综艺
-http://59.110.139.3:8080/wzynx?id=003
-#EXTINF:-1 group-title="数字线路2",CCTV-4中文国际
-http://59.110.139.3:8080/wzynx?id=004
-#EXTINF:-1 group-title="数字线路2",CCTV-5体育
-http://59.110.139.3:8080/wzynx?id=005
-#EXTINF:-1 group-title="数字线路2",CCTV-6电影
-http://59.110.139.3:8080/wzynx?id=006
-#EXTINF:-1 group-title="数字线路2",CCTV-7军事农业
-http://59.110.139.3:8080/wzynx?id=007
-#EXTINF:-1 group-title="数字线路2",CCTV-8电视剧
-http://59.110.139.3:8080/wzynx?id=008
-#EXTINF:-1 group-title="数字线路2",CCTV-9记录
-http://59.110.139.3:8080/wzynx?id=009
-#EXTINF:-1 group-title="数字线路2",CCTV-10科教
-http://59.110.139.3:8080/wzynx?id=010
-#EXTINF:-1 group-title="数字线路2",CCTV-11戏曲
-http://59.110.139.3:8080/wzynx?id=011
-#EXTINF:-1 group-title="数字线路2",CCTV-12社会与法
-http://59.110.139.3:8080/wzynx?id=012
-#EXTINF:-1 group-title="数字线路2",CCTV-13新闻
-http://59.110.139.3:8080/wzynx?id=013
-#EXTINF:-1 group-title="数字线路2",CCTV-14少儿
-http://59.110.139.3:8080/wzynx?id=015
-#EXTINF:-1 group-title="数字线路2",湖南卫视
-http://59.110.139.3:8080/wzynx?id=021
-#EXTINF:-1 group-title="数字线路2",江苏卫视
-http://59.110.139.3:8080/wzynx?id=027
-#EXTINF:-1 group-title="数字线路2",浙江卫视
-http://59.110.139.3:8080/wzynx?id=028
-#EXTINF:-1 group-title="数字线路2",山东卫视
-http://59.110.139.3:8080/wzynx?id=029
-#EXTINF:-1 group-title="数字线路2",北京卫视
-http://59.110.139.3:8080/wzynx?id=030
-#EXTINF:-1 group-title="数字线路2",东方卫视
-http://59.110.139.3:8080/wzynx?id=031
-#EXTINF:-1 group-title="数字线路2",天津卫视
-http://59.110.139.3:8080/wzynx?id=032
-#EXTINF:-1 group-title="数字线路2",重庆卫视
-http://59.110.139.3:8080/wzynx?id=033
-#EXTINF:-1 group-title="数字线路2",安徽卫视
-http://59.110.139.3:8080/wzynx?id=034
-#EXTINF:-1 group-title="数字线路2",甘肃卫视
-http://59.110.139.3:8080/wzynx?id=035
-#EXTINF:-1 group-title="数字线路2",宁夏卫视
-http://59.110.139.3:8080/wzynx?id=017
-#EXTINF:-1 group-title="数字线路2",青海卫视
-http://59.110.139.3:8080/wzynx?id=036
-#EXTINF:-1 group-title="数字线路2",环球购物
-http://59.110.139.3:8080/wzynx?id=037
-#EXTINF:-1 group-title="数字线路2",家有购物
-http://59.110.139.3:8080/wzynx?id=014
-#EXTINF:-1 group-title="数字线路2",金鹰卡通
-http://59.110.139.3:8080/wzynx?id=038
-#EXTINF:-1 group-title="数字线路2",四川卫视
-http://59.110.139.3:8080/wzynx?id=039
-#EXTINF:-1 group-title="数字线路2",云南卫视
-http://59.110.139.3:8080/wzynx?id=040
-#EXTINF:-1 group-title="数字线路2",贵州卫视
-http://59.110.139.3:8080/wzynx?id=041
-#EXTINF:-1 group-title="数字线路2",内蒙古卫视
-http://59.110.139.3:8080/wzynx?id=042
-#EXTINF:-1 group-title="数字线路2",河北卫视
-http://59.110.139.3:8080/wzynx?id=043
-#EXTINF:-1 group-title="数字线路2",山西卫视
-http://59.110.139.3:8080/wzynx?id=044
-#EXTINF:-1 group-title="数字线路2",辽宁卫视
-http://59.110.139.3:8080/wzynx?id=045
-#EXTINF:-1 group-title="数字线路2",吉林卫视
-http://59.110.139.3:8080/wzynx?id=046
-#EXTINF:-1 group-title="数字线路2",黑龙江卫视
-http://59.110.139.3:8080/wzynx?id=047
-#EXTINF:-1 group-title="数字线路2",河南卫视
-http://59.110.139.3:8080/wzynx?id=048
-#EXTINF:-1 group-title="数字线路2",陕西卫视
-http://59.110.139.3:8080/wzynx?id=049
-#EXTINF:-1 group-title="数字线路2",湖北卫视
-http://59.110.139.3:8080/wzynx?id=050
-#EXTINF:-1 group-title="数字线路2",江西卫视
-http://59.110.139.3:8080/wzynx?id=051
-#EXTINF:-1 group-title="数字线路2",福建东南卫视
-http://59.110.139.3:8080/wzynx?id=052
-#EXTINF:-1 group-title="数字线路2",广东卫视
-http://59.110.139.3:8080/wzynx?id=053
-#EXTINF:-1 group-title="数字线路2",广西卫视
-http://59.110.139.3:8080/wzynx?id=054
-#EXTINF:-1 group-title="数字线路2",深圳卫视
-http://59.110.139.3:8080/wzynx?id=055
-#EXTINF:-1 group-title="数字线路2",旅游卫视
-http://59.110.139.3:8080/wzynx?id=056
-#EXTINF:-1 group-title="数字线路2",兵团卫视
-http://59.110.139.3:8080/wzynx?id=057
-#EXTINF:-1 group-title="数字线路2",新疆卫视
-http://59.110.139.3:8080/wzynx?id=062
-#EXTINF:-1 group-title="数字线路2",西藏卫视
-http://59.110.139.3:8080/wzynx?id=063
-#EXTINF:-1 group-title="数字线路2",中国气象频道
-http://59.110.139.3:8080/wzynx?id=064
-#EXTINF:-1 group-title="数字线路2",CCTVNEWS
-http://59.110.139.3:8080/wzynx?id=058
-#EXTINF:-1 group-title="数字线路2",CCTV蒙文
-http://59.110.139.3:8080/wzynx?id=059
-#EXTINF:-1 group-title="数字线路2",CCTV-15音乐
-http://59.110.139.3:8080/wzynx?id=060
-#EXTINF:-1 group-title="数字线路2",CETV-1
-http://59.110.139.3:8080/wzynx?id=061
-#EXTINF:-1 group-title="数字线路2",CCTV中学生
-http://59.110.139.3:8080/wzynx?id=065
-#EXTINF:-1 group-title="数字线路2",CHC家庭影院
-http://59.110.139.3:8080/wzynx?id=066
-#EXTINF:-1 group-title="数字线路2",CCTV国防军事
-http://59.110.139.3:8080/wzynx?id=067
-#EXTINF:-1 group-title="数字线路2",江苏靓妆
-http://59.110.139.3:8080/wzynx?id=068
-#EXTINF:-1 group-title="数字线路2",考试在线
-http://59.110.139.3:8080/wzynx?id=069
-#EXTINF:-1 group-title="数字线路2",四海钓鱼
-http://59.110.139.3:8080/wzynx?id=070
-#EXTINF:-1 group-title="数字线路2",车迷频道
-http://59.110.139.3:8080/wzynx?id=071
-#EXTINF:-1 group-title="数字线路2",新娱乐
-http://59.110.139.3:8080/wzynx?id=072
-#EXTINF:-1 group-title="数字线路2",人物频道
-http://59.110.139.3:8080/wzynx?id=073
-#EXTINF:-1 group-title="数字线路2",环球旅游
-http://59.110.139.3:8080/wzynx?id=074
-#EXTINF:-1 group-title="数字线路2",天下收藏
-http://59.110.139.3:8080/wzynx?id=075
-#EXTINF:-1 group-title="数字线路2",武术世界
-http://59.110.139.3:8080/wzynx?id=076
-#EXTINF:-1 group-title="数字线路2",江苏财富天下
-http://59.110.139.3:8080/wzynx?id=077
-#EXTINF:-1 group-title="数字线路2",CCTV发现之旅
-http://59.110.139.3:8080/wzynx?id=078
-#EXTINF:-1 group-title="数字线路2",英语辅导
-http://59.110.139.3:8080/wzynx?id=079
-#EXTINF:-1 group-title="数字线路2",时代出行
-http://59.110.139.3:8080/wzynx?id=080
-#EXTINF:-1 group-title="数字线路2",天元围棋
-http://59.110.139.3:8080/wzynx?id=081
-#EXTINF:-1 group-title="数字线路2",摄影频道
-http://59.110.139.3:8080/wzynx?id=082
-#EXTINF:-1 group-title="数字线路2",CCTV怀旧剧场
-http://59.110.139.3:8080/wzynx?id=083
-#EXTINF:-1 group-title="数字线路2",CCTV风云音乐
-http://59.110.139.3:8080/wzynx?id=084
-#EXTINF:-1 group-title="数字线路2",CCTV风云剧场
-http://59.110.139.3:8080/wzynx?id=085
-#EXTINF:-1 group-title="数字线路2",时代美食
-http://59.110.139.3:8080/wzynx?id=086
-#EXTINF:-1 group-title="数字线路2",CCTV新科动漫
-http://59.110.139.3:8080/wzynx?id=087
-#EXTINF:-1 group-title="数字线路2",快乐宠物
-http://59.110.139.3:8080/wzynx?id=088
-#EXTINF:-1 group-title="数字线路2",CCTV风云足球
-http://59.110.139.3:8080/wzynx?id=089
-#EXTINF:-1 group-title="数字线路2",书法世界
-http://59.110.139.3:8080/wzynx?id=090
-#EXTINF:-1 group-title="数字线路2",CCTV老故事
-http://59.110.139.3:8080/wzynx?id=091
-#EXTINF:-1 group-title="数字线路2",CCTV世界地理
-http://59.110.139.3:8080/wzynx?id=092
-#EXTINF:-1 group-title="数字线路2",环球奇观
-http://59.110.139.3:8080/wzynx?id=093
-#EXTINF:-1 group-title="数字线路2",CCTV第一剧场
-http://59.110.139.3:8080/wzynx?id=094
-#EXTINF:-1 group-title="数字线路2",CCTV央视文化精品
-http://59.110.139.3:8080/wzynx?id=095
-#EXTINF:-1 group-title="数字线路2",CCTV女性时尚
-http://59.110.139.3:8080/wzynx?id=096
-#EXTINF:-1 group-title="数字线路2",CETV早期教育
-http://59.110.139.3:8080/wzynx?id=097
-#EXTINF:-1 group-title="数字线路2",梨园频道
-http://59.110.139.3:8080/wzynx?id=098
-#EXTINF:-1 group-title="数字线路2",老年福
-http://59.110.139.3:8080/wzynx?id=099
-#EXTINF:-1 group-title="数字线路2",CHC动作电影
-http://59.110.139.3:8080/wzynx?id=100
-#EXTINF:-1 group-title="数字线路2",湖南先锋乒羽
-http://59.110.139.3:8080/wzynx?id=101
-#EXTINF:-1 group-title="数字线路2",Food中华美食
-http://59.110.139.3:8080/wzynx?id=102
-#EXTINF:-1 group-title="数字线路2",网络棋牌
-http://59.110.139.3:8080/wzynx?id=103
-#EXTINF:-1 group-title="数字线路2",新动漫
-http://59.110.139.3:8080/wzynx?id=104
-#EXTINF:-1 group-title="数字线路2",篮球
-http://59.110.139.3:8080/wzynx?id=105
-#EXTINF:-1 group-title="数字线路2",华娱卫视
-http://59.110.139.3:8080/wzynx?id=106
-#EXTINF:-1 group-title="数字线路2",凤凰卫视中文
-http://59.110.139.3:8080/wzynx?id=107
-#EXTINF:-1 group-title="数字线路2",星空卫视
-http://59.110.139.3:8080/wzynx?id=108
-#EXTINF:-1 group-title="数字线路2",TVB8
-http://59.110.139.3:8080/wzynx?id=109
-#EXTINF:-1 group-title="数字线路2",凤凰卫视资讯
-http://59.110.139.3:8080/wzynx?id=110
-#EXTINF:-1 group-title="数字线路2",星空卫视电影
-http://59.110.139.3:8080/wzynx?id=111
-#EXTINF:-1 group-title="数字线路2",凤凰卫视电影
-http://59.110.139.3:8080/wzynx?id=112
-#EXTINF:-1 group-title="数字线路2",[V]音乐亚洲
-http://59.110.139.3:8080/wzynx?id=113
-#EXTINF:-1 group-title="数字线路2",国家地理
-http://59.110.139.3:8080/wzynx?id=114
-#EXTINF:-1 group-title="数字线路2",HBO亚洲电影
-http://59.110.139.3:8080/wzynx?id=115
-#EXTINF:-1 group-title="数字线路2",天映频道
-http://59.110.139.3:8080/wzynx?id=116
-#EXTINF:-1 group-title="数字线路2",CHC高清电影
-http://59.110.139.3:8080/wzynx?id=121
-#EXTINF:-1 group-title="数字线路2",BTV北京卫视高清
-http://59.110.139.3:8080/wzynx?id=122
-#EXTINF:-1 group-title="数字线路2",东方卫视高清
-http://59.110.139.3:8080/wzynx?id=123
-#EXTINF:-1 group-title="数字线路2",湖南卫视高清
-http://59.110.139.3:8080/wzynx?id=124
-#EXTINF:-1 group-title="数字线路2",江苏卫视高清
-http://59.110.139.3:8080/wzynx?id=125
-#EXTINF:-1 group-title="数字线路2",浙江卫视高清
-http://59.110.139.3:8080/wzynx?id=126
-#EXTINF:-1 group-title="数字线路2",广东卫视高清
-http://59.110.139.3:8080/wzynx?id=127
-#EXTINF:-1 group-title="数字线路2",深圳卫视高清
-http://59.110.139.3:8080/wzynx?id=128
-#EXTINF:-1 group-title="数字线路2",天津卫视高清
-http://59.110.139.3:8080/wzynx?id=133
-#EXTINF:-1 group-title="数字线路2",山东卫视高清
-http://59.110.139.3:8080/wzynx?id=134
-#EXTINF:-1 group-title="数字线路2",湖北卫视高清
-http://59.110.139.3:8080/wzynx?id=135
-#EXTINF:-1 group-title="数字线路2",黑龙江卫视高清
-http://59.110.139.3:8080/wzynx?id=136
-#EXTINF:-1 group-title="数字线路2",CCTV-1综合高清
-http://59.110.139.3:8080/wzynx?id=119
-#EXTINF:-1 group-title="数字线路2",CCTV-5+体育赛事高清
-http://59.110.139.3:8080/wzynx?id=120
-#EXTINF:-1 group-title="数字线路2",CCTV-3综艺高清
-http://59.110.139.3:8080/wzynx?id=129
-#EXTINF:-1 group-title="数字线路2",CCTV-5体育高清
-http://59.110.139.3:8080/wzynx?id=130
-#EXTINF:-1 group-title="数字线路2",CCTV-6电影高清
-http://59.110.139.3:8080/wzynx?id=131
-#EXTINF:-1 group-title="数字线路2",CCTV-8电视剧高清
-http://59.110.139.3:8080/wzynx?id=132
-#EXTINF:-1 group-title="数字线路2",CCTV-2财经高清
-http://59.110.139.3:8080/wzynx?id=137
-#EXTINF:-1 group-title="数字线路2",CCTV-7军事农业高清
-http://59.110.139.3:8080/wzynx?id=138
-#EXTINF:-1 group-title="数字线路2",CCTV-9记录高清
-http://59.110.139.3:8080/wzynx?id=139
-#EXTINF:-1 group-title="数字线路2",CCTV-10科教高清
-http://59.110.139.3:8080/wzynx?id=140
-#EXTINF:-1 group-title="数字线路2",CCTV-12社会与法高清
-http://59.110.139.3:8080/wzynx?id=141
-#EXTINF:-1 group-title="数字线路2",CCTV-14少儿高清
-http://59.110.139.3:8080/wzynx?id=142
-#EXTINF:-1 group-title="数字线路2",辽宁卫视高清
-http://59.110.139.3:8080/wzynx?id=143
-#EXTINF:-1 group-title="数字线路2",四川卫视高清
-http://59.110.139.3:8080/wzynx?id=198
-#EXTINF:-1 group-title="数字线路2",天华高清电影
-http://59.110.139.3:8080/wzynx?id=144
-#EXTINF:-1 group-title="数字线路2",天华高清剧集
-http://59.110.139.3:8080/wzynx?id=145
-#EXTINF:-1 group-title="数字线路2",韩国综艺
-http://59.110.139.3:8080/wzynx?id=146
-#EXTINF:-1 group-title="数字线路2",天华高清探索
-http://59.110.139.3:8080/wzynx?id=147
-#EXTINF:-1 group-title="数字线路2",极速汽车
-http://59.110.139.3:8080/wzynx?id=148
-#EXTINF:-1 group-title="数字线路2",都市剧场
-http://59.110.139.3:8080/wzynx?id=149
-#EXTINF:-1 group-title="数字线路2",欢笑剧场
-http://59.110.139.3:8080/wzynx?id=150
-#EXTINF:-1 group-title="数字线路2",生活时尚
-http://59.110.139.3:8080/wzynx?id=151
-#EXTINF:-1 group-title="数字线路2",全纪实
-http://59.110.139.3:8080/wzynx?id=152
-#EXTINF:-1 group-title="数字线路2",劲爆体育
-http://59.110.139.3:8080/wzynx?id=153
-#EXTINF:-1 group-title="数字线路2",魅力音乐
-http://59.110.139.3:8080/wzynx?id=154
-#EXTINF:-1 group-title="数字线路2",幸福彩
-http://59.110.139.3:8080/wzynx?id=155
-#EXTINF:-1 group-title="数字线路2",动漫秀场
-http://59.110.139.3:8080/wzynx?id=156
-#EXTINF:-1 group-title="数字线路2",游戏风云
-http://59.110.139.3:8080/wzynx?id=157
-#EXTINF:-1 group-title="数字线路2",求索记录
-http://59.110.139.3:8080/wzynx?id=158
-#EXTINF:-1 group-title="数字线路2",求索动物
-http://59.110.139.3:8080/wzynx?id=159
-#EXTINF:-1 group-title="数字线路2",求索生活
-http://59.110.139.3:8080/wzynx?id=160
-#EXTINF:-1 group-title="数字线路2",求索科学
-http://59.110.139.3:8080/wzynx?id=161
-#EXTINF:-1 group-title="数字线路2",HOT亚洲影院
-http://59.110.139.3:8080/wzynx?id=162
-#EXTINF:-1 group-title="数字线路2",HOT欧美影院
-http://59.110.139.3:8080/wzynx?id=163
-#EXTINF:-1 group-title="数字线路2",HOT精品剧场
-http://59.110.139.3:8080/wzynx?id=164
-#EXTINF:-1 group-title="数字线路2",新视觉HD
-http://59.110.139.3:8080/wzynx?id=165
-#EXTINF:-1 group-title="数字线路2",HOT风尚音乐
-http://59.110.139.3:8080/wzynx?id=166
-#EXTINF:-1 group-title="数字线路2",HOT少儿动漫
-http://59.110.139.3:8080/wzynx?id=167
-#EXTINF:-1 group-title="数字线路2",3D试验频道
-http://59.110.139.3:8080/wzynx?id=168
-#EXTINF:-1 group-title="数字线路2",HOT高清娱乐
-http://59.110.139.3:8080/wzynx?id=169
-#EXTINF:-1 group-title="数字线路2",HOT探索记录
-http://59.110.139.3:8080/wzynx?id=170
-#EXTINF:-1 group-title="数字线路2",优漫卡通
-http://59.110.139.3:8080/wzynx?id=172
-#EXTINF:-1 group-title="数字线路2",游戏竞技
-http://59.110.139.3:8080/wzynx?id=173
-#EXTINF:-1 group-title="数字线路2",家有购物
-http://59.110.139.3:8080/wzynx?id=174
-#EXTINF:-1 group-title="数字线路2",DOX映画HD
-http://59.110.139.3:8080/wzynx?id=190
-#EXTINF:-1 group-title="数字线路2",DOX剧场HD
-http://59.110.139.3:8080/wzynx?id=191
-#EXTINF:-1 group-title="数字线路2",DOX新知HD
-http://59.110.139.3:8080/wzynx?id=192
-#EXTINF:-1 group-title="数字线路2",DOX新艺HD
-http://59.110.139.3:8080/wzynx?id=193
-#EXTINF:-1 group-title="数字线路2",DOX怡家HD
-http://59.110.139.3:8080/wzynx?id=194
-#EXTINF:-1 group-title="数字线路2",DOX英伦HD
-http://59.110.139.3:8080/wzynx?id=195
-#EXTINF:-1 group-title="数字线路2",DOX院线HD
-http://59.110.139.3:8080/wzynx?id=196
-#EXTINF:-1 group-title="数字线路2",DOX韩流HD
-http://59.110.139.3:8080/wzynx?id=197
-
-
-
-
-#EXTINF:-1 group-title="台湾",I罪案现场
-http://kb1.ottclub.info:443/kitty/c558.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",CATCHPLAY电影
-http://kb1.ottclub.info:443/kitty/c655.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中视新闻
-http://kb1.ottclub.info:443/kitty/c656.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",八大第1HD
-http://kb1.ottclub.info:443/water/c657.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",卫视中文HD
-http://kb1.ottclub.info:443/water/c658.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",三立都会HD
-http://kb1.ottclub.info:443/water/c659.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",TVBS欢乐HD
-http://kb1.ottclub.info:443/water/c660.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",三立新闻HD
-http://kb1.ottclub.info:443/water/c661.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",TVBS新闻HD
-http://kb1.ottclub.info:443/water/c662.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",纬来体育HD
-http://kb1.ottclub.info:443/water/c663.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",纬来日本HD
-http://kb1.ottclub.info:443/water/c664.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",FOX体育2
-http://kb1.ottclub.info:443/kitty/c665.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",纬来育乐
-http://kb1.ottclub.info:443/kitty/c666.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",卫视电影
-http://kb1.ottclub.info:443/kitty/c667.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",MOMO亲子
-http://kb1.ottclub.info:443/kitty/c668.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中天新闻HD
-http://kb1.ottclub.info:443/water/c669.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",TCL旅游生活
-http://kb1.ottclub.info:443/water/c670.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",台视HD
-http://kb1.ottclub.info:443/water/c671.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",华视HD
-http://kb1.ottclub.info:443/water/c672.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",WIN综合HD
-http://kb1.ottclub.info:443/water/c673.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",动物星球
-http://kb1.ottclub.info:443/water/c676.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",CN卡通频道
-http://kb1.ottclub.info:443/water/c678.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",AXN动作电影
-http://kb1.ottclub.info:443/water/c679.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",民视新闻HD
-http://kb1.ottclub.info:443/water/c687.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中天新闻HD
-http://kb1.ottclub.info:443/water/c688.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",TVBSHD
-http://kb1.ottclub.info:443/water/c689.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",DMAX
-http://kb1.ottclub.info:443/kitty/c700.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森新闻HD
-http://kb1.ottclub.info:443/water/c691.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",民视
-http://kb1.ottclub.info:443/water/c692.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森洋片
-http://kb1.ottclub.info:443/water/c694.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",三立台湾
-http://kb1.ottclub.info:443/water/c696.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",八大综合
-http://kb1.ottclub.info:443/water/c697.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",迪士尼
-http://kb1.ottclub.info:443/water/c698.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",cinemax
-http://kb1.ottclub.info:443/water/c699.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中视菁采
-http://kb1.ottclub.info:443/kitty/c701.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",FOX家庭影院
-http://kb1.ottclub.info:443/water/c702.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",环球影院
-http://kb1.ottclub.info:443/kitty/c703.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",美亚电影HD
-http://kb1.ottclub.info:443/kitty/c704.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",星卫HD电影
-http://kb1.ottclub.info:443/water/c705.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",国家地理HD
-http://kb1.ottclub.info:443/water/c706.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",国家地理野生
-http://kb1.ottclub.info:443/kitty/c707.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",ANIMAX动漫HD
-http://kb1.ottclub.info:443/kitty/c708.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",博斯高球2
-http://kb1.ottclub.info:443/kitty/c709.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",纬来戏剧
-http://kb1.ottclub.info:443/water/c710.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",卫视合家欢
-http://kb1.ottclub.info:443/kitty/c711.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",非凡新闻
-http://kb1.ottclub.info:443/water/c712.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",国兴卫视
-http://kb1.ottclub.info:443/water/c713.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东风37
-http://kb1.ottclub.info:443/kitty/c714.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",八大戏剧
-http://kb1.ottclub.info:443/water/c715.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",Syfy恐怖电影
-http://kb1.ottclub.info:443/kitty/c716.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",韩国tvN娱乐
-http://kb1.ottclub.info:443/kitty/c717.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",韩国娱乐
-http://kb1.ottclub.info:443/kitty/c718.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",BBC生活
-http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中天综合HD
-http://kb1.ottclub.info:443/water/c720.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",BBC生活
-http://kb1.ottclub.info:443/kitty/c721.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",博斯高球
-http://kb1.ottclub.info:443/kitty/c722.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",三立财经
-http://kb1.ottclub.info:443/kitty/c723.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",Babytv
-http://kb1.ottclub.info:443/kitty/c724.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",JET综合
-http://kb1.ottclub.info:443/water/c725.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",年代MUCH
-http://kb1.ottclub.info:443/kitty/c726.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森幼幼
-http://kb1.ottclub.info:443/water/c727.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中天娱乐
-http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",日本Z频道
-http://kb1.ottclub.info:443/kitty/c729.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",FOX3体育
-http://kb1.ottclub.info:443/water/c730.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",FOX娱乐HD
-http://kb1.ottclub.info:443/water/c731.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",壹新闻
-http://kb1.ottclub.info:443/water/c732.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森财经新闻
-http://kb1.ottclub.info:443/water/c733.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森电影
-http://kb1.ottclub.info:443/water/c734.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",纬来综合
-http://kb1.ottclub.info:443/kitty/c735.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",年代新闻HD
-http://kb1.ottclub.info:443/water/c736.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森综合
-http://kb1.ottclub.info:443/kitty/c737.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",壹综合
-http://kb1.ottclub.info:443/kitty/c738.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中视HD
-http://kb1.ottclub.info:443/water/c739.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",韩国tvN娱乐
-http://kb1.ottclub.info:443/kitty/c740.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",MTV音乐HD
-http://kb1.ottclub.info:443/kitty/c741.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",星卫娱乐
-http://kb1.ottclub.info:443/kitty/c742.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",EVE健康生活
-http://kb1.ottclub.info:443/kitty/c743.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",探索世界HD
-http://kb1.ottclub.info:443/water/c744.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",卫视西片HD
-http://kb1.ottclub.info:443/water/c746.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",探索科学
-http://kb1.ottclub.info:443/kitty/c747.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",台视
-http://kb1.ottclub.info:443/water/c671.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中视
-http://kb1.ottclub.info:443/water/c739.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中视菁采
-http://kb1.ottclub.info:443/kitty/c701.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",华视
-http://kb1.ottclub.info:443/water/c672.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",民视
-http://kb1.ottclub.info:443/water/c692.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",民视台湾
-http://kb1.ottclub.info:443/kitty/c693.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",TLC旅游生活
-http://kb1.ottclub.info:443/water/c670.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",国家地理HD
-http://kb1.ottclub.info:443/water/c706.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA#http://kb1.ottclub.info:443/kitty/c707.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",探索家庭
-http://kb1.ottclub.info:443/kitty/c743.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",探索动力
-http://kb1.ottclub.info:443/kitty/c700.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",探索科学
-http://kb1.ottclub.info:443/kitty/c747.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",探索世界
-http://kb1.ottclub.info:443/water/c744.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",韩国娱乐
-http://kb1.ottclub.info:443/kitty/c718.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",韩tvN
-http://kb1.ottclub.info:443/kitty/c740.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",壹综合
-http://kb1.ottclub.info:443/kitty/c738.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",MTVHD
-http://kb1.ottclub.info:443/kitty/c741.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",三立台湾
-http://kb1.ottclub.info:443/water/c696.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",三立都会
-http://kb1.ottclub.info:443/water/c659.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",八大第一
-http://kb1.ottclub.info:443/water/c657.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",八大综合
-http://kb1.ottclub.info:443/water/c697.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",八大戏剧
-http://kb1.ottclub.info:443/water/c715.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",星卫娱乐
-http://kb1.ottclub.info:443/kitty/c742.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",卫视中文
-http://kb1.ottclub.info:443/water/c658.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东风37
-http://kb1.ottclub.info:443/kitty/c714.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",JET综合
-http://kb1.ottclub.info:443/water/c725.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",年代MUCH
-http://kb1.ottclub.info:443/kitty/c726.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森戏剧
-http://kb1.ottclub.info:443/water/c669.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森超视
-http://kb1.ottclub.info:443/kitty/c695.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森综合
-http://kb1.ottclub.info:443/kitty/c737.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森洋片
-http://kb1.ottclub.info:443/water/c694.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森电影
-http://kb1.ottclub.info:443/water/c734.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",纬来育乐
-http://kb1.ottclub.info:443/kitty/c666.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",纬来戏剧
-http://kb1.ottclub.info:443/water/c710.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",纬来综合
-http://kb1.ottclub.info:443/kitty/c735.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",纬来日本
-http://kb1.ottclub.info:443/water/c664.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",国兴卫视
-http://kb1.ottclub.info:443/water/c713.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中天娱乐
-http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中天综合
-http://kb1.ottclub.info:443/water/c720.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",TVBS
-http://kb1.ottclub.info:443/water/c689.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",TVBS欢乐
-http://kb1.ottclub.info:443/water/c660.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",AXN
-http://kb1.ottclub.info:443/water/c679.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",Z频道
-http://kb1.ottclub.info:443/kitty/c729.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",ci罪案侦缉
-http://kb1.ottclub.info:443/kitty/c558.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",syfy惊悚
-http://kb1.ottclub.info:443/kitty/c716.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",HBOHD
-http://kb1.ottclub.info:443/water/c685.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",HBO原创
-http://kb1.ottclub.info:443/kitty/c690.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",HBO强档
-http://kb1.ottclub.info:443/kitty/c684.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",HBO温馨
-http://kb1.ottclub.info:443/kitty/c686.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",FOXHD
-http://kb1.ottclub.info:443/water/c731.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",FOX家庭电影
-http://kb1.ottclub.info:443/water/c702.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",BBC生活
-http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",CINEMAX
-http://kb1.ottclub.info:443/water/c699.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",CATCHPLAY电影
-http://kb1.ottclub.info:443/kitty/c655.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",环球影剧
-http://kb1.ottclub.info:443/kitty/c703.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",美亚电影
-http://kb1.ottclub.info:443/kitty/c704.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",卫视閤家欢
-http://kb1.ottclub.info:443/kitty/c711.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",卫视电影
-http://kb1.ottclub.info:443/kitty/c667.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",星电影HD
-http://kb1.ottclub.info:443/water/c746.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",星卫HD电影
-http://kb1.ottclub.info:443/water/c705.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",ANIMAX动漫
-http://kb1.ottclub.info:443/kitty/c708.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",纬来体育
-http://kb1.ottclub.info:443/water/c663.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",FOX-2体育
-http://kb1.ottclub.info:443/kitty/c665.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",FOX-3体育
-http://kb1.ottclub.info:443/water/c730.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",博斯高球
-http://kb1.ottclub.info:443/kitty/c722.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",博斯高球Ⅱ
-http://kb1.ottclub.info:443/kitty/c709.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",ELTA体育
-http://kb1.ottclub.info:443/kitty/c717.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",ASN体育
-http://kb1.ottclub.info:443/kitty/c721.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",壹新闻
-http://kb1.ottclub.info:443/water/c732.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",民视新闻
-http://kb1.ottclub.info:443/water/c687.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",年代新闻
-http://kb1.ottclub.info:443/water/c736.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",三立新闻
-http://kb1.ottclub.info:443/water/c661.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",三立财经
-http://kb1.ottclub.info:443/kitty/c723.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中视新闻
-http://kb1.ottclub.info:443/kitty/c656.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",中天新闻
-http://kb1.ottclub.info:443/water/c688.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森新闻
-http://kb1.ottclub.info:443/water/c691.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森财经
-http://kb1.ottclub.info:443/water/c733.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",TVBS新闻
-http://kb1.ottclub.info:443/water/c662.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",非凡新闻
-http://kb1.ottclub.info:443/water/c712.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",BBC
-http://kb1.ottclub.info:443/kitty/c677.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",CNN
-http://kb1.ottclub.info:443/kitty/c675.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",大爱
-http://kb1.ottclub.info:443/water/c559.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",CN卡通
-http://kb1.ottclub.info:443/water/c678.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",MOMO亲子
-http://kb1.ottclub.info:443/kitty/c668.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",Babytv
-http://kb1.ottclub.info:443/kitty/c724.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",东森幼幼
-http://kb1.ottclub.info:443/water/c727.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-#EXTINF:-1 group-title="台湾",迪士尼卡通
-http://kb1.ottclub.info:443/water/c698.stream/playlist.m3u8?a=58802515&b=q5NhVKB9M242IPVp_bZaRA
-
-
-
-#EXTINF:-1 group-title="台湾q8kk",凤凰卫视HD
-http://c.q8kk.com/qtv.php?id=fhwshd
-#EXTINF:-1 group-title="台湾q8kk",凤凰资讯HD
-http://c.q8kk.com/qtv.php?id=fhzxhd
-#EXTINF:-1 group-title="台湾q8kk",凤凰香港HD
-http://c.q8kk.com/qtv.php?id=fhxghd
-#EXTINF:-1 group-title="台湾q8kk",翡翠台★
-http://c.q8kk.com/qtv.php?id=fct
-#EXTINF:-1 group-title="台湾q8kk",J2
-http://c.q8kk.com/qtv.php?id=j2
-#EXTINF:-1 group-title="台湾q8kk",J5
-http://c.q8kk.com/qtv.php?id=j5
-#EXTINF:-1 group-title="台湾q8kk",互动新闻HD
-http://c.q8kk.com/qtv.php?id=hdxwhd
-#EXTINF:-1 group-title="台湾q8kk",明珠台
-http://c.q8kk.com/qtv.php?id=mzt
-#EXTINF:-1 group-title="台湾q8kk",TVB星河
-http://c.q8kk.com/qtv.php?id=tvbxh
-#EXTINF:-1 group-title="台湾q8kk",NOWTV
-http://c.q8kk.com/qtv.php?id=nowtv
-#EXTINF:-1 group-title="台湾q8kk",星空卫视
-http://c.q8kk.com/qtv.php?id=xkws
-#EXTINF:-1 group-title="台湾q8kk",澳门莲花
-http://c.q8kk.com/qtv.php?id=amlh
-#EXTINF:-1 group-title="台湾q8kk",阳光卫视
-http://c.q8kk.com/qtv.php?id=ygws
-#EXTINF:-1 group-title="台湾q8kk",国家地理频道
-http://c.q8kk.com/qtv.php?id=gjdlpd
-#EXTINF:-1 group-title="台湾q8kk",国家地理野生频道HD
-http://c.q8kk.com/qtv.php?id=gjdlyspd
-#EXTINF:-1 group-title="台湾q8kk",HBOHD★
-http://c.q8kk.com/qtv.php?id=hbohd
-#EXTINF:-1 group-title="台湾q8kk",HBO强档巨献★
-http://c.q8kk.com/qtv.php?id=hboqdjx
-#EXTINF:-1 group-title="台湾q8kk",HBO原创巨献★
-http://c.q8kk.com/qtv.php?id=hboycjx
-#EXTINF:-1 group-title="台湾q8kk",HBO温馨家庭★
-http://c.q8kk.com/qtv.php?id=hbowxjt
-#EXTINF:-1 group-title="台湾q8kk",FOX警匪HD
-http://c.q8kk.com/qtv.php?id=foxjfhd
-#EXTINF:-1 group-title="台湾q8kk",FOXPlusHD
-http://c.q8kk.com/qtv.php?id=foxplus
-#EXTINF:-1 group-title="台湾q8kk",FOX动作电影
-http://c.q8kk.com/qtv.php?id=foxdzdy
-#EXTINF:-1 group-title="台湾q8kk",FOX优质电影
-http://c.q8kk.com/qtv.php?id=foxyzdy
-#EXTINF:-1 group-title="台湾q8kk",FOX家庭影院
-http://c.q8kk.com/qtv.php?id=foxjtyy
-#EXTINF:-1 group-title="台湾q8kk",卫视卡式台HD
-http://c.q8kk.com/qtv.php?id=wskst
-#EXTINF:-1 group-title="台湾q8kk",星卫HD电影
-http://c.q8kk.com/qtv.php?id=xwhddy
-#EXTINF:-1 group-title="台湾q8kk",美亚电影台HD
-http://c.q8kk.com/qtv.php?id=mydythd
-#EXTINF:-1 group-title="台湾q8kk",龙华电影
-http://c.q8kk.com/qtv.php?id=longhdy
-#EXTINF:-1 group-title="台湾q8kk",卫视电影台湾
-http://c.q8kk.com/qtv.php?id=wsdytw
-#EXTINF:-1 group-title="台湾q8kk",凤凰电影
-http://c.q8kk.com/qtv.php?id=fenghuangdy
-#EXTINF:-1 group-title="台湾q8kk",卫视洋片HD
-http://c.q8kk.com/qtv.php?id=wsyphd
-#EXTINF:-1 group-title="台湾q8kk",卫视中文电影
-http://c.q8kk.com/qtv.php?id=wszwdy
-#EXTINF:-1 group-title="台湾q8kk",天映电影
-http://c.q8kk.com/qtv.php?id=tydy
-#EXTINF:-1 group-title="台湾q8kk",龙祥电影
-http://c.q8kk.com/qtv.php?id=lxdy
-#EXTINF:-1 group-title="台湾q8kk",东森电影
-http://c.q8kk.com/qtv.php?id=dsdy
-#EXTINF:-1 group-title="台湾q8kk",纬来电影
-http://c.q8kk.com/qtv.php?id=wldy
-#EXTINF:-1 group-title="台湾q8kk",天映经典
-http://c.q8kk.com/qtv.php?id=tyjd
-#EXTINF:-1 group-title="台湾q8kk",东森洋片
-http://c.q8kk.com/qtv.php?id=dsyp
-#EXTINF:-1 group-title="台湾q8kk",龙华洋片
-http://c.q8kk.com/qtv.php?id=lhyp
-#EXTINF:-1 group-title="台湾q8kk",华纳电影
-http://c.q8kk.com/qtv.php?id=huandy
-#EXTINF:-1 group-title="台湾q8kk",卫视合家欢
-http://c.q8kk.com/qtv.php?id=wshjh
-#EXTINF:-1 group-title="台湾q8kk",鸿基影剧
-http://c.q8kk.com/qtv.php?id=hjyjt
-#EXTINF:-1 group-title="台湾q8kk",靖天电影台
-http://c.q8kk.com/qtv.php?id=jtdyt
-#EXTINF:-1 group-title="台湾q8kk",靖天映画
-http://c.q8kk.com/qtv.php?id=jtyh
-#EXTINF:-1 group-title="台湾q8kk",TVBS
-http://c.q8kk.com/qtv.php?id=tvbs
-#EXTINF:-1 group-title="台湾q8kk",TVBS欢乐HD
-http://c.q8kk.com/qtv.php?id=tvbshl
-#EXTINF:-1 group-title="台湾q8kk",TVB8
-http://c.q8kk.com/qtv.php?id=tvb8
-#EXTINF:-1 group-title="台湾q8kk",公视HD
-http://c.q8kk.com/qtv.php?id=gshd
-#EXTINF:-1 group-title="台湾q8kk",中天亚洲
-http://c.q8kk.com/qtv.php?id=ztyzt
-#EXTINF:-1 group-title="台湾q8kk",中视HD
-http://c.q8kk.com/qtv.php?id=zshd
-#EXTINF:-1 group-title="台湾q8kk",东森戏剧
-http://c.q8kk.com/qtv.php?id=dsxj
-#EXTINF:-1 group-title="台湾q8kk",东森财经
-http://c.q8kk.com/qtv.php?id=dscj
-#EXTINF:-1 group-title="台湾q8kk",华视HD
-http://c.q8kk.com/qtv.php?id=hshd
-#EXTINF:-1 group-title="台湾q8kk",中天娱乐
-http://c.q8kk.com/qtv.php?id=ztyl
-#EXTINF:-1 group-title="台湾q8kk",生命电视
-http://c.q8kk.com/qtv.php?id=smds
-#EXTINF:-1 group-title="台湾q8kk",星卫娱乐台
-http://c.q8kk.com/qtv.php?id=xwylt
-#EXTINF:-1 group-title="台湾q8kk",八大综合台
-http://c.q8kk.com/qtv.php?id=bdzht
-#EXTINF:-1 group-title="台湾q8kk",八大第一台
-http://c.q8kk.com/qtv.php?id=bddyt
-#EXTINF:-1 group-title="台湾q8kk",八大娱乐台
-http://c.q8kk.com/qtv.php?id=bdylt
-#EXTINF:-1 group-title="台湾q8kk",八大戏剧
-http://c.q8kk.com/qtv.php?id=bdxj
-#EXTINF:-1 group-title="台湾q8kk",纬来日本
-http://c.q8kk.com/qtv.php?id=wlrb
-#EXTINF:-1 group-title="台湾q8kk",纬来育乐
-http://c.q8kk.com/qtv.php?id=wlyl
-#EXTINF:-1 group-title="台湾q8kk",纬来体育
-http://c.q8kk.com/qtv.php?id=wlty
-#EXTINF:-1 group-title="台湾q8kk",三立台湾
-http://c.q8kk.com/qtv.php?id=sltw
-#EXTINF:-1 group-title="台湾q8kk",三立都会
-http://c.q8kk.com/qtv.php?id=sldh
-#EXTINF:-1 group-title="台湾q8kk",中天综合
-http://c.q8kk.com/qtv.php?id=ztzh
-#EXTINF:-1 group-title="台湾q8kk",东森综合
-http://c.q8kk.com/qtv.php?id=dszh
-#EXTINF:-1 group-title="台湾q8kk",壹电视综合
-http://c.q8kk.com/qtv.php?id=ydszh
-#EXTINF:-1 group-title="台湾q8kk",韩国娱乐台
-http://c.q8kk.com/qtv.php?id=hgylt
-#EXTINF:-1 group-title="台湾q8kk",EYETV旅游
-http://c.q8kk.com/qtv.php?id=eyetvly
-#EXTINF:-1 group-title="台湾q8kk",卫视中文台
-http://c.q8kk.com/qtv.php?id=wszwt
-#EXTINF:-1 group-title="台湾q8kk",民视
-http://c.q8kk.com/qtv.php?id=ms
-#EXTINF:-1 group-title="台湾q8kk",纬来综合
-http://c.q8kk.com/qtv.php?id=wlzh
-#EXTINF:-1 group-title="台湾q8kk",非凡商业
-http://c.q8kk.com/qtv.php?id=ffsy
-#EXTINF:-1 group-title="台湾q8kk",中视经典
-http://c.q8kk.com/qtv.php?id=zsjd
-#EXTINF:-1 group-title="台湾q8kk",中视箐采
-http://c.q8kk.com/qtv.php?id=zsqc
-#EXTINF:-1 group-title="台湾q8kk",公视1
-http://c.q8kk.com/qtv.php?id=gs1
-#EXTINF:-1 group-title="台湾q8kk",公视2
-http://c.q8kk.com/qtv.php?id=gs2
-#EXTINF:-1 group-title="台湾q8kk",东森幼幼
-http://c.q8kk.com/qtv.php?id=dsyy
-#EXTINF:-1 group-title="台湾q8kk",大爱电视
-http://c.q8kk.com/qtv.php?id=dads
-#EXTINF:-1 group-title="台湾q8kk",大爱二台
-http://c.q8kk.com/qtv.php?id=daet
-#EXTINF:-1 group-title="台湾q8kk",龙华偶像
-http://c.q8kk.com/qtv.php?id=lhouxiang
-#EXTINF:-1 group-title="台湾q8kk",龙华动画
-http://c.q8kk.com/qtv.php?id=longhdh
-#EXTINF:-1 group-title="台湾q8kk",龙华戏剧
-http://c.q8kk.com/qtv.php?id=longhxj
-#EXTINF:-1 group-title="台湾q8kk",TVBS综合
-http://c.q8kk.com/qtv.php?id=tvbszh
-#EXTINF:-1 group-title="台湾q8kk",东风卫视
-http://c.q8kk.com/qtv.php?id=dongfengws
-#EXTINF:-1 group-title="台湾q8kk",环宇综合
-http://c.q8kk.com/qtv.php?id=huanyuzh
-#EXTINF:-1 group-title="台湾q8kk",三立国际
-http://c.q8kk.com/qtv.php?id=sanlgj
-#EXTINF:-1 group-title="台湾q8kk",ELTA足球
-http://c.q8kk.com/qtv.php?id=eltazq
-#EXTINF:-1 group-title="台湾q8kk",ELTA体育HD
-http://c.q8kk.com/qtv.php?id=eltaty
-#EXTINF:-1 group-title="台湾q8kk",ELTA影剧
-http://c.q8kk.com/qtv.php?id=eltayj
-#EXTINF:-1 group-title="台湾q8kk",好消息1
-http://c.q8kk.com/qtv.php?id=haoxx1
-#EXTINF:-1 group-title="台湾q8kk",好消息2
-http://c.q8kk.com/qtv.php?id=haoxx2
-#EXTINF:-1 group-title="台湾q8kk",MOMO亲子台
-http://c.q8kk.com/qtv.php?id=momoqz
-#EXTINF:-1 group-title="台湾q8kk",EYETV戏剧
-http://c.q8kk.com/qtv.php?id=eyetvxj
-#EXTINF:-1 group-title="台湾q8kk",AXN台湾
-http://c.q8kk.com/qtv.php?id=axntw
-#EXTINF:-1 group-title="台湾q8kk",超视
-http://c.q8kk.com/qtv.php?id=chaoshi
-#EXTINF:-1 group-title="台湾q8kk",JET综合
-http://c.q8kk.com/qtv.php?id=jetzh
-#EXTINF:-1 group-title="台湾q8kk",博斯运动
-http://c.q8kk.com/qtv.php?id=bosyd
-#EXTINF:-1 group-title="台湾q8kk",博斯高球
-http://c.q8kk.com/qtv.php?id=bosgq
-#EXTINF:-1 group-title="台湾q8kk",亚洲旅游台
-http://c.q8kk.com/qtv.php?id=yanzlyt
-#EXTINF:-1 group-title="台湾q8kk",TVBS新闻HD
-http://c.q8kk.com/qtv.php?id=tvbsxw
-#EXTINF:-1 group-title="台湾q8kk",中天新闻HD
-http://c.q8kk.com/qtv.php?id=ztxw
-#EXTINF:-1 group-title="台湾q8kk",年代新闻HD
-http://c.q8kk.com/qtv.php?id=ndxw
-#EXTINF:-1 group-title="台湾q8kk",东森新闻HD
-http://c.q8kk.com/qtv.php?id=dsxw
-#EXTINF:-1 group-title="台湾q8kk",三立新闻HD
-http://c.q8kk.com/qtv.php?id=slxw
-#EXTINF:-1 group-title="台湾q8kk",民视新闻
-http://c.q8kk.com/qtv.php?id=msxw
-#EXTINF:-1 group-title="台湾q8kk",华视新闻
-http://c.q8kk.com/qtv.php?id=hsxw
-#EXTINF:-1 group-title="台湾q8kk",非凡新闻
-http://c.q8kk.com/qtv.php?id=ffxw
-#EXTINF:-1 group-title="台湾q8kk",中视新闻
-http://c.q8kk.com/qtv.php?id=zsxw
-#EXTINF:-1 group-title="台湾q8kk",环宇新闻
-http://c.q8kk.com/qtv.php?id=hyxw
-#EXTINF:-1 group-title="台湾q8kk",TVBS新闻HD
-http://c.q8kk.com/qtv.php?id=tvbsxwhd
-#EXTINF:-1 group-title="台湾q8kk",马来TV1
-http://c.q8kk.com/qtv.php?id=mltv1
-#EXTINF:-1 group-title="台湾q8kk",马来TV2
-http://c.q8kk.com/qtv.php?id=mltv2
-#EXTINF:-1 group-title="台湾q8kk",马来西亚TV9
-http://c.q8kk.com/qtv.php?id=mltv9
-#EXTINF:-1 group-title="台湾q8kk",马来体育1
-http://c.q8kk.com/qtv.php?id=mlxy1
-#EXTINF:-1 group-title="台湾q8kk",马来体育3
-http://c.q8kk.com/qtv.php?id=mlxy3
-#EXTINF:-1 group-title="台湾q8kk",FXHD
-http://c.q8kk.com/qtv.php?id=fxhd
-#EXTINF:-1 group-title="台湾q8kk",历史2台
-http://c.q8kk.com/qtv.php?id=ls2t               
-#EXTINF:-1 group-title="台湾q8kk",LIFE时尚生活
-http://c.q8kk.com/qtv.php?id=lifesssh
-#EXTINF:-1 group-title="台湾q8kk",迪斯尼卡通
-http://c.q8kk.com/qtv.php?id=dsnkt
-#EXTINF:-1 group-title="台湾q8kk",UNIVERSAL
-http://c.q8kk.com/qtv.php?id=universal
-#EXTINF:-1 group-title="台湾q8kk",BABYHD
-http://c.q8kk.com/qtv.php?id=babyhd
-#EXTINF:-1 group-title="台湾q8kk",CNN
-http://c.q8kk.com/qtv.php?id=cnn
-#EXTINF:-1 group-title="台湾q8kk",FOX
-http://c.q8kk.com/qtv.php?id=fox
-#EXTINF:-1 group-title="台湾q8kk",BBC生活
-http://c.q8kk.com/qtv.php?id=bbcsh
-#EXTINF:-1 group-title="台湾q8kk",SYFYHD
-http://c.q8kk.com/qtv.php?id=syfyhd
-#EXTINF:-1 group-title="台湾q8kk",法国时尚
-http://c.q8kk.com/qtv.php?id=fgss
-#EXTINF:-1 group-title="台湾q8kk",MTV
-http://c.q8kk.com/qtv.php?id=mtv
-#EXTINF:-1 group-title="台湾q8kk",MTVLIVE
-http://c.q8kk.com/qtv.php?id=mtvlive
-#EXTINF:-1 group-title="台湾q8kk",V音乐台
-http://c.q8kk.com/qtv.php?id=vyy
-#EXTINF:-1 group-title="台湾q8kk",动物星球
-http://c.q8kk.com/qtv.php?id=dwxq
-#EXTINF:-1 group-title="台湾q8kk",地理悠人
-http://c.q8kk.com/qtv.php?id=diliyouren
-#EXTINF:-1 group-title="台湾q8kk",探索家庭
-http://c.q8kk.com/qtv.php?id=tansjt
-#EXTINF:-1 group-title="台湾q8kk",探索科学
-http://c.q8kk.com/qtv.php?id=tansuokexue
-#EXTINF:-1 group-title="台湾q8kk",探索动力
-http://c.q8kk.com/qtv.php?id=tansuodl
-#EXTINF:-1 group-title="台湾q8kk",国家地理音乐
-http://c.q8kk.com/qtv.php?id=guojiadlyy
-#EXTINF:-1 group-title="台湾q8kk",CN卡通HD
-http://c.q8kk.com/qtv.php?id=cnkthd
-#EXTINF:-1 group-title="台湾q8kk",Cubavision
-http://c.q8kk.com/qtv.php?id=cubavision
-#EXTINF:-1 group-title="台湾q8kk",SundanceHD
-http://c.q8kk.com/qtv.php?id=sundance
-#EXTINF:-1 group-title="台湾q8kk",NHK综合
-http://c.q8kk.com/qtv.php?id=nhkzh
-#EXTINF:-1 group-title="台湾q8kk",Z频道
-http://c.q8kk.com/qtv.php?id=zpd
-#EXTINF:-1 group-title="台湾q8kk",橄榄球频道
-http://c.q8kk.com/qtv.php?id=ganlqpd
-#EXTINF:-1 group-title="台湾q8kk",美食星球
-http://c.q8kk.com/qtv.php?id=meisxq
-#EXTINF:-1 group-title="台湾q8kk",WarnerTV
-http://c.q8kk.com/qtv.php?id=warner
-#EXTINF:-1 group-title="台湾q8kk",OutdoorHD
-http://c.q8kk.com/qtv.php?id=outdoor
-#EXTINF:-1 group-title="台湾q8kk",SyFy
-http://c.q8kk.com/qtv.php?id=syfy
-#EXTINF:-1 group-title="台湾q8kk",SKYNEWS
-http://c.q8kk.com/qtv.php?id=skynews
-#EXTINF:-1 group-title="台湾q8kk",France24
-http://c.q8kk.com/qtv.php?id=france24
-#EXTINF:-1 group-title="台湾q8kk",RaiItalia
-http://c.q8kk.com/qtv.php?id=raiItalia
-#EXTINF:-1 group-title="台湾q8kk",BBCKnowledge
-http://c.q8kk.com/qtv.php?id=bbcknowledge
-#EXTINF:-1 group-title="台湾q8kk",Diva
-http://c.q8kk.com/qtv.php?id=diva
-#EXTINF:-1 group-title="台湾q8kk",Satarworld
-http://c.q8kk.com/qtv.php?id=satarwd
-#EXTINF:-1 group-title="台湾q8kk",CineMax
-http://c.q8kk.com/qtv.php?id=cinemax
-#EXTINF:-1 group-title="台湾q8kk",ASNHD
-http://c.q8kk.com/qtv.php?id=asnhd
-#EXTINF:-1 group-title="台湾q8kk",NBA
-http://c.q8kk.com/qtv.php?id=nba
-#EXTINF:-1 group-title="台湾q8kk",vtv1
-http://c.q8kk.com/qtv.php?id=vtv1
-#EXTINF:-1 group-title="台湾q8kk",vtv2
-http://c.q8kk.com/qtv.php?id=vtv2
-#EXTINF:-1 group-title="台湾q8kk",vtv3
-http://c.q8kk.com/qtv.php?id=vtv3
-#EXTINF:-1 group-title="台湾q8kk",CBC
-http://c.q8kk.com/qtv.php?id=cbc
-#EXTINF:-1 group-title="台湾q8kk",SBS
-http://c.q8kk.com/qtv.php?id=sbs
-#EXTINF:-1 group-title="台湾q8kk",SBSSPORT
-http://c.q8kk.com/qtv.php?id=sbssport
-#EXTINF:-1 group-title="台湾q8kk",KBS1
-http://c.q8kk.com/qtv.php?id=kbs1
-#EXTINF:-1 group-title="台湾q8kk",KBS2
-http://c.q8kk.com/qtv.php?id=kbs2
-#EXTINF:-1 group-title="台湾q8kk",KBSSPORT
-http://c.q8kk.com/qtv.php?id=kbssport
-#EXTINF:-1 group-title="台湾q8kk",YTNHD
-http://c.q8kk.com/qtv.php?id=ytnhd
-#EXTINF:-1 group-title="台湾q8kk",ELTA综合
-http://c.q8kk.com/qtv.php?id=eltazh
-#EXTINF:-1 group-title="台湾q8kk",MBCHD
-http://c.q8kk.com/qtv.php?id=mbchd
-#EXTINF:-1 group-title="台湾q8kk",Foxsports
-http://c.q8kk.com/qtv.php?id=foxsports
-#EXTINF:-1 group-title="台湾q8kk",BS日本
-http://c.q8kk.com/qtv.php?id=bsrb
-#EXTINF:-1 group-title="台湾q8kk",日本映画专门
-http://c.q8kk.com/qtv.php?id=rbyhzm
-#EXTINF:-1 group-title="台湾q8kk",CI侦查
-http://c.q8kk.com/qtv.php?id=cjzc
-#EXTINF:-1 group-title="台湾q8kk",富士电视台
-http://c.q8kk.com/qtv.php?id=fsdst
-#EXTINF:-1 group-title="台湾q8kk",BS1
-http://c.q8kk.com/qtv.php?id=bs1
-#EXTINF:-1 group-title="台湾q8kk",BS朝日
-http://c.q8kk.com/qtv.php?id=bscr
-#EXTINF:-1 group-title="台湾q8kk",日本明星1
-http://c.q8kk.com/qtv.php?id=rbmx1
-#EXTINF:-1 group-title="台湾q8kk",日本明星2
-http://c.q8kk.com/qtv.php?id=rbmx2
-#EXTINF:-1 group-title="台湾q8kk",日本明星3
-http://c.q8kk.com/qtv.php?id=rbmx3
-#EXTINF:-1 group-title="台湾q8kk",RIBRN4
-http://c.q8kk.com/qtv.php?id=ribrn4
-#EXTINF:-1 group-title="台湾q8kk",美国CNN
-http://c.q8kk.com/qtv.php?id=mgcnn
-#EXTINF:-1 group-title="台湾q8kk",美国中文台
-http://c.q8kk.com/qtv.php?id=mgzwt
-#EXTINF:-1 group-title="台湾q8kk",美国中文台英语
-http://c.q8kk.com/qtv.php?id=mgzwtyy
-#EXTINF:-1 group-title="台湾q8kk",ESPN
-http://c.q8kk.com/qtv.php?id=espn
-#EXTINF:-1 group-title="台湾q8kk",DiscoveryHD
-http://c.q8kk.com/qtv.php?id=discoveryhd
-#EXTINF:-1 group-title="台湾q8kk",FoxNews
-http://c.q8kk.com/qtv.php?id=foxnews
-#EXTINF:-1 group-title="台湾q8kk",CBS
-http://c.q8kk.com/qtv.php?id=cbs
-#EXTINF:-1 group-title="台湾q8kk",CNBC
-http://c.q8kk.com/qtv.php?id=cnbc
-#EXTINF:-1 group-title="台湾q8kk",RT
-http://c.q8kk.com/qtv.php?id=rt
-#EXTINF:-1 group-title="台湾q8kk",PBS
-http://c.q8kk.com/qtv.php?id=pbs
-#EXTINF:-1 group-title="台湾q8kk",NBC
-http://c.q8kk.com/qtv.php?id=nbc
-
-
-
+#EXTINF:-1 group-title="GoodTV",goodtv兒少频道
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv光明神
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv神乐经典
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch4-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv美食旅游
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv圣经门徒
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv人间道
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv上帝圣经
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch8-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv神爱世人
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch7-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv神鬼论
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch10-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv幸福家庭
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv音乐河
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch5-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv真理台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv综合台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 
 
 #EXTINF:-1 group-title="台湾好",哈Hot!電影台
@@ -1849,6 +490,101 @@ http://61.220.179.93/twh_ios/ttyyoga/playlist.m3u8
 http://61.220.179.93/twh_ios/titv/playlist.m3u8
 #EXTINF:-1 group-title="台湾好",之計財經台
 http://61.220.179.93/twh_ios/winner/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",东森新闻
+http://61.222.191.241/live/ch01/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",东森戏剧
+http://61.222.191.241/live/ch02/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",东森综合
+http://61.222.191.241/live/ch03/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",东森幼幼
+http://61.222.191.241/live/ch04/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",FoxSport2
+http://61.222.191.241/live/ch05/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",纬来戏剧
+http://61.216.79.193/live/ch06/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",纬来体育
+http://61.216.79.193/live/ch07/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",纬来日本
+http://61.216.79.193/live/ch08/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",纬来综合
+http://61.216.79.193/live/ch09/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",纬来育乐
+http://61.216.79.193/live/ch10/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",HBO
+http://61.222.191.25/live/ch11/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",Fox Sport
+http://61.222.191.25/live/ch12/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",NHK
+http://61.222.191.25/live/ch13/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",非凡新闻
+http://61.222.191.25/live/ch14/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",中天新闻
+http://61.222.191.25/live/ch15/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",人间卫视
+http://61.216.91.103/live/ch16/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",浙江卫视
+http://61.216.91.103/live/ch17/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",东方卫视
+http://61.216.91.103/live/ch18/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",湖南卫视
+http://61.216.91.103/live/ch19/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",凤凰资讯
+http://61.216.91.103/live/ch20/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",cctv4
+http://61.216.131.1/live/ch21/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",cctv新闻
+http://61.216.131.1/live/ch22/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",八大第1台
+http://61.216.131.1/live/ch23/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",八大戏剧
+http://61.216.131.1/live/ch24/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",八大综合
+http://61.216.131.1/live/ch25/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",TVBS新闻
+http://61.222.191.61/live/ch27/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",纬来电影
+http://61.216.131.133/live/ch31/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",CINEMAX
+http://61.216.131.133/live/ch32/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",博斯无限
+http://61.218.59.181/live/ch105/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",博斯足球
+http://61.218.59.181/live/ch106/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",博斯无限
+http://61.218.59.181/live/ch107/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",龙华电影
+http://61.218.59.181/live/ch108/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",龙华偶像
+http://61.218.59.181/live/ch109/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",龙华日韩
+http://61.218.59.187/live/ch110/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",博斯高球
+http://61.218.59.187/live/ch111/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",博斯高球Ⅱ
+http://61.218.59.187/live/ch112/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",博斯网球
+http://61.218.59.187/live/ch113/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",博斯运动
+http://61.218.59.187/live/ch114/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",龙华卡通
+http://61.218.59.109/live/ch116/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",寰宇新闻
+http://61.218.59.109/live/ch118/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",龙华戏剧
+http://61.218.59.109/live/ch119/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",寰宇新闻2
+http://61.218.59.109/live/ch122/playlist.m3u8
+#EXTINF:-1 group-title="台湾好",三立都会HD
+http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/master.m3u8
+#EXTINF:-1 group-title="台湾好",三立台湾HD
+http://bcoveliveios-i.akamaihd.net/hls/live/226708/4338955585001/master.m3u8
+#EXTINF:-1 group-title="台湾好",TVBS综合HD
+http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_6/master.m3u8
+#EXTINF:-1 group-title="台湾好",TVBS新闻
+http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_5/master.m3u8
+#EXTINF:-1 group-title="台湾好",TVBS欢乐HD
+http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_4/master.m3u8
+
 
 
 
