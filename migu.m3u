@@ -1,7 +1,10 @@
 ﻿#EXTM3U
 
 
-
+#EXTINF:-1 group-title="咪咕",CDTV1
+http://www.migutv.ga/iptv/cdtv1.m3u8
+#EXTINF:-1 group-title="咪咕",CDTV2
+http://www.migutv.ga/iptv/cdtv2.m3u8
 #EXTINF:-1 group-title="咪咕",湖南卫视
 http://www.migutv.ga/iptv/hnws.m3u8
 #EXTINF:-1 group-title="咪咕",cctv4
