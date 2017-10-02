@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="日本频道",NHK_General_TV
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
 #EXTINF:-1 group-title="日本频道",NHK_Educational_TV
@@ -77,3 +78,32 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
 #EXTINF:-1 group-title="日本频道",Disney_Channel
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="GoodTV",goodtv兒少频道
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv光明神
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv神乐经典
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch4-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv美食旅游
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv圣经门徒
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv人间道
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv上帝圣经
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch8-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv神爱世人
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch7-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv神鬼论
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch10-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv幸福家庭
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv音乐河
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch5-2.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv真理台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="GoodTV",goodtv综合台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+
