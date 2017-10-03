@@ -79,26 +79,11 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
 #EXTINF:-1 group-title="日本频道",Disney_Channel
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN",N/A1
-http://103.13.29.66:9981/stream/channelid/1712405318
-#EXTINF:-1 group-title="JAPAN",Asahi
-http://103.13.29.66:9981/stream/channelid/1153771
-#EXTINF:-1 group-title="JAPAN",N/A
-http://103.13.29.66:9981/stream/channelid/375414976
-#EXTINF:-1 group-title="JAPAN",Fuji
-http://103.13.29.66:9981/stream/channelid/1960739631
-#EXTINF:-1 group-title="JAPAN",Golf
-http://103.13.29.66:9981/stream/channelid/123369997
+
 #EXTINF:-1 group-title="JAPAN",J-sport
 http://103.13.29.66:9981/stream/channelid/1883886577
-#EXTINF:-1 group-title="JAPAN",NHK-G
-http://103.13.29.66:9981/stream/channelid/2092888076
-#EXTINF:-1 group-title="JAPAN",Nihon
-http://103.13.29.66:9981/stream/channelid/515640662
 #EXTINF:-1 group-title="JAPAN",TBS
 http://103.13.29.66:9981/stream/channelid/557436306
-#EXTINF:-1 group-title="JAPAN",Tokyo
-http://103.13.29.66:9981/stream/channelid/1843787757
 #EXTINF:-1 group-title="JAPAN",wow-wow1-prime
 http://103.13.29.66:9981/stream/channelid/951779052
 #EXTINF:-1 group-title="JAPAN",wow-wow3-Cinema
