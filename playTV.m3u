@@ -315,460 +315,7 @@ http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9301.m3u8
 http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9302.m3u8
 #EXTINF:0 tvg-logo="FOX-SPORT3.png",group-title="【BesTV体育赛事】",FOX-SPORT3
 http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9404.m3u8
-#EXTINF:0 tvg-logo="mingshi.png",group-title="【港 澳 台】",民视频道
-https://58ada6ee80845.streamlock.net/ios/-ftvwirelesse-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="mingshitaiwan.png",group-title="【港 澳 台】",民视台湾
-https://58ad68d0b6c8d.streamlock.net/ios/-fourseason-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="mingshixinwen.png",group-title="【港 澳 台】",民视新闻
-https://58ada6ee80845.streamlock.net/ios/-ftvnews-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="minshidiyitai.png",group-title="【港 澳 台】",民视第一
-https://58ad68d0b6c8d.streamlock.net/ios/-ftvtransportation-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="minshilvyou.png",group-title="【港 澳 台】",民视旅游
-https://58ad68d0b6c8d.streamlock.net/ios/-ftvtravel-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="minshiyingju.png",group-title="【港 澳 台】",民视影剧
-https://58ad68d0b6c8d.streamlock.net/ios/-ftvdrama-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="zhongshi.png",group-title="【港 澳 台】",中视频道
-https://58ada6ee80845.streamlock.net/ios/-ctv-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="zhongshiqingcai.png",group-title="【港 澳 台】",中视菁采
-http://hktv.ga/c.php?glive2/ctvhd_n/playlist.m3u8?st=1493901226040&token=YTMxNzI5ZGQxNzAzYzI3MmQ5MGRjNzUzNDA3YjgyODZmYWU1ODdhYw==
-#EXTINF:0 tvg-logo="zhongshijingdian.png",group-title="【港 澳 台】",中视经典
-http://hktv.ga/c.php?glive/ctvclassic/playlist.m3u8?st=1493899630706&token=NWM1ZTUxOTBmZmZhM2VlMjQxMTgzYjViNzNmNzc5MjYwMDk3MzAyZQ==
-#EXTINF:0 tvg-logo="zhongshixinwen.png",group-title="【港 澳 台】",中视新闻
-https://58ada6ee80845.streamlock.net/ios/-ctvnews-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="huashi.png",group-title="【港 澳 台】",华视频道
-https://58ada6ee80845.streamlock.net/ios/-cts-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="huashixinwen.png",group-title="【港 澳 台】",华视新闻
-https://58ad68d0b6c8d.streamlock.net/ios/-ctsnews-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="gongshi1.png",group-title="【港 澳 台】",公视频道
-http://hktv.ga/c.php?glive2/ptsdramal/playlist.m3u8?st=1493897682224&token=MTk3Mzk2Y2MyMDU2YzlhZTU2Zjk3MjUyOGI0ZWYxMjBjNmVlYmU2Yg==
-#EXTINF:0 tvg-logo="gongshi2.png",group-title="【港 澳 台】",公视频道2
-http://hktv.ga/c.php?glive2/pts2l/playlist.m3u8?st=1493901668396&token=MWVjZjFkNzc4MmI2Y2Y4ODBhNjhmNjQ5NjFiOWZmOWZlZTg3NDExNQ==
-#EXTINF:0 tvg-logo="gongshi3.png",group-title="【港 澳 台】",公视频道3
-http://202.39.9.171:36570/hls/EC10S96.m3u8
-#EXTINF:0 tvg-logo="taishi.png",group-title="【港 澳 台】",台视频道
-https://58ada6ee80845.streamlock.net/ios/-ttvhd-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="taishi.png",group-title="【港 澳 台】",台视新闻
-https://58ada6ee80845.streamlock.net/ios/-ttvnews-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="taishizonghe.png",group-title="【港 澳 台】",台视综合
-https://58ada6ee80845.streamlock.net/ios/-ttvcomplex-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="yuanshi.png",group-title="【港 澳 台】",原视频道
-https://58ada6ee80845.streamlock.net/ios/-titv-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="daai.png",group-title="【港 澳 台】",大爱电视
-http://cdn-src2.waaarp.wscdns.com/live-transcode/_definst_/smil:daai/tv01.smil/chunklist_w21023455_b800000.m3u8
-#EXTINF:0 tvg-logo="longhuadianying.png",group-title="【港 澳 台】",龍华电影
-http://hktv.ga/c.php?glive2/cstv_movie_n/playlist.m3u8?st=1493898634372&token=NDVjZjIyYzZkNDI3YjkxOTI0MzAzN2IwZWY1OWFhNzczMWIxZTRhOA==#http://61.216.44.228/sta/31764022.m3u8
-#EXTINF:0 tvg-logo="longhuakatong.png",group-title="【港 澳 台】",龍华卡通
-http://hktv.ga/c.php?glive2/cstv_cartoon_n/playlist.m3u8?st=1493899218417&token=ODEwZDNhOTdhNjAzMzI1NDA0NjQwZjFjNThjZmUxYjNlOWYzYzRhNQ==#http://61.216.44.228/sta/31764029.m3u8
-#EXTINF:0 tvg-logo="longhuaxiju.png",group-title="【港 澳 台】",龍华戏剧
-http://hktv.ga/c.php?glive2/lh_soapopera_n/playlist.m3u8?st=1493898081398&token=ODRjNGJiMWQzYzkzZjQwNzNiZGE0ZmExNjdiY2JlNGU3YmNkZDBlYQ==#http://61.216.44.228/sta/31764031.m3u8
-#EXTINF:0 tvg-logo="longhuaouxiang.png",group-title="【港 澳 台】",龍华偶像
-http://hktv.ga/c.php?glive2/lh_idolsoapopera_n/playlist.m3u8?st=1493897998254&token=YzFiMzUxYmEwZDdhMDA3ODNmMjQyNzBkMGUwMDA4ODZjOGUzMzM0Yg==#http://61.216.44.228/sta/31764023.m3u8
-#EXTINF:0 tvg-logo="longhuarihan.png",group-title="【港 澳 台】",龍华日韩
-http://hktv.ga/c.php?glive2/lh_jpkrsoapopera_n/playlist.m3u8?st=1493898034553&token=ZTQ3NjNmM2M5ZTQ3NjQ2OTEwOGVkZmFhMTA2MTliNmRmMTc2NzIzZQ==#http://61.216.44.228/sta/31764024.m3u8
-#EXTINF:0 tvg-logo="jingtianzonghe.png",group-title="【港 澳 台】",靖天綜合
-https://58ada6ee80845.streamlock.net/ios/-goldentvgenner-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="jingtianzixun.png",group-title="【港 澳 台】",靖天資訊
-https://58ada6ee80845.streamlock.net/ios/-goldentvinfo-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="jingtianyule.png",group-title="【港 澳 台】",靖天育樂
-https://58ada6ee80845.streamlock.net/ios/-goldentvrecreation-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="jingtianxiju.png",group-title="【港 澳 台】",靖天戲劇
-https://58ada6ee80845.streamlock.net/ios/-goldentvdrama-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="jingtianriben.png",group-title="【港 澳 台】",靖天日本
-https://58ada6ee80845.streamlock.net/ios/-goldentvjapan-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="jingyangxiju.png",group-title="【港 澳 台】",靖洋戲劇
-https://58ada6ee80845.streamlock.net/ios/-jydrama-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="jingtiankatong.png",group-title="【港 澳 台】",靖天卡通
-https://58ada6ee80845.streamlock.net/ios/-goldentvcartoon-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="jingyangkatong.png",group-title="【港 澳 台】",靖天卡通
-https://58ada6ee80845.streamlock.net/ios/-bingo-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="jingtianguoju1.png",group-title="【港 澳 台】",靖天国际
-https://58ada6ee80845.streamlock.net/ios/-familyfun-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="sanlitaiwan.png",group-title="【港 澳 台】",三立台湾
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8604.m3u8
-#EXTINF:0 tvg-logo="sanliduhui.png",group-title="【港 澳 台】",三立都会
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9303.m3u8
-#EXTINF:0 tvg-logo="badadiyi.png",group-title="【港 澳 台】",八大第一
-http://fi1.ottclub.info:443/fmts/n714.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="badayule.png",group-title="【港 澳 台】",八大娛樂
-http://kb3.ottclub.info:1935/amth/r235.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="badazonghe.png",group-title="【港 澳 台】",八大综合
-http://hktv.ga/c.php?glive/gtv/playlist.m3u8?st=1493899704407&token=ZjFkMTEwOTA5NGMyYmVjZTk2OTc4N2NlYzZiZDZhODliMDQ3NTc3Mg==
-#EXTINF:0 tvg-logo="badaxiju.png",group-title="【港 澳 台】",八大戏剧
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9601.m3u8
-#EXTINF:0 tvg-logo="hongjidianying.png",group-title="【港 澳 台】",鸿基亚洲
-http://hktv.ga/c.php?glive2/v-hgtv01/playlist.m3u8?st=1493898530365&token=YWQ2NGNlZjcxOWQwNzYzZDk5OTlkYzFhM2M5NDFlZGU2NjI3YzY0NQ==
-#EXTINF:0 tvg-logo="hongjidianying.png",group-title="【港 澳 台】",鸿基综合
-http://hktv.ga/c.php?glive2/v-hgtv02/playlist.m3u8?st=1493898502421&token=MGM5NzQyMzFiMWRhYzRjMmU4NmMzOGQxY2Y4MjQwZGYwNDJmODUxMQ==
-#EXTINF:0 tvg-logo="hongjidianying.png",group-title="【港 澳 台】",鸿基影剧
-http://hktv.ga/c.php?glive2/v-hgtv03/playlist.m3u8?st=1493898373118&token=YTA3N2FiMzVlMmQ5MTA3YjhkMmQ3MzcxYWM5NTYwNmQ0YTgwOWY3OA==
-#EXTINF:0 tvg-logo="dongsengdianying.png",group-title="【港 澳 台】",东森综合
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8202.m3u8
-#EXTINF:0 tvg-logo="dongsengdianying.png",group-title="【港 澳 台】",东森戏剧
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9202.m3u8
-#EXTINF:0 tvg-logo="dongsengdianying.png",group-title="【港 澳 台】",东森电影
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9102.m3u8
-#EXTINF:0 tvg-logo="dongsengyangpian.png",group-title="【港 澳 台】",东森洋片
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9201.m3u8
-#EXTINF:0 tvg-logo="zhongtianyazhou.png",group-title="【港 澳 台】",中天综合
-http://hktv.ga/c.php?glive/ctiall/playlist.m3u8?st=1493900683163&token=NTk2YTIxOGRlZTE3ZGExOTIwZjM4YzU2OWE4MjUwZDJlZjYxYzJkMA==#https://58ada6ee80845.streamlock.net/ios/-ctigenner-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="zhongtianyazhou.png",group-title="【港 澳 台】",中天娱乐
-http://fi1.ottclub.info:443/fmts/n690.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="zhongtianyazhou.png",group-title="【港 澳 台】",中天亚洲
-http://hktv.ga/c.php?glive2/ctiasia/playlist.m3u8?st=1493901836956&token=MzNiMTdkZmI4YjRlYTU0NmM4ZTg0MTBkZTFmZDU0NjFhNjA2YzlkMQ==
-#EXTINF:0 tvg-logo="tvbshd.png",group-title="【港 澳 台】",TVBS
-http://hktv.ga/c.php?glive/tvbs/playlist.m3u8?st=1493895606426&token=NGFlMjkyODBkODU5ZGM4NWNhMzE3ZDU5MzQ1MTFiOTE2NDJjOGM4YQ==
-#EXTINF:0 tvg-logo="tvbsxinwen.png",group-title="【港 澳 台】",TVBS欢乐
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8101.m3u8#http://bcoveliveios-i.akamaihd.net/hls/live/263646/4862438529001/index.m3u8
-#EXTINF:0 tvg-logo="tvbsxinwen.png",group-title="【港 澳 台】",TVBS新闻
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9304.m3u8
-#EXTINF:0 tvg-logo="zhongtianxinwen.png",group-title="【港 澳 台】",中天新闻
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9204.m3u8
-#EXTINF:0 tvg-logo="dongsengxinwen.png",group-title="【港 澳 台】",东森新闻
-http://60.199.188.120/HLS/WG_ETTV-N/index.m3u8
 
-#EXTINF:0 tvg-logo="dongsengcaijing.png",group-title="【港 澳 台】",东森财经
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9104.m3u8
-#EXTINF:0 tvg-logo="mingshixinwen.png",group-title="【港 澳 台】",民视新闻
-http://edge02p.friday.tw/live/fet002/chunklist_w1500639828294.m3u
-#EXTINF:0 tvg-logo="sanlixinwen.png",group-title="【港 澳 台】",三立新闻台
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8302.m3u8
-#EXTINF:0 tvg-logo="feifanxinwen.png",group-title="【港 澳 台】",非凡新闻
-http://60.199.188.120/HLS/WG_USTV-N/index.m3u8
-#http://fi1.ottclub.info:443/fmts/n672.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="bbcxinwen.png",group-title="【港 澳 台】",BBC新闻
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8504.m3u8
-#EXTINF:0 tvg-logo="skynews.png",group-title="【港 澳 台】",天空新闻
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:0 tvg-logo="hotdianyinga.png",group-title="【港 澳 台】",哈電影
-https://58ad68d0b6c8d.streamlock.net/ios/-hamovie-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="hotdianyinga.png",group-title="【港 澳 台】",哈国际電影
-https://58ada6ee80845.streamlock.net/ios/-intlmovie-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="hotdianyinga.png",group-title="【港 澳 台】",时代影像
-https://58ada6ee80845.streamlock.net/ios/-timesimage-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="hotdianyinga.png",group-title="【港 澳 台】",正妹赞出来
-https://58ada6ee80845.streamlock.net/ios/-hottie-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="hotdianyinga.png",group-title="【港 澳 台】",承影Play TV
-https://58ada6ee80845.streamlock.net/ios/-ChiengYin-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="hotdianyinga.png",group-title="【港 澳 台】",猪哥亮歌厅秀
-https://58ad68d0b6c8d.streamlock.net/ios/-pigshow-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="huayanyinyue.png",group-title="【港 澳 台】",华研音乐台
-https://58ad68d0b6c8d.streamlock.net/ios/-himmusic-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="huayanyule.png",group-title="【港 澳 台】",华研娱乐台
-https://58ad68d0b6c8d.streamlock.net/ios/-himvariety-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="yidianying.png",group-title="【港 澳 台】",壹电影
-http://202.39.9.171:36570/hls/Q1G052Q.m3u8
-#EXTINF:0 tvg-logo="yingmi.png",group-title="【港 澳 台】",影迷数位电影
-http://hktv.ga/c.php?glive2/encorel/playlist.m3u8?st=1493897765716&token=NWNiNGFiM2RkOWFmM2JkYTdhZTIxNTQzZTdmNjRhYTM1ZWM4NzNmOQ==
-#EXTINF:0 tvg-logo="caichang.png",group-title="【港 澳 台】",采昌
-http://hktv.ga/c.php?glive2/cmoviel/playlist.m3u8?st=1493897874166&token=OTU1ODBiYTViNjBjOGEzMDI1M2VkNDliNGU5YjFhYWM5N2IwMjFhMg==
-#EXTINF:0 tvg-logo="xingweidianying.png",group-title="【港 澳 台】",星卫电影
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8403.m3u8
-#EXTINF:0 tvg-logo="meiyadianying.png",group-title="【港 澳 台】",美亚电影
-http://fi1.ottclub.info:443/kitty/c704.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="longxiangdianying.png",group-title="【港 澳 台】",龙翔电影
-http://202.39.9.171:36570/hls/XB10C69.m3u8
-#EXTINF:0 tvg-logo="Catchplay.png",group-title="【港 澳 台】",Catchplay电影
-http://tc3akts.tv-bar.net/live/9501.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="tianyingpindao.png",group-title="【港 澳 台】",天映频道(限时）
-http://acm.gg/bili.m3u8?id=4139853
-#EXTINF:0 tvg-logo="fenghuangweishi.png",group-title="【港 澳 台】",凤凰卫视电影
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900112&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="xingkongweishi.png",group-title="【港 澳 台】",星空卫视电影
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900111&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="xingkongweishi.png",group-title="【港 澳 台】",星空卫视
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8103.m3u8#http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900108&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="v.png",group-title="【港 澳 台】",Channel V
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900113&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="tvb81.png",group-title="【港 澳 台】",TVB8
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8102.m3u8
-#EXTINF:0 tvg-logo="tianyingpindao.png",group-title="【港 澳 台】",天映电影
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900116&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="tianyingjingdian.png",group-title="【港 澳 台】",天映经典
-http://hktv.ga/c.php?glive/celclassic/playlist.m3u8?st=1493898596028&token=Y2Q4NTJhNDZjNjQ2ODNmMzI0NGRlYmI4ZWY4ZWM0OTgyYTc2ZTA3Mw==
-#EXTINF:0 tvg-logo="xingweiyule.png",group-title="【港 澳 台】",星卫娱乐
-http://fi1.ottclub.info:443/kitty/c723.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="weishizhongwen.png",group-title="【港 澳 台】",卫视中文
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8204.m3u8
-#EXTINF:0 tvg-logo="weishikashi1.png",group-title="【港 澳 台】",卫视卡式
-http://27.254.63.162/stream/totnew.php?channel_id=c8233976dbba4a06a101780907447375
-#EXTINF:0 tvg-logo="kix.png",group-title="【港 澳 台】",KIX频道
-http://27.254.63.162/stream/totnew.php?channel_id=e584e0adae6440eab366f5fe3a824f91
-#EXTINF:0 tvg-logo="Thrill.png",group-title="【港 澳 台】",Thrill惊悚
-http://27.254.63.162/stream/totnew.php?channel_id=c316ed9333e54442b25077f0bb3cc269
-#EXTINF:0 tvg-logo="MTV_Live.png",group-title="【港 澳 台】",MTV-Live
-http://hktv.ga/c.php?glive/mtv/playlist.m3u8?st=1493895527092&token=N2VmNWQ4MzVmNGM2ODAzYTgxZGQwOGZjYjgxMWYzYmYwNjY3NGUwNQ==
-#EXTINF:0 tvg-logo="fashiontv.png",group-title="【港 澳 台】",法国时装
-http://origina.streaming.sk/liveedge/tvfashion/playlist.m3u8
-#EXTINF:0 tvg-logo="MTV_Live.png",group-title="【港 澳 台】",MTV-HD
-http://27.254.63.162/stream/totnew.php?channel_id=8d45473ff4ca44d79e1abc4516c2fee0 
-#EXTINF:0 tvg-logo="MTVchina.png",group-title="【港 澳 台】",MTV中国
-http://27.254.63.162/stream/totnew.php?channel_id=deb56e700dbc4d9ea5af08e9d300a675 
-#EXTINF:0 tvg-logo="MTVasia.png",group-title="【港 澳 台】",MTV亚洲
-http://27.254.63.162/stream/totnew.php?channel_id=ebce2f5139c54eda8b111e5923af9c9e 
-#EXTINF:0 tvg-logo="v.png",group-title="【港 澳 台】",[V]国际
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9503.m3u8
-#EXTINF:0 tvg-logo="national.png",group-title="【港 澳 台】",国家地理
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8603.m3u8
-#EXTINF:0 tvg-logo="national.png",group-title="【港 澳 台】",国家地理人文
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8501.m3u8
-#EXTINF:0 tvg-logo="diliyesheng.png",group-title="【港 澳 台】",国家地理野生
-http://fi1.ottclub.info:443/water/c732.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="discovery.png",group-title="【港 澳 台】",探索频道
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8304.m3u8
-#EXTINF:0 tvg-logo="animalplanet.png",group-title="【港 澳 台】",动物星球
-http://fi1.ottclub.info:443/fmts/n708.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="hbohd.png",group-title="【港 澳 台】",HBO-HD
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9604.m3u8
-#EXTINF:0 tvg-logo="hbohits.png",group-title="【港 澳 台】",HBO强档巨献
-http://fi1.ottclub.info:443/water/c720.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="hbosignature.png",group-title="【港 澳 台】",HBO原创巨献
-http://fi1.ottclub.info:443/water/c725.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="hbohits.png",group-title="【港 澳 台】",HBO家庭
-http://list9.isonline.me:8000/live/testapp/testapp/281.ts
-#EXTINF:0 tvg-logo="fxhd.png",group-title="【港 澳 台】",FXHD
-http://app.kanlive.cn/f/totnew.php?id=2e0e4b05aa6e428593f3b45b710045b7&tm=1500302203&key=11db8fef3fa14018edf4d19db20fe420
-#EXTINF:0 tvg-logo="foxcrime.png",group-title="【港 澳 台】",FOX警匪
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8601.m3u8
-#EXTINF:0 tvg-logo="hbohd.png",group-title="【港 澳 台】",FOX动作
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/3228.ts
-#EXTINF:0 tvg-logo="foxjiating.png",group-title="【港 澳 台】",FOX家庭
-http://fi1.ottclub.info:443/water/c702.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="foxhd.png",group-title="【港 澳 台】",FOXHD
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8404.m3u8
-#EXTINF:0 tvg-logo="hbohd.png",group-title="【港 澳 台】",衛視洋片
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8602.m3u8
-#EXTINF:0 tvg-logo="wb.png",group-title="【港 澳 台】",华纳TV
-http://hktv.ga/c.php?glive2/wtvhd/playlist.m3u8?st=1493898424387&token=ZGQ2YTcxOTYzM2UzYTUxMDUxYzEwNDVkMGVkM2ZkMmE2M2JiODFjMg==
-#EXTINF:0 tvg-logo="ci.png",group-title="【港 澳 台】",Ci罪案偵緝
-http://hktv.ga/c.php?glive/ci/playlist.m3u8?st=1493897144248&token=NzQ0YTZlMTQ4MjBlOTlhMzZhNWRjMjU5MWM4ZDY0NTg5ZWI2NzkyOQ==
-#EXTINF:0 tvg-logo="syfy.png",group-title="【港 澳 台】",syfy
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/3197.ts
-#EXTINF:0 tvg-logo="amc.png",group-title="【港 澳 台】",AMC
-http://list9.isonline.me:8000/live/testapp/testapp/353.ts
-#EXTINF:0 tvg-logo="weishidianying1.png",group-title="【港 澳 台】",StarMovies
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8303.m3u8
-#EXTINF:0 tvg-logo="weishidianying.png",group-title="【港 澳 台】",卫视电影
-http://fi1.ottclub.info:443/fmts/n673.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="e.png",group-title="【港 澳 台】",E Entertainment
-https://58ad68d0b6c8d.streamlock.net/ios/-echannel-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="8tv.png",group-title="【港 澳 台】",8频道
-http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
-#EXTINF:0 tvg-logo="utv.png",group-title="【港 澳 台】",U频道
-http://tglchu-lh.akamai.net/i/channelu_fta@334583/index_1_av-p.m3u8
-#EXTINF:0 tvg-logo="M.png",group-title="【港 澳 台】",韩国频道
-http://211.227.58.89:9981/stream/channelid/485008076
-#EXTINF:0 tvg-logo="SBS.png",group-title="【港 澳 台】",韩国频道
-http://211.227.58.89:9981/stream/channelid/1965909228
-#EXTINF:0 tvg-logo="KBS1.png",group-title="【港 澳 台】",韩国频道
-http://211.227.58.89:9981/stream/channelid/165739527
-#EXTINF:0 tvg-logo="KBS2.png",group-title="【港 澳 台】",韩国频道
-http://211.227.58.89:9981/stream/channelid/1584004493
-#EXTINF:0 tvg-logo="MBC.png",group-title="【港 澳 台】",韩国频道
-http://211.227.58.89:9981/stream/channelid/336903705
-#EXTINF:0 tvg-logo="TVN.png",group-title="【港 澳 台】",韩国TVN
-http://211.227.58.89:9981/stream/channelid/810962169
-#EXTINF:0 tvg-logo="tvbfeicui.png",group-title="【港 澳 台】",TVB翡翠(限时）
-
-http://acm.gg/jade.m3u8
-
-#EXTINF:0 tvg-logo="tvbj2.png",group-title="【港 澳 台】",TVB-J2(限时）
-
-http://acm.gg/j2.m3u8
-
-#EXTINF:0 tvg-logo="tvbhudongxinwena.png",group-title="【港 澳 台】",TVB新闻(限时）
-
-http://alrtmp.cdn.zhanqi.tv/zqlive/1234_inews.m3u8
-
-#EXTINF:0 tvg-logo="tvb8a.png",group-title="【港 澳 台】",TVB8(限时）
-
-http://tvb8-i.akamaihd.net/hls/live/224490/C8Live/C8Live-1.m3u8
-
-#EXTINF:0 tvg-logo="tvbyule.png",group-title="【港 澳 台】",TVB娱乐
-
-http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-
-#EXTINF:0 tvg-logo="tvbjingdian.png",group-title="【港 澳 台】",TVB经典
-
-http://hls1.plu.cn/live/tvbjd/playlist.m3u8 
-
-#EXTINF:0 tvg-logo="tvbgongfu.png",group-title="【港 澳 台】",TVB功夫
-
-http://acm.gg/tvbkf.m3u8
-
-#EXTINF:0 tvg-logo="tvbxinghe.png",group-title="【港 澳 台】",TVB星河
-
-http://www.onetv.pub/live/lxsh_hk.php?id=TVBXH
-
-#EXTINF:0 tvg-logo="youxianxinwen.png",group-title="【港 澳 台】",有线新闻
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=17&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0 tvg-logo="youxiancaijing.png",group-title="【港 澳 台】",有线财经
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=19&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0 tvg-logo="youxianyule.png",group-title="【港 澳 台】",有线娱乐
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=15&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0 tvg-logo="youxianjuji.png",group-title="【港 澳 台】",有线剧集
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=16&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0 tvg-logo="youxian201.png",group-title="【港 澳 台】",香港有线201
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=12&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0 tvg-logo="youxian202.png",group-title="【港 澳 台】",香港有线202
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=13&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0 tvg-logo="youxian203.png",group-title="【港 澳 台】",香港有线203
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0 tvg-logo="youxianqiucai.png",group-title="【港 澳 台】",有线球彩
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=11&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0 tvg-logo="youxian18.png",group-title="【港 澳 台】",有线18
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0 tvg-logo="nowzonghe.png",group-title="【港 澳 台】",NOW综合
-http://kk.luoke.net.cn/nbtv.php?id=now
-#EXTINF:0 tvg-logo="nowxinwen.png",group-title="【港 澳 台】",NOW新闻
-http://hk.sixu.life/now.m3u8?id=332
-#EXTINF:0 tvg-logo="nowzhibo.png",group-title="【港 澳 台】",NOW直播
-http://hk.sixu.life/now.m3u8?id=331
-#EXTINF:0 tvg-logo="viu.png",group-title="【港 澳 台】",VIU-TV
-http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-#EXTINF:0 tvg-logo="viu.png",group-title="【港 澳 台】",VIU6-TV
-http://viutv96-i.akamaihd.net/hls/live/265285/live1/stream6/streamPlaylist.m3u8
-#EXTINF:0 tvg-logo="hktv.png",group-title="【港 澳 台】",香港电视
-http://14.198.245.135:8080/enc2/02.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=f4128ed9dbf7996480dc22165bf32082&uid=1&vid=1&mxres=1312&s=f9f8f18f10b7a342b9c0c3a073f7b90c&cname=index2
-#EXTINF:0 tvg-logo="RHK-31a.png",group-title="【港 澳 台】",RHK-31
-http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
-#EXTINF:0 tvg-logo="RHK-32a.png",group-title="【港 澳 台】",RHK-32
-http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
-#EXTINF:0 tvg-logo="qimiao.png",group-title="【港 澳 台】",奇妙电视
-http://61.10.2.137/live_fantv/_definst_/fantv77_h.live/playlist.m3u8
-#EXTINF:0 tvg-logo="astroAEC.png",group-title="【港 澳 台】",Astro AEC
-http://playback02.aotg-video.astro.com.my/AOTGHLS/master_AECAPP.m3u8
-#EXTINF:0 tvg-logo="ntv.png",group-title="【港 澳 台】",NICE TV
-https://58ada6ee80845.streamlock.net/ios/-nice-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="aomengaoqing.png",group-title="【港 澳 台】",澳视高清
-http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:0 tvg-logo="aomenzixun.png",group-title="【港 澳 台】",澳视资讯
-http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8
-#EXTINF:0 tvg-logo="aomenMacau.png",group-title="【港 澳 台】",澳视卫星
-http://live3.tdm.com.mo:1935/ch3/ch3.live/media_w30461384.m3u8
-#EXTINF:0 tvg-logo="aomenweixing.png",group-title="【港 澳 台】",澳视澳门
-http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
-#EXTINF:0 tvg-logo="aomentiyu.png",group-title="【港 澳 台】",澳视体育
-http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/chunklist_w1608596921.m3u8
-#EXTINF:0 tvg-logo="Insight.png",group-title="【港 澳 台】",Insight U(4K)
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/3225.ts
-#EXTINF:0 tvg-logo="bosigaoqiu.png",group-title="【港 澳 台】",博斯高球一
-http://hktv.ga/c.php?glive2/b_golf_n/playlist.m3u8?st=1493902506809&token=YWI3MjE2M2JjYzEyY2VkNTFiMTE5OTcyZmYwNzA5MTRjODM4MjJiMg==#http://61.216.44.228/sta/31764025.m3u8
-#EXTINF:0 tvg-logo="bosigaoqiu.png",group-title="【港 澳 台】",博斯高球二
-#http://hktv.ga/c.php?glive2/b_golf2_n/playlist.m3u8?st=1493902533625&token=ZjVmNzFhMmI3OWNlMDUyMjU5Mjk1MWZlZTEyYTdjYWZjOWNhM2ZiMA==http://61.216.44.228/sta/31764026.m3u8
-#EXTINF:0 tvg-logo="bosiyundong.png",group-title="【港 澳 台】",博斯运动
-http://hktv.ga/c.php?glive2/b_sports_n/playlist.m3u8?st=1493902556758&token=NmMwYmRlNzhhNjM5MTU1NjFkYzMwNjM1MGZjYmIyYzA0Y2EyYzMzNA==#http://61.216.44.228/sta/31764028.m3u8
-#EXTINF:0 tvg-logo="bosiwangqiu.png",group-title="【港 澳 台】",博斯网球
-http://hktv.ga/c.php?glive2/b_tennis_n/playlist.m3u8?st=1493902622110&token=ODkxZTc4ZjAzMWQ2ZDUwNWMxNGU0MjIwZTQ0MTU5NjZiM2ZjMmI4OQ==#http://61.216.44.228/sta/31764027.m3u8
-#EXTINF:0 tvg-logo="bosiwuxian.png",group-title="【港 澳 台】",博斯无限
-http://hktv.ga/c.php?glive2/b_infinity_n/playlist.m3u8?st=1493900063497&token=NGMzYzI1Y2JjZDkyOWE3MDBmMzZiZTk5NGYyNWIzYTA1NWI2NGJkZg==#http://61.216.44.228/sta/31764017.m3u8
-#EXTINF:0 tvg-logo="bosimeili.png",group-title="【港 澳 台】",博斯魅力
-http://hktv.ga/c.php?glive2/b_charm_n/playlist.m3u8?st=1493900034737&token=Njg4ZDM3NzVhNDFiMmFjOGIzMDgzNDIwYTZhMGYzZTg0ODg2ODBhOA==#http://61.216.44.228/sta/31764019.m3u8
-#EXTINF:0 tvg-logo="bosizuqiu.png",group-title="【港 澳 台】",博斯足球
-http://hktv.ga/c.php?glive2/b_football_n/playlist.m3u8?st=1493902588410&token=NWI1ODYxNTM1YzA1MDQxMzgyZDFjN2VkNDVkYTcwMTU0M2VmMGIwMg==#http://61.216.44.228/sta/31764018.m3u8
-#EXTINF:0 tvg-logo="bosiwuxian.png",group-title="【港 澳 台】",博斯电玩
-http://61.216.44.228/sta/31764030.m3u8
-#EXTINF:0 tvg-logo="yazhuolvyou.png",group-title="【港 澳 台】",亚洲旅游
-http://hktv.ga/c.php?glive2/asiatravel_n/playlist.m3u8?st=1493900094687&token=ZTc4OGM4NmZlMDE2OGIxY2ZjZmIxYWEyYzc4MzYwMzIxMTU5OWVhMA==
-#EXTINF:0 tvg-logo="huanyuxinwen.png",group-title="【港 澳 台】",环宇新闻
-http://61.216.44.228/sta/31764032.m3u8
-#EXTINF:0 tvg-logo="huanyuxinwen.png",group-title="【港 澳 台】",环宇新闻二
-http://61.216.44.228/sta/31764033.m3u8
-#EXTINF:0 tvg-logo="tlc.png",group-title="【港 澳 台】",TLC 
-http://fi1.ottclub.info:443/fmts/n707.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="sci.png",group-title="【港 澳 台】",探索科学
-http://hktv.ga/c.php?glive/dscienl/playlist.m3u8?st=1493901010975&token=NTdmNmU1Y2I5M2I5ZDBjOWE0NDZmYmU5M2JlNWMxMmJhNmRjNjQzNQ==
-#EXTINF:0 tvg-logo="dmax.png",group-title="【港 澳 台】",DMAX 
-http://hktv.ga/c.php?glive/ddmaxl/playlist.m3u8?st=1493900901912&token=MGE3MjJlYjIwNjhmNDkwOTg4MDZlN2ZjNGE2MzU1MzNlZmFjZTA3Mw==
-#EXTINF:0 tvg-logo="eve.png",group-title="【港 澳 台】",EVE 
-http://hktv.ga/c.php?glive/devel/playlist.m3u8?st=1493900984978&token=Y2Y0N2M1ZjU5NGE3NDljMDkwZDkzOGU1YzhjY2EwOTU4YzU1NmJkYQ==
-#EXTINF:0 tvg-logo="cnkatong.jpg",group-title="【港 澳 台】",CN卡通
-http://fi1.ottclub.info:443/fmts/n709.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="disnep.png",group-title="【港 澳 台】",迪士尼频道台
-http://fi1.ottclub.info:443/fmts/n710.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="momoqinzitai.png",group-title="【港 澳 台】",MOMO 亲子台
-http://fi1.ottclub.info:443/fmts/n711.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="yoyo.jpg",group-title="【港 澳 台】",东森幼幼台
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8104.m3u8
-#EXTINF:0 tvg-logo="dongsengdianying.png",group-title="【港 澳 台】",超视台
-http://fi1.ottclub.info:443/fmts/n687.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="TVN.png",group-title="【港 澳 台】",tvN 
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8401.m3u8
-#EXTINF:0 tvg-logo="hanguoyuletai.png",group-title="【港 澳 台】",KMTV 
-http://fi1.ottclub.info:443/kitty/c721.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【港 澳 台】",东风卫视台
-http://fi1.ottclub.info:443/kitty/c714.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【港 澳 台】",MUCH 台
-http://fi1.ottclub.info:443/fmts/n689.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="weishidianying1.png",group-title="【港 澳 台】",卫视合家欢台
-http://fi1.ottclub.info:443/kitty/c711.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="jet.png",group-title="【港 澳 台】",JET 综合台
-http://fi1.ottclub.info:443/fmts/n695.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="axn.png",group-title="【港 澳 台】",AXN 
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/3068.ts#http://fi1.ottclub.info:443/fmts/n677.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="yixinwen.png",group-title="【港 澳 台】",壹电视新闻台
-http://fi1.ottclub.info:443/kitty/c558.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="niandaixinwen.png",group-title="【港 澳 台】",年代新闻台
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8402.m3u8
-#EXTINF:0 tvg-logo="dongsengxinwen.png",group-title="【港 澳 台】",东森新闻台
-http://fi1.ottclub.info:443/fmts/n697.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="zhongtianxinwen.png",group-title="【港 澳 台】",中天新闻台
-http://fi1.ottclub.info:443/fmts/n698.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="mingshixinwen.png",group-title="【港 澳 台】",民视新闻台
-http://fi1.ottclub.info:443/fmts/n699.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="tvbsxinwen.png",group-title="【港 澳 台】",TVBS 新闻台
-http://fi1.ottclub.info:443/fmts/n669.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="dongsengcaijing.png",group-title="【港 澳 台】",东森财经新闻台
-http://fi1.ottclub.info:443/fmts/n671.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="feifanxinwen.png",group-title="【港 澳 台】",非凡商业
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9502.m3u8
-#EXTINF:0 tvg-logo="yizonghe.png",group-title="【港 澳 台】",壹综合
-http://fi1.ottclub.info:443/water/c710.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="haolaiwu1.png",group-title="【港 澳 台】",好莱坞电影
-http://fi1.ottclub.info:443/fmts/n678.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="weishidianying.png",group-title="【港 澳 台】",Star Movies 
-http://fi1.ottclub.info:443/kitty/c722.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="max.png",group-title="【港 澳 台】",CINEMAX 
-http://fi1.ottclub.info:443/fmts/n680.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="aierdayule.png",group-title="【港 澳 台】",爱尔达育樂
-http://hktv.ga/c.php?glive/eltaent/playlist.m3u8?st=1493900434423&token=ZDljNmY0MzdmNWI4YzcyMjAxODE0MzU4YzY1ZTViZjcwNzM5ZjVkNA==
-#EXTINF:0 tvg-logo="aierdatiyu.png",group-title="【港 澳 台】",爱尔达体育
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9402.m3u8
-#EXTINF:0 tvg-logo="aierdayingju.png",group-title="【港 澳 台】",爱尔达影剧
-http://fi1.ottclub.info:43/fmts/n706.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="aierdazonghe.png",group-title="【港 澳 台】",爱尔达综合
-http://fi1.ottclub.info:443/mts/n681.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="aierdazuqiu.png",group-title="【港 澳 台】",爱尔达足球
-http://fi1.ottclub.info:443/fms/n706.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="weilaidianying.png",group-title="【港 澳 台】",纬来日本台
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9602.m3u8
-#EXTINF:0 tvg-logo="weilaidianying.png",group-title="【港 澳 台】",纬来电影台
-http://fi1.ottclub.info:443/fmts/n675.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="weilaixiju.png",group-title="【港 澳 台】",纬来戏剧台
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8203.m3u8
-#EXTINF:0 tvg-logo="weilaidianying.png",group-title="【港 澳 台】",纬来育乐台
-http://60.255.49.132:9090/live/cctv1hd_4000.m3u8
-#EXTINF:0 tvg-logo="weilaidianying.png",group-title="【港 澳 台】",纬来体育台
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9203.m3u8
-#EXTINF:0 tvg-logo="weilaizonghe.png",group-title="【港 澳 台】",纬来综合台
-http://fi1.ottclub.info:443/fmts/n713.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【港 澳 台】",国兴卫视台
-http://fi1.ottclub.info:443/kitty/c701.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="animax.png",group-title="【港 澳 台】",ANIMAX 
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/8502.m3u8
-#EXTINF:0 tvg-logo="baby.png",group-title="【港 澳 台】",BabyTV 
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9401.m3u8
-#EXTINF:0 tvg-logo="dawenxi.png",group-title="【港 澳 台】",達文西
-http://hktv.ga/c.php?glive/davincil/playlist.m3u8?st=1493900871267&token=MjM4Yzc4NDNhNjhjNzk5MDM2YzQ0ZGFmNzAyNDZmMmI5MzJhY2U4ZQ==
-#EXTINF:0 tvg-logo="aifang.png",group-title="【港 澳 台】",i-Fun动漫台
-https://58ad68d0b6c8d.streamlock.net/ios/-ifun-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="aifang.png",group-title="【港 澳 台】",i-Fun动漫2台
-https://58ada6ee80845.streamlock.net/ios/-ifun2-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【港 澳 台】",霹雳台湾台
-http://fi1.ottclub.info:443/water/c673.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【港 澳 台】",NHK 
-http://fi1.ottclub.info:443/water/c560.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【港 澳 台】",ELEVEN SPORTS 
-http://fi1.ottclub.info:443/kitty/c703.stream/playlist.m3u8?a=59b41aff&b=_najwlz1jA4FdGNxxg9uSg
 #EXTINF:0 tvg-logo="leshi4kdianying.png",group-title="【樂视电影】",4K电影
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
 #EXTINF:0 tvg-logo="leshigaoqingdianying",group-title="【樂视电影】",高清电影
@@ -967,60 +514,1560 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rbyy_1800&tag=live&ext=m3u8&si
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yydy_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
 #EXTINF:0 tvg-logo="leshi4kdianying.png",group-title="【樂视音乐】",金曲捞
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xxcdq_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美32
-http://content2.sexforsure.com/2013/07/02/4/Video.mp4
-#EXTINF:0 tvg-logo="panduola1.png",group-title="【欧美CR】",HD欧美33
-http://content2.sexforsure.com/2013/07/02/5/Video.mp4
-#EXTINF:0 tvg-logo="caihonge.jpg",group-title="【欧美CR】",HD欧美34
-http://content2.sexforsure.com/2013/07/02/6/Video.mp4
-#EXTINF:0 tvg-logo="caihongdianying.jpg",group-title="【欧美CR】",HD欧美35
-http://content2.sexforsure.com/2013/07/02/7/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美36
-http://content2.sexforsure.com/2013/07/02/8/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美37
-http://content2.sexforsure.com/2013/07/02/9/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美38
-http://content2.sexforsure.com/2013/07/02/10/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美39
-http://content2.sexforsure.com/2013/07/02/11/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美40
-http://content2.sexforsure.com/2013/07/02/13/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美41
-http://content2.sexforsure.com/2013/07/02/12/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美42
-http://content2.sexforsure.com/2013/07/03/9/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美43
-http://content2.sexforsure.com/2013/07/02/18/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美44
-http://content2.sexforsure.com/2013/07/02/14/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美45
-http://content2.sexforsure.com/2013/07/02/15/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美46
-http://content2.sexforsure.com/2013/07/02/16/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美47
-http://content2.sexforsure.com/2013/07/02/17/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美48
-http://content2.sexforsure.com/2013/07/02/18/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美49
-http://content2.sexforsure.com/2013/07/02/19/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美50
-http://content2.sexforsure.com/2013/07/02/20/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美51
-http://content2.sexforsure.com/2013/07/03/1/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美52
-http://content2.sexforsure.com/2013/07/03/2/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美53
-http://content2.sexforsure.com/2013/07/03/3/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美54
-http://content2.sexforsure.com/2013/07/03/4/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美55
-http://content2.sexforsure.com/2013/07/03/5/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美56
-http://content2.sexforsure.com/2013/07/03/7/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美57
-http://content2.sexforsure.com/2013/07/02/1/Video.mp4
-#EXTINF:0 tvg-logo="panduola.png",group-title="【欧美CR】",HD欧美58
-http://content2.sexforsure.com/2013/07/02/2/Video.mp4
+
+
+
+
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码1
+http://data1.cache.directory/media/videos/iphone/1.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码2
+http://data1.cache.directory/media/videos/iphone/2.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码3
+http://data1.cache.directory/media/videos/iphone/3.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码4
+http://data1.cache.directory/media/videos/iphone/4.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码5
+http://data1.cache.directory/media/videos/iphone/5.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码6
+http://data1.cache.directory/media/videos/iphone/6.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码7
+http://data1.cache.directory/media/videos/iphone/7.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码8
+http://data1.cache.directory/media/videos/iphone/8.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码9
+http://data1.cache.directory/media/videos/iphone/9.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码10
+http://data1.cache.directory/media/videos/iphone/10.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码11
+http://data1.cache.directory/media/videos/iphone/11.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码12
+http://data1.cache.directory/media/videos/iphone/12.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码13
+http://data1.cache.directory/media/videos/iphone/13.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码14
+http://data1.cache.directory/media/videos/iphone/14.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码15
+http://data1.cache.directory/media/videos/iphone/15.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码16
+http://data1.cache.directory/media/videos/iphone/16.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码17
+http://data1.cache.directory/media/videos/iphone/17.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码18
+http://data1.cache.directory/media/videos/iphone/18.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码19
+http://data1.cache.directory/media/videos/iphone/19.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码20
+http://data1.cache.directory/media/videos/iphone/20.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码21
+http://data1.cache.directory/media/videos/iphone/21.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码22
+http://data1.cache.directory/media/videos/iphone/22.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码23
+http://data1.cache.directory/media/videos/iphone/23.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码24
+http://data1.cache.directory/media/videos/iphone/24.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码25
+http://data1.cache.directory/media/videos/iphone/25.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码26
+http://data1.cache.directory/media/videos/iphone/26.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码27
+http://data1.cache.directory/media/videos/iphone/27.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码28
+http://data1.cache.directory/media/videos/iphone/28.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码29
+http://data1.cache.directory/media/videos/iphone/29.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码30
+http://data1.cache.directory/media/videos/iphone/30.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码31
+http://data1.cache.directory/media/videos/iphone/31.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码32
+http://data1.cache.directory/media/videos/iphone/32.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码33
+http://data1.cache.directory/media/videos/iphone/33.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码34
+http://data1.cache.directory/media/videos/iphone/34.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码35
+http://data1.cache.directory/media/videos/iphone/35.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码36
+http://data1.cache.directory/media/videos/iphone/36.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码37
+http://data1.cache.directory/media/videos/iphone/37.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码38
+http://data1.cache.directory/media/videos/iphone/38.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码39
+http://data1.cache.directory/media/videos/iphone/39.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码40
+http://data1.cache.directory/media/videos/iphone/40.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码41
+http://data1.cache.directory/media/videos/iphone/41.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码42
+http://data1.cache.directory/media/videos/iphone/42.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码43
+http://data1.cache.directory/media/videos/iphone/43.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码44
+http://data1.cache.directory/media/videos/iphone/44.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码45
+http://data1.cache.directory/media/videos/iphone/45.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码46
+http://data1.cache.directory/media/videos/iphone/46.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码47
+http://data1.cache.directory/media/videos/iphone/47.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码48
+http://data1.cache.directory/media/videos/iphone/48.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码49
+http://data1.cache.directory/media/videos/iphone/49.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码50
+http://data1.cache.directory/media/videos/iphone/50.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码51
+http://data1.cache.directory/media/videos/iphone/51.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码52
+http://data1.cache.directory/media/videos/iphone/52.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码53
+http://data1.cache.directory/media/videos/iphone/53.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码54
+http://data1.cache.directory/media/videos/iphone/54.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码55
+http://data1.cache.directory/media/videos/iphone/55.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码56
+http://data1.cache.directory/media/videos/iphone/56.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码57
+http://data1.cache.directory/media/videos/iphone/57.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码58
+http://data1.cache.directory/media/videos/iphone/58.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码59
+http://data1.cache.directory/media/videos/iphone/59.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码60
+http://data1.cache.directory/media/videos/iphone/60.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码61
+http://data1.cache.directory/media/videos/iphone/61.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码62
+http://data1.cache.directory/media/videos/iphone/62.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码63
+http://data1.cache.directory/media/videos/iphone/63.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码64
+http://data1.cache.directory/media/videos/iphone/64.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码65
+http://data1.cache.directory/media/videos/iphone/65.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码66
+http://data1.cache.directory/media/videos/iphone/66.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码67
+http://data1.cache.directory/media/videos/iphone/67.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码68
+http://data1.cache.directory/media/videos/iphone/68.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码69
+http://data1.cache.directory/media/videos/iphone/69.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码70
+http://data1.cache.directory/media/videos/iphone/70.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码71
+http://data1.cache.directory/media/videos/iphone/71.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码72
+http://data1.cache.directory/media/videos/iphone/72.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码73
+http://data1.cache.directory/media/videos/iphone/73.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码74
+http://data1.cache.directory/media/videos/iphone/74.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码75
+http://data1.cache.directory/media/videos/iphone/75.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码76
+http://data1.cache.directory/media/videos/iphone/76.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码77
+http://data1.cache.directory/media/videos/iphone/77.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码78
+http://data1.cache.directory/media/videos/iphone/78.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码79
+http://data1.cache.directory/media/videos/iphone/79.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码80
+http://data1.cache.directory/media/videos/iphone/80.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码81
+http://data1.cache.directory/media/videos/iphone/81.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码82
+http://data1.cache.directory/media/videos/iphone/82.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码83
+http://data1.cache.directory/media/videos/iphone/83.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码84
+http://data1.cache.directory/media/videos/iphone/84.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码85
+http://data1.cache.directory/media/videos/iphone/85.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码86
+http://data1.cache.directory/media/videos/iphone/86.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码87
+http://data1.cache.directory/media/videos/iphone/87.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码88
+http://data1.cache.directory/media/videos/iphone/88.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码89
+http://data1.cache.directory/media/videos/iphone/89.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码90
+http://data1.cache.directory/media/videos/iphone/90.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码91
+http://data1.cache.directory/media/videos/iphone/91.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码92
+http://data1.cache.directory/media/videos/iphone/92.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码93
+http://data1.cache.directory/media/videos/iphone/93.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码94
+http://data1.cache.directory/media/videos/iphone/94.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码95
+http://data1.cache.directory/media/videos/iphone/95.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码96
+http://data1.cache.directory/media/videos/iphone/96.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码97
+http://data1.cache.directory/media/videos/iphone/97.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码98
+http://data1.cache.directory/media/videos/iphone/98.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码99
+http://data1.cache.directory/media/videos/iphone/99.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码100
+http://data1.cache.directory/media/videos/iphone/100.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码101
+http://data1.cache.directory/media/videos/iphone/101.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码102
+http://data1.cache.directory/media/videos/iphone/102.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码103
+http://data1.cache.directory/media/videos/iphone/103.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码104
+http://data1.cache.directory/media/videos/iphone/104.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码105
+http://data1.cache.directory/media/videos/iphone/105.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码106
+http://data1.cache.directory/media/videos/iphone/106.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码107
+http://data1.cache.directory/media/videos/iphone/107.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码108
+http://data1.cache.directory/media/videos/iphone/108.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码109
+http://data1.cache.directory/media/videos/iphone/109.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码110
+http://data1.cache.directory/media/videos/iphone/110.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码111
+http://data1.cache.directory/media/videos/iphone/111.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码112
+http://data1.cache.directory/media/videos/iphone/112.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码113
+http://data1.cache.directory/media/videos/iphone/113.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码114
+http://data1.cache.directory/media/videos/iphone/114.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码115
+http://data1.cache.directory/media/videos/iphone/115.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码116
+http://data1.cache.directory/media/videos/iphone/116.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码117
+http://data1.cache.directory/media/videos/iphone/117.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码118
+http://data1.cache.directory/media/videos/iphone/118.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码119
+http://data1.cache.directory/media/videos/iphone/119.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码120
+http://data1.cache.directory/media/videos/iphone/120.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码121
+http://data1.cache.directory/media/videos/iphone/121.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码122
+http://data1.cache.directory/media/videos/iphone/122.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码123
+http://data1.cache.directory/media/videos/iphone/123.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码124
+http://data1.cache.directory/media/videos/iphone/124.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码125
+http://data1.cache.directory/media/videos/iphone/125.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码126
+http://data1.cache.directory/media/videos/iphone/126.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码127
+http://data1.cache.directory/media/videos/iphone/127.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码128
+http://data1.cache.directory/media/videos/iphone/128.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码129
+http://data1.cache.directory/media/videos/iphone/129.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码130
+http://data1.cache.directory/media/videos/iphone/130.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码131
+http://data1.cache.directory/media/videos/iphone/131.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码132
+http://data1.cache.directory/media/videos/iphone/132.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码133
+http://data1.cache.directory/media/videos/iphone/133.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码134
+http://data1.cache.directory/media/videos/iphone/134.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码135
+http://data1.cache.directory/media/videos/iphone/135.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码136
+http://data1.cache.directory/media/videos/iphone/136.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码137
+http://data1.cache.directory/media/videos/iphone/137.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码138
+http://data1.cache.directory/media/videos/iphone/138.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码139
+http://data1.cache.directory/media/videos/iphone/139.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码140
+http://data1.cache.directory/media/videos/iphone/140.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码141
+http://data1.cache.directory/media/videos/iphone/141.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码142
+http://data1.cache.directory/media/videos/iphone/142.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码143
+http://data1.cache.directory/media/videos/iphone/143.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码144
+http://data1.cache.directory/media/videos/iphone/144.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码145
+http://data1.cache.directory/media/videos/iphone/145.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码146
+http://data1.cache.directory/media/videos/iphone/146.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码147
+http://data1.cache.directory/media/videos/iphone/147.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码148
+http://data1.cache.directory/media/videos/iphone/148.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码149
+http://data1.cache.directory/media/videos/iphone/149.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码150
+http://data1.cache.directory/media/videos/iphone/150.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码151
+http://data1.cache.directory/media/videos/iphone/151.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码152
+http://data1.cache.directory/media/videos/iphone/152.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码153
+http://data1.cache.directory/media/videos/iphone/153.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码154
+http://data1.cache.directory/media/videos/iphone/154.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码155
+http://data1.cache.directory/media/videos/iphone/155.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码156
+http://data1.cache.directory/media/videos/iphone/156.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码157
+http://data1.cache.directory/media/videos/iphone/157.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码158
+http://data1.cache.directory/media/videos/iphone/158.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码159
+http://data1.cache.directory/media/videos/iphone/159.mp4
+#EXTINF:-1 group-title="【【日本大片】】",100lu无码160
+http://data1.cache.directory/media/videos/iphone/160.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通1
+http://data1.cache.directory/media/videos/iphone/3221.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通2
+http://data1.cache.directory/media/videos/iphone/3222.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通3
+http://data1.cache.directory/media/videos/iphone/3223.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通4
+http://data1.cache.directory/media/videos/iphone/3224.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通5
+http://data1.cache.directory/media/videos/iphone/3225.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通6
+http://data1.cache.directory/media/videos/iphone/3226.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通7
+http://data1.cache.directory/media/videos/iphone/3227.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通8
+http://data1.cache.directory/media/videos/iphone/3228.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通9
+http://data1.cache.directory/media/videos/iphone/3229.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通10
+http://data1.cache.directory/media/videos/iphone/3230.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通11
+http://data1.cache.directory/media/videos/iphone/3231.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通12
+http://data1.cache.directory/media/videos/iphone/3232.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通13
+http://data1.cache.directory/media/videos/iphone/3233.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通14
+http://data1.cache.directory/media/videos/iphone/3234.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通15
+http://data1.cache.directory/media/videos/iphone/3235.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通16
+http://data1.cache.directory/media/videos/iphone/3236.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通17
+http://data1.cache.directory/media/videos/iphone/3237.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通18
+http://data1.cache.directory/media/videos/iphone/3238.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通19
+http://data1.cache.directory/media/videos/iphone/3239.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通20
+http://data1.cache.directory/media/videos/iphone/3240.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通21
+http://data1.cache.directory/media/videos/iphone/3241.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通22
+http://data1.cache.directory/media/videos/iphone/3242.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通23
+http://data1.cache.directory/media/videos/iphone/3243.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通24
+http://data1.cache.directory/media/videos/iphone/3244.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通25
+http://data1.cache.directory/media/videos/iphone/3245.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通26
+http://data1.cache.directory/media/videos/iphone/3246.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通27
+http://data1.cache.directory/media/videos/iphone/3247.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通28
+http://data1.cache.directory/media/videos/iphone/3248.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通29
+http://data1.cache.directory/media/videos/iphone/3249.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通30
+http://data1.cache.directory/media/videos/iphone/3250.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通31
+http://data1.cache.directory/media/videos/iphone/3251.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通32
+http://data1.cache.directory/media/videos/iphone/3252.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通33
+http://data1.cache.directory/media/videos/iphone/3253.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通34
+http://data1.cache.directory/media/videos/iphone/3254.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通35
+http://data1.cache.directory/media/videos/iphone/3255.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通36
+http://data1.cache.directory/media/videos/iphone/3256.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通37
+http://data1.cache.directory/media/videos/iphone/3257.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通38
+http://data1.cache.directory/media/videos/iphone/3258.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通39
+http://data1.cache.directory/media/videos/iphone/3259.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通40
+http://data1.cache.directory/media/videos/iphone/3260.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通41
+http://data1.cache.directory/media/videos/iphone/3261.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通42
+http://data1.cache.directory/media/videos/iphone/3262.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通43
+http://data1.cache.directory/media/videos/iphone/3263.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通44
+http://data1.cache.directory/media/videos/iphone/3264.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通45
+http://data1.cache.directory/media/videos/iphone/3265.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通46
+http://data1.cache.directory/media/videos/iphone/3266.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通47
+http://data1.cache.directory/media/videos/iphone/3267.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通48
+http://data1.cache.directory/media/videos/iphone/3268.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通49
+http://data1.cache.directory/media/videos/iphone/3269.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通50
+http://data1.cache.directory/media/videos/iphone/3270.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通51
+http://data1.cache.directory/media/videos/iphone/3271.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通52
+http://data1.cache.directory/media/videos/iphone/3272.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通53
+http://data1.cache.directory/media/videos/iphone/3273.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通54
+http://data1.cache.directory/media/videos/iphone/3274.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通55
+http://data1.cache.directory/media/videos/iphone/3275.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通56
+http://data1.cache.directory/media/videos/iphone/3276.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通57
+http://data1.cache.directory/media/videos/iphone/3277.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通58
+http://data1.cache.directory/media/videos/iphone/3278.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通59
+http://data1.cache.directory/media/videos/iphone/3279.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通60
+http://data1.cache.directory/media/videos/iphone/3280.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通61
+http://data1.cache.directory/media/videos/iphone/3281.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通62
+http://data1.cache.directory/media/videos/iphone/3282.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通63
+http://data1.cache.directory/media/videos/iphone/3283.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通64
+http://data1.cache.directory/media/videos/iphone/3284.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通65
+http://data1.cache.directory/media/videos/iphone/3285.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通66
+http://data1.cache.directory/media/videos/iphone/3286.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通67
+http://data1.cache.directory/media/videos/iphone/3287.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通68
+http://data1.cache.directory/media/videos/iphone/3288.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通69
+http://data1.cache.directory/media/videos/iphone/3289.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通70
+http://data1.cache.directory/media/videos/iphone/3290.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通71
+http://data1.cache.directory/media/videos/iphone/3291.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通72
+http://data1.cache.directory/media/videos/iphone/3292.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通73
+http://data1.cache.directory/media/videos/iphone/3293.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通74
+http://data1.cache.directory/media/videos/iphone/3294.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通75
+http://data1.cache.directory/media/videos/iphone/3295.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通76
+http://data1.cache.directory/media/videos/iphone/3296.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通77
+http://data1.cache.directory/media/videos/iphone/3297.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通78
+http://data1.cache.directory/media/videos/iphone/3298.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通79
+http://data1.cache.directory/media/videos/iphone/3299.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通80
+http://data1.cache.directory/media/videos/iphone/3300.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通81
+http://data1.cache.directory/media/videos/iphone/3301.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通82
+http://data1.cache.directory/media/videos/iphone/3302.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通83
+http://data1.cache.directory/media/videos/iphone/3303.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通84
+http://data1.cache.directory/media/videos/iphone/3304.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通85
+http://data1.cache.directory/media/videos/iphone/3305.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通86
+http://data1.cache.directory/media/videos/iphone/3306.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通87
+http://data1.cache.directory/media/videos/iphone/3307.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通88
+http://data1.cache.directory/media/videos/iphone/3308.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通89
+http://data1.cache.directory/media/videos/iphone/3309.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通90
+http://data1.cache.directory/media/videos/iphone/3310.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通91
+http://data1.cache.directory/media/videos/iphone/3311.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通92
+http://data1.cache.directory/media/videos/iphone/3312.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通93
+http://data1.cache.directory/media/videos/iphone/3313.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通94
+http://data1.cache.directory/media/videos/iphone/3314.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通95
+http://data1.cache.directory/media/videos/iphone/3315.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通96
+http://data1.cache.directory/media/videos/iphone/3316.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通97
+http://data1.cache.directory/media/videos/iphone/3317.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通98
+http://data1.cache.directory/media/videos/iphone/3318.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通99
+http://data1.cache.directory/media/videos/iphone/3319.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通100
+http://data1.cache.directory/media/videos/iphone/3320.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通101
+http://data1.cache.directory/media/videos/iphone/3321.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通102
+http://data1.cache.directory/media/videos/iphone/3322.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通103
+http://data1.cache.directory/media/videos/iphone/3323.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通104
+http://data1.cache.directory/media/videos/iphone/3324.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通105
+http://data1.cache.directory/media/videos/iphone/3325.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通106
+http://data1.cache.directory/media/videos/iphone/3326.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通107
+http://data1.cache.directory/media/videos/iphone/3327.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通108
+http://data1.cache.directory/media/videos/iphone/3328.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通109
+http://data1.cache.directory/media/videos/iphone/3329.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通110
+http://data1.cache.directory/media/videos/iphone/3330.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通111
+http://data1.cache.directory/media/videos/iphone/3331.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通112
+http://data1.cache.directory/media/videos/iphone/3332.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通113
+http://data1.cache.directory/media/videos/iphone/3333.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通114
+http://data1.cache.directory/media/videos/iphone/3334.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通115
+http://data1.cache.directory/media/videos/iphone/3335.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通116
+http://data1.cache.directory/media/videos/iphone/3336.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通117
+http://data1.cache.directory/media/videos/iphone/3337.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通118
+http://data1.cache.directory/media/videos/iphone/3338.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通119
+http://data1.cache.directory/media/videos/iphone/3339.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通120
+http://data1.cache.directory/media/videos/iphone/3340.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通121
+http://data1.cache.directory/media/videos/iphone/3341.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通122
+http://data1.cache.directory/media/videos/iphone/3342.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通123
+http://data1.cache.directory/media/videos/iphone/3343.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通124
+http://data1.cache.directory/media/videos/iphone/3344.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通125
+http://data1.cache.directory/media/videos/iphone/3345.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通126
+http://data1.cache.directory/media/videos/iphone/3346.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通127
+http://data1.cache.directory/media/videos/iphone/3347.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通128
+http://data1.cache.directory/media/videos/iphone/3348.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通129
+http://data1.cache.directory/media/videos/iphone/3349.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通130
+http://data1.cache.directory/media/videos/iphone/3350.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通131
+http://data1.cache.directory/media/videos/iphone/3351.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通132
+http://data1.cache.directory/media/videos/iphone/3352.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通133
+http://data1.cache.directory/media/videos/iphone/3353.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通134
+http://data1.cache.directory/media/videos/iphone/3354.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通135
+http://data1.cache.directory/media/videos/iphone/3355.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通136
+http://data1.cache.directory/media/videos/iphone/3356.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通137
+http://data1.cache.directory/media/videos/iphone/3357.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通138
+http://data1.cache.directory/media/videos/iphone/3358.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通139
+http://data1.cache.directory/media/videos/iphone/3359.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通140
+http://data1.cache.directory/media/videos/iphone/3360.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通141
+http://data1.cache.directory/media/videos/iphone/3361.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通142
+http://data1.cache.directory/media/videos/iphone/3362.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通143
+http://data1.cache.directory/media/videos/iphone/3363.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通144
+http://data1.cache.directory/media/videos/iphone/3364.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通145
+http://data1.cache.directory/media/videos/iphone/3365.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通146
+http://data1.cache.directory/media/videos/iphone/3366.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通147
+http://data1.cache.directory/media/videos/iphone/3367.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通148
+http://data1.cache.directory/media/videos/iphone/3368.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通149
+http://data1.cache.directory/media/videos/iphone/3369.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通150
+http://data1.cache.directory/media/videos/iphone/3370.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通151
+http://data1.cache.directory/media/videos/iphone/3371.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通152
+http://data1.cache.directory/media/videos/iphone/3372.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通153
+http://data1.cache.directory/media/videos/iphone/3373.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通154
+http://data1.cache.directory/media/videos/iphone/3374.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通155
+http://data1.cache.directory/media/videos/iphone/3375.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通156
+http://data1.cache.directory/media/videos/iphone/3376.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通157
+http://data1.cache.directory/media/videos/iphone/3377.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通158
+http://data1.cache.directory/media/videos/iphone/3378.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通159
+http://data1.cache.directory/media/videos/iphone/3379.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通160
+http://data1.cache.directory/media/videos/iphone/3380.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通161
+http://data1.cache.directory/media/videos/iphone/3381.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通162
+http://data1.cache.directory/media/videos/iphone/3382.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通163
+http://data1.cache.directory/media/videos/iphone/3383.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通164
+http://data1.cache.directory/media/videos/iphone/3384.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通165
+http://data1.cache.directory/media/videos/iphone/3385.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通166
+http://data1.cache.directory/media/videos/iphone/3386.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通167
+http://data1.cache.directory/media/videos/iphone/3387.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通168
+http://data1.cache.directory/media/videos/iphone/3388.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通169
+http://data1.cache.directory/media/videos/iphone/3389.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通170
+http://data1.cache.directory/media/videos/iphone/3390.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通171
+http://data1.cache.directory/media/videos/iphone/3391.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通172
+http://data1.cache.directory/media/videos/iphone/3392.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通173
+http://data1.cache.directory/media/videos/iphone/3393.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通174
+http://data1.cache.directory/media/videos/iphone/3394.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通175
+http://data1.cache.directory/media/videos/iphone/3395.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通176
+http://data1.cache.directory/media/videos/iphone/3396.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通177
+http://data1.cache.directory/media/videos/iphone/3397.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通178
+http://data1.cache.directory/media/videos/iphone/3398.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通179
+http://data1.cache.directory/media/videos/iphone/3399.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通180
+http://data1.cache.directory/media/videos/iphone/3400.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通181
+http://data1.cache.directory/media/videos/iphone/3401.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通182
+http://data1.cache.directory/media/videos/iphone/3402.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通183
+http://data1.cache.directory/media/videos/iphone/3403.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通184
+http://data1.cache.directory/media/videos/iphone/3404.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通185
+http://data1.cache.directory/media/videos/iphone/3405.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通186
+http://data1.cache.directory/media/videos/iphone/3406.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通187
+http://data1.cache.directory/media/videos/iphone/3407.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通188
+http://data1.cache.directory/media/videos/iphone/3408.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通189
+http://data1.cache.directory/media/videos/iphone/3409.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通190
+http://data1.cache.directory/media/videos/iphone/3410.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通191
+http://data1.cache.directory/media/videos/iphone/3411.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通192
+http://data1.cache.directory/media/videos/iphone/3412.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通193
+http://data1.cache.directory/media/videos/iphone/3413.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通194
+http://data1.cache.directory/media/videos/iphone/3414.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通195
+http://data1.cache.directory/media/videos/iphone/3415.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通196
+http://data1.cache.directory/media/videos/iphone/3416.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通197
+http://data1.cache.directory/media/videos/iphone/3417.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通198
+http://data1.cache.directory/media/videos/iphone/3418.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通199
+http://data1.cache.directory/media/videos/iphone/3419.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通200
+http://data1.cache.directory/media/videos/iphone/3426.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通201
+http://data1.cache.directory/media/videos/iphone/3431.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通202
+http://data1.cache.directory/media/videos/iphone/3440.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通203
+http://data1.cache.directory/media/videos/iphone/3460.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通204
+http://data1.cache.directory/media/videos/iphone/3461.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本卡通205
+http://data1.cache.directory/media/videos/iphone/3464.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码1
+http://data1.cache.directory/media/videos/iphone/3476.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码2
+http://data1.cache.directory/media/videos/iphone/3477.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码3
+http://data1.cache.directory/media/videos/iphone/3478.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码4
+http://data1.cache.directory/media/videos/iphone/3480.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码5
+http://data1.cache.directory/media/videos/iphone/3482.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码6
+http://data1.cache.directory/media/videos/iphone/3483.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码7
+http://data1.cache.directory/media/videos/iphone/3488.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码8
+http://data1.cache.directory/media/videos/iphone/3490.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码9
+http://data1.cache.directory/media/videos/iphone/3491.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码10
+http://data1.cache.directory/media/videos/iphone/3496.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码11
+http://data1.cache.directory/media/videos/iphone/3497.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码12
+http://data1.cache.directory/media/videos/iphone/3498.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码13
+http://data1.cache.directory/media/videos/iphone/3499.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码14
+http://data1.cache.directory/media/videos/iphone/3500.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码15
+http://data1.cache.directory/media/videos/iphone/3501.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码16
+http://data1.cache.directory/media/videos/iphone/3502.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码17
+http://data1.cache.directory/media/videos/iphone/3503.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码18
+http://data1.cache.directory/media/videos/iphone/3504.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码19
+http://data1.cache.directory/media/videos/iphone/3505.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码20
+http://data1.cache.directory/media/videos/iphone/3506.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码21
+http://data1.cache.directory/media/videos/iphone/3507.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码22
+http://data1.cache.directory/media/videos/iphone/3508.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码23
+http://data1.cache.directory/media/videos/iphone/3509.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码24
+http://data1.cache.directory/media/videos/iphone/3510.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码25
+http://data1.cache.directory/media/videos/iphone/3511.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码26
+http://data1.cache.directory/media/videos/iphone/3512.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码27
+http://data1.cache.directory/media/videos/iphone/3513.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码28
+http://data1.cache.directory/media/videos/iphone/3521.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码29
+http://data1.cache.directory/media/videos/iphone/3556.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码30
+http://data1.cache.directory/media/videos/iphone/3563.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码31
+http://data1.cache.directory/media/videos/iphone/3798.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码32
+http://data1.cache.directory/media/videos/iphone/3799.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码33
+http://data1.cache.directory/media/videos/iphone/3801.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码34
+http://data1.cache.directory/media/videos/iphone/3802.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码35
+http://data1.cache.directory/media/videos/iphone/3803.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码36
+http://data1.cache.directory/media/videos/iphone/3806.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码37
+http://data1.cache.directory/media/videos/iphone/3807.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码38
+http://data1.cache.directory/media/videos/iphone/3808.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码39
+http://data1.cache.directory/media/videos/iphone/3809.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码40
+http://data1.cache.directory/media/videos/iphone/3810.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码41
+http://data1.cache.directory/media/videos/iphone/3811.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码42
+http://data1.cache.directory/media/videos/iphone/3812.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码43
+http://data1.cache.directory/media/videos/iphone/3813.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码44
+http://data1.cache.directory/media/videos/iphone/3815.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码45
+http://data1.cache.directory/media/videos/iphone/3816.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码46
+http://data1.cache.directory/media/videos/iphone/3817.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码47
+http://data1.cache.directory/media/videos/iphone/3820.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码48
+http://data1.cache.directory/media/videos/iphone/3821.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码49
+http://data1.cache.directory/media/videos/iphone/3822.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码50
+http://data1.cache.directory/media/videos/iphone/3824.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码51
+http://data1.cache.directory/media/videos/iphone/3829.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码52
+http://data1.cache.directory/media/videos/iphone/3830.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码53
+http://data1.cache.directory/media/videos/iphone/3832.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码54
+http://data1.cache.directory/media/videos/iphone/3833.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码55
+http://data1.cache.directory/media/videos/iphone/3834.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码56
+http://data1.cache.directory/media/videos/iphone/3839.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码57
+http://data1.cache.directory/media/videos/iphone/3840.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码58
+http://data1.cache.directory/media/videos/iphone/3842.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码59
+http://data1.cache.directory/media/videos/iphone/3843.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码60
+http://data1.cache.directory/media/videos/iphone/3844.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码61
+http://data1.cache.directory/media/videos/iphone/3846.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码62
+http://data1.cache.directory/media/videos/iphone/3847.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码63
+http://data1.cache.directory/media/videos/iphone/3848.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码64
+http://data1.cache.directory/media/videos/iphone/3849.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码65
+http://data1.cache.directory/media/videos/iphone/3850.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码66
+http://data1.cache.directory/media/videos/iphone/3852.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码67
+http://data1.cache.directory/media/videos/iphone/3853.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码68
+http://data1.cache.directory/media/videos/iphone/3854.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码69
+http://data1.cache.directory/media/videos/iphone/3855.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码70
+http://data1.cache.directory/media/videos/iphone/3856.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码71
+http://data1.cache.directory/media/videos/iphone/3857.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码72
+http://data1.cache.directory/media/videos/iphone/3858.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码73
+http://data1.cache.directory/media/videos/iphone/3859.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码74
+http://data1.cache.directory/media/videos/iphone/3860.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码75
+http://data1.cache.directory/media/videos/iphone/3861.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码76
+http://data1.cache.directory/media/videos/iphone/3862.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码77
+http://data1.cache.directory/media/videos/iphone/3863.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码78
+http://data1.cache.directory/media/videos/iphone/3864.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码79
+http://data1.cache.directory/media/videos/iphone/3865.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码80
+http://data1.cache.directory/media/videos/iphone/3866.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码81
+http://data1.cache.directory/media/videos/iphone/3867.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码82
+http://data1.cache.directory/media/videos/iphone/3891.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码83
+http://data1.cache.directory/media/videos/iphone/3892.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码84
+http://data1.cache.directory/media/videos/iphone/3893.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码85
+http://data1.cache.directory/media/videos/iphone/3894.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码86
+http://data1.cache.directory/media/videos/iphone/3895.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码87
+http://data1.cache.directory/media/videos/iphone/3896.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码88
+http://data1.cache.directory/media/videos/iphone/3897.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码89
+http://data1.cache.directory/media/videos/iphone/3898.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码90
+http://data1.cache.directory/media/videos/iphone/3899.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码91
+http://data1.cache.directory/media/videos/iphone/3900.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码92
+http://data1.cache.directory/media/videos/iphone/3901.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码93
+http://data1.cache.directory/media/videos/iphone/3902.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码94
+http://data1.cache.directory/media/videos/iphone/3903.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码95
+http://data1.cache.directory/media/videos/iphone/3904.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码96
+http://data1.cache.directory/media/videos/iphone/3905.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码97
+http://data1.cache.directory/media/videos/iphone/3906.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码98
+http://data1.cache.directory/media/videos/iphone/3907.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码99
+http://data1.cache.directory/media/videos/iphone/3908.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码100
+http://data1.cache.directory/media/videos/iphone/3909.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码101
+http://data1.cache.directory/media/videos/iphone/3910.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码102
+http://data1.cache.directory/media/videos/iphone/3911.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码103
+http://data1.cache.directory/media/videos/iphone/3912.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码104
+http://data1.cache.directory/media/videos/iphone/3913.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码105
+http://data1.cache.directory/media/videos/iphone/3914.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码106
+http://data1.cache.directory/media/videos/iphone/3915.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码107
+http://data1.cache.directory/media/videos/iphone/3916.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码108
+http://data1.cache.directory/media/videos/iphone/3917.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码109
+http://data1.cache.directory/media/videos/iphone/3918.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码110
+http://data1.cache.directory/media/videos/iphone/3919.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码111
+http://data1.cache.directory/media/videos/iphone/3920.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码112
+http://data1.cache.directory/media/videos/iphone/3921.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码113
+http://data1.cache.directory/media/videos/iphone/3922.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码114
+http://data1.cache.directory/media/videos/iphone/3923.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码115
+http://data1.cache.directory/media/videos/iphone/3924.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码116
+http://data1.cache.directory/media/videos/iphone/3925.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码117
+http://data1.cache.directory/media/videos/iphone/3926.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码118
+http://data1.cache.directory/media/videos/iphone/3927.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码119
+http://data1.cache.directory/media/videos/iphone/3928.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码120
+http://data1.cache.directory/media/videos/iphone/3943.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码121
+http://data1.cache.directory/media/videos/iphone/3944.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码122
+http://data1.cache.directory/media/videos/iphone/3945.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码123
+http://data1.cache.directory/media/videos/iphone/3946.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码124
+http://data1.cache.directory/media/videos/iphone/3947.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码125
+http://data1.cache.directory/media/videos/iphone/3948.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码126
+http://data1.cache.directory/media/videos/iphone/3949.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码127
+http://data1.cache.directory/media/videos/iphone/3950.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码128
+http://data1.cache.directory/media/videos/iphone/3951.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码129
+http://data1.cache.directory/media/videos/iphone/3952.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码130
+http://data1.cache.directory/media/videos/iphone/3953.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码131
+http://data1.cache.directory/media/videos/iphone/3954.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码132
+http://data1.cache.directory/media/videos/iphone/3955.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码133
+http://data1.cache.directory/media/videos/iphone/3956.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码134
+http://data1.cache.directory/media/videos/iphone/3957.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码135
+http://data1.cache.directory/media/videos/iphone/3958.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码136
+http://data1.cache.directory/media/videos/iphone/3959.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码137
+http://data1.cache.directory/media/videos/iphone/3975.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码138
+http://data1.cache.directory/media/videos/iphone/3976.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码139
+http://data1.cache.directory/media/videos/iphone/3977.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码140
+http://data1.cache.directory/media/videos/iphone/3978.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码141
+http://data1.cache.directory/media/videos/iphone/3979.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码142
+http://data1.cache.directory/media/videos/iphone/3980.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码143
+http://data1.cache.directory/media/videos/iphone/3981.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码144
+http://data1.cache.directory/media/videos/iphone/3982.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码145
+http://data1.cache.directory/media/videos/iphone/3983.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码146
+http://data1.cache.directory/media/videos/iphone/3984.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码147
+http://data1.cache.directory/media/videos/iphone/3985.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码148
+http://data1.cache.directory/media/videos/iphone/3986.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码149
+http://data1.cache.directory/media/videos/iphone/3987.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码150
+http://data1.cache.directory/media/videos/iphone/3988.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码151
+http://data1.cache.directory/media/videos/iphone/3989.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码152
+http://data1.cache.directory/media/videos/iphone/3990.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码153
+http://data1.cache.directory/media/videos/iphone/4002.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码154
+http://data1.cache.directory/media/videos/iphone/4003.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码155
+http://data1.cache.directory/media/videos/iphone/4004.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码156
+http://data1.cache.directory/media/videos/iphone/4005.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码157
+http://data1.cache.directory/media/videos/iphone/4006.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码158
+http://data1.cache.directory/media/videos/iphone/4007.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码159
+http://data1.cache.directory/media/videos/iphone/4008.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码160
+http://data1.cache.directory/media/videos/iphone/4009.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码161
+http://data1.cache.directory/media/videos/iphone/4010.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码162
+http://data1.cache.directory/media/videos/iphone/4011.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码163
+http://data1.cache.directory/media/videos/iphone/4012.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码164
+http://data1.cache.directory/media/videos/iphone/4013.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码165
+http://data1.cache.directory/media/videos/iphone/4014.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码166
+http://data1.cache.directory/media/videos/iphone/4015.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码167
+http://data1.cache.directory/media/videos/iphone/4016.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码168
+http://data1.cache.directory/media/videos/iphone/4026.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码169
+http://data1.cache.directory/media/videos/iphone/4027.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码170
+http://data1.cache.directory/media/videos/iphone/4028.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码171
+http://data1.cache.directory/media/videos/iphone/4029.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码172
+http://data1.cache.directory/media/videos/iphone/4030.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码173
+http://data1.cache.directory/media/videos/iphone/4031.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码174
+http://data1.cache.directory/media/videos/iphone/4032.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码175
+http://data1.cache.directory/media/videos/iphone/4033.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码176
+http://data1.cache.directory/media/videos/iphone/4034.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码177
+http://data1.cache.directory/media/videos/iphone/4035.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码178
+http://data1.cache.directory/media/videos/iphone/4036.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码179
+http://data1.cache.directory/media/videos/iphone/4037.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码180
+http://data1.cache.directory/media/videos/iphone/4038.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码181
+http://data1.cache.directory/media/videos/iphone/4039.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码182
+http://data1.cache.directory/media/videos/iphone/4040.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码183
+http://data1.cache.directory/media/videos/iphone/4041.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码184
+http://data1.cache.directory/media/videos/iphone/4042.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码185
+http://data1.cache.directory/media/videos/iphone/4043.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码186
+http://data1.cache.directory/media/videos/iphone/4044.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码187
+http://data1.cache.directory/media/videos/iphone/4045.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码188
+http://data1.cache.directory/media/videos/iphone/4046.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码189
+http://data1.cache.directory/media/videos/iphone/4047.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码190
+http://data1.cache.directory/media/videos/iphone/4048.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码191
+http://data1.cache.directory/media/videos/iphone/4049.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码192
+http://data1.cache.directory/media/videos/iphone/4050.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码193
+http://data1.cache.directory/media/videos/iphone/4051.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码194
+http://data1.cache.directory/media/videos/iphone/4052.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码195
+http://data1.cache.directory/media/videos/iphone/4053.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码196
+http://data1.cache.directory/media/videos/iphone/4054.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码197
+http://data1.cache.directory/media/videos/iphone/4055.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码198
+http://data1.cache.directory/media/videos/iphone/4056.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码199
+http://data1.cache.directory/media/videos/iphone/4057.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码200
+http://data1.cache.directory/media/videos/iphone/4058.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码201
+http://data1.cache.directory/media/videos/iphone/4085.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码202
+http://data1.cache.directory/media/videos/iphone/4086.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码203
+http://data1.cache.directory/media/videos/iphone/4087.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码204
+http://data1.cache.directory/media/videos/iphone/4088.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码205
+http://data1.cache.directory/media/videos/iphone/4089.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码206
+http://data1.cache.directory/media/videos/iphone/4090.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码207
+http://data1.cache.directory/media/videos/iphone/4091.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码208
+http://data1.cache.directory/media/videos/iphone/4092.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码209
+http://data1.cache.directory/media/videos/iphone/4093.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码210
+http://data1.cache.directory/media/videos/iphone/4094.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码211
+http://data1.cache.directory/media/videos/iphone/4095.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码212
+http://data1.cache.directory/media/videos/iphone/4096.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码213
+http://data1.cache.directory/media/videos/iphone/4097.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码214
+http://data1.cache.directory/media/videos/iphone/4098.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码215
+http://data1.cache.directory/media/videos/iphone/4099.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码216
+http://data1.cache.directory/media/videos/iphone/4100.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码217
+http://data1.cache.directory/media/videos/iphone/4101.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码218
+http://data1.cache.directory/media/videos/iphone/4102.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码219
+http://data1.cache.directory/media/videos/iphone/4103.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码220
+http://data1.cache.directory/media/videos/iphone/4104.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码221
+http://data1.cache.directory/media/videos/iphone/4105.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码222
+http://data1.cache.directory/media/videos/iphone/4106.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码223
+http://data1.cache.directory/media/videos/iphone/4107.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码224
+http://data1.cache.directory/media/videos/iphone/4114.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码225
+http://data1.cache.directory/media/videos/iphone/4115.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码226
+http://data1.cache.directory/media/videos/iphone/4116.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码227
+http://data1.cache.directory/media/videos/iphone/4117.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码228
+http://data1.cache.directory/media/videos/iphone/4118.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码229
+http://data1.cache.directory/media/videos/iphone/4119.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码230
+http://data1.cache.directory/media/videos/iphone/4120.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码231
+http://data1.cache.directory/media/videos/iphone/4121.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码232
+http://data1.cache.directory/media/videos/iphone/4122.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码233
+http://data1.cache.directory/media/videos/iphone/4123.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码234
+http://data1.cache.directory/media/videos/iphone/4124.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码235
+http://data1.cache.directory/media/videos/iphone/4125.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码236
+http://data1.cache.directory/media/videos/iphone/4133.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码237
+http://data1.cache.directory/media/videos/iphone/4134.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码238
+http://data1.cache.directory/media/videos/iphone/4135.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码239
+http://data1.cache.directory/media/videos/iphone/4136.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码240
+http://data1.cache.directory/media/videos/iphone/4137.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码241
+http://data1.cache.directory/media/videos/iphone/4138.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码242
+http://data1.cache.directory/media/videos/iphone/4139.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码243
+http://data1.cache.directory/media/videos/iphone/4140.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码244
+http://data1.cache.directory/media/videos/iphone/4141.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码245
+http://data1.cache.directory/media/videos/iphone/4142.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码246
+http://data1.cache.directory/media/videos/iphone/4153.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码247
+http://data1.cache.directory/media/videos/iphone/4154.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码248
+http://data1.cache.directory/media/videos/iphone/4155.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码249
+http://data1.cache.directory/media/videos/iphone/4156.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码250
+http://data1.cache.directory/media/videos/iphone/4157.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码251
+http://data1.cache.directory/media/videos/iphone/4158.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码252
+http://data1.cache.directory/media/videos/iphone/4159.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码253
+http://data1.cache.directory/media/videos/iphone/4160.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码254
+http://data1.cache.directory/media/videos/iphone/4161.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码255
+http://data1.cache.directory/media/videos/iphone/4162.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码256
+http://data1.cache.directory/media/videos/iphone/4173.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码257
+http://data1.cache.directory/media/videos/iphone/4174.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码258
+http://data1.cache.directory/media/videos/iphone/4175.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码259
+http://data1.cache.directory/media/videos/iphone/4176.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码260
+http://data1.cache.directory/media/videos/iphone/4177.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码261
+http://data1.cache.directory/media/videos/iphone/4178.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码262
+http://data1.cache.directory/media/videos/iphone/4179.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码263
+http://data1.cache.directory/media/videos/iphone/4180.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码264
+http://data1.cache.directory/media/videos/iphone/4181.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码265
+http://data1.cache.directory/media/videos/iphone/4182.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码266
+http://data1.cache.directory/media/videos/iphone/4189.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码267
+http://data1.cache.directory/media/videos/iphone/4190.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码268
+http://data1.cache.directory/media/videos/iphone/4191.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码269
+http://data1.cache.directory/media/videos/iphone/4192.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码270
+http://data1.cache.directory/media/videos/iphone/4193.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码271
+http://data1.cache.directory/media/videos/iphone/4194.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码272
+http://data1.cache.directory/media/videos/iphone/4195.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码273
+http://data1.cache.directory/media/videos/iphone/4196.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码274
+http://data1.cache.directory/media/videos/iphone/4197.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码275
+http://data1.cache.directory/media/videos/iphone/4198.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码276
+http://data1.cache.directory/media/videos/iphone/4199.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码277
+http://data1.cache.directory/media/videos/iphone/4200.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码278
+http://data1.cache.directory/media/videos/iphone/4221.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码279
+http://data1.cache.directory/media/videos/iphone/4222.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码280
+http://data1.cache.directory/media/videos/iphone/4223.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码281
+http://data1.cache.directory/media/videos/iphone/4224.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码282
+http://data1.cache.directory/media/videos/iphone/4225.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码283
+http://data1.cache.directory/media/videos/iphone/4226.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码284
+http://data1.cache.directory/media/videos/iphone/4227.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码285
+http://data1.cache.directory/media/videos/iphone/4228.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码286
+http://data1.cache.directory/media/videos/iphone/4229.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码287
+http://data1.cache.directory/media/videos/iphone/4230.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码288
+http://data1.cache.directory/media/videos/iphone/4231.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码289
+http://data1.cache.directory/media/videos/iphone/4232.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码290
+http://data1.cache.directory/media/videos/iphone/4233.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码291
+http://data1.cache.directory/media/videos/iphone/4234.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码292
+http://data1.cache.directory/media/videos/iphone/4235.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码293
+http://data1.cache.directory/media/videos/iphone/4236.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码294
+http://data1.cache.directory/media/videos/iphone/4237.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码295
+http://data1.cache.directory/media/videos/iphone/4238.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码296
+http://data1.cache.directory/media/videos/iphone/4239.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码297
+http://data1.cache.directory/media/videos/iphone/4240.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码298
+http://data1.cache.directory/media/videos/iphone/4241.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码299
+http://data1.cache.directory/media/videos/iphone/4242.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码300
+http://data1.cache.directory/media/videos/iphone/4250.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码301
+http://data1.cache.directory/media/videos/iphone/4251.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码302
+http://data1.cache.directory/media/videos/iphone/4252.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码303
+http://data1.cache.directory/media/videos/iphone/4253.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码304
+http://data1.cache.directory/media/videos/iphone/4254.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码305
+http://data1.cache.directory/media/videos/iphone/4255.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码306
+http://data1.cache.directory/media/videos/iphone/4256.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码307
+http://data1.cache.directory/media/videos/iphone/4257.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码308
+http://data1.cache.directory/media/videos/iphone/4258.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码309
+http://data1.cache.directory/media/videos/iphone/4259.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码310
+http://data1.cache.directory/media/videos/iphone/4260.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码311
+http://data1.cache.directory/media/videos/iphone/4261.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码312
+http://data1.cache.directory/media/videos/iphone/4262.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码313
+http://data1.cache.directory/media/videos/iphone/4263.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码314
+http://data1.cache.directory/media/videos/iphone/4264.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码315
+http://data1.cache.directory/media/videos/iphone/4272.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码316
+http://data1.cache.directory/media/videos/iphone/4273.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码317
+http://data1.cache.directory/media/videos/iphone/4274.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码318
+http://data1.cache.directory/media/videos/iphone/4275.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码319
+http://data1.cache.directory/media/videos/iphone/4276.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码320
+http://data1.cache.directory/media/videos/iphone/4277.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码321
+http://data1.cache.directory/media/videos/iphone/4278.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码322
+http://data1.cache.directory/media/videos/iphone/4279.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码323
+http://data1.cache.directory/media/videos/iphone/4280.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码324
+http://data1.cache.directory/media/videos/iphone/4281.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码325
+http://data1.cache.directory/media/videos/iphone/4282.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码326
+http://data1.cache.directory/media/videos/iphone/4283.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码327
+http://data1.cache.directory/media/videos/iphone/4284.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码328
+http://data1.cache.directory/media/videos/iphone/4285.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码329
+http://data1.cache.directory/media/videos/iphone/4286.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码330
+http://data1.cache.directory/media/videos/iphone/4294.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码331
+http://data1.cache.directory/media/videos/iphone/4295.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码332
+http://data1.cache.directory/media/videos/iphone/4296.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码333
+http://data1.cache.directory/media/videos/iphone/4297.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码334
+http://data1.cache.directory/media/videos/iphone/4298.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码335
+http://data1.cache.directory/media/videos/iphone/4299.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码336
+http://data1.cache.directory/media/videos/iphone/4300.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码337
+http://data1.cache.directory/media/videos/iphone/4301.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码338
+http://data1.cache.directory/media/videos/iphone/4302.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码339
+http://data1.cache.directory/media/videos/iphone/4303.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码340
+http://data1.cache.directory/media/videos/iphone/4304.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码341
+http://data1.cache.directory/media/videos/iphone/4305.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码342
+http://data1.cache.directory/media/videos/iphone/4306.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码343
+http://data1.cache.directory/media/videos/iphone/4314.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码344
+http://data1.cache.directory/media/videos/iphone/4315.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码345
+http://data1.cache.directory/media/videos/iphone/4316.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码346
+http://data1.cache.directory/media/videos/iphone/4317.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码347
+http://data1.cache.directory/media/videos/iphone/4318.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码348
+http://data1.cache.directory/media/videos/iphone/4319.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码349
+http://data1.cache.directory/media/videos/iphone/4320.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码350
+http://data1.cache.directory/media/videos/iphone/4321.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码351
+http://data1.cache.directory/media/videos/iphone/4322.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码352
+http://data1.cache.directory/media/videos/iphone/4323.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码353
+http://data1.cache.directory/media/videos/iphone/4324.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码354
+http://data1.cache.directory/media/videos/iphone/4334.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码355
+http://data1.cache.directory/media/videos/iphone/4335.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码356
+http://data1.cache.directory/media/videos/iphone/4336.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码357
+http://data1.cache.directory/media/videos/iphone/4337.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码358
+http://data1.cache.directory/media/videos/iphone/4338.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码359
+http://data1.cache.directory/media/videos/iphone/4339.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码360
+http://data1.cache.directory/media/videos/iphone/4340.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码361
+http://data1.cache.directory/media/videos/iphone/4341.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码362
+http://data1.cache.directory/media/videos/iphone/4342.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码363
+http://data1.cache.directory/media/videos/iphone/4343.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码364
+http://data1.cache.directory/media/videos/iphone/4344.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码365
+http://data1.cache.directory/media/videos/iphone/4345.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码366
+http://data1.cache.directory/media/videos/iphone/4346.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码367
+http://data1.cache.directory/media/videos/iphone/4347.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码368
+http://data1.cache.directory/media/videos/iphone/4348.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码369
+http://data1.cache.directory/media/videos/iphone/4349.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码370
+http://data1.cache.directory/media/videos/iphone/4350.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码371
+http://data1.cache.directory/media/videos/iphone/4351.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码372
+http://data1.cache.directory/media/videos/iphone/4352.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码373
+http://data1.cache.directory/media/videos/iphone/4367.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码374
+http://data1.cache.directory/media/videos/iphone/4368.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码375
+http://data1.cache.directory/media/videos/iphone/4369.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码376
+http://data1.cache.directory/media/videos/iphone/4370.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码377
+http://data1.cache.directory/media/videos/iphone/4371.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码378
+http://data1.cache.directory/media/videos/iphone/4372.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码379
+http://data1.cache.directory/media/videos/iphone/4373.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码380
+http://data1.cache.directory/media/videos/iphone/4374.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码381
+http://data1.cache.directory/media/videos/iphone/4375.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码382
+http://data1.cache.directory/media/videos/iphone/4376.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码383
+http://data1.cache.directory/media/videos/iphone/4377.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码384
+http://data1.cache.directory/media/videos/iphone/4378.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码385
+http://data1.cache.directory/media/videos/iphone/4379.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码386
+http://data1.cache.directory/media/videos/iphone/4380.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码387
+http://data1.cache.directory/media/videos/iphone/4381.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码388
+http://data1.cache.directory/media/videos/iphone/4382.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码389
+http://data1.cache.directory/media/videos/iphone/4383.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码390
+http://data1.cache.directory/media/videos/iphone/4384.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码391
+http://data1.cache.directory/media/videos/iphone/4385.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码392
+http://data1.cache.directory/media/videos/iphone/4386.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码393
+http://data1.cache.directory/media/videos/iphone/4387.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码394
+http://data1.cache.directory/media/videos/iphone/4388.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码395
+http://data1.cache.directory/media/videos/iphone/4389.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码396
+http://data1.cache.directory/media/videos/iphone/4390.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码397
+http://data1.cache.directory/media/videos/iphone/4391.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码398
+http://data1.cache.directory/media/videos/iphone/4392.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码399
+http://data1.cache.directory/media/videos/iphone/4393.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码400
+http://data1.cache.directory/media/videos/iphone/4394.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码401
+http://data1.cache.directory/media/videos/iphone/4395.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码402
+http://data1.cache.directory/media/videos/iphone/4396.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码403
+http://data1.cache.directory/media/videos/iphone/4397.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码404
+http://data1.cache.directory/media/videos/iphone/4398.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码405
+http://data1.cache.directory/media/videos/iphone/4399.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码406
+http://data1.cache.directory/media/videos/iphone/4400.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码407
+http://data1.cache.directory/media/videos/iphone/4401.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码408
+http://data1.cache.directory/media/videos/iphone/4402.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码409
+http://data1.cache.directory/media/videos/iphone/4403.mp4
+#EXTINF:-1 group-title="【【日本大片】】",日本无码410
+http://data1.cache.directory/media/videos/iphone/4404.mp4
 
 
 
@@ -1029,6 +2076,715 @@ http://content2.sexforsure.com/2013/07/02/2/Video.mp4
 
 
 
-
+#EXTINF:-1 group-title="【日本福利】",1
+http://video.drzy99.com/201703/03/ZGZbfCR4/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",2
+http://video.drzy99.com/201702/27/R8Fi8aay/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",3
+http://video.drzy99.com/201702/26/yb7djYxG/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",4
+http://video.drzy99.com/201702/23/cRPI1Bs0/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",5
+http://video.drzy99.com/201702/23/u4W9o2QW/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",6
+http://video.drzy99.com/201702/23/qgu42tht/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",7
+http://video.drzy99.com/201702/23/vYoO1jqC/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",8
+http://video.drzy99.com/201702/22/iLjWOEy8/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",9
+http://video.drzy99.com/201702/22/uz0N2CDA/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",10
+http://video.drzy99.com/201702/20/PFcMf74P/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",11
+http://video.drzy99.com/201702/20/p9RdSWpd/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",12
+http://video.drzy99.com/201702/20/ebVPxZwu/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",13
+http://video.drzy99.com/201702/19/tmTZ2Oyv/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",14
+http://video.drzy99.com/201702/19/JqzinWYp/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",15
+http://video.drzy99.com/201702/18/VXykPkww/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",16
+http://video.drzy99.com/201702/17/GTiHPUeJ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",17
+http://video.drzy99.com/201702/17/Yoy19iGN/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",18
+http://video.drzy99.com/201702/17/iI4WPiXp/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",19
+http://video.drzy99.com/201702/17/gDHoC3gy/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",20
+http://video.drzy99.com/201702/17/Whb2IfQj/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",21
+http://video.drzy99.com/201702/17/7MxwwmIk/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",22
+http://video.drzy99.com/201702/17/ej7NzGGF/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",23
+http://video.drzy99.com/201702/16/BdYiUuj7/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",24
+http://video.drzy99.com/201702/16/8ogpmIG1/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",25
+http://video.drzy99.com/201702/16/GIgKwWl5/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",26
+http://video.drzy99.com/201702/16/FJ0Lfe3e/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",27
+http://video.drzy99.com/201702/16/Zwr5c3d2/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",28
+http://video.drzy99.com/201702/15/FSBuWaHM/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",29
+http://video.drzy99.com/201702/15/3nefiwxQ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",30
+http://video.drzy99.com/201702/15/1fmdiXcz/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",31
+http://video.drzy99.com/201702/15/r74targZ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",32
+http://video.drzy99.com/201702/15/LvLZcEZC/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",33
+http://video.drzy99.com/201702/14/6khIMkDr/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",34
+http://video.drzy99.com/201702/14/TIOTrWGO/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",35
+http://video.drzy99.com/201702/14/vE9RwmmU/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",36
+http://video.drzy99.com/201702/14/pbMACuNC/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",37
+http://video.drzy99.com/201702/14/bem0hbXP/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",38
+http://video.drzy99.com/201702/14/jhnS0bqm/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",39
+http://video.drzy99.com/201702/14/YsNhlkQB/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",40
+http://video.drzy99.com/201702/14/BVBejwye/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",41
+http://video.drzy99.com/201702/14/PCL4P5pu/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",42
+http://video.drzy99.com/201702/13/DwEA7BMz/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",43
+http://video.drzy99.com/201702/13/U1u0AeOR/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",44
+http://video.drzy99.com/201702/13/Z1t5Zzbl/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",45
+http://video.drzy99.com/201702/13/zzKaCWt1/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",46
+http://video.drzy99.com/201702/12/rCpfDHcY/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",47
+http://video.drzy99.com/201702/12/RxJsOljH/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",48
+http://video.drzy99.com/201702/12/Uj3q2Hwk/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",49
+http://video.drzy99.com/201702/12/TnwQrDA1/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",50
+http://video.drzy99.com/201702/12/DzonTK1B/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",51
+http://video.drzy99.com/201702/12/72pMDXOS/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",52
+http://video.drzy99.com/201702/12/qFFwBYrb/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",53
+http://video.drzy99.com/201702/12/4ncEamPF/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",54
+http://video.drzy99.com/201702/12/Yb7XfFwd/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",55
+http://video.drzy99.com/201702/12/fbB1X1ZF/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",56
+http://video.drzy99.com/201702/11/eEprdcg1/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",57
+http://video.drzy99.com/201702/11/sVwL1kYp/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",58
+http://video.drzy99.com/201702/11/45wtnHqY/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",59
+http://video.drzy99.com/201702/11/FPEcaCIc/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",60
+http://video.drzy99.com/201702/11/qwNs6Uos/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",61
+http://video.drzy99.com/201702/11/unOoVwh0/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",62
+http://video.drzy99.com/201702/11/pMcpHFgR/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",63
+http://video.drzy99.com/201702/11/eI1AV2RD/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",64
+http://video.drzy99.com/201702/11/zme80G5o/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",65
+http://video.drzy99.com/201702/11/KFiirT9V/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",66
+http://video.drzy99.com/201702/11/hXi7o4y1/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",67
+http://video.drzy99.com/201702/10/heXZ0e7N/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",68
+http://video.drzy99.com/201702/10/lF8jFoNc/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",69
+http://video.drzy99.com/201702/10/NVsn6jOs/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",70
+http://video.drzy99.com/201702/10/UN2jm8uD/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",71
+http://video.drzy99.com/201702/10/NI4UjDhp/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",72
+http://video.drzy99.com/201702/10/MmIPOpCi/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",73
+http://video.drzy99.com/201702/10/wERHwduD/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",74
+http://video.drzy99.com/201702/10/Jo8VdMiT/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",75
+http://video.drzy99.com/201702/09/TahSPY54/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",76
+http://video.drzy99.com/201702/09/gOgdrCdM/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",77
+http://video.drzy99.com/201702/09/B1RxZjmD/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",78
+http://video.drzy99.com/201702/09/fUwOdaDp/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",79
+http://video.drzy99.com/201702/09/Lb5AxF0w/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",80
+http://video.drzy99.com/201702/08/ztv4AMGK/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",81
+http://video.drzy99.com/201702/08/RGmYR90t/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",82
+http://video.drzy99.com/201702/08/o0D85zAc/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",83
+http://video.drzy99.com/201702/08/2psDzliX/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",84
+http://video.drzy99.com/201702/08/EKhYJDab/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",85
+http://video.drzy99.com/201702/08/K9eFgAMT/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",86
+http://video.drzy99.com/201702/08/RH7J2mL8/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",87
+http://video.drzy99.com/201702/08/FKWkonyh/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",88
+http://video.drzy99.com/201702/08/t4XNDFWo/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",89
+http://video.drzy99.com/201702/08/stQP9Np2/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",90
+http://video.drzy99.com/201702/08/8W5KskLr/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",91
+http://video.drzy99.com/201702/08/OdcvoVil/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",92
+http://video.drzy99.com/201702/08/uj6ozDMd/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",93
+http://video.drzy99.com/201702/08/M7MUX2JC/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",94
+http://video.drzy99.com/201702/08/M7MUX2JC/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",95
+http://video.drzy99.com/201702/07/IRpGxAMT/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",96
+http://video.drzy99.com/201702/07/mBM5SvYP/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",97
+http://video.drzy99.com/201702/07/nv4lKy76/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",98
+http://video.drzy99.com/201702/07/FvLV5xqK/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",99
+http://video.drzy99.com/201702/07/aMpCZ3bg/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",100
+http://video.drzy99.com/201702/07/5CtXCPzB/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",101
+http://video.drzy99.com/201702/07/MYTl5iwn/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",102
+http://video.drzy99.com/201702/07/cDyT0AX3/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",103
+http://video.drzy99.com/201702/07/lWqq4Sho/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",104
+http://video.drzy99.com/201702/07/ShYDA2tR/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",105
+http://video.drzy99.com/201702/07/O4Sul2JP/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",106
+http://video.drzy99.com/201702/07/uGMkKjHz/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",107
+http://video.drzy99.com/201702/07/aeMW339O/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",108
+http://video.drzy99.com/201702/07/cN4pYDRp/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",109
+http://video.drzy99.com/201702/07/OTla8WCu/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",110
+http://video.drzy99.com/201702/07/ZNo4hQq9/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",111
+http://video.drzy99.com/201702/05/szHXzJY7/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",112
+http://video.drzy99.com/201702/05/m6ApsL1c/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",113
+http://video.drzy99.com/201702/06/7TxDQNeZ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",114
+http://video.drzy99.com/201702/06/7vIXE4iO/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",115
+http://video.drzy99.com/201702/06/igsmtVQn/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",116
+http://video.drzy99.com/201702/06/qliGGxZn/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",117
+http://video.drzy99.com/201702/06/YU1PxIAt/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",118
+http://video.drzy99.com/201702/06/IIvm1DLc/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",119
+http://video.drzy99.com/201702/06/bZugu99z/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",120
+http://video.drzy99.com/201702/06/igsmtVQn/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",121
+http://video.drzy99.com/201702/06/7vIXE4iO/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",122
+http://video.drzy99.com/201702/06/7TxDQNeZ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",123
+http://video.drzy99.com/201702/05/CTZe6VaO/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",124
+http://video.drzy99.com/201702/05/DC41eocS/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",125
+http://video.drzy99.com/201702/01/hPw4FkCv/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",126
+http://video.drzy99.com/201702/01/WMiXe84J/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",127
+http://video.drzy99.com/201702/01/umwzJvoe/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",128
+http://video.drzy99.com/201702/01/bHNN3b9j/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",129
+http://video.drzy99.com/201701/29/8IDglNaB/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",130
+http://video.drzy99.com/201701/29/PDEN9WBe/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",131
+http://video.drzy99.com/201701/29/NMy25Bm6/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",132
+http://video.drzy99.com/201701/29/3mvX3DSf/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",133
+http://video.drzy99.com/201701/29/nAL536Wm/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",134
+http://video.drzy99.com/201701/29/HnJ9aJHX/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",135
+http://video.drzy99.com/201701/29/HgFc7c0i/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",136
+http://video.drzy99.com/201701/29/dOULVc9r/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",137
+http://video.drzy99.com/201701/29/pJfrHxd0/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",138
+http://video.drzy99.com/201701/29/zCQxjElT/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",139
+http://video.drzy99.com/201701/29/ZlEFwYgE/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",140
+http://video.drzy99.com/201701/18/FbzRv1DV/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",141
+http://video.drzy99.com/201701/18/8uYSjRqc/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",142
+http://video.drzy99.com/201701/18/YmFgVzp7/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",143
+http://video.drzy99.com/201701/17/beQH4Ewv/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",144
+http://video.drzy99.com/201701/17/0yA3l1sd/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",145
+http://video.drzy99.com/201701/17/v94EVtjA/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",146
+http://video.drzy99.com/201701/17/LlhXnorv/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",147
+http://video.drzy99.com/201701/17/ghuxJF2Z/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",148
+http://video.drzy99.com/201701/17/ygJruZVb/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",149
+http://video.drzy99.com/201701/17/mVGpu6DP/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",150
+http://video.drzy99.com/201701/17/lJkrRLa0/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",151
+http://video.drzy99.com/201701/16/ieGuf0uV/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",152
+http://video.drzy99.com/201701/16/Wavyhkcx/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",153
+http://video.drzy99.com/201701/14/BIjEHV65/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",154
+http://video.drzy99.com/201701/13/Ak8ArOEK/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",155
+http://video.drzy99.com/201701/12/kUII04Ci/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",156
+http://video.drzy99.com/201701/11/wCPXfPGB/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",157
+http://video.drzy99.com/201701/11/ysIc4kZs/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",158
+http://video.drzy99.com/201701/11/ekiZ8gy8/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",159
+http://video.drzy99.com/201701/11/MURUhOQe/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",160
+http://video.drzy99.com/201701/11/SAUaGaFH/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",161
+http://video.drzy99.com/201701/11/HMOVO1OE/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",162
+http://video.drzy99.com/201701/11/DgJ0DwSC/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",163
+http://video.drzy99.com/201701/10/LglYRcU8/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",164
+http://video.drzy99.com/201701/10/Pjp6995f/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",165
+http://video.drzy99.com/201701/10/uLM2BzDV/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",166
+http://video.drzy99.com/201701/10/FjdHbtjS/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",167
+http://video.drzy99.com/201701/10/OxhPkkdd/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",168
+http://video.drzy99.com/201701/10/aFte3qbU/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",169
+http://video.drzy99.com/201701/10/5TlZoTV4/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",170
+http://video.drzy99.com/201701/09/YWLynKQL/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",171
+http://video.drzy99.com/201701/09/rFeKvRo8/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",172
+http://video.drzy99.com/201701/09/afQoGLYi/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",173
+http://video.drzy99.com/201701/09/GwOMRzTq/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",174
+http://video.drzy99.com/201701/09/XchTNQtn/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",175
+http://video.drzy99.com/201701/09/W0psovQE/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",176
+http://video.drzy99.com/201701/09/d7yVNOKQ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",177
+http://video.drzy99.com/201701/08/jPTrJ0ny/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",178
+http://video.drzy99.com/201701/08/gsUw0VNp/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",179
+http://video.drzy99.com/201701/08/u6eKX1RD/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",180
+http://video.drzy99.com/201701/08/rCCwnEQC/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",181
+http://video.drzy99.com/201701/08/Cl1D1nve/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",182
+http://video.drzy99.com/201701/08/NCpOhViI/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",183
+http://video.drzy99.com/201701/07/jhEEtRqV/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",184
+http://video.drzy99.com/201701/07/Sm2mqj7k/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",185
+http://video.drzy99.com/201701/07/BFHX2zVh/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",186
+http://video.drzy99.com/201701/07/svrMEKSH/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",187
+http://video.drzy99.com/201701/07/IvSij9C5/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",188
+http://video.drzy99.com/201701/07/pdzgYqkV/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",189
+http://video.drzy99.com/201701/07/bvLWlLe5/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",190
+http://video.drzy99.com/201701/07/c0my3aTK/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",191
+http://video.drzy99.com/201701/07/LAxJCQ0m/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",192
+http://video.drzy99.com/201701/07/oJIJCvGd/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",193
+http://video.drzy99.com/201701/07/4WeBYDR5/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",194
+http://video.drzy99.com/201701/07/x4VeBuCS/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",195
+http://video.drzy99.com/201701/07/umNEwjjL/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",196
+http://video.drzy99.com/201701/07/MUByvdjQ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",197
+http://video.drzy99.com/201701/07/vJOoS47x/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",198
+http://video.drzy99.com/201701/07/hbHfaPBZ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",199
+http://video.drzy99.com/201701/07/hdGQqcWM/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",200
+http://video.drzy99.com/201701/07/utXss5ov/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",201
+http://video.drzy99.com/201701/07/rU0vK5wD/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",202
+http://video.drzy99.com/201701/07/IUNvpaBI/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",203
+http://video.drzy99.com/201701/07/zm5Gh2dm/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",204
+http://video.drzy99.com/201701/07/b40bfljY/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",205
+http://video.drzy99.com/201701/07/szTuKcBC/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",206
+http://video.drzy99.com/201701/07/AMEzvWhA/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",207
+http://video.drzy99.com/201701/07/R0Ev2yPA/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",208
+http://video.drzy99.com/201701/07/8KboB3Nj/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",209
+http://video.drzy99.com/201701/07/GVVR7m8Y/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",210
+http://video.drzy99.com/201701/07/WKeOmXRc/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",211
+http://video.drzy99.com/201701/07/tuX1GdUC/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",212
+http://video.drzy99.com/201701/07/wHEKXPAP/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",213
+http://video.drzy99.com/201701/05/yM0XggOv/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",214
+http://video.drzy99.com/201701/05/mrhQ7ZrD/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",215
+http://video.drzy99.com/201701/05/GH9ydwSD/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",216
+http://video.drzy99.com/201701/05/JIzqPSKu/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",217
+http://video.drzy99.com/201701/05/WZSyaM5T/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",218
+http://video.drzy99.com/201701/05/ytlZm9hk/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",219
+http://video.drzy99.com/201701/05/lxq6MPom/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",220
+http://video.drzy99.com/201701/05/zjlcxzBb/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",221
+http://video.drzy99.com/201701/05/u4fuNmD6/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",222
+http://video.drzy99.com/201701/05/dFOypdyM/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",223
+http://video.drzy99.com/201701/05/74xJgVDW/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",224
+http://video.drzy99.com/201701/05/sKao3P7F/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",225
+http://video.drzy99.com/201701/05/p06AC1ul/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",226
+http://video.drzy99.com/201701/05/fjsIz4vj/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",227
+http://video.drzy99.com/201701/05/PKvJp2bm/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",228
+http://video.drzy99.com/201701/05/KvK4Igsf/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",229
+http://video.drzy99.com/201701/05/23zfGdsc/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",230
+http://video.drzy99.com/201701/05/HxYQIza2/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",231
+http://video.drzy99.com/201701/05/BV45O18c/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",232
+http://video.drzy99.com/201701/05/fEp249Gg/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",233
+http://video.drzy99.com/201701/05/sIftsN5s/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",234
+http://video.drzy99.com/201701/05/2friAZkw/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",235
+http://video.drzy99.com/201701/05/n2kNWgvd/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",236
+http://video.drzy99.com/201701/05/uNbY8GAW/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",237
+http://video.drzy99.com/201701/05/H3sXOmGI/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",238
+http://video.drzy99.com/201701/05/3Bm9DvOF/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",239
+http://video.drzy99.com/201701/05/gi8FgLMU/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",240
+http://video.drzy99.com/201701/05/aw1e9mep/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",241
+http://video.drzy99.com/201701/05/VKrrxsUF/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",242
+http://video.drzy99.com/201701/05/D1AmIFcm/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",243
+http://video.drzy99.com/201701/05/fKGfBtMZ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",244
+http://video.drzy99.com/201701/05/pTKUH74i/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",245
+http://video.drzy99.com/201701/05/Ejx4PtKv/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",246
+http://video.drzy99.com/201701/05/vScKF6LX/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",247
+http://video.drzy99.com/201701/05/mIxhaoeQ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",248
+http://video.drzy99.com/201701/05/AgImdlXz/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",249
+http://video.drzy99.com/201701/05/7jku5UQ6/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",250
+http://video.drzy99.com/201701/05/vZzOXUrg/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",251
+http://video.drzy99.com/201701/05/DUNYbOZA/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",252
+http://video.drzy99.com/201701/05/KF5kP6Hj/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",253
+http://video.drzy99.com/201701/05/vp9R99F6/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",254
+http://video.drzy99.com/201701/05/bydEYA1D/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",255
+http://video.drzy99.com/201701/05/8WswY3V1/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",256
+http://video.drzy99.com/201701/05/ZUCm91av/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",257
+http://video.drzy99.com/201701/05/SkP4Jb0d/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",258
+http://video.drzy99.com/201701/05/1RbUP4Yi/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",259
+http://video.drzy99.com/201701/05/SnWXYpPD/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",260
+http://video.drzy99.com/201701/05/G1YaAMmW/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",261
+http://video.drzy99.com/201701/05/dKHq8le1/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",262
+http://video.drzy99.com/201701/05/zgtrZbZ7/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",263
+http://video.drzy99.com/201701/05/WKaqX2tc/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",264
+http://video.drzy99.com/201701/05/v92lq9C5/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",265
+http://video.drzy99.com/201701/05/InXFBz1d/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",266
+http://video.drzy99.com/201701/05/ymBUUlRU/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",267
+http://video.drzy99.com/201701/05/HLV3ILYj/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",268
+http://video.drzy99.com/201701/05/EMrOfWOO/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",269
+http://video.drzy99.com/201701/05/SM2MOZmv/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",270
+http://video.drzy99.com/201701/05/TY6B7D00/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",271
+http://video.drzy99.com/201701/05/tFPdPced/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",272
+http://video.drzy99.com/201701/05/CBvQNxi0/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",273
+http://video.drzy99.com/201701/05/FNGlJp2t/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",274
+http://video.drzy99.com/201701/05/8tjvyKvO/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",275
+http://video.drzy99.com/201701/05/6Qy1PATK/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",276
+http://video.drzy99.com/201701/05/MUcnkNfH/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",277
+http://video.drzy99.com/201701/05/uLuZQPe1/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",278
+http://video.drzy99.com/201701/05/l0DCqevp/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",279
+http://video.drzy99.com/201701/05/vluxlr8G/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",280
+http://video.drzy99.com/201701/05/DAqwKUTZ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",281
+http://video.drzy99.com/201701/05/i2Miv1g3/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",282
+http://video.drzy99.com/201701/05/GbWYAmQt/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",283
+http://video.drzy99.com/201701/05/XVkFvD1T/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",284
+http://video.drzy99.com/201701/05/kxm0OiQL/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",285
+http://video.drzy99.com/201701/05/ZJgmgfgj/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",286
+http://video.drzy99.com/201701/05/SNkLUy6w/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",287
+http://video.drzy99.com/201701/05/PLuqIfd5/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",288
+http://video.drzy99.com/201701/05/MR0tL8Dj/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",289
+http://video.drzy99.com/201701/05/ozxVisUP/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",290
+http://video.drzy99.com/201701/05/41Yq7Svw/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",291
+http://video.drzy99.com/201701/05/HEYGzgsf/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",292
+http://video.drzy99.com/201701/05/AlTTIycD/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",293
+http://video.drzy99.com/201701/05/PjKma2Q4/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",294
+http://video.drzy99.com/201701/05/keveSw5D/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",295
+http://video.drzy99.com/201701/05/Le9MZq1k/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",296
+http://video.drzy99.com/201701/05/TdrhZRkP/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",297
+http://video.drzy99.com/201701/05/y42fvYeg/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",298
+http://video.drzy99.com/201701/05/GoHKLvIc/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",299
+http://video.drzy99.com/201701/05/Lrb4ENtF/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",300
+http://video.drzy99.com/201701/04/17GoctDg/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",301
+http://video.drzy99.com/201701/04/3vEsrmbx/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",302
+http://video.drzy99.com/201701/04/CSCL9tqE/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",303
+http://video.drzy99.com/201701/04/4s8rvQdu/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",304
+http://video.drzy99.com/201701/04/bbWycTNi/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",305
+http://video.drzy99.com/201701/04/media9OJ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",306
+http://video.drzy99.com/201701/04/MtqO8KMe/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",307
+http://video.drzy99.com/201701/04/2ccnqnvM/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",308
+http://video.drzy99.com/201701/04/FvJtEu4V/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",309
+http://video.drzy99.com/201701/04/KBhmSZMN/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",310
+http://video.drzy99.com/201701/04/gvchPTUV/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",311
+http://video.drzy99.com/201701/04/MNnJZLhV/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",312
+http://video.drzy99.com/201701/04/uLLZ2l3L/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",313
+http://video.drzy99.com/201701/04/Jh6KE6TF/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",314
+http://video.drzy99.com/201701/04/jdS2bI0w/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",315
+http://video.drzy99.com/201701/04/amikjp3P/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",316
+http://video.drzy99.com/201701/04/SjXdQsaF/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",317
+http://video.drzy99.com/201701/04/u79r4fHk/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",318
+http://video.drzy99.com/201701/04/LdkG0z71/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",319
+http://video.drzy99.com/201701/04/dJdBTWUh/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",320
+http://video.drzy99.com/201701/04/d1pXiS5K/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",321
+http://video.drzy99.com/201701/04/HLhMWq0L/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",322
+http://video.drzy99.com/201701/04/ZS9XuuBT/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",323
+http://video.drzy99.com/201701/04/ULAeE71z/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",324
+http://video.drzy99.com/201701/04/4k1ENC1v/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",325
+http://video.drzy99.com/201701/04/912Xktmf/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",326
+http://video.drzy99.com/201701/04/1jJeRy4H/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",327
+http://video.drzy99.com/201701/04/sxwKEskK/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",328
+http://video.drzy99.com/201701/04/ZOthPzcQ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",329
+http://video.drzy99.com/201701/04/PUiDfFXQ/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",330
+http://video.drzy99.com/201701/04/bRLfT31f/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",331
+http://video.drzy99.com/201701/04/NXv0iHk1/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",332
+http://video.drzy99.com/201701/04/bRLfT31f/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",333
+http://video.drzy99.com/201701/04/NXv0iHk1/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",334
+http://video.drzy99.com/201701/04/oFrPvTvK/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",335
+http://video.drzy99.com/201701/04/jIIdb4wc/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",336
+http://video.drzy99.com/201701/04/t16tEJYX/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",337
+http://video.drzy99.com/201701/04/AdgYcBQF/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",338
+http://video.drzy99.com/201701/04/x4a2NjQ4/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",339
+http://video.drzy99.com/201701/04/7WJo51sP/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",340
+http://video.drzy99.com/201701/04/fzHx0ni0/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",341
+http://video.drzy99.com/201701/04/BJmBlORY/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",342
+http://video.drzy99.com/201701/04/hlT8upAr/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",343
+http://video.drzy99.com/201701/04/Jj1DQLLH/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",344
+http://video.drzy99.com/201701/04/WsmWpFDy/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",345
+http://video.drzy99.com/201701/04/cgIu88cq/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",346
+http://video.drzy99.com/201701/04/56PYyRxU/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",347
+http://video.drzy99.com/201701/04/u3lNOtwo/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",348
+http://video.drzy99.com/201701/04/tGJDxsQB/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",349
+http://video.drzy99.com/201701/04/eyjzwCDe/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",350
+http://video.drzy99.com/201701/04/6wA6Qn5g/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",351
+http://video.drzy99.com/201701/04/2Wr11yj3/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",352
+http://video.drzy99.com/201701/04/YM1CQ1Sw/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",353
+http://video.drzy99.com/201701/04/8HkZ02xg/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",354
+http://video.drzy99.com/201701/04/F3mERRer/index.m3u8
+#EXTINF:-1 group-title="【日本福利】",355
+http://video.drzy99.com/201701/29/nAL536Wm/index.m3u8
 
 
