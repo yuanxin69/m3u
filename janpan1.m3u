@@ -696,6 +696,31 @@ http://121.140.181.215:9981/stream/channelid/235249417
 #EXTINF:-1 group-title="新韩国",올래 YTN
 
 
+#EXTINF:-1 group-title="【电影院】",电影院1
+http://liveal.quanmin.tv/live/1515827050_quanmin720.m3u8 
+#EXTINF:-1 group-title="【电影院】",电影院2
+http://liveal.quanmin.tv/live/2136588070_quanmin720.m3u8 
+#EXTINF:-1 group-title="【电影院】",电影院3
+http://liveal.quanmin.tv/live/875997_quanmin720.m3u8 
+#EXTINF:-1 group-title="【电影院】",电影院4
+http://liveal.quanmin.tv/live/2015339572_quanmin720.m3u8 
+#EXTINF:-1 group-title="【电影院】",电影院5
+http://liveal.quanmin.tv/live/2035917884_quanmin720.m3u8 
+#EXTINF:-1 group-title="【电影院】",电影院6
+http://liveal.quanmin.tv/live/1509543480_quanmin720.m3u8 
+#EXTINF:-1 group-title="【电影院】",电影院7
+http://liveal.quanmin.tv/live/2019468332_quanmin720.m3u8 
+#EXTINF:-1 group-title="【电影院】",电影院8
+http://liveal.quanmin.tv/live/2046731300_quanmin720.m3u8 
+#EXTINF:-1 group-title="【电影院】",电影院9
+http://liveal.quanmin.tv/live/2046540092_quanmin720.m3u8 
+#EXTINF:-1 group-title="【电影院】",电影院10
+http://liveal.quanmin.tv/live/2031920686_quanmin720.m3u8 
+
+
+
+
+
 
 #EXTINF:0 tvg-logo="logo1.png",group-title="【央视1080P】",
 http://27.148.240.208/PLTV/88888888/224/3221226193/1.m3u8
