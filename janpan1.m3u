@@ -474,6 +474,8 @@ http://txhls.cdn.zhanqi.tv/zqlive/1234_inews.m3u8
 http://tvb8-i.akamaihd.net/hls/live/224490/C8Live/C8Live-1.m3u8
 #EXTINF:-1 group-title="港台频道",TVB娱乐
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://alpull.inke.cn/live/jade.m3u8
 #EXTINF:-1 group-title="港台频道",美亚电影/翡翠台
 http://pili-live-hls.vzan.com/vzanlive/131497513422945924.m3u8
 #EXTINF:-1 group-title="港台频道",天映频道/翡翠台
