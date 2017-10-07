@@ -377,40 +377,8 @@ http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
 http://live.mastvnet.com/n1rtlHG/500/live.m3u8
 #EXTINF:-1 group-title="港台频道",莲花卫视
 http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
-#EXTINF:-1 group-title="港台频道",中天新闻
-https://58ada6ee80845.streamlock.net/ios/-ctinews-0832/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",TVBS新闻
-http://60.199.188.120/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1 group-title="港台频道",东森新闻
-http://60.199.188.120/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 group-title="港台频道",东森财经
 http://220.228.49.31/live/fet004/chunklist.m3u
-#EXTINF:-1 group-title="港台频道",民视新闻
-https://58ada6ee80845.streamlock.net/ios/-ftvnews-0832/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",非凡新闻
-http://60.199.188.120/HLS/WG_USTV-N/index.m3u8
-#EXTINF:-1 group-title="港台频道",中视频道
-https://58ada6ee80845.streamlock.net/ios/-ctv-0832/playlist.m3u8%2520
-#EXTINF:-1 group-title="港台频道",台视新闻
-https://58ada6ee80845.streamlock.net/ios/-ttvnews-0832/playlist.m3u8%2520
-#EXTINF:-1 group-title="港台频道",华视频道
-https://58ada6ee80845.streamlock.net/ios/-cts-0832/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",靖天綜合
-https://58ada6ee80845.streamlock.net/ios/-goldentvgenner-0832/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",靖天育樂
-https://58ada6ee80845.streamlock.net/ios/-goldentvrecreation-0832/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",靖天戲劇
-https://58ada6ee80845.streamlock.net/ios/-goldentvdrama-0832/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",靖天資訊
-https://58ada6ee80845.streamlock.net/ios/-goldentvinfo-0832/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",靖天日本
-https://58ada6ee80845.streamlock.net/ios/-goldentvjapan-0832/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",靖天卡通
-https://58ada6ee80845.streamlock.net/ios/-goldentvcartoon-0832/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",靖洋戲劇
-https://58ada6ee80845.streamlock.net/ios/-jydrama-0832/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",靖天国际
-https://58ada6ee80845.streamlock.net/ios/-familyfun-0832/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",Catchplay电影
 http://tc3akts.tv-bar.net/live/9501.stream/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",原视频道
@@ -446,7 +414,28 @@ http://27.254.63.162/stream/totnew.php?channel_id=ebce2f5139c54eda8b111e5923af9c
 #EXTINF:-1 group-title="国外频道",[V]国际
 http://27.254.63.162/stream/totnew.php?channel_id=9e38a0084e6d45d080139a166c60a102
 
-
+#EXTINF:-1 group-title="【哈频道】",MENSUNO
+https://58ada6ee80845.streamlock.net/ios/-mensuno-0832/playlist.m3u8
+#EXTINF:-1 group-title="【哈频道】",车讯
+https://58ada6ee80845.streamlock.net/ios/-carnews-0832/playlist.m3u8
+#EXTINF:-1 group-title="【哈频道】",ELLE TV
+https://58ada6ee80845.streamlock.net/ios/-elle-0832/playlist.m3u8
+#EXTINF:-1 group-title="【哈频道】",靖天綜合
+https://58ada6ee80845.streamlock.net/ios/-goldentvgenner-0832/playlist.m3u8
+#EXTINF:-1 group-title="【哈频道】",靖天育樂
+https://58ada6ee80845.streamlock.net/ios/-goldentvrecreation-0832/playlist.m3u8
+#EXTINF:-1 group-title="【哈频道】",靖天戲劇
+https://58ada6ee80845.streamlock.net/ios/-goldentvdrama-0832/playlist.m3u8
+#EXTINF:-1 group-title="【哈频道】",靖天資訊
+https://58ada6ee80845.streamlock.net/ios/-goldentvinfo-0832/playlist.m3u8
+#EXTINF:-1 group-title="【哈频道】",靖天日本
+https://58ada6ee80845.streamlock.net/ios/-goldentvjapan-0832/playlist.m3u8
+#EXTINF:-1 group-title="【哈频道】",靖天卡通
+https://58ada6ee80845.streamlock.net/ios/-goldentvcartoon-0832/playlist.m3u8
+#EXTINF:-1 group-title="【哈频道】",靖洋戲劇
+https://58ada6ee80845.streamlock.net/ios/-jydrama-0832/playlist.m3u8
+#EXTINF:-1 group-title="【哈频道】",靖天国际
+https://58ada6ee80845.streamlock.net/ios/-familyfun-0832/playlist.m3u8
 
 
 
