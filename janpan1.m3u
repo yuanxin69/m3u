@@ -519,32 +519,94 @@ http://27.254.63.162/stream/totnew.php?channel_id=ebce2f5139c54eda8b111e5923af9c
 #EXTINF:-1 group-title="国外频道",[V]国际
 http://27.254.63.162/stream/totnew.php?channel_id=9e38a0084e6d45d080139a166c60a102
 
-#EXTINF:-1 group-title="【哈频道】",时代影像电影台
+#EXTINF:-1 group-title="【台湾频道】",东森亚洲新闻台
+https://58ada6ee80845.streamlock.net/ios/-entasinews-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台视综合台
+https://58ada6ee80845.streamlock.net/ios/-ttvcomplex-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台視财经台
+https://58ada6ee80845.streamlock.net/ios/-ttvmoney-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",非凡旅游
+https://58ada6ee80845.streamlock.net/ios/-ustvtravel-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",国际电影台
+https://58ada6ee80845.streamlock.net/ios/-intlmovie-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",时代影像电影台
 https://58ada6ee80845.streamlock.net/ios/-timesimage-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",MENSUNO
-https://58ada6ee80845.streamlock.net/ios/-mensuno-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",车讯
+#EXTINF:-1 group-title="【台湾频道】",承影Play TV
+https://58ada6ee80845.streamlock.net/ios/-ChiengYin-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",春晚-历年
+https://58ada6ee80845.streamlock.net/ios/-springeve-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",车讯TV
 https://58ada6ee80845.streamlock.net/ios/-carnews-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",ELLE TV
-https://58ada6ee80845.streamlock.net/ios/-elle-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",靖天綜合
+#EXTINF:-1 group-title="【台湾频道】",雷斯利 T
+https://58ada6ee80845.streamlock.net/ios/-leslytv-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",靖天综合台
 https://58ada6ee80845.streamlock.net/ios/-goldentvgenner-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",靖天育樂
-https://58ada6ee80845.streamlock.net/ios/-goldentvrecreation-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",靖天戲劇
-https://58ada6ee80845.streamlock.net/ios/-goldentvdrama-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",靖天資訊
+#EXTINF:-1 group-title="【台湾频道】",靖天资讯台
 https://58ada6ee80845.streamlock.net/ios/-goldentvinfo-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",靖天日本
-https://58ada6ee80845.streamlock.net/ios/-goldentvjapan-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",靖天卡通
-https://58ada6ee80845.streamlock.net/ios/-goldentvcartoon-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",靖洋戲劇
-https://58ada6ee80845.streamlock.net/ios/-jydrama-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",靖天国际
+#EXTINF:-1 group-title="【台湾频道】",靖天国际台
 https://58ada6ee80845.streamlock.net/ios/-familyfun-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",靖天卡通台
+https://58ada6ee80845.streamlock.net/ios/-goldentvcartoon-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",靖天娱乐台
+https://58ada6ee80845.streamlock.net/ios/-goldentvrecreation-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",靖天戏剧台
+https://58ada6ee80845.streamlock.net/ios/-goldentvdrama-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",靖天日本台
+https://58ada6ee80845.streamlock.net/ios/-goldentvjapan-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",靖洋戏剧台
+https://58ada6ee80845.streamlock.net/ios/-jydrama-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",中视经典台
+https://58ada6ee80845.streamlock.net/ios/-ctvclassic-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",风潮综合台
+https://58ada6ee80845.streamlock.net/ios/-windcomp-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",风潮音乐台
+https://58ada6ee80845.streamlock.net/ios/-windmusic-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",动静音乐台
+https://58ada6ee80845.streamlock.net/ios/-dongin-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",音乐健身房
+https://58ada6ee80845.streamlock.net/ios/-mysports-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",轰天牛音乐
+https://58ada6ee80845.streamlock.net/ios/-bull-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",发现音乐MV
+https://58ada6ee80845.streamlock.net/ios/-stonemusic-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",发现音乐演唱直播
+https://58ada6ee80845.streamlock.net/ios/-livemusic-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",华夏星势力
+https://58ada6ee80845.streamlock.net/ios/-chinastar-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台湾好音乐
+https://58ada6ee80845.streamlock.net/ios/-twgoodmusic-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台湾原创现场
+https://58ada6ee80845.streamlock.net/ios/-twmusic-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台湾好拳电视
+https://58ada6ee80845.streamlock.net/ios/-boxing-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",正妹赞出來
+https://58ada6ee80845.streamlock.net/ios/-hottie-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",美人好事集
+https://58ada6ee80845.streamlock.net/ios/-yubeauty-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",ELLE TV
+https://58ada6ee80845.streamlock.net/ios/-elle-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",Nice TV
+https://58ada6ee80845.streamlock.net/ios/-nice-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",VTV4
+https://58ada6ee80845.streamlock.net/ios/-vtv4-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",mens uno
+https://58ada6ee80845.streamlock.net/ios/-mensuno-0832/playlist.m3u8
 #EXTINF:-1 group-title="【哈频道】",天开电视
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台視
+rtmp://wv3.tp33.net/sat/tv071
+#EXTINF:-1 group-title="【台湾频道】",中視
+rtmp://wv3.tp33.net/sat/tv091
+#EXTINF:-1 group-title="【台湾频道】",華視
+rtmp://wv3.tp33.net/sat/tv111
+#EXTINF:-1 group-title="【台湾频道】",民視
+rtmp://wv3.tp33.net/sat/tv051
+#EXTINF:-1 group-title="【台湾频道】",緯來育樂
+rtmp://wv3.tp33.net/sat/tv701
+#EXTINF:-1 group-title="【台湾频道】",緯來日本
+rtmp://wv3.tp33.net/sat//t
+#EXTINF:-1 group-title="【台湾频道】",東森財經新聞
+rtmp://wv3.tp33.net/sat/tv571
 
 
 
