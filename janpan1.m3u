@@ -436,6 +436,8 @@ https://58ada6ee80845.streamlock.net/ios/-goldentvcartoon-0832/playlist.m3u8
 https://58ada6ee80845.streamlock.net/ios/-jydrama-0832/playlist.m3u8
 #EXTINF:-1 group-title="【哈频道】",靖天国际
 https://58ada6ee80845.streamlock.net/ios/-familyfun-0832/playlist.m3u8
+#EXTINF:-1 group-title="【哈频道】",天开电视
+http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
 
 
 
@@ -834,63 +836,7 @@ http://125.88.39.22/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.
 http://125.88.39.22/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
 #EXTINF:0 tvg-logo="chaojitiyua.png",group-title="【BesTV体育赛事】",NBA体育赛事
 http://27.148.240.208/PLTV/88888888/224/3221226162/1.m3u8
-#EXTINF:0 tvg-logo="chaojitiyua.png",group-title="【BesTV体育赛事】",NBA体育赛事⒈
-http://27.148.240.208/PLTV/88888888/224/3221226163/1.m3u8
-#EXTINF:0 tvg-logo="chaojitiyua.png",group-title="【BesTV体育赛事】",NBA体育赛事⒉
-http://27.148.240.208/PLTV/88888888/224/3221226164/1.m3u8
-#EXTINF:0 tvg-logo="chaojitiyua.png",group-title="【BesTV体育赛事】",NBA体育赛事⒊
-http://27.148.240.208/PLTV/88888888/224/3221226165/1.m3u8
-#EXTINF:0 tvg-logo="chaojitiyua.png",group-title="【BesTV体育赛事】",NBA体育赛事⒋
-http://27.148.240.208/PLTV/88888888/224/3221226166/1.m3u8
-#EXTINF:0 tvg-logo="yingchao1.png",group-title="【BesTV体育赛事】",Bestv超级体育⒈
-http://27.148.240.208/PLTV/88888888/224/3221226167/1.m3u8
-#EXTINF:0 tvg-logo="yingchao2.png",group-title="【BesTV体育赛事】",BesTV超级体育⒉
-http://27.148.240.208/PLTV/88888888/224/3221226066/1.m3u8
-#EXTINF:0 tvg-logo="yingchao3.png",group-title="【BesTV体育赛事】",Bestv超级体育⒊
-http://27.148.240.208/PLTV/88888888/224/3221226112/1.m3u8
-#EXTINF:0 tvg-logo="yingchao4.png",group-title="【BesTV体育赛事】",Bestv超级体育⒋
-http://27.148.240.208/PLTV/88888888/224/3221226113/1.m3u8
-#EXTINF:0 tvg-logo="yingchao5.png",group-title="【BesTV体育赛事】",Bestv超级体育5.
-http://27.148.240.208/PLTV/88888888/224/3221226114/1.m3u8
-#EXTINF:0 tvg-logo="yingchao6.png",group-title="【BesTV体育赛事】",Bestv超级体育6.
-http://27.148.240.208/PLTV/88888888/224/3221226115/1.m3u8
-#EXTINF:0 tvg-logo="yingchao7.png",group-title="【BesTV体育赛事】",Bestv超级体育7.
-http://27.148.240.208/PLTV/88888888/224/3221226116/1.m3u8
-#EXTINF:0 tvg-logo="yingchao7.png",group-title="【BesTV体育赛事】",Bestv超级体育8.
-http://27.148.240.208/PLTV/88888888/224/3221226117/1.m3u8
-#EXTINF:0 tvg-logo="Beinsports1.png",group-title="【BesTV体育赛事】",体育频道
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b2660000.m3u8
-#EXTINF:0 tvg-logo="btsport1.png",group-title="【BesTV体育赛事】",体育频道
-http://dontstealmylinksnigga.artv.watch/uk-btsport1.m3u8
-#EXTINF:0 tvg-logo="btsport2.png",group-title="【BesTV体育赛事】",体育频道
-http://dontstealmylinksnigga.artv.watch/uk-btsport2.m3u8
-#EXTINF:0 tvg-logo="btsport3.png",group-title="【BesTV体育赛事】",体育频道
-http://dontstealmylinksnigga.artv.watch/uk-btsport3.m3u8
-#EXTINF:0 tvg-logo="btsport4.png",group-title="【BesTV体育赛事】",体育频道
-http://dontstealmylinksnigga.artv.watch/uk-btsportespn.m3u8
-#EXTINF:0 tvg-logo="skysport1.png",group-title="【BesTV体育赛事】",体育频道
-http://dontstealmylinksnigga.artv.watch/uk-skysport1.m3u8
-#EXTINF:0 tvg-logo="skysport2.png",group-title="【BesTV体育赛事】",体育频道
-http://dontstealmylinksnigga.artv.watch/uk-skysport2.m3u8
-#EXTINF:0 tvg-logo="skysport3.png",group-title="【BesTV体育赛事】",体育频道
-http://dontstealmylinksnigga.artv.watch/uk-skysport3.m3u8
-#EXTINF:0 tvg-logo="skysport4.png",group-title="【BesTV体育赛事】",体育频道
-http://dontstealmylinksnigga.artv.watch/uk-skysport4.m3u8
-#EXTINF:0 tvg-logo="skysport5.png",group-title="【BesTV体育赛事】",体育频道
-http://dontstealmylinksnigga.artv.watch/uk-skysport5.m3u8
-#EXTINF:0 tvg-logo="skysport5.png",group-title="【BesTV体育赛事】",体育频道
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/3265.ts
-#EXTINF:0 tvg-logo="wwe.png",group-title="【BesTV体育赛事】",WWE
-http://hls.quanmin.tv/live/2115620138/playlist.m3u8
-#EXTINF:0 tvg-logo="oktosport.png",group-title="【BesTV体育赛事】",okto体育
-http://tglokto-lh.akamaihd.net/i/oktoenv_fta@344014/index_1_av-p.m3u8
-#EXTINF:0 tvg-logo="foxplus.png",group-title="【BesTV体育赛事】",FOX-SPORT
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9301.m3u8
-#EXTINF:0 tvg-logo="FOX-SPORT2.png",group-title="【BesTV体育赛事】",FOX-SPORT2
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9302.m3u8
-#EXTINF:0 tvg-logo="FOX-SPORT3.png",group-title="【BesTV体育赛事】",FOX-SPORT3
-http://snake-t70.griffinmas.com/streams/hls/multibitrate/live/9404.m3u8
-http://121.140.181.215:9981/stream/channelid/826891306
+
 #EXTINF:-1 group-title="新韩国",올래 쇼핑엔T
 http://121.140.181.215:9981/stream/channelid/990314530
 #EXTINF:-1 group-title="新韩国",올래 스카이 힐링
