@@ -1,6 +1,49 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="【火猫电影】",火猫电影1
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+#EXTINF:-1 group-title="【火猫电影】",火猫电影2
+http://live-tx-hdl.huomaotv.cn/live/2inGSW24083.m3u8
+#EXTINF:-1 group-title="【火猫电影】",火猫电影3
+http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
+#EXTINF:-1 group-title="【火猫电影】",火猫电影4
+http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
+#EXTINF:-1 group-title="【火猫电影】",火猫电影5
+http://live-tx-hdl.huomaotv.cn/live/2epqPZ24085.m3u8
+#EXTINF:-1 group-title="【火猫电影】",电影1
+http://live-tx-hdl.huomaotv.cn/flvtx.plu.cn/onlive/e6621f4835f54b6c8c73b8e00ed3512b.m3u8
+#EXTINF:-1 group-title="【火猫电影】",电影2
+http://live-tx-hdl.huomaotv.cn/flvtx.plu.cn/onlive/e65e81838bdf45ecbff40bc7318bbf4e.m3u8
+#EXTINF:-1 group-title="【火猫电影】",恐怖片女王
+http://hlstx.plu.cn/onlive/ce589113373e4696b9995f3f79452409.m3u8
+#EXTINF:-1 group-title="【火猫电影】",小鹿女王
+http://218.75.176.114/hlstx.plu.cn/onlive/909c5958c33144d0a00a63afc1026c6a.m3u8
+#EXTINF:-1 group-title="【火猫电影】",国汉影院
+http://hlstx.plu.cn/onlive/90985cc82cfd4c229bc5daf642e12dee.m3u8
+#EXTINF:-1 group-title="【火猫电影】",龙八夷-国内外电影
+http://hlstx.plu.cn/onlive/c8532ddfb1474527bac188477cc3234c.m3u8
+#EXTINF:-1 group-title="【火猫电影】",开心果电影
+http://hlstx.plu.cn/onlive/e272abe682d540c0ab44f22e39d3af6b.m3u8
+#EXTINF:-1 group-title="【火猫电影】",情久魔鬼
+http://hlstx.plu.cn/onlive/5146be95aa39409da3745012029de772.m3u8
+#EXTINF:-1 group-title="【火猫电影】",宇宙无敌-贝爷
+http://hlstx.plu.cn/onlive/37d70d5397ee40ff9dda4a93fa29fb35.m3u8
+#EXTINF:-1 group-title="【火猫电影】",Mark
+http://hlstx.plu.cn/onlive/4af4fff78dce4bbfbe14b7afca2bf27d.m3u8
+#EXTINF:-1 group-title="【火猫电影】",猫咪爱跳舞
+http://hlstx.plu.cn/onlive/35a3b1a02ad64872a773f1e9ecee3b15.m3u8
+#EXTINF:-1 group-title="【火猫电影】",AE星鲨高清电影
+http://hlstx.plu.cn/onlive/e6621f4835f54b6c8c73b8e00ed3512b.m3u8
+#EXTINF:-1 group-title="【火猫电影】",AE欧美点播
+http://hlstx.plu.cn/onlive/a57d6e9065be4a9da8590c53f2eb246e.m3u8
+#EXTINF:-1 group-title="【火猫电影】",UFO经典电影
+http://hlstx.plu.cn/onlive/7d1ef819acfe49298e03936af63bd78e.m3u8
+#EXTINF:-1 group-title="【火猫电影】",洛可可电影
+http://hlstx.plu.cn/onlive/ffe20d67d3684b678054b1e48cf6739c.m3u8
+#EXTINF:-1 group-title="【火猫电影】",大嘎骚嘎电影
+http://hlstx.plu.cn/onlive/ce22e5a2c5f04030af3fe811bfe6855c.m3u8
+
 
 #EXTINF:-1 group-title="【记忆大师】",海豚综合台
 http://211.22.61.109/sta/ch12017091958.m3u8
