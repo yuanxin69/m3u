@@ -414,6 +414,8 @@ http://27.254.63.162/stream/totnew.php?channel_id=ebce2f5139c54eda8b111e5923af9c
 #EXTINF:-1 group-title="国外频道",[V]国际
 http://27.254.63.162/stream/totnew.php?channel_id=9e38a0084e6d45d080139a166c60a102
 
+#EXTINF:-1 group-title="【哈频道】",时代影像电影台
+https://58ada6ee80845.streamlock.net/ios/-timesimage-0832/playlist.m3u8
 #EXTINF:-1 group-title="【哈频道】",MENSUNO
 https://58ada6ee80845.streamlock.net/ios/-mensuno-0832/playlist.m3u8
 #EXTINF:-1 group-title="【哈频道】",车讯
