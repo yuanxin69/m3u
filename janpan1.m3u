@@ -344,6 +344,8 @@ http://103.13.29.66:9981/stream/channelid/557436306
 http://103.13.29.66:9981/stream/channelid/951779052
 #EXTINF:-1 group-title="JAPAN",wow-wow3-Cinema
 http://103.13.29.66:9981/stream/channelid/1996174472
+#EXTINF:-1 group-title="JAPAN",松视HD
+http://59.124.220.46:554/live/tv184198481.stream/index.m3u8
 
 
 #EXTINF:-1 group-title="GoodTV",goodtv兒少频道
