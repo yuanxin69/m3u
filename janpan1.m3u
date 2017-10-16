@@ -900,32 +900,6 @@ http://tx.flv.huya.com/hqlive/30765679-2480413542-10653295043445522432-278925384
 http://tx.flv.huya.com/huyalive/30765679-2484192850-10669527047707033600-2789274558-10057-A-1496215355-1.m3u8
 
 
-#EXTINF:-1 group-title="特色影视",高清纪录
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-#EXTINF:-1 group-title="特色影视",高清电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-#EXTINF:-1 group-title="特色影视",动作电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-#EXTINF:-1 group-title="特色影视",喜剧电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comedy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-#EXTINF:-1 group-title="特色影视",香港电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-#EXTINF:-1 group-title="特色影视",武侠电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wxdy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-#EXTINF:-1 group-title="特色影视",爱情电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qgdy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-#EXTINF:-1 group-title="特色影视",粤语电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-#EXTINF:-1 group-title="特色影视",战争电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zzdy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-#EXTINF:-1 group-title="特色影视",好莱坞电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 group-title="特色影视",4K电影
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
-#EXTINF:-1 group-title="特色影视",爱上4K
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-#EXTINF:-1 group-title="特色影视",粤TV-4K
-http://183.59.185.70:30001/PLTV/88888905/224/3221228037/10000100000000060000000006912177_0.smil
 
 
 
