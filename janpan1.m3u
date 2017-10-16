@@ -346,6 +346,8 @@ http://103.13.29.66:9981/stream/channelid/951779052
 http://103.13.29.66:9981/stream/channelid/1996174472
 #EXTINF:-1 group-title="JAPAN",松视HD
 http://59.124.220.46:554/live/tv184198481.stream/index.m3u8
+#EXTINF:-1 group-title="JAPAN",松视HD
+http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
 
 
 #EXTINF:-1 group-title="GoodTV",goodtv兒少频道
@@ -744,22 +746,8 @@ https://58ada6ee80845.streamlock.net/ios/-nice-0832/playlist.m3u8
 https://58ada6ee80845.streamlock.net/ios/-vtv4-0832/playlist.m3u8
 #EXTINF:-1 group-title="【台湾频道】",mens uno
 https://58ada6ee80845.streamlock.net/ios/-mensuno-0832/playlist.m3u8
-#EXTINF:-1 group-title="【哈频道】",天开电视
+#EXTINF:-1 group-title="【台湾频道】",天开电视
 http://playback.channel.opensky.tv/origin/live/linear/channel1.m3u8
-#EXTINF:-1 group-title="【台湾频道】",台視
-rtmp://wv3.tp33.net/sat/tv071
-#EXTINF:-1 group-title="【台湾频道】",中視
-rtmp://wv3.tp33.net/sat/tv091
-#EXTINF:-1 group-title="【台湾频道】",華視
-rtmp://wv3.tp33.net/sat/tv111
-#EXTINF:-1 group-title="【台湾频道】",民視
-rtmp://wv3.tp33.net/sat/tv051
-#EXTINF:-1 group-title="【台湾频道】",緯來育樂
-rtmp://wv3.tp33.net/sat/tv701
-#EXTINF:-1 group-title="【台湾频道】",緯來日本
-rtmp://wv3.tp33.net/sat//t
-#EXTINF:-1 group-title="【台湾频道】",東森財經新聞
-rtmp://wv3.tp33.net/sat/tv571
 
 
 
@@ -938,40 +926,6 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_4k&tag=live&ext=m3u8&sign=live
 http://125.88.39.22/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 #EXTINF:-1 group-title="特色影视",粤TV-4K
 http://183.59.185.70:30001/PLTV/88888905/224/3221228037/10000100000000060000000006912177_0.smil
-#EXTINF:0 tvg-logo="jilupian",group-title="特色影视",高清纪录
-http://itv.3gtech.cn/api/letv/lb_jilu_720p
-#EXTINF:0 tvg-logo="guzhuangjuchang",group-title="特色影视",古装剧场
-http://itv.3gtech.cn/api/letv/lb_gdjc_1800
-#EXTINF:0 tvg-logo="ouxiangjuchang",group-title="特色影视",偶像剧场
-http://itv.3gtech.cn/api/letv/lb_dsjc_1800
-#EXTINF:0 tvg-logo="dianshijuchang",group-title="特色影视",电视剧场
-http://itv.3gtech.cn/api/letv/lb_tv_1300
-#EXTINF:0 tvg-logo="wangjupingdao",group-title="特色影视",网剧频道
-http://itv.3gtech.cn/api/letv/lb_make_720p
-#EXTINF:0 tvg-logo="yingyuedianying",group-title="特色影视",音乐电影
-http://itv.3gtech.cn/api/letv/lb_yydy_1800
-#EXTINF:0 tvg-logo="leshidianying",group-title="特色影视",乐视电影
-http://itv.3gtech.cn/api/letv/lb_movie_720p
-#EXTINF:0 tvg-logo="leshigaoqingdianyinga",group-title="特色影视",高清电影
-http://itv.3gtech.cn/api/letv/lb_1080P_1080p3m
-#EXTINF:0 tvg-logo="leshidongzuodianying.png",group-title="特色影视",动作电影
-http://itv.3gtech.cn/api/letv/lb_dzdy_720p
-#EXTINF:0 tvg-logo="xijudianying.png",group-title="特色影视",喜剧电影
-http://itv.3gtech.cn/api/letv/lb_comedy_720p
-#EXTINF:0 tvg-logo="xianggangdianying.png",group-title="特色影视",香港电影
-http://itv.3gtech.cn/api/letv/lb_hkmovie_1300
-#EXTINF:0 tvg-logo="wuxiadianying.png",group-title="特色影视",武侠电影
-http://itv.3gtech.cn/api/letv/lb_wxdy_1800
-#EXTINF:0 tvg-logo="aiqingdianying.png",group-title="特色影视",爱情电影
-http://itv.3gtech.cn/api/letv/lb_qgdy_1800
-#EXTINF:0 tvg-logo="jingsongdianying.png",group-title="特色影视",惊悚电影
-http://itv.3gtech.cn/api/letv/lb_hydy_1800
-#EXTINF:0 tvg-logo="zhanzhengdianying.png",group-title="特色影视",战争电影
-http://itv.3gtech.cn/api/letv/lb_zzdy_1800
-#EXTINF:0 tvg-logo="haolaiwu.png",group-title="特色影视",好莱坞电影
-http://itv.3gtech.cn/api/letv/lb_hlw_1800
-#EXTINF:0 tvg-logo="leshi4kdianying.png",group-title="特色影视",4K电影
-http://itv.3gtech.cn/api/letv/lb_4k
 
 
 
