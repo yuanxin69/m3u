@@ -842,65 +842,117 @@ http://121.140.181.215:9981/stream/channelid/235249417
 #EXTINF:-1 group-title="新韩国",올래 YTN
 
 
-#EXTINF:-1 group-title="【电影院】",电影院1
-http://liveal.quanmin.tv/live/1515827050_quanmin720.m3u8 
-#EXTINF:-1 group-title="【电影院】",电影院2
-http://liveal.quanmin.tv/live/2136588070_quanmin720.m3u8 
-#EXTINF:-1 group-title="【电影院】",电影院3
-http://liveal.quanmin.tv/live/875997_quanmin720.m3u8 
-#EXTINF:-1 group-title="【电影院】",电影院4
-http://liveal.quanmin.tv/live/2015339572_quanmin720.m3u8 
-#EXTINF:-1 group-title="【电影院】",电影院5
-http://liveal.quanmin.tv/live/2035917884_quanmin720.m3u8 
-#EXTINF:-1 group-title="【电影院】",电影院6
-http://liveal.quanmin.tv/live/1509543480_quanmin720.m3u8 
-#EXTINF:-1 group-title="【电影院】",电影院7
-http://liveal.quanmin.tv/live/2019468332_quanmin720.m3u8 
-#EXTINF:-1 group-title="【电影院】",电影院8
-http://liveal.quanmin.tv/live/2046731300_quanmin720.m3u8 
-#EXTINF:-1 group-title="【电影院】",电影院9
-http://liveal.quanmin.tv/live/2046540092_quanmin720.m3u8 
-#EXTINF:-1 group-title="【电影院】",电影院10
-http://liveal.quanmin.tv/live/2031920686_quanmin720.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影1
-http://tx.flv.huya.com/huyalive/30765679-2504741986-10757784914788089856-2789274580-10057-A-1500065093-1.m3u8
+
 #EXTINF:-1 group-title="【电影院】",虎牙电影2
-http://tx.flv.huya.com/huyalive/30765679-2484192728-10669526523721023488-2847687506-10057-A-1496215393-1.m3u8
+http://tx.flv.huya.com/huyalive/30765679-2504741986-10757784914788089856-2789274580-10057-A-1500065093-1.m3u8
 #EXTINF:-1 group-title="【电影院】",虎牙电影3
-http://tx.flv.huya.com/huyalive/30765679-2484192648-10669526180123639808-2847699104-10057-A-1502041228-1.m3u8
+http://tx.flv.huya.com/huyalive/30765679-2484192728-10669526523721023488-2847687506-10057-A-1496215393-1.m3u8
 #EXTINF:-1 group-title="【电影院】",虎牙电影4
-http://tx.flv.huya.com/huyalive/30765679-2497290054-10725779110556073984-2789274568-10057-A-1496215368-1.m3u8
+http://tx.flv.huya.com/huyalive/30765679-2484192648-10669526180123639808-2847699104-10057-A-1502041228-1.m3u8
 #EXTINF:-1 group-title="【电影院】",虎牙电影5
-http://tx.flv.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-1502044656-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影6
-http://tx.flv.huya.com/huyalive/94525224-2579683606-11079656721797349376-2847699120-10057-A-1502044989-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影7
-http://tx.flv.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-1502041716-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影8
-http://tx.flv.huya.com/huyalive/94525224-2579683568-11079656558588592128-2777037926-10057-A-1496215259-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影9
-http://tx.flv.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-1496215444-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影10
-http://tx.flv.huya.com/huyalive/94525224-2579672162-11079607570191613952-2710080226-10057-A-1496712191-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影11
-http://tx.flv.huya.com/huyalive/30765679-2533159070-10879835361215774720-3048959596-10057-A-1499735430-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影12
-http://tx.flv.huya.com/huyalive/94525224-2579683592-11079656661667807232-2713685416-10057-A-1496215239-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影13
-http://tx.flv.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-1496215361-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影14
-http://tx.flv.huya.com/huyalive/30765679-2484192822-10669526927447949312-2789274572-10057-A-1497842883-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影15
-http://tx.flv.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1496215386-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影16
 http://tx.flv.huya.com/huyalive/30765679-2497290054-10725779110556073984-2789274568-10057-A-1496215368-1.m3u8
-#EXTINF:-1 group-title="【电影院】",港产恐怖
-http://tx.flv.huya.com/hqlive/30765679-2480413542-10653295043445522432-2789253846-10057-A-1503934176-1.m3u8
-#EXTINF:-1 group-title="【电影院】",洪金宝电影
-http://tx.flv.huya.com/huyalive/30765679-2484192850-10669527047707033600-2789274558-10057-A-1496215355-1.m3u8
-
-
-
+#EXTINF:-1 group-title="【电影院】",虎牙电影6
+http://tx.flv.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-1502044656-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影7
+http://tx.flv.huya.com/huyalive/94525224-2579683606-11079656721797349376-2847699120-10057-A-1502044989-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影8
+http://tx.flv.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-1502041716-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影9
+http://tx.flv.huya.com/huyalive/94525224-2579683568-11079656558588592128-2777037926-10057-A-1496215259-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影10
+http://tx.flv.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-1496215444-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影11
+http://tx.flv.huya.com/huyalive/94525224-2579672162-11079607570191613952-2710080226-10057-A-1496712191-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影12
+http://tx.flv.huya.com/huyalive/30765679-2533159070-10879835361215774720-3048959596-10057-A-1499735430-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影13
+http://tx.flv.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-1502444570-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影14
+http://tx.flv.huya.com/huyalive/94525224-2579683592-11079656661667807232-2713685416-10057-A-1496215239-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影15
+http://tx.flv.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-1496215361-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影16
+http://tx.flv.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-1502044480-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影17
+http://tx.flv.huya.com/huyalive/30765679-2484192822-10669526927447949312-2789274572-10057-A-1497842883-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影18
+http://tx.flv.huya.com/huyalive/94525224-2604793662-11187503591118077952-3048991612-10057-A-1496215489-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影19
+http://tx.flv.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1496215386-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影20
+http://tx.flv.huya.com/huyalive/30765679-2497290054-10725779110556073984-2789274568-10057-A-1496215368-1.m3u8
+#EXTINF:-1 group-title="【电影院】",虎牙电影21
+http://tx.flv.huya.com/huyalive/30765679-2484192878-10669527167966117888-2777026902-10057-A-1502042863-1.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影1
+http://hlstx.plu.cn/onlive/e65e81838bdf45ecbff40bc7318bbf4e.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影2
+http://hlstx.plu.cn/onlive/90985cc82cfd4c229bc5daf642e12dee.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影3
+http://hlstx.plu.cn/onlive/ce589113373e4696b9995f3f79452409.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影4
+http://hlstx.plu.cn/onlive/37d70d5397ee40ff9dda4a93fa29fb35.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影5
+http://hlstx.plu.cn/onlive/e272abe682d540c0ab44f22e39d3af6b.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影6
+http://hlstx.plu.cn/onlive/c8532ddfb1474527bac188477cc3234c.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影7
+http://hlstx.plu.cn/onlive/a57d6e9065be4a9da8590c53f2eb246e.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影8
+http://hlstx.plu.cn/onlive/7d1ef819acfe49298e03936af63bd78e.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影9
+http://hlstx.plu.cn/onlive/8925117a91e94602a45b326fc15025a5.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影10
+http://hlstx.plu.cn/onlive/c449a4578fe64d3f8fab47be04735431.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影11
+http://hlstx.plu.cn/onlive/a5d66b838e1141589d2e6208f15bfa43.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影12
+http://hlstx.plu.cn/onlive/63e9354cc8204d35aa327a68f036492c.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影13
+http://hlstx.plu.cn/onlive/9eb8a09d6c5649af966599a85c8e60f7.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影14
+http://hlstx.plu.cn/onlive/e5c3678251564cd9bda6115c1f1a8771.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影15
+http://hlstx.plu.cn/onlive/59cb65e2d6954dc587d9f0d13e3e5e99.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影16
+http://hlstx.plu.cn/onlive/8e37f795629d433c820df9cb6a8b34e3.m3u8
+#EXTINF:-1 group-title="【电影院】",龙珠电影17
+http://hlstx.plu.cn/onlive/553f538f9ab6409884dfe3c91312f718.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影1
+http://liveal.quanmin.tv/live/1515827050_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影2
+http://liveal.quanmin.tv/live/2136588070_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影3
+http://liveal.quanmin.tv/live/875997_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影4
+http://liveal.quanmin.tv/live/2015339572_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影5
+http://liveal.quanmin.tv/live/2035917884_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影6
+http://liveal.quanmin.tv/live/1509543480_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影7
+http://liveal.quanmin.tv/live/2019468332_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影8
+http://liveal.quanmin.tv/live/2046731300_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影9
+http://liveal.quanmin.tv/live/2046540092_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影10
+http://liveal.quanmin.tv/live/2031920686_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影11
+http://liveal.quanmin.tv/live/2044699692_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影12
+http://liveal.quanmin.tv/live/2065688930_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影13
+http://liveal.quanmin.tv/live/2038085940_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影14
+http://liveal.quanmin.tv/live/107688_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影15
+http://liveal.quanmin.tv/live/2065623914_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影16
+http://liveal.quanmin.tv/live/1715337274_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影17
+http://liveal.quanmin.tv/live/2031799856_quanmin720.m3u8
+#EXTINF:-1 group-title="【电影院】",全民电影18
+http://liveal.quanmin.tv/live/2134428978_quanmin720.m3u8
 
 
 
