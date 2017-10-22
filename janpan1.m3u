@@ -1,6 +1,93 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="【rtmp】",台視
+rtmp://wv4.tp33.net/sat/tv071
+#EXTINF:-1 group-title="【rtmp】",中視
+rtmp://wv4.tp33.net/sat/tv091
+#EXTINF:-1 group-title="【rtmp】",華視
+rtmp://wv4.tp33.net/sat/tv111
+#EXTINF:-1 group-title="【rtmp】",民視
+rtmp://wv4.tp33.net/sat/tv051
+#EXTINF:-1 group-title="【rtmp】",緯來育樂
+rtmp://wv4.tp33.net/sat/tv701
+#EXTINF:-1 group-title="【rtmp】",緯來日本
+rtmp://wv4.tp33.net/sat//tv761
+#EXTINF:-1 group-title="【rtmp】",緯來體育
+rtmp://wv4.tp33.net/sat/tv721
+#EXTINF:-1 group-title="【rtmp】",Fox-1運動
+rtmp://wv4.tp33.net/sat/tv731
+#EXTINF:-1 group-title="【rtmp】",Fox-2運動
+rtmp://wv4.tp33.net/sat/tv741
+#EXTINF:-1 group-title="【rtmp】",博斯運動
+rtmp://wv4.tp33.net/sat//md011
+#EXTINF:-1 group-title="【rtmp】",東森財經新聞
+rtmp://wv4.tp33.net/sat/tv571
+#EXTINF:-1 group-title="【rtmp】",愛爾達體育
+rtmp://wv4.tp33.net/sat/md031
+#EXTINF:-1 group-title="【rtmp】",愛爾達足球
+rtmp://wv4.tp33.net/sat/md021
+#EXTINF:-1 group-title="【rtmp】",博斯電玩台
+rtmp://wv4.tp33.net/sat/md041
+#EXTINF:-1 group-title="【rtmp】",愛爾達足球
+rtmp://wv4.tp33.net/sat/md051
+#EXTINF:-1 group-title="【rtmp】",球彩台
+rtmp://wv4.tp33.net/sat/hk011
+#EXTINF:-1 group-title="【rtmp】",體育台
+rtmp://wv4.tp33.net/sat/hk021
+#EXTINF:-1 group-title="【rtmp】",廣東衛視
+rtmp://wv4.tp33.net/sat/hk031
+#EXTINF:-1 group-title="【rtmp】",香港足球
+rtmp://wv4.tp33.net/sat/hk041
+#EXTINF:-1 group-title="【rtmp】",廣東體育
+rtmp://wv4.tp33.net/sat/cn011
+#EXTINF:-1 group-title="【rtmp】",CCTV-5體育
+rtmp://wv4.tp33.net/sat/cn021
+#EXTINF:-1 group-title="【rtmp】",CCTV風雲足球
+rtmp://wv4.tp33.net/sat/cn041
+#EXTINF:-1 group-title="【rtmp】",CCTV-5+體育賽事
+rtmp://wv4.tp33.net/sat/cn051
+#EXTINF:-1 group-title="【rtmp】",日劇場
+rtmp://wv4.tp33.net/sat/jp011
+#EXTINF:-1 group-title="【rtmp】",日GAORA
+rtmp://wv4.tp33.net/sat/jp021
+#EXTINF:-1 group-title="【rtmp】",日jsports3
+rtmp://wv4.tp33.net/sat/jp031
+#EXTINF:-1 group-title="【rtmp】",日jsports2
+rtmp://wv4.tp33.net/sat/jp041
+#EXTINF:-1 group-title="【rtmp】",日FOX體育
+rtmp://wv4.tp33.net/sat/jp051
+#EXTINF:-1 group-title="【rtmp】",日jsports1
+rtmp://wv4.tp33.net/sat/jp061
+#EXTINF:-1 group-title="【rtmp】",日BS
+rtmp://wv4.tp33.net/sat/jp071
+#EXTINF:-1 group-title="【rtmp】",日GREEN
+rtmp://wv4.tp33.net/sat/jp081
+#EXTINF:-1 group-title="【rtmp】",日棒球
+rtmp://wv4.tp33.net/sat/jp101
+#EXTINF:-1 group-title="【rtmp】",日財經
+rtmp://wv4.tp33.net/sat/jp121
+#EXTINF:-1 group-title="【rtmp】",美fox-NBA
+rtmp://wv4.tp33.net/sat/us011
+#EXTINF:-1 group-title="【rtmp】",美MLB-us
+rtmp://wv4.tp33.net/sat/us041
+#EXTINF:-1 group-title="【rtmp】",美FOXsun
+rtmp://wv4.tp33.net/sat/us051
+#EXTINF:-1 group-title="【rtmp】",美sportsman運動家
+rtmp://wv4.tp33.net/sat/us071
+#EXTINF:-1 group-title="【rtmp】",美FOX體育
+rtmp://wv4.tp33.net/sat/us081
+#EXTINF:-1 group-title="【rtmp】",美sky體育足球
+rtmp://wv4.tp33.net/sat/us101
+#EXTINF:-1 group-title="【rtmp】",美NBC-4
+rtmp://wv4.tp33.net/sat/us121
+#EXTINF:-1 group-title="【rtmp】",美NBC-UNIVERSO影劇
+rtmp://wv4.tp33.net/sat/us151
+
+
+
+
+
 
 #EXTINF:-1 group-title="【台湾好】",拳電視
 https://58ada6ee80845.streamlock.net/ios/-boxing-0832/playlist.m3u8
