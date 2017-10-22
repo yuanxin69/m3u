@@ -1,6 +1,345 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="【数字频道】",CCTV-1
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=007
+#EXTINF:-1 group-title="【数字频道】",CCTV-2
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=008
+#EXTINF:-1 group-title="【数字频道】",CCTV-3
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=018
+#EXTINF:-1 group-title="【数字频道】",CCTV-4
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=014
+#EXTINF:-1 group-title="【数字频道】",CCTV-5
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=019
+#EXTINF:-1 group-title="【数字频道】",CCTV-6
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=020
+#EXTINF:-1 group-title="【数字频道】",CCTV-7
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=009
+#EXTINF:-1 group-title="【数字频道】",CCTV-8
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=021
+#EXTINF:-1 group-title="【数字频道】",CCTV-9
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=022
+#EXTINF:-1 group-title="【数字频道】",CCTV-10
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=010
+#EXTINF:-1 group-title="【数字频道】",CCTV-11
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=011
+#EXTINF:-1 group-title="【数字频道】",CCTV-12
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=012
+#EXTINF:-1 group-title="【数字频道】",CCTV-13
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=023
+#EXTINF:-1 group-title="【数字频道】",CCTV-14
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=024
+#EXTINF:-1 group-title="【数字频道】",CCTV-15
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=013
+#EXTINF:-1 group-title="【数字频道】",北京卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=025
+#EXTINF:-1 group-title="【数字频道】",东方卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=063
+#EXTINF:-1 group-title="【数字频道】",天津卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=026
+#EXTINF:-1 group-title="【数字频道】",重庆卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=115
+#EXTINF:-1 group-title="【数字频道】",河北卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=029
+#EXTINF:-1 group-title="【数字频道】",山西卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=027
+#EXTINF:-1 group-title="【数字频道】",内蒙古卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=064
+#EXTINF:-1 group-title="【数字频道】",辽宁卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=041
+#EXTINF:-1 group-title="【数字频道】",吉林卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=033
+#EXTINF:-1 group-title="【数字频道】",黑龙江卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=032
+#EXTINF:-1 group-title="【数字频道】",陕西卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=120
+#EXTINF:-1 group-title="【数字频道】",甘肃卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=122
+#EXTINF:-1 group-title="【数字频道】",宁夏卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=117
+#EXTINF:-1 group-title="【数字频道】",青海卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=059
+#EXTINF:-1 group-title="【数字频道】",新疆卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=036
+#EXTINF:-1 group-title="【数字频道】",山东卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=028
+#EXTINF:-1 group-title="【数字频道】",浙江卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=030
+#EXTINF:-1 group-title="【数字频道】",江苏卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=039
+#EXTINF:-1 group-title="【数字频道】",安徽卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=114
+#EXTINF:-1 group-title="【数字频道】",江西卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=119
+#EXTINF:-1 group-title="【数字频道】",河南卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=116
+#EXTINF:-1 group-title="【数字频道】",湖南卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=040
+#EXTINF:-1 group-title="【数字频道】",湖北卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=060
+#EXTINF:-1 group-title="【数字频道】",福建卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=037
+#EXTINF:-1 group-title="【数字频道】",旅游卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=031
+#EXTINF:-1 group-title="【数字频道】",广东卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=097
+#EXTINF:-1 group-title="【数字频道】",广西卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=096
+#EXTINF:-1 group-title="【数字频道】",四川卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=118
+#EXTINF:-1 group-title="【数字频道】",贵州卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=038
+#EXTINF:-1 group-title="【数字频道】",云南卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=098
+#EXTINF:-1 group-title="【数字频道】",西藏卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=035
+#EXTINF:-1 group-title="【数字频道】",深圳卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=099
+#EXTINF:-1 group-title="【数字频道】",兵团卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=101
+#EXTINF:-1 group-title="【数字频道】",中学生
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=130
+#EXTINF:-1 group-title="【数字频道】",中教一台
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=061
+#EXTINF:-1 group-title="【数字频道】",中教二台
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=132
+#EXTINF:-1 group-title="【数字频道】",空中课堂
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=133
+#EXTINF:-1 group-title="【数字频道】",CCTV-News
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=016
+#EXTINF:-1 group-title="【数字频道】",新华新闻
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=126
+#EXTINF:-1 group-title="【数字频道】",新视觉
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=147
+#EXTINF:-1 group-title="【数字频道】",凤凰资讯
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=110
+#EXTINF:-1 group-title="【数字频道】",凤凰中文
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=111
+#EXTINF:-1 group-title="【数字频道】",都市剧场
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=095
+#EXTINF:-1 group-title="【数字频道】",怀旧剧场
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=069
+#EXTINF:-1 group-title="【数字频道】",风云剧场
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=071
+#EXTINF:-1 group-title="【数字频道】",第一剧场
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=072
+#EXTINF:-1 group-title="【数字频道】",中国电影
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=104
+#EXTINF:-1 group-title="【数字频道】",山东教育
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=106
+#EXTINF:-1 group-title="【数字频道】",阳光卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=108
+#EXTINF:-1 group-title="【数字频道】",新华英语
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=112
+#EXTINF:-1 group-title="【数字频道】",中国黄河
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=113
+#EXTINF:-1 group-title="【数字频道】",莲花卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=109
+#EXTINF:-1 group-title="【数字频道】",HBO影院
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=123
+#EXTINF:-1 group-title="【数字频道】",星空卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=124
+#EXTINF:-1 group-title="【数字频道】",华娱卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=125
+#EXTINF:-1 group-title="【数字频道】",天华电影
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=102
+#EXTINF:-1 group-title="【数字频道】",电影一台
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=103
+#EXTINF:-1 group-title="【数字频道】",天映频道
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=105
+#EXTINF:-1 group-title="【数字频道】",农林卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=121
+#EXTINF:-1 group-title="【数字频道】",延边卫视
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=034
+#EXTINF:-1 group-title="【数字频道】",气象频道
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=015
+#EXTINF:-1 group-title="【数字频道】",东方财经
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=047
+#EXTINF:-1 group-title="【数字频道】",武术世界
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=085
+#EXTINF:-1 group-title="【数字频道】",极速汽车
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=094
+#EXTINF:-1 group-title="【数字频道】",劲爆体育
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=045
+#EXTINF:-1 group-title="【数字频道】",中视购物
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=057
+#EXTINF:-1 group-title="【数字频道】",天元围棋
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=079
+#EXTINF:-1 group-title="【数字频道】",现代女性
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=056
+#EXTINF:-1 group-title="【数字频道】",生活时尚
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=093
+#EXTINF:-1 group-title="【数字频道】",七彩戏剧
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=091
+#EXTINF:-1 group-title="【数字频道】",法治天地
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=088
+#EXTINF:-1 group-title="【数字频道】",金色频道
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=092
+#EXTINF:-1 group-title="【数字频道】",欢笑剧场
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=089
+#EXTINF:-1 group-title="【数字频道】",靓妆频道
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=073
+#EXTINF:-1 group-title="【数字频道】",女性时尚
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=055
+#EXTINF:-1 group-title="【数字频道】",彩民在线
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=084
+#EXTINF:-1 group-title="【数字频道】",魅力音乐
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=090
+#EXTINF:-1 group-title="【数字频道】",风云音乐
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=067
+#EXTINF:-1 group-title="【数字频道】",央视精品
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=068
+#EXTINF:-1 group-title="【数字频道】",DV生活
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=078
+#EXTINF:-1 group-title="【数字频道】",梨园频道
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=075
+#EXTINF:-1 group-title="【数字频道】",茶频道
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=077
+#EXTINF:-1 group-title="【数字频道】",老年福
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=048
+#EXTINF:-1 group-title="【数字频道】",老故事
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=053
+#EXTINF:-1 group-title="【数字频道】",优漫卡通
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=017
+#EXTINF:-1 group-title="【数字频道】",炫动卡通
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=062
+#EXTINF:-1 group-title="【数字频道】",早期教育
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=083
+#EXTINF:-1 group-title="【数字频道】",宝贝家
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=086
+#EXTINF:-1 group-title="【数字频道】",新科动漫
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=128
+#EXTINF:-1 group-title="【数字频道】",英语辅导
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=082
+#EXTINF:-1 group-title="【数字频道】",留学世界
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=074
+#EXTINF:-1 group-title="【数字频道】",书画频道
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=054
+#EXTINF:-1 group-title="【数字频道】",国学频道
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=127
+#EXTINF:-1 group-title="【数字频道】",金鹰卡通
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=042
+#EXTINF:-1 group-title="【数字频道】",摄影频道
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=081
+#EXTINF:-1 group-title="【数字频道】",动漫秀场
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=044
+#EXTINF:-1 group-title="【数字频道】",嘉佳卡通
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=100
+#EXTINF:-1 group-title="【数字频道】",文物宝库
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=131
+#EXTINF:-1 group-title="【数字频道】",卫生健康
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=058
+#EXTINF:-1 group-title="【数字频道】",快乐垂钓
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=129
+#EXTINF:-1 group-title="【数字频道】",幸福彩
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=049
+#EXTINF:-1 group-title="【数字频道】",游戏风云
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=050
+#EXTINF:-1 group-title="【数字频道】",游戏竞技
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=076
+#EXTINF:-1 group-title="【数字频道】",汽摩
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=080
+#EXTINF:-1 group-title="【数字频道】",城市建设
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=087
+#EXTINF:-1 group-title="【数字频道】",发现之旅
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=052
+#EXTINF:-1 group-title="【数字频道】",环球奇观
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=051
+#EXTINF:-1 group-title="【数字频道】",全纪实
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=046
+#EXTINF:-1 group-title="【数字频道】",风云足球
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=070
+#EXTINF:-1 group-title="【数字频道】",世界地理
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=065
+#EXTINF:-1 group-title="【数字频道】",国防军事
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=066
+#EXTINF:-1 group-title="【数字频道】",CCTV-1高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=158
+#EXTINF:-1 group-title="【数字频道】",CCTV-2高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=139
+#EXTINF:-1 group-title="【数字频道】",CCTV-3高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=152
+#EXTINF:-1 group-title="【数字频道】",CCTV-4高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=140
+#EXTINF:-1 group-title="【数字频道】",CCTV-5高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=151
+#EXTINF:-1 group-title="【数字频道】",CCTV-5+高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=160
+#EXTINF:-1 group-title="【数字频道】",CCTV-6高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=159
+#EXTINF:-1 group-title="【数字频道】",CCTV-7高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=141
+#EXTINF:-1 group-title="【数字频道】",CCTV-8高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=150
+#EXTINF:-1 group-title="【数字频道】",CCTV-9高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=142
+#EXTINF:-1 group-title="【数字频道】",CCTV-10高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=143
+#EXTINF:-1 group-title="【数字频道】",CCTV-12高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=144
+#EXTINF:-1 group-title="【数字频道】",CCTV-14高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=145
+#EXTINF:-1 group-title="【数字频道】",CCTV-3D
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=153
+#EXTINF:-1 group-title="【数字频道】",上海卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=161
+#EXTINF:-1 group-title="【数字频道】",安徽卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=165
+#EXTINF:-1 group-title="【数字频道】",湖北卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=164
+#EXTINF:-1 group-title="【数字频道】",山东卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=163
+#EXTINF:-1 group-title="【数字频道】",天津卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=162
+#EXTINF:-1 group-title="【数字频道】",江苏卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=168
+#EXTINF:-1 group-title="【数字频道】",浙江卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=167
+#EXTINF:-1 group-title="【数字频道】",北京卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=169
+#EXTINF:-1 group-title="【数字频道】",湖南卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=166
+#EXTINF:-1 group-title="【数字频道】",深圳卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=173
+#EXTINF:-1 group-title="【数字频道】",广东卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=172
+#EXTINF:-1 group-title="【数字频道】",黑龙江卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=171
+#EXTINF:-1 group-title="【数字频道】",重庆卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=170
+#EXTINF:-1 group-title="【数字频道】",辽宁卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=137
+#EXTINF:-1 group-title="【数字频道】",四川卫视高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=138
+#EXTINF:-1 group-title="【数字频道】",北京纪实高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=135
+#EXTINF:-1 group-title="【数字频道】",上海纪实高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=136
+#EXTINF:-1 group-title="【数字频道】",金鹰纪实高清
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=134
+#EXTINF:-1 group-title="【数字频道】",凤凰卫视资讯HD
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=154
+#EXTINF:-1 group-title="【数字频道】",凤凰卫视中文HD
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=155
+#EXTINF:-1 group-title="【数字频道】",凤凰卫视香港HD
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=156
+#EXTINF:-1 group-title="【数字频道】",新视觉HD
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=147
+#EXTINF:-1 group-title="【数字频道】",DMC轮播电影
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=148
+#EXTINF:-1 group-title="【数字频道】",天华探索HD
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=149
+#EXTINF:-1 group-title="【数字频道】",TVB星河
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=107
+#EXTINF:-1 group-title="【数字频道】",HKC电影一台HD
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=157
+#EXTINF:-1 group-title="【数字频道】",天华电影HD
+http://cnbeijing.xyz:8080/ipy?name=wzy6&pass=tv4&id=146
+
+
+
+
+
 #EXTINF:-1 group-title="【rtmp】",台視
 rtmp://wv4.tp33.net/sat/tv071
 #EXTINF:-1 group-title="【rtmp】",中視
@@ -303,133 +642,6 @@ https://58ada6ee80845.streamlock.net/radio_fm_ios/happymirophone--/playlist.m3u8
 
 
 
-
-#EXTINF:-1 group-title="【熊猫TV】",Panda丶小京
-http://pl-hls29.live.panda.tv/live_panda/b2c00d08a728387fd7c3abbae8e83346.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",球大君丶相声杂烩
-http://pl-hls29.live.panda.tv/live_panda/63ab98455db2a6272697f5d9f7e8c9fc.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",小y小品
-http://pl-hls29.live.panda.tv/live_panda/c5a97489ca5603b0e6c4e66f78766866.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",CGV院线
-http://pl-hls29.live.panda.tv/live_panda/de790af9a70ab805bd87a7a9152e04da.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",忠家萱青曲社
-http://pl-hls29.live.panda.tv/live_panda/8554b9d498ae05e661743541680fd13a.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",Panda_媚儿
-http://pl-hls29.live.panda.tv/live_panda/db4360bcbdf9891a8372c46c698861f2.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",彭城霸王枪
-http://pl-hls29.live.panda.tv/live_panda/7e20e2cb17dac5748cb99c6ff2b981eb.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",anda丶小诗歌
-http://pl-hls29.live.panda.tv/live_panda/5e3af3693407c45e8cf37a593f49bb58.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",PandaTV丶贝贝
-http://pl-hls29.live.panda.tv/live_panda/5cf24c160ec2d9f2d300c52dffbbc10a.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",Rainsun
-http://pl-hls29.live.panda.tv/live_panda/0c9d1af5d2f302878994c814575f9261.m3u8 
-#EXTINF:-1 group-title="【熊猫TV】",Panda丶伊太刀
-http://pl-hls29.live.panda.tv/live_panda/0fa89c26da7ccbf42babe0e23a7bba99.m3u8 
-#EXTINF:-1 group-title="【熊猫TV】",鲜夕阳
-http://pl-hls29.live.panda.tv/live_panda/828d3c99c1141d99baf6beb2f7481ac6.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",七色凉橙鉴影阁
-http://pl-hls29.live.panda.tv/live_panda/f3ad3541208aebfc63e37314ef6895cc.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",飞天小猪An
-http://pl-hls29.live.panda.tv/live_panda/fe0eec33ec01bc94bdc40b1d4a217010.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",阿狸宝宝
-http://pl-hls29.live.panda.tv/live_panda/3cf08b31f7643b7cc7c10829b892b8e7.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",hello丶皱皱
-http://pl-hls29.live.panda.tv/live_panda/7e32e0b90b83df37c59ec7a3f288f609.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",影视厅
-http://pl-hls29.live.panda.tv/live_panda/f28d7d69a0d68afdc3e8fb032dd0c274.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",柠檬不萌
-http://pl-hls29.live.panda.tv/live_panda/8258245d3906a72d4f5b441425f67dcf.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",Namas
-http://pl-hls29.live.panda.tv/live_panda/d93aa4b973d4bf7cf1e77537528e6ef1.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",PANDA1直播
-http://pl-hls29.live.panda.tv/live_panda/c03a06fa7906cdee5bdf9dc50a1d9a3a.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",Panda周星驰
-http://pl-hls29.live.panda.tv/live_panda/8dd539552902c2ec70382e90bf67057d.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",梦剧场
-http://pl-hls29.live.panda.tv/live_panda/4f14eca19f8704ba696572c6f15b93e0.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",程哥
-http://pl-hls29.live.panda.tv/live_panda/f81f840257ec00194af0b83e7b16277a.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",凡夫
-http://pl-hls29.live.panda.tv/live_panda/774021977705b0be076dc7670596811a.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",以后有多美
-http://pl-hls29.live.panda.tv/live_panda/093dd7b804084d09e0cc87ecd29f5608.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",泡泡滴窝
-http://pl-hls29.live.panda.tv/live_panda/a4d658bcadcf3602584084bb6ea161c2.m3u8 
-#EXTINF:-1 group-title="【熊猫TV】",名城影视
-http://pl-hls29.live.panda.tv/live_panda/8569a29ba9a59de6470465174647712b.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",冬冬
-http://pl-hls29.live.panda.tv/live_panda/732f0b9529a0eb1c873dbbe23f5495b9.m3u8 
-#EXTINF:-1 group-title="【熊猫TV】",情谊十一月周星驰
-http://pl-hls29.live.panda.tv/live_panda/f7edd8711243b00e04f1b4125084cc55.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",程橙橙
-http://pl-hls29.live.panda.tv/live_panda/381e85e01004b31b6cfc9b1f17450159.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",开森的Mia
-http://pl-hls29.live.panda.tv/live_panda/6cf3e751ab618cb788901a10b6b147d0.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",十二未央Ly成龙
-http://pl-hls29.live.panda.tv/live_panda/3b1363b62c460f60ffcf7aaa561c93af.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",龍門影視
-http://pl-hls29.live.panda.tv/live_panda/c4637cea81442673b8e2123fae32e344.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",达伦影视
-http://pl-hls29.live.panda.tv/live_panda/a5b1c912edd99ba28ed272cc969aa16b.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",小轩宝2013
-http://pl-hls29.live.panda.tv/live_panda/7ab4c8671aae4215480c740013a72e2f.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",熊猫单生狗
-http://pl-hls29.live.panda.tv/live_panda/85dc3fa0d8cc2f3249a8f710ff5a258a.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",静静滴看着你装哔
-http://pl-hls29.live.panda.tv/live_panda/2435316d691eea18c3af8458aee1cd19.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",禽兽回来啦
-http://pl-hls29.live.panda.tv/live_panda/91c24dbd4fe4cc76e814c2a7fc641a43.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",酱紫的糖果坊
-http://pl-hls29.live.panda.tv/live_panda/d8dd395a5b0ad8fabd51fb18ac234421.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",我为战争狂
-http://pl-hls29.live.panda.tv/live_panda/a665cf8565a927f3a49c3d818550d929.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",绝版柠檬
-http://pl-hls29.live.panda.tv/live_panda/9baec60efc7c29dcd0094ae789903c00.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",PANDAV
-http://pl-hls29.live.panda.tv/live_panda/362b6ea1ea462c581f2c760f0e2db59e.m3u8 
-#EXTINF:-1 group-title="【熊猫TV】",乐子电影剧
-http://pl-hls29.live.panda.tv/live_panda/1fb3a69e6d6b12a2a1527a310877c3e4.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",黑天白夜
-http://pl-hls29.live.panda.tv/live_panda/4bbbce9442f2b4a0faac7cc7ff0a4c87.m3u8 
-#EXTINF:-1 group-title="【熊猫TV】",阿狸de桃子
-http://pl-hls29.live.panda.tv/live_panda/bb0310ff0d0289ce14a897542e8fcd2d.m3u8 
-#EXTINF:-1 group-title="【熊猫TV】",Panda丶小诗歌
-http://pl-hls29.live.panda.tv/live_panda/5e3af3693407c45e8cf37a593f49bb58.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",乐子电影剧
-http://pl-hls29.live.panda.tv/live_panda/1fb3a69e6d6b12a2a1527a310877c3e4.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",PANDAV
-http://pl-hls29.live.panda.tv/live_panda/362b6ea1ea462c581f2c760f0e2db59e.m3u8 
-#EXTINF:-1 group-title="【熊猫TV】",公主不乖
-http://pl-hls29.live.panda.tv/live_panda/468037c7eaf776c1807cffafddc34dc9.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",酱紫的糖果坊
-http://pl-hls29.live.panda.tv/live_panda/d8dd395a5b0ad8fabd51fb18ac234421.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",小有在
-http://pl-hls29.live.panda.tv/live_panda/6d602f1841bf9ff93a0cff816ff8a030.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",余文楽的sasa
-http://pl-hls29.live.panda.tv/live_panda/9c3e89fa02543baf05872b06c8a91c85.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",邹妹你好啦
-http://pl-hls29.live.panda.tv/live_panda/e41711531457fc7b6431daa1827c0035.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",飞天小猪An
-http://pl-hls29.live.panda.tv/live_panda/fe0eec33ec01bc94bdc40b1d4a217010.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",hello丶皱皱
-http://pl-hls29.live.panda.tv/live_panda/7e32e0b90b83df37c59ec7a3f288f609.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",鲜夕阳
-http://pl-hls29.live.panda.tv/live_panda/828d3c99c1141d99baf6beb2f7481ac6.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",布丁影院
-http://pl-hls29.live.panda.tv/live_panda/733cd3c662c6eaeb491c3f15b6e4f728.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",一点零
-http://pl-hls29.live.panda.tv/live_panda/e59e4f89d27dcde6ce24d484384789d2.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",小主播双双
-http://pl-hls29.live.panda.tv/live_panda/2895d12766b99cc8590f71cc8ba85909.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",乐子电影剧
-http://pl-hls29.live.panda.tv/live_panda/1fb3a69e6d6b12a2a1527a310877c3e4.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",奔放的一逼
-http://pl-hls29.live.panda.tv/live_panda/57d1fe1820e4c10134b2df0b1a97e10c.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",疯狂岩
-http://pl-hls29.live.panda.tv/live_panda/9ee3051c119c923d97e0fb0898a1a577.m3u8
-#EXTINF:-1 group-title="【熊猫TV】",日落公园
-http://pl-hls29.live.panda.tv/live_panda/ea97daa57a2f496cddc53da259d1f8fc.m3u8
 
 
 #EXTINF:-1 group-title="【火猫电影】",火猫电影1
@@ -814,138 +1026,11 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u
 
 
 
-#EXTINF:-1 group-title="新韩国",ANI PLUS HD
-http://121.140.181.215:9981/stream/channelid/262970129
-#EXTINF:-1 group-title="新韩国",DISNEY
-http://121.140.181.215:9981/stream/channelid/1647108021
-#EXTINF:-1 group-title="新韩国",EBS U
-http://121.140.181.215:9981/stream/channelid/1693964153
-#EXTINF:-1 group-title="新韩国",eve nt TV
-http://121.140.181.215:9981/stream/channelid/1355140472
-#EXTINF:-1 group-title="新韩国",FTV HD
-http://121.140.181.215:9981/stream/channelid/2055186790
-#EXTINF:-1 group-title="新韩国",HEOR
-http://121.140.181.215:9981/stream/channelid/1230482614
-#EXTINF:-1 group-title="新韩国",KBSN SPORTS
-http://121.140.181.215:9981/stream/channelid/1205711406
-#EXTINF:-1 group-title="新韩国",M net
-http://121.140.181.215:9981/stream/channelid/326830374
-#EXTINF:-1 group-title="新韩国",MBC every
-http://121.140.181.215:9981/stream/channelid/559995548
-#EXTINF:-1 group-title="新韩国",MBC MUSIC
-http://121.140.181.215:9981/stream/channelid/1941504723
-#EXTINF:-1 group-title="新韩国",MBC SPORTS+
-http://121.140.181.215:9981/stream/channelid/263588633
-#EXTINF:-1 group-title="新韩国",MTN
-http://121.140.181.215:9981/stream/channelid/1797059421
-#EXTINF:-1 group-title="新韩国",OBS
-http://121.140.181.215:9981/stream/channelid/2092663514
-#EXTINF:-1 group-title="新韩国",OBS W
-http://121.140.181.215:9981/stream/channelid/1298881540
-#EXTINF:-1 group-title="新韩国",OGN
-http://121.140.181.215:9981/stream/channelid/438734215
-#EXTINF:-1 group-title="新韩国",ONSTYLE
-http://121.140.181.215:9981/stream/channelid/1948277880
-#EXTINF:-1 group-title="新韩国",OTVN
-http://121.140.181.215:9981/stream/channelid/1760319951
-#EXTINF:-1 group-title="新韩国",SKY CNT
-http://121.140.181.215:9981/stream/channelid/1425059254
-#EXTINF:-1 group-title="新韩国",sky sports
-http://121.140.181.215:9981/stream/channelid/776362414
-#EXTINF:-1 group-title="新韩国",sky UHD
-http://121.140.181.215:9981/stream/channelid/415378706
-#EXTINF:-1 group-title="新韩国",sky UHD
-http://121.140.181.215:9981/stream/channelid/1417852030
-#EXTINF:-1 group-title="新韩国",SPO TV
-http://121.140.181.215:9981/stream/channelid/868124087
-#EXTINF:-1 group-title="新韩国",X TV
-http://121.140.181.215:9981/stream/channelid/695816056
-#EXTINF:-1 group-title="新韩国",바둑 TV
-http://121.140.181.215:9981/stream/channelid/229240105
-#EXTINF:-1 group-title="新韩国",법률방송
-http://121.140.181.215:9981/stream/channelid/47423425
-#EXTINF:-1 group-title="新韩国",올래 Arte HD
-http://121.140.181.215:9981/stream/channelid/908661244
-#EXTINF:-1 group-title="新韩国",올래 BBC
-http://121.140.181.215:9981/stream/channelid/1337498368
-#EXTINF:-1 group-title="新韩国",올래 CMC HD
-http://121.140.181.215:9981/stream/channelid/1376626713
-#EXTINF:-1 group-title="新韩国",올래 C채널
-http://121.140.181.215:9981/stream/channelid/997053113
-#EXTINF:-1 group-title="新韩国",올래 EBS1
-http://121.140.181.215:9981/stream/channelid/1424108962
-#EXTINF:-1 group-title="新韩国",올래 GTV HD
-http://121.140.181.215:9981/stream/channelid/110260636
-#EXTINF:-1 group-title="新韩国",올래 JTBC
-http://121.140.181.215:9981/stream/channelid/25751828
-#EXTINF:-1 group-title="新韩国",올래 KBS1
-http://121.140.181.215:9981/stream/channelid/624923121
-#EXTINF:-1 group-title="新韩国",올래 KBS2
-http://121.140.181.215:9981/stream/channelid/1929672019
-#EXTINF:-1 group-title="新韩国",올래 Korea TV
-http://121.140.181.215:9981/stream/channelid/1349869566
-#EXTINF:-1 group-title="新韩国",올래 MBC
-http://121.140.181.215:9981/stream/channelid/201662697
-#EXTINF:-1 group-title="新韩国",올래 MBN
-http://121.140.181.215:9981/stream/channelid/155520742
-#EXTINF:-1 group-title="新韩国",올래 POLARIS
-http://121.140.181.215:9981/stream/channelid/329523887
-#EXTINF:-1 group-title="新韩国",올래 REAL TV
-http://121.140.181.215:9981/stream/channelid/682350834
-#EXTINF:-1 group-title="新韩国",올래 SBS
-http://121.140.181.215:9981/stream/channelid/203485414
-#EXTINF:-1 group-title="新韩国",올래 SPOTV GAMES
-http://121.140.181.215:9981/stream/channelid/122059159
-#EXTINF:-1 group-title="新韩国",올래 TOMATO TV
-http://121.140.181.215:9981/stream/channelid/153428430
-#EXTINF:-1 group-title="新韩国",올래 TRENDY
-http://121.140.181.215:9981/stream/channelid/1481822718
-#EXTINF:-1 group-title="新韩国",올래 TV 조선
-http://121.140.181.215:9981/stream/channelid/235249417
-#EXTINF:-1 group-title="新韩国",올래 YTN
 
 
 
-#EXTINF:-1 group-title="【电影院】",虎牙电影2
-http://tx.flv.huya.com/huyalive/30765679-2504741986-10757784914788089856-2789274580-10057-A-1500065093-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影3
-http://tx.flv.huya.com/huyalive/30765679-2484192728-10669526523721023488-2847687506-10057-A-1496215393-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影4
-http://tx.flv.huya.com/huyalive/30765679-2484192648-10669526180123639808-2847699104-10057-A-1502041228-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影5
-http://tx.flv.huya.com/huyalive/30765679-2497290054-10725779110556073984-2789274568-10057-A-1496215368-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影6
-http://tx.flv.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-1502044656-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影7
-http://tx.flv.huya.com/huyalive/94525224-2579683606-11079656721797349376-2847699120-10057-A-1502044989-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影8
-http://tx.flv.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-1502041716-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影9
-http://tx.flv.huya.com/huyalive/94525224-2579683568-11079656558588592128-2777037926-10057-A-1496215259-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影10
-http://tx.flv.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-1496215444-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影11
-http://tx.flv.huya.com/huyalive/94525224-2579672162-11079607570191613952-2710080226-10057-A-1496712191-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影12
-http://tx.flv.huya.com/huyalive/30765679-2533159070-10879835361215774720-3048959596-10057-A-1499735430-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影13
-http://tx.flv.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-1502444570-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影14
-http://tx.flv.huya.com/huyalive/94525224-2579683592-11079656661667807232-2713685416-10057-A-1496215239-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影15
-http://tx.flv.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-1496215361-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影16
-http://tx.flv.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-1502044480-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影17
-http://tx.flv.huya.com/huyalive/30765679-2484192822-10669526927447949312-2789274572-10057-A-1497842883-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影18
-http://tx.flv.huya.com/huyalive/94525224-2604793662-11187503591118077952-3048991612-10057-A-1496215489-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影19
-http://tx.flv.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1496215386-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影20
-http://tx.flv.huya.com/huyalive/30765679-2497290054-10725779110556073984-2789274568-10057-A-1496215368-1.m3u8
-#EXTINF:-1 group-title="【电影院】",虎牙电影21
-http://tx.flv.huya.com/huyalive/30765679-2484192878-10669527167966117888-2777026902-10057-A-1502042863-1.m3u8
+
+
 #EXTINF:-1 group-title="【电影院】",龙珠电影1
 http://hlstx.plu.cn/onlive/e65e81838bdf45ecbff40bc7318bbf4e.m3u8
 #EXTINF:-1 group-title="【电影院】",龙珠电影2
