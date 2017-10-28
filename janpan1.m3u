@@ -1024,8 +1024,8 @@ http://125.88.39.22/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.
 http://125.88.39.22/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8
 #EXTINF:0 tvg-logo="jiatingyingyuana.png",group-title="【广电vip频道】",家庭电影
 http://125.88.39.22/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
-#EXTINF:0 tvg-logo="chaojitiyua.png",group-title="【BesTV体育赛事】",NBA体育赛事
-http://27.148.240.208/PLTV/88888888/224/3221226162/1.m3u8
+#EXTINF:0 tvg-logo="chaojitiyua.png",group-title="【亚洲旅游】",NBA体育赛事
+http://ms001.happytv.com.tw/live/wzz74x5EebgR6NyH/index.m3u8
 
 #EXTINF:-1 group-title="新韩国",올래 쇼핑엔T
 http://121.140.181.215:9981/stream/channelid/990314530
