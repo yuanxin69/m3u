@@ -1,5 +1,257 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="【湖南联通】",湖南娱乐
+http://119.39.133.90:6610/001/2/ch00000090990000001013/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-2
+http://119.39.133.90:6610/001/2/ch00000090990000001014/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-4
+http://119.39.133.90:6610/001/2/ch00000090990000001015/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-5高清
+http://119.39.133.90:6610/001/2/ch00000090990000001016/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-7
+http://119.39.133.90:6610/001/2/ch00000090990000001018/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-9
+http://119.39.133.90:6610/001/2/ch00000090990000001020/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-10
+http://119.39.133.90:6610/001/2/ch00000090990000001021/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-1
+http://119.39.133.90:6610/001/2/ch00000090990000001022/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-3高清
+http://119.39.133.90:6610/001/2/ch00000090990000001023/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",安徽卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001024/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",北京卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001025/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CGTN-DOC
+http://119.39.133.90:6610/001/2/ch00000090990000001026/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-11
+http://119.39.133.90:6610/001/2/ch00000090990000001027/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-12
+http://119.39.133.90:6610/001/2/ch00000090990000001028/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-13
+http://119.39.133.90:6610/001/2/ch00000090990000001029/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-14
+http://119.39.133.90:6610/001/2/ch00000090990000001030/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-15
+http://119.39.133.90:6610/001/2/ch00000090990000001031/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CGTN
+http://119.39.133.90:6610/001/2/ch00000090990000001032/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",重庆卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001033/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",长沙经贸
+http://119.39.133.90:6610/001/2/ch00000090990000001034/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",东方卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001036/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",东南卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001037/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",电子体育
+http://119.39.133.90:6610/001/2/ch00000090990000001038/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",预留频道
+http://119.39.133.90:6610/001/2/ch00000090990000001039/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果宣传
+http://119.39.133.90:6610/001/2/ch00000090990000001040/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",风云足球
+http://119.39.133.90:6610/001/2/ch00000090990000001041/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",广东卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001042/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",高尔夫
+http://119.39.133.90:6610/001/2/ch00000090990000001043/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",湖南国际
+http://119.39.133.90:6610/001/2/ch00000090990000001044/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",广西卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001045/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",贵州卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001046/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",湖北卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001047/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",黑龙江卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001048/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",湖南都市
+http://119.39.133.90:6610/001/2/ch00000090990000001049/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",湖南电视剧
+http://119.39.133.90:6610/001/2/ch00000090990000001050/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",湖南公共
+http://119.39.133.90:6610/001/2/ch00000090990000001051/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",湖南经视
+http://119.39.133.90:6610/001/2/ch00000090990000001052/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",湖南卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001053/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",IPTV经典电影
+http://119.39.133.90:6610/001/2/ch00000090990000001054/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",江苏卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001055/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",江西卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001056/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",金鹰纪实
+http://119.39.133.90:6610/001/2/ch00000090990000001057/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",金鹰卡通
+http://119.39.133.90:6610/001/2/ch00000090990000001058/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",卡酷少儿
+http://119.39.133.90:6610/001/2/ch00000090990000001059/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",快乐垂钓高清
+http://119.39.133.90:6610/001/2/ch00000090990000001060/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",辽宁卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001061/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",旅游卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001062/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",IPTV热播剧场
+http://119.39.133.90:6610/001/2/ch00000090990000001063/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",四川卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001064/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",山东卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001065/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",四海钓鱼
+http://119.39.133.90:6610/001/2/ch00000090990000001066/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",陕西卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001067/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",深圳卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001068/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",天津卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001069/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",潇湘电影
+http://119.39.133.90:6610/001/2/ch00000090990000001070/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",优漫卡通
+http://119.39.133.90:6610/001/2/ch00000090990000001071/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",云南卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001072/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",浙江卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001073/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-5+高清
+http://119.39.133.90:6610/001/2/ch00000090990000001074/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-1高清
+http://119.39.133.90:6610/001/2/ch00000090990000001075/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",浙江卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001076/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",北京卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001077/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",深圳卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001078/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",湖南卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001079/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",湖南经视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001080/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",东方卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001081/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",江苏卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001082/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",山东卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001083/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",黑龙江卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001084/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",湖南时尚购物
+http://119.39.133.90:6610/001/2/ch00000090990000001085/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果亲子育儿
+http://119.39.133.90:6610/001/2/ch00000090990000001086/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果铁血军事
+http://119.39.133.90:6610/001/2/ch00000090990000001087/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果热播综艺
+http://119.39.133.90:6610/001/2/ch00000090990000001088/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果TV独播
+http://119.39.133.90:6610/001/2/ch00000090990000001089/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果快乐购
+http://119.39.133.90:6610/001/2/ch00000090990000001090/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果好莱坞片场
+http://119.39.133.90:6610/001/2/ch00000090990000001091/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果古装偶像
+http://119.39.133.90:6610/001/2/ch00000090990000001092/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果韩国性感现场
+http://119.39.133.90:6610/001/2/ch00000090990000001093/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果宣传
+http://119.39.133.90:6610/001/2/ch00000090990000001094/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果宣传
+http://119.39.133.90:6610/001/2/ch00000090990000001095/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",芒果儿歌精选
+http://119.39.133.90:6610/001/2/ch00000090990000001096/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",DOX院线
+http://119.39.133.90:6610/001/2/ch00000090990000001100/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",DOX怡家
+http://119.39.133.90:6610/001/2/ch00000090990000001101/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",百姓健康
+http://119.39.133.90:6610/001/2/ch00000090990000001102/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",财富天下
+http://119.39.133.90:6610/001/2/ch00000090990000001103/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",长沙新闻
+http://119.39.133.90:6610/001/2/ch00000090990000001104/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",长沙女性
+http://119.39.133.90:6610/001/2/ch00000090990000001106/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",长沙政法
+http://119.39.133.90:6610/001/2/ch00000090990000001107/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",DOX英伦
+http://119.39.133.90:6610/001/2/ch00000090990000001108/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",甘肃卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001109/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",河北卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001110/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",河南卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001111/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",吉林卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001112/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",靓装频道
+http://119.39.133.90:6610/001/2/ch00000090990000001113/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",家庭理财
+http://119.39.133.90:6610/001/2/ch00000090990000001114/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",快乐宠物
+http://119.39.133.90:6610/001/2/ch00000090990000001115/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",快乐购
+http://119.39.133.90:6610/001/2/ch00000090990000001116/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",IPTV魅力时尚
+http://119.39.133.90:6610/001/2/ch00000090990000001117/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",南方卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001118/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",内蒙古卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001119/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",宁夏卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001120/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",青海卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001121/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",人物频道
+http://119.39.133.90:6610/001/2/ch00000090990000001122/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",山西卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001123/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",天元围棋
+http://119.39.133.90:6610/001/2/ch00000090990000001125/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",先锋乒羽
+http://119.39.133.90:6610/001/2/ch00000090990000001127/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",新疆卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001128/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",西藏卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001129/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",优优宝贝
+http://119.39.133.90:6610/001/2/ch00000090990000001131/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",美食天府
+http://119.39.133.90:6610/001/2/ch00000090990000001132/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",证券资讯
+http://119.39.133.90:6610/001/2/ch00000090990000001133/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",休闲指南
+http://119.39.133.90:6610/001/2/ch00000090990000001134/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",天津卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001135/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",DOX院线
+http://119.39.133.90:6610/001/2/ch00000090990000001148/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",DOX雅趣
+http://119.39.133.90:6610/001/2/ch00000090990000001151/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",经典电影
+http://119.39.133.90:6610/001/2/ch00000090990000001152/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",热播美剧
+http://119.39.133.90:6610/001/2/ch00000090990000001153/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",自然传奇
+http://119.39.133.90:6610/001/2/ch00000090990000001154/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",DOX新艺
+http://119.39.133.90:6610/001/2/ch00000090990000001155/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",游戏竞技
+http://119.39.133.90:6610/001/2/ch00000090990000001156/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-6高清
+http://119.39.133.90:6610/001/2/ch00000090990000001159/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-8高清
+http://119.39.133.90:6610/001/2/ch00000090990000001160/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-6高清
+http://119.39.133.90:6610/001/2/ch00000090990000001161/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-8高清
+http://119.39.133.90:6610/001/2/ch00000090990000001162/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:-1 group-title="【湖南联通】",CCTV-5高清
+http://119.39.133.90:6610/001/2/ch00000090990000001163/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+
+
 
 
 #EXTINF:-1 group-title="【日本盒子】",box1
