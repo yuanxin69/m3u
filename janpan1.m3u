@@ -1,167 +1,702 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="【湖南联通】",湖南娱乐
-http://119.39.133.90:6610/001/2/ch00000090990000001013/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-2
-http://119.39.133.90:6610/001/2/ch00000090990000001014/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-4
-http://119.39.133.90:6610/001/2/ch00000090990000001015/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-5高清
-http://119.39.133.90:6610/001/2/ch00000090990000001016/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-7
-http://119.39.133.90:6610/001/2/ch00000090990000001018/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-9
-http://119.39.133.90:6610/001/2/ch00000090990000001020/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-10
-http://119.39.133.90:6610/001/2/ch00000090990000001021/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-1
-http://119.39.133.90:6610/001/2/ch00000090990000001022/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-3高清
-http://119.39.133.90:6610/001/2/ch00000090990000001023/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",安徽卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001024/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",北京卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001025/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CGTN-DOC
-http://119.39.133.90:6610/001/2/ch00000090990000001026/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-11
-http://119.39.133.90:6610/001/2/ch00000090990000001027/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-12
-http://119.39.133.90:6610/001/2/ch00000090990000001028/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-13
-http://119.39.133.90:6610/001/2/ch00000090990000001029/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-14
-http://119.39.133.90:6610/001/2/ch00000090990000001030/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-15
-http://119.39.133.90:6610/001/2/ch00000090990000001031/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CGTN
-http://119.39.133.90:6610/001/2/ch00000090990000001032/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",重庆卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001033/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",长沙经贸
-http://119.39.133.90:6610/001/2/ch00000090990000001034/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",东方卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001036/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",东南卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001037/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",电子体育
-http://119.39.133.90:6610/001/2/ch00000090990000001038/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",预留频道
-http://119.39.133.90:6610/001/2/ch00000090990000001039/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果宣传
-http://119.39.133.90:6610/001/2/ch00000090990000001040/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",风云足球
-http://119.39.133.90:6610/001/2/ch00000090990000001041/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",广东卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001042/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",高尔夫
-http://119.39.133.90:6610/001/2/ch00000090990000001043/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",湖南国际
-http://119.39.133.90:6610/001/2/ch00000090990000001044/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",广西卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001045/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",贵州卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001046/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",湖北卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001047/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",黑龙江卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001048/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",湖南都市
-http://119.39.133.90:6610/001/2/ch00000090990000001049/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",湖南电视剧
-http://119.39.133.90:6610/001/2/ch00000090990000001050/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",湖南公共
-http://119.39.133.90:6610/001/2/ch00000090990000001051/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",湖南经视
-http://119.39.133.90:6610/001/2/ch00000090990000001052/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",湖南卫视高清
-http://119.39.133.90:6610/001/2/ch00000090990000001053/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",IPTV经典电影
-http://119.39.133.90:6610/001/2/ch00000090990000001054/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",江苏卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001055/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",江西卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001056/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",金鹰纪实
-http://119.39.133.90:6610/001/2/ch00000090990000001057/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",金鹰卡通
-http://119.39.133.90:6610/001/2/ch00000090990000001058/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",卡酷少儿
-http://119.39.133.90:6610/001/2/ch00000090990000001059/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",快乐垂钓高清
-http://119.39.133.90:6610/001/2/ch00000090990000001060/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",辽宁卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001061/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",旅游卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001062/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",IPTV热播剧场
-http://119.39.133.90:6610/001/2/ch00000090990000001063/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",四川卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001064/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",山东卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001065/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",四海钓鱼
-http://119.39.133.90:6610/001/2/ch00000090990000001066/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",陕西卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001067/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",深圳卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001068/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",天津卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001069/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",潇湘电影
-http://119.39.133.90:6610/001/2/ch00000090990000001070/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",优漫卡通
-http://119.39.133.90:6610/001/2/ch00000090990000001071/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",云南卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001072/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",浙江卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001073/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-5+高清
-http://119.39.133.90:6610/001/2/ch00000090990000001074/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-1高清
-http://119.39.133.90:6610/001/2/ch00000090990000001075/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",浙江卫视高清
-http://119.39.133.90:6610/001/2/ch00000090990000001076/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",北京卫视高清
-http://119.39.133.90:6610/001/2/ch00000090990000001077/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",深圳卫视高清
-http://119.39.133.90:6610/001/2/ch00000090990000001078/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",湖南卫视高清
-http://119.39.133.90:6610/001/2/ch00000090990000001079/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",湖南经视高清
-http://119.39.133.90:6610/001/2/ch00000090990000001080/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",东方卫视高清
-http://119.39.133.90:6610/001/2/ch00000090990000001081/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",江苏卫视高清
-http://119.39.133.90:6610/001/2/ch00000090990000001082/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",山东卫视高清
-http://119.39.133.90:6610/001/2/ch00000090990000001083/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",黑龙江卫视高清
-http://119.39.133.90:6610/001/2/ch00000090990000001084/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",湖南时尚购物
-http://119.39.133.90:6610/001/2/ch00000090990000001085/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果亲子育儿
-http://119.39.133.90:6610/001/2/ch00000090990000001086/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果铁血军事
-http://119.39.133.90:6610/001/2/ch00000090990000001087/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果热播综艺
-http://119.39.133.90:6610/001/2/ch00000090990000001088/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果TV独播
-http://119.39.133.90:6610/001/2/ch00000090990000001089/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果快乐购
-http://119.39.133.90:6610/001/2/ch00000090990000001090/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果好莱坞片场
-http://119.39.133.90:6610/001/2/ch00000090990000001091/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果古装偶像
-http://119.39.133.90:6610/001/2/ch00000090990000001092/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果韩国性感现场
-http://119.39.133.90:6610/001/2/ch00000090990000001093/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果宣传
-http://119.39.133.90:6610/001/2/ch00000090990000001094/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果宣传
-http://119.39.133.90:6610/001/2/ch00000090990000001095/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",芒果儿歌精选
-http://119.39.133.90:6610/001/2/ch00000090990000001096/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+
+#EXTINF:-1 group-title="【电信4K】",CCTV-1FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900119&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-5+FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900120&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-3FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900129&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-5FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900130&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-6FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900131&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-8FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900132&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",天津卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900133&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",山东卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900134&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",湖北卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900135&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",黑龙江卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900136&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-7FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900138&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-9FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900139&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-10FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900140&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-12FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900141&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",辽宁卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900143&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",电影频道FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900144&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",电视剧频道FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900145&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",高清综合FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900146&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",高清探索FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900147&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",极速汽车FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900148&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",都市剧场FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900149&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",欢笑剧场FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900150&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",生活时尚FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900151&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",全纪实FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900152&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",劲爆体育FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900153&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",魅力音乐FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900154&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",幸福彩FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900155&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",动漫秀场FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900156&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",游戏风云FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900157&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",求索记录FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900158&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",求索动物FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900159&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",求索生活FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900160&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",求索科学FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900161&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",新视觉FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900165&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CHC高清电影
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900121&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",北京卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900122&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",东方卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900123&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",湖南卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900124&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",江苏卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900125&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",浙江卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900126&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",广东卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900127&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",深圳卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900128&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-3FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900129&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-5FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900130&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-6FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900131&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-8FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900132&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",天津卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900133&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",山东卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900134&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",湖北卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900135&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",黑龙江卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900136&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-7FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900138&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-9FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900139&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-10FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900140&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-12FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900141&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",辽宁卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900143&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",电影频道FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900144&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",电视剧频道FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900145&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",高清综合FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900146&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",高清探索FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900147&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",极速汽车FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900148&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",都市剧场FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900149&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",欢笑剧场FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900150&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",生活时尚FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900151&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",全纪实FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900152&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",劲爆体育FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900153&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",魅力音乐FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900154&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",幸福彩FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900155&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",动漫秀场FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900156&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",游戏风云FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900157&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",求索记录FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900158&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",求索动物FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900159&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",求索生活FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900160&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",求索科学FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900161&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-1FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900190&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-2FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900191&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-3FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900192&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-4FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900193&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-5FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900194&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-6FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900195&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-7FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900196&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-8FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900197&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",四川卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900198&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-1FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900119&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-5+FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900120&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CHC高清电影
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900121&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",北京卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900122&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",东方卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900123&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",湖南卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900124&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",江苏卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900125&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",浙江卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900126&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",广东卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900127&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",深圳卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900128&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-1FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900190&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-2FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900191&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-3FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900192&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-4FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900193&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-5FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900194&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-6FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900195&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-7FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900196&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",DOX-8FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900197&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",四川卫视FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900198&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",新视觉FHD
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900165&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-1
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900001&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-2
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900002&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-3
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900003&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-4
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900004&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-5
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900005&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-6
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900006&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-7
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900007&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-8
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900008&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-9
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900009&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-10
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900010&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-11
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900011&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-12
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900012&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-13
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900013&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",家有购物
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900014&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-14
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900015&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏公共
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900016&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900017&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏经济
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900018&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏影视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900019&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏少儿
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900020&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",湖南卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900021&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",晴彩宁夏
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900022&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",银川公共
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900023&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏教育
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900026&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",江苏卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900027&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",浙江卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900028&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",山东卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900029&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",北京卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900030&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",东方卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900031&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",天津卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900032&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",重庆卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900033&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",安徽卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900034&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",甘肃卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900035&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",青海卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900036&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",环球购物
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900037&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",金鹰卡通
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900038&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",四川卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900039&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",云南卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900040&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",贵州卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900041&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",内蒙古卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900042&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",河北卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900043&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",山西卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900044&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",辽宁卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900045&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",吉林卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900046&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",黑龙江卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900047&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",河南卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900048&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",陕西卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900049&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",湖北卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900050&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",江西卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900051&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",东南卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900052&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",广东卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900053&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",广西卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900054&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",深圳卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900055&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",旅游卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900056&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",兵团卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900057&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CGTN
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900058&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CGTN阿拉伯
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900059&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-15
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900060&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CETV-1
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900061&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",新疆卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900062&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",西藏卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900063&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",中国气象频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900064&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV中学生
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900065&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CHC家庭影院
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900066&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV国防军事
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900067&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",靓妆频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900068&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",教育就业
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900069&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",四海钓鱼
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900070&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",车迷频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900071&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",家政频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900072&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",国学频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900073&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",环球旅游
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900074&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",新娱乐
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900075&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",武术世界
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900076&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",财富天下
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900077&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV发现之旅
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900078&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",英语辅导
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900079&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",快乐垂钓
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900080&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",天元围棋
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900081&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",摄影频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900082&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV怀旧剧场
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900083&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV风云音乐
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900084&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV风云剧场
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900085&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV新科动漫
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900087&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",快乐宠物
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900088&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV风云足球
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900089&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",书画频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900090&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV老故事
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900091&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",环球奇观
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900093&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV第一剧场
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900094&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV文化精品
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900095&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV女性时尚
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900096&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CETV早期教育
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900097&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",梨园频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900098&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",老年福
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900099&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CHC动作电影
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900100&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",先锋乒羽
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900101&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",中华美食
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900102&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",网络棋牌
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900103&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",新动漫
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900104&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",篮球频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900105&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",澳亚卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900106&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",凤凰中文
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900107&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",TVB8
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900109&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",凤凰资讯
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900110&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",StarMovies
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900111&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",凤凰电影
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900112&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",Channel[V]
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900113&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",国家地理
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900114&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HBO
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900115&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",天映频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900116&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT亚洲影院
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900162&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT欧美影院
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900163&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT精品剧场
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900164&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT风尚音乐
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900166&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT少儿动漫
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900167&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",3D试验频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900168&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT高清娱乐
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900169&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT探索记录
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900170&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",外星频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900171&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",优漫卡通
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900172&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",游戏竞技
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900173&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",家有购物
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900174&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-1
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900001&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-2
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900002&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-3
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900003&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-4
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900004&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-5
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900005&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-6
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900006&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-7
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900007&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-8
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900008&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-9
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900009&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-10
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900010&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-11
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900011&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-12
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900012&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-13
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900013&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",家有购物
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900014&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-14
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900015&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏公共
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900016&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900017&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏经济
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900018&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏影视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900019&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏少儿
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900020&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",湖南卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900021&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",晴彩宁夏
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900022&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",银川公共
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900023&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",宁夏教育
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900026&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",江苏卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900027&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",浙江卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900028&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",山东卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900029&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",北京卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900030&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",东方卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900031&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",天津卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900032&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",重庆卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900033&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",安徽卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900034&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",甘肃卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900035&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",青海卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900036&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",环球购物
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900037&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",金鹰卡通
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900038&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",四川卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900039&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",云南卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900040&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",贵州卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900041&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",内蒙古卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900042&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",河北卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900043&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",山西卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900044&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",辽宁卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900045&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",吉林卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900046&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",黑龙江卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900047&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",河南卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900048&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",陕西卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900049&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",湖北卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900050&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",江西卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900051&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",东南卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900052&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",广东卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900053&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",广西卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900054&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",深圳卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900055&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",旅游卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900056&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",兵团卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900057&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CGTN
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900058&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CGTN阿拉伯
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900059&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV-15
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900060&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CETV-1
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900061&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",新疆卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900062&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",西藏卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900063&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",中国气象频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900064&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV中学生
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900065&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CHC家庭影院
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900066&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV国防军事
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900067&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",靓妆频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900068&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",教育就业
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900069&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",四海钓鱼
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900070&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",车迷频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900071&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",家政频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900072&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",国学频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900073&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",环球旅游
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900074&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",新娱乐
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900075&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",武术世界
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900076&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",财富天下
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900077&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV发现之旅
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900078&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",英语辅导
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900079&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",快乐垂钓
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900080&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",天元围棋
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900081&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",摄影频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900082&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV怀旧剧场
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900083&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV风云音乐
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900084&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV风云剧场
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900085&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV新科动漫
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900087&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",快乐宠物
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900088&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV风云足球
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900089&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",书画频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900090&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV老故事
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900091&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",环球奇观
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900093&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV第一剧场
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900094&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV文化精品
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900095&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CCTV女性时尚
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900096&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CETV早期教育
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900097&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",梨园频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900098&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",老年福
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900099&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",CHC动作电影
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900100&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",先锋乒羽
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900101&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",中华美食
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900102&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",网络棋牌
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900103&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",新动漫
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900104&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",篮球频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900105&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",澳亚卫视
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900106&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",凤凰中文
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900107&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",TVB8
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900109&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",凤凰资讯
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900110&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",StarMovies
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900111&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",凤凰电影
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900112&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",Channel[V]
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900113&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",国家地理
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900114&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HBO
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900115&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",天映频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900116&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT亚洲影院
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900162&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT欧美影院
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900163&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT精品剧场
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900164&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT风尚音乐
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900166&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT少儿动漫
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900167&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",3D试验频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900168&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT高清娱乐
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900169&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",HOT探索记录
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900170&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",外星频道
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900171&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",优漫卡通
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900172&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",游戏竞技
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900173&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:-1 group-title="【电信4K】",家有购物
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900174&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
 #EXTINF:-1 group-title="【湖南联通】",DOX院线
 http://119.39.133.90:6610/001/2/ch00000090990000001100/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:-1 group-title="【湖南联通】",DOX怡家
@@ -178,54 +713,6 @@ http://119.39.133.90:6610/001/2/ch00000090990000001106/index.m3u8?IASHttpSession
 http://119.39.133.90:6610/001/2/ch00000090990000001107/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:-1 group-title="【湖南联通】",DOX英伦
 http://119.39.133.90:6610/001/2/ch00000090990000001108/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",甘肃卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001109/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",河北卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001110/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",河南卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001111/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",吉林卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001112/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",靓装频道
-http://119.39.133.90:6610/001/2/ch00000090990000001113/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",家庭理财
-http://119.39.133.90:6610/001/2/ch00000090990000001114/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",快乐宠物
-http://119.39.133.90:6610/001/2/ch00000090990000001115/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",快乐购
-http://119.39.133.90:6610/001/2/ch00000090990000001116/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",IPTV魅力时尚
-http://119.39.133.90:6610/001/2/ch00000090990000001117/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",南方卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001118/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",内蒙古卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001119/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",宁夏卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001120/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",青海卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001121/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",人物频道
-http://119.39.133.90:6610/001/2/ch00000090990000001122/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",山西卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001123/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",天元围棋
-http://119.39.133.90:6610/001/2/ch00000090990000001125/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",先锋乒羽
-http://119.39.133.90:6610/001/2/ch00000090990000001127/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",新疆卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001128/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",西藏卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001129/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",优优宝贝
-http://119.39.133.90:6610/001/2/ch00000090990000001131/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",美食天府
-http://119.39.133.90:6610/001/2/ch00000090990000001132/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",证券资讯
-http://119.39.133.90:6610/001/2/ch00000090990000001133/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",休闲指南
-http://119.39.133.90:6610/001/2/ch00000090990000001134/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",天津卫视高清
-http://119.39.133.90:6610/001/2/ch00000090990000001135/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:-1 group-title="【湖南联通】",DOX院线
 http://119.39.133.90:6610/001/2/ch00000090990000001148/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:-1 group-title="【湖南联通】",DOX雅趣
@@ -238,19 +725,6 @@ http://119.39.133.90:6610/001/2/ch00000090990000001153/index.m3u8?IASHttpSession
 http://119.39.133.90:6610/001/2/ch00000090990000001154/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:-1 group-title="【湖南联通】",DOX新艺
 http://119.39.133.90:6610/001/2/ch00000090990000001155/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",游戏竞技
-http://119.39.133.90:6610/001/2/ch00000090990000001156/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-6高清
-http://119.39.133.90:6610/001/2/ch00000090990000001159/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-8高清
-http://119.39.133.90:6610/001/2/ch00000090990000001160/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-6高清
-http://119.39.133.90:6610/001/2/ch00000090990000001161/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-8高清
-http://119.39.133.90:6610/001/2/ch00000090990000001162/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:-1 group-title="【湖南联通】",CCTV-5高清
-http://119.39.133.90:6610/001/2/ch00000090990000001163/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-
 
 
 
@@ -414,6 +888,207 @@ rtmp://wv4.tp33.net/sat/us101
 rtmp://wv4.tp33.net/sat/us121
 #EXTINF:-1 group-title="【rtmp】",美NBC-UNIVERSO影劇
 rtmp://wv4.tp33.net/sat/us151
+
+
+
+#EXTINF:-1 group-title="【台湾XTV】",TVBS HD
+http://104.160.190.80:8866/nimble_live/1731122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",TVBS欢乐台
+http://104.160.190.80:8866/nimble_live/1721122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",三立台湾台
+http://104.160.190.80:8866/nimble_live/521122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",三立新闻台
+http://104.160.190.80:8866/nimble_live/1951122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",三立综合台
+http://104.160.190.80:8866/nimble_live/2281122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",三立都会台
+http://104.160.190.80:8866/nimble_live/18911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",中天新闻台
+http://104.160.190.80:8866/nimble_live/1931122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",中天综合台
+http://104.160.190.80:8866/nimble_live/2131122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",中视
+http://104.160.190.80:8866/nimble_live/1761122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",中视新闻台
+http://104.160.190.80:8866/nimble_live/7911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",中视经典台
+http://104.160.190.80:8866/nimble_live/1831122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",亚洲旅游台
+http://104.160.190.80:8866/nimble_live/2331122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",亚洲美食频道
+http://104.160.190.80:8866/nimble_live/8411/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",八大娱乐台
+http://104.160.190.80:8866/nimble_live/1881122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",公视3
+http://104.160.190.80:8866/nimble_live/1781122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",动物星球频道
+http://104.160.190.80:8866/nimble_live/1971122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",博斯无限台
+http://104.160.190.80:8866/nimble_live/20211/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",博斯网球台
+http://104.160.190.80:8866/nimble_live/20111/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",博斯运动二台
+http://104.160.190.80:8866/nimble_live/2461122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",博斯高球二台
+http://104.160.190.80:8866/nimble_live/8911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",台视
+http://104.160.190.80:8866/nimble_live/1751122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",台视新闻台
+http://104.160.190.80:8866/nimble_live/561122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",国家地理悠人频道
+http://104.160.190.80:8866/nimble_live/2231122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",国家地理野生频道
+http://104.160.190.80:8866/nimble_live/2241122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",国家地理频道
+http://104.160.190.80:8866/nimble_live/2071122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",壹综合
+http://104.160.190.80:8866/nimble_live/2181122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",大爱
+http://104.160.190.80:8866/nimble_live/8011/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",寰宇新闻台
+http://104.160.190.80:8866/nimble_live/11911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",寰宇财经台
+http://104.160.190.80:8866/nimble_live/11711/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",年代新闻台
+http://104.160.190.80:8866/nimble_live/601122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",探索科学频道
+http://104.160.190.80:8866/nimble_live/2221122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",探索频道
+http://104.160.190.80:8866/nimble_live/821122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",日舞电影台
+http://104.160.190.80:8866/nimble_live/1131122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",星卫娱乐台
+http://104.160.190.80:8866/nimble_live/1071122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",星卫电影台
+http://104.160.190.80:8866/nimble_live/2171122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",曼迪日本台
+http://104.160.190.80:8866/nimble_live/10511/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",东森幼幼台
+http://104.160.190.80:8866/nimble_live/511122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",东森新闻台
+http://104.160.190.80:8866/nimble_live/491122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",东森财经新闻台
+http://104.160.190.80:8866/nimble_live/481122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",历史频道
+http://104.160.190.80:8866/nimble_live/1161122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",民视
+http://104.160.190.80:8866/nimble_live/1801122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",民视台湾台
+http://104.160.190.80:8866/nimble_live/1771122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",民视新闻台
+http://104.160.190.80:8866/nimble_live/1821122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",纬来体育台
+http://104.160.190.80:8866/nimble_live/531122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",美亚电影台
+http://104.160.190.80:8866/nimble_live/2291122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",美国高尔夫频道
+http://104.160.190.80:8866/nimble_live/17011/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",美食星球频道
+http://104.160.190.80:8866/nimble_live/2351122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",华视
+http://104.160.190.80:8866/nimble_live/1741122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",华视教育文化
+http://104.160.190.80:8866/nimble_live/17911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",卫视中文台
+http://104.160.190.80:8866/nimble_live/1901122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",卫视西片台
+http://104.160.190.80:8866/nimble_live/1921122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",卫视电影台
+http://104.160.190.80:8866/nimble_live/1941122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天卡通台
+http://104.160.190.80:8866/nimble_live/22511/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天国际台
+http://104.160.190.80:8866/nimble_live/1081122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天日本台
+http://104.160.190.80:8866/nimble_live/2321122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天映画台
+http://104.160.190.80:8866/nimble_live/9911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天育乐台
+http://104.160.190.80:8866/nimble_live/1141122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天电影台
+http://104.160.190.80:8866/nimble_live/9811/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖洋戏剧台
+http://104.160.190.80:8866/nimble_live/2381122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",非凡新闻台
+http://104.160.190.80:8866/nimble_live/1991122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",鸿基台湾台
+http://104.160.190.80:8866/nimble_live/7811/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",鸿基戏剧台
+http://104.160.190.80:8866/nimble_live/7711/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",龙华偶像台
+http://104.160.190.80:8866/nimble_live/2361122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",龙华动画台
+http://104.160.190.80:8866/nimble_live/2311122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",龙华戏剧台
+http://104.160.190.80:8866/nimble_live/2371122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",龙华洋片台
+http://104.160.190.80:8866/nimble_live/2341122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",ELTA戏剧台
+http://104.160.190.80:8866/nimble_live/8811/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",ELTA综合台
+http://104.160.190.80:8866/nimble_live/9211/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",ELTA育乐台
+http://104.160.190.80:8866/nimble_live/911122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",ELTA体育台
+http://104.160.190.80:8866/nimble_live/2421122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",ASN
+http://104.160.190.80:8866/nimble_live/7311/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",BabyTV
+http://104.160.190.80:8866/nimble_live/10111/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",BabyATV
+http://104.160.190.80:8866/nimble_live/2261122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",BBC earth
+http://104.160.190.80:8866/nimble_live/1101122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",BBC lifestyle
+http://104.160.190.80:8866/nimble_live/1111122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",BBC
+http://104.160.190.80:8866/nimble_live/5411/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Catchplay电影台
+http://104.160.190.80:8866/nimble_live/851122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",CNBC
+http://104.160.190.80:8866/nimble_live/21911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",CinemaWorld
+http://104.160.190.80:8866/nimble_live/7511/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Cinemax
+http://104.160.190.80:8866/nimble_live/1841122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",CNN
+http://104.160.190.80:8866/nimble_live/7611/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",DIVA
+http://104.160.190.80:8866/nimble_live/1001122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",DMAX
+http://104.160.190.80:8866/nimble_live/2211122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",E! Entertainment
+http://104.160.190.80:8866/nimble_live/7411/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",EVE
+http://104.160.190.80:8866/nimble_live/2151122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Fashion TV
+http://104.160.190.80:8866/nimble_live/8311/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",FOX Crime
+http://104.160.190.80:8866/nimble_live/2041122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",FOX Family
+http://104.160.190.80:8866/nimble_live/2031122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",FOX HD
+http://104.160.190.80:8866/nimble_live/2051122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",fyi
+http://104.160.190.80:8866/nimble_live/1061122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",HBO Family
+http://104.160.190.80:8866/nimble_live/1871122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",HBO Hits
+http://104.160.190.80:8866/nimble_live/1851122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",HBO Signature
+http://104.160.190.80:8866/nimble_live/1861122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",LUXE TV
+http://104.160.190.80:8866/nimble_live/10411/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",NHK
+http://104.160.190.80:8866/nimble_live/19811/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Smart TV
+http://104.160.190.80:8866/nimble_live/10911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Star Movies HD
+http://104.160.190.80:8866/nimble_live/2451122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",StarWorld
+http://104.160.190.80:8866/nimble_live/1911122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Travel Channel
+http://104.160.190.80:8866/nimble_live/2101122/playlist.m3u8
 
 
 
@@ -1096,188 +1771,206 @@ http://liveal.quanmin.tv/live/2134428978_quanmin720.m3u8
 
 
 
-#EXTINF:0 tvg-logo="dongnanweishi.png",group-title="【卫视1080P】",东南卫视
-http://27.148.240.208/PLTV/88888888/224/3221226160/1.m3u8
-#EXTINF:0 tvg-logo="haixiaweishi.png",group-title="【卫视1080P】",海峡卫视
-http://27.148.240.208/PLTV/88888888/224/3221226145/1.m3u8
-#EXTINF:0 tvg-logo="qiaoxiangpingdao.png",group-title="【卫视1080P】",侨乡频道
-http://stream.jinjiang.tv/1/sd/live.m3u8
-#EXTINF:0 tvg-logo="shishizonghe.png",group-title="【卫视1080P】",石狮综合
-http://218.5.112.180:88/live/dssl/chunklist_w1615464711.m3u8
-#EXTINF:0 tvg-logo="lvyouweishi.png",group-title="【卫视1080P】",旅游卫视
-http://stream1.hnntv.cn/lywsgq/sd/live.m3u8
-#EXTINF:0 tvg-logo="hongxinweishi.png",group-title="【卫视1080P】",红星卫视
-http://14.17.78.96/live/hls/201702203000000ro99/desc.m3u8
-#EXTINF:0 tvg-logo="heilongjiangweishi.png",group-title="【卫视1080P】",黑龙江卫视
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900136&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="kankannew.png",group-title="【卫视1080P】",看看新闻
-http://27.148.240.208/PLTV/88888888/224/3221226168/1.m3u8
-#EXTINF:0 tvg-logo="chc1hd.png",group-title="【广电vip频道】",CHC高清
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900121&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="chcdongzuo.png",group-title="【广电vip频道】",CHC动作
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900202&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="chcjiating.png",group-title="【广电vip频道】",CHC家庭
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900201&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingyingyuan",group-title="【广电vip频道】",高清影院
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900144&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingjuchang.png",group-title="【广电vip频道】",高清剧集
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900145&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingtansuo.png",group-title="【广电vip频道】",高清探索
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900147&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【广电vip频道】",高清综艺
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900146&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingyingyuan.png",group-title="【广电vip频道】",DOX映画
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900190&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingyingyuan.png",group-title="【广电vip频道】",DOX院线
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900196&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingjuchang.png",group-title="【广电vip频道】",DOX剧场
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900191&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingtansuo.png",group-title="【广电vip频道】",DOX新知
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900192&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingtansuo.png",group-title="【广电vip频道】",DOX新艺
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900193&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingjuchang.png",group-title="【广电vip频道】",DOX怡家
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900194&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingjuchang.png",group-title="【广电vip频道】",DOX英伦
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900195&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【广电vip频道】",DOX韩流
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900197&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingyingyuan.png",group-title="【广电vip频道】",HOT亚洲影院
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900162&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingyingyuan.png",group-title="【广电vip频道】",HOT欧美影院
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900163&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingjuchang.png",group-title="【广电vip频道】",HOT精品剧场
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900164&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【广电vip频道】",HOT风尚音乐
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900166&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingjuchang.png",group-title="【广电vip频道】",HOT少儿动漫
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900167&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【广电vip频道】",HOT高清娱乐
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900169&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingtansuo.png",group-title="【广电vip频道】",HOT探索记录
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900170&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="gaoqingyingyuan.png",group-title="【广电vip频道】",Newtv动作电影
-http://111.13.42.8/PLTV/88888888/224/3221225915/index.m3u8
-#EXTINF:0 tvg-logo="gaoqingyingyuan.png",group-title="【广电vip频道】",Newtv精品电影
-http://111.13.42.8/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:0 tvg-logo="gaoqingyingyuan.png",group-title="【广电vip频道】",Newtv明星大片
-http://111.13.42.8/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0 tvg-logo="gaoqingyingyuan.png",group-title="【广电vip频道】",Newtv惊悚悬疑
-http://111.13.42.8/PLTV/88888888/224/3221225921/index.m3u8
-#EXTINF:0 tvg-logo="gaoqingjuchang.png",group-title="【广电vip频道】",Newtv家庭剧场
-http://111.13.42.8/PLTV/88888888/224/3221225918/index.m3u8
-#EXTINF:0 tvg-logo="gaoqingjuchang.png",group-title="【广电vip频道】",Newtv精品大剧
-http://111.13.42.8/PLTV/88888888/224/3221225925/index.m3u8
-#EXTINF:0 tvg-logo="gaoqingjuchang.png",group-title="【广电vip频道】",Newtv动画王国
-http://111.13.42.8/PLTV/88888888/224/3221225914/index.m3u8
-#EXTINF:0 tvg-logo="gaoqingtansuo.png",group-title="【广电vip频道】",Newtv精品纪实
-http://111.13.42.8/PLTV/88888888/224/3221225924/index.m3u8
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【广电vip频道】",Newtv金牌综艺
-http://111.13.42.8/PLTV/88888888/224/3221225920/index.m3u8
-#EXTINF:0 tvg-logo="gaoqingzonghe.png",group-title="【广电vip频道】",Newtv精品体育
-http://111.13.42.8/PLTV/88888888/224/3221225922/index.m3u8
-#EXTINF:0 tvg-logo="dazhongyingshi.png",group-title="【广电vip频道】",大众影视
-http://59.46.32.167:8114/LNTVOTT/00000000000000020000000001601322?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="jiatingyingyuan.png",group-title="【广电vip频道】",家庭影院
-http://59.46.32.167:8114/LNTVOTT/00000000000000020000000001601324?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="katongpingdao.png",group-title="【广电vip频道】",卡通剧场
-http://59.46.32.167:8114/LNTVOTT/00000000000000020000000001601325?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="jiatingjuchang.png",group-title="【广电vip频道】",家庭剧场
-http://59.46.32.167:8114/LNTVOTT/00000000000000020000000001601326?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="qiusuojilu.png",group-title="【广电vip频道】",求索纪录
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900158&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="qiusuodongwu.png",group-title="【广电vip频道】",求索动物
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900159&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="qiusuoshenghuo.png",group-title="【广电vip频道】",求索生活
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900160&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="qiusuokexue.png",group-title="【广电vip频道】",求索科学
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900161&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="jishipindao.png",group-title="【广电vip频道】",全纪实
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900152&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8#http://27.148.240.208/PLTV/88888888/224/3221226096/1.m3u8
-#EXTINF:0 tvg-logo="huanxiaojuchang.png",group-title="【广电vip频道】",欢笑剧场
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900150&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8#http://27.148.240.208/PLTV/88888888/224/3221226095/1.m3u8
-#EXTINF:0 tvg-logo="dushijuchang.png",group-title="【广电vip频道】",都市剧场
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900149&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8#http://27.148.240.208/PLTV/88888888/224/3221226098/1.m3u8
-#EXTINF:0 tvg-logo="dongmanxiuchang.png",group-title="【广电vip频道】",动漫秀场
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900156&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8#http://27.148.240.208/PLTV/88888888/224/3221226097/1.m3u8
-#EXTINF:0 tvg-logo="jisuqiche.png",group-title="【广电vip频道】",极速汽车
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900148&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8#http://27.148.240.208/PLTV/88888888/224/3221226109/1.m3u8
-#EXTINF:0 tvg-logo="shenghuoshishang.png",group-title="【广电vip频道】",生活时尚
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900151&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8#http://27.148.240.208/PLTV/88888888/224/3221226091/1.m3u8
-#EXTINF:0 tvg-logo="meiliyingyue.png",group-title="【广电vip频道】",魅力音乐
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900154&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8#http://27.148.240.208/PLTV/88888888/224/3221226093/1.m3u8
-#EXTINF:0 tvg-logo="youxifengyun.png",group-title="【广电vip频道】",游戏风云
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900157&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8#http://27.148.240.208/PLTV/88888888/224/3221226094/1.m3u8
-#EXTINF:0 tvg-logo="xingfucai.png",group-title="【广电vip频道】",幸福彩
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900155&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="wuxingtiyu.png",group-title="【广电vip频道】",五星体育
-http://tvplus.stream.lingnantv.com/hls/15161700/ssty/4.m3u8
-#EXTINF:0 tvg-logo="jingbaotiyu.png",group-title="【广电vip频道】",劲爆体育
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900153&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8#http://27.148.240.208/PLTV/88888888/224/3221226092/1.m3u8
-#EXTINF:0 tvg-logo="xinshijue.png",group-title="【广电vip频道】",新视觉
-http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R5930BF1FU3076B063K775266D0IE34A8E7AM30EB744W552439&programid=4200900165&playtype=live&auth=no&playtoken=31625AAAAAALZTA1?&.m3u8
-#EXTINF:0 tvg-logo="xiongmaoyingyuan.png",group-title="【广电vip频道】",熊猫影院
-http://182.132.211.57/PLTV/88888893/224/3221226766/10000100000000060000000001098398_0.smil
-#EXTINF:0 tvg-logo="xiongmaoyingyuan.png",group-title="【广电vip频道】",四川网络广播电视
-http://220.167.81.55/PLTV/88888893/224/3221227161/10000100000000060000000001098399_0.smil
-#EXTINF:0 tvg-logo="sichuanwenlv.png",group-title="【广电vip频道】",四川文化
-http://220.167.81.61/PLTV/88888896/224/3221227905/10000100000000060000000003706211_0.smil
-#EXTINF:0 tvg-logo="sichuanjingji1.png",group-title="【广电vip频道】",四川经济
-http://220.167.81.61/PLTV/88888896/224/3221227904/10000100000000060000000003706213_0.smil
-#EXTINF:0 tvg-logo="sichuanyingshi.png",group-title="【广电vip频道】",四川影视
-http://220.167.81.61/PLTV/88888896/224/3221227947/10000100000000060000000003734394_0.smil
-#EXTINF:0 tvg-logo="chengduxinwen.png",group-title="【广电vip频道】",成都新闻
-http://220.167.81.61/PLTV/88888895/224/3221227389/10000100000000060000000002835314_0.smil
-#EXTINF:0 tvg-logo="dongfangdianying1.png",group-title="【广电vip频道】",东方电影
-http://221.181.100.117:8088/wd_r2/ocn/dongfangdianyinghd/1200/01.m3u8
-#EXTINF:0 tvg-logo="huaerhd.png",group-title="【广电vip频道】",花儿高清电影
-http://220.167.81.55/PLTV/88888888/224/3221226162/10000100000000060000000000119130_0.smil
-#EXTINF:0 tvg-logo="sichuandianying.png",group-title="【广电vip频道】",峨眉电影
-http://182.128.24.170/PLTV/88888896/224/3221227951/10000100000000060000000003709052_0.smil
-#EXTINF:0 tvg-logo="jingpingjuchang.png",group-title="【广电vip频道】",精品剧场
-http://115.238.157.171/http_hd/JPJC/list.m3u8
-#EXTINF:0 tvg-logo="tansuojilu.png",group-title="【广电vip频道】",探索纪录
-http://115.238.157.171/http_hd/TSJS/list.m3u8
-#EXTINF:0 tvg-logo="yazhouyingyuan.png",group-title="【广电vip频道】",亚洲影院
-http://115.238.157.171/http_hd/YZYY/list.m3u8
-#EXTINF:0 tvg-logo="oumeiyingyuana.png",group-title="【广电vip频道】",欧美影院
-http://115.238.157.171/http_hd/OMYY/list.m3u8
-#EXTINF:0 tvg-logo="shaoerdongman.png",group-title="【广电vip频道】",少儿动漫
-http://115.238.157.171/http_hd/SEDM/list.m3u8
-#EXTINF:0 tvg-logo="guangdongtiyu1.png",group-title="【广电vip频道】",广东体育
-http://183.59.185.72:30001/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil
-#EXTINF:0 tvg-logo="guangdongkejiao.png",group-title="【广电vip频道】",广东科教
-http://183.59.185.74:30001/PLTV/88888905/224/3221227238/10000100000000060000000000987130_0.smil
-#EXTINF:0 tvg-logo="dongnanweishi.png",group-title="【广电vip频道】",福建体育
-http://27.148.240.208/PLTV/88888888/224/3221226146/1.m3u8
-#EXTINF:0 tvg-logo="shanghaixinwen.png",group-title="【广电vip频道】",上海新闻
-http://bililive.kksmg.com/hls/stvd6edb9a6_45b34047833af658bf4945a8/playlist.m3u8
-#EXTINF:0 tvg-logo="dongfangyule.png",group-title="【广电vip频道】",东方娱乐
-http://vod.cache.cmvideo.cn:8088/wd_r4/dfl/yulehd/1200/01.m3u8?msisdn=0446569566552&mdspid=&spid=699001&netType=1&sid=5500002265&pid=2028597139&timestamp=20170316102252&SecurityKey=20170316102252&Channel_ID=1004_10010001005&ProgramID=617289988&ParentNodeID=-99&assertID=5500002265&mtv_session=2c11f47b1c7e2cd6ada992760f0d93f5&HlsSubType=1&HlsProfileId=1&encrypt=8fc162aca8d4b9bd244f72b13afd47ae
-#EXTINF:0 tvg-logo="shanghaiics.png",group-title="【广电vip频道】",上海ICS
-http://tvplus.stream.lingnantv.com/hls/15161700/wypdhd/4.m3u8
-#EXTINF:0 tvg-logo="diyicaijing.png",group-title="【广电vip频道】",第一财经
-http://tvplus.stream.lingnantv.com/hls/15161700/dycjhd/4.m3u8
-#EXTINF:0 tvg-logo="shanghaijilu.png",group-title="【广电vip频道】",上海纪实
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&accesstoken=R588075DCU36494B25KB2D1DDADM36D6F2FW556517&programid=4200000109&playtoken=31604AAZZAEAPZZ1&auth=no
-#EXTINF:0 tvg-logo="beijingjishi.png",group-title="【广电vip频道】",北京纪实
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:0 tvg-logo="beijingwenyia.png",group-title="【广电vip频道】",北京文艺
-http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:0 tvg-logo="beijingtiyua.png",group-title="【广电vip频道】",北京体育
-http://ivi.bupt.edu.cn/hls/btv6hd.m3u8
-#EXTINF:0 tvg-logo="jingyingjishi.png",group-title="【广电vip频道】",金鹰纪实
-http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58466B04U387E6625K7735CA24M2FF85C5W3078869&verifycode=2000000610&playtoken=ABCDEFGH&programid=4200000134
-#EXTINF:0 tvg-logo="kuailechuidiao.png",group-title="【广电vip频道】",快乐垂钓
-http://119.39.133.90:6610/001/2/ch00000090990000001060/index.m3u8?IASHttpSessionId=OTT1644820170331030353030676&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
-#EXTINF:0 tvg-logo="xijudianyinga.png",group-title="【广电vip频道】",喜剧影院
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
-#EXTINF:0 tvg-logo="dongzuodianyinga.png",group-title="【广电vip频道】",动作影院
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8
-#EXTINF:0 tvg-logo="jiatingyingyuana.png",group-title="【广电vip频道】",家庭电影
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
-#EXTINF:0 tvg-logo="chaojitiyua.png",group-title="【亚洲旅游】",NBA体育赛事
-http://ms001.happytv.com.tw/live/wzz74x5EebgR6NyH/index.m3u8
+
+#EXTINF:-1 group-title="【台湾XTV】",TVBS HD
+http://104.160.190.80:8866/nimble_live/1731122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",TVBS欢乐台
+http://104.160.190.80:8866/nimble_live/1721122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",三立台湾台
+http://104.160.190.80:8866/nimble_live/521122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",三立新闻台
+http://104.160.190.80:8866/nimble_live/1951122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",三立综合台
+http://104.160.190.80:8866/nimble_live/2281122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",三立都会台
+http://104.160.190.80:8866/nimble_live/18911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",中天新闻台
+http://104.160.190.80:8866/nimble_live/1931122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",中天综合台
+http://104.160.190.80:8866/nimble_live/2131122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",中视
+http://104.160.190.80:8866/nimble_live/1761122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",中视新闻台
+http://104.160.190.80:8866/nimble_live/7911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",中视经典台
+http://104.160.190.80:8866/nimble_live/1831122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",亚洲旅游台
+http://104.160.190.80:8866/nimble_live/2331122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",亚洲美食频道
+http://104.160.190.80:8866/nimble_live/8411/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",八大娱乐台
+http://104.160.190.80:8866/nimble_live/1881122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",公视3
+http://104.160.190.80:8866/nimble_live/1781122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",动物星球频道
+http://104.160.190.80:8866/nimble_live/1971122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",博斯无限台
+http://104.160.190.80:8866/nimble_live/20211/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",博斯网球台
+http://104.160.190.80:8866/nimble_live/20111/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",博斯运动二台
+http://104.160.190.80:8866/nimble_live/2461122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",博斯高球二台
+http://104.160.190.80:8866/nimble_live/8911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",台视
+http://104.160.190.80:8866/nimble_live/1751122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",台视新闻台
+http://104.160.190.80:8866/nimble_live/561122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",国家地理悠人频道
+http://104.160.190.80:8866/nimble_live/2231122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",国家地理野生频道
+http://104.160.190.80:8866/nimble_live/2241122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",国家地理频道
+http://104.160.190.80:8866/nimble_live/2071122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",壹综合
+http://104.160.190.80:8866/nimble_live/2181122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",大爱
+http://104.160.190.80:8866/nimble_live/8011/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",寰宇新闻台
+http://104.160.190.80:8866/nimble_live/11911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",寰宇财经台
+http://104.160.190.80:8866/nimble_live/11711/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",年代新闻台
+http://104.160.190.80:8866/nimble_live/601122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",探索科学频道
+http://104.160.190.80:8866/nimble_live/2221122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",探索频道
+http://104.160.190.80:8866/nimble_live/821122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",日舞电影台
+http://104.160.190.80:8866/nimble_live/1131122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",星卫娱乐台
+http://104.160.190.80:8866/nimble_live/1071122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",星卫电影台
+http://104.160.190.80:8866/nimble_live/2171122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",曼迪日本台
+http://104.160.190.80:8866/nimble_live/10511/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",东森幼幼台
+http://104.160.190.80:8866/nimble_live/511122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",东森新闻台
+http://104.160.190.80:8866/nimble_live/491122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",东森财经新闻台
+http://104.160.190.80:8866/nimble_live/481122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",历史频道
+http://104.160.190.80:8866/nimble_live/1161122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",民视
+http://104.160.190.80:8866/nimble_live/1801122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",民视台湾台
+http://104.160.190.80:8866/nimble_live/1771122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",民视新闻台
+http://104.160.190.80:8866/nimble_live/1821122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",纬来体育台
+http://104.160.190.80:8866/nimble_live/531122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",美亚电影台
+http://104.160.190.80:8866/nimble_live/2291122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",美国高尔夫频道
+http://104.160.190.80:8866/nimble_live/17011/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",美食星球频道
+http://104.160.190.80:8866/nimble_live/2351122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",华视
+http://104.160.190.80:8866/nimble_live/1741122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",华视教育文化
+http://104.160.190.80:8866/nimble_live/17911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",卫视中文台
+http://104.160.190.80:8866/nimble_live/1901122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",卫视西片台
+http://104.160.190.80:8866/nimble_live/1921122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",卫视电影台
+http://104.160.190.80:8866/nimble_live/1941122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天卡通台
+http://104.160.190.80:8866/nimble_live/22511/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天国际台
+http://104.160.190.80:8866/nimble_live/1081122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天日本台
+http://104.160.190.80:8866/nimble_live/2321122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天映画台
+http://104.160.190.80:8866/nimble_live/9911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天育乐台
+http://104.160.190.80:8866/nimble_live/1141122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖天电影台
+http://104.160.190.80:8866/nimble_live/9811/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",靖洋戏剧台
+http://104.160.190.80:8866/nimble_live/2381122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",非凡新闻台
+http://104.160.190.80:8866/nimble_live/1991122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",鸿基台湾台
+http://104.160.190.80:8866/nimble_live/7811/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",鸿基戏剧台
+http://104.160.190.80:8866/nimble_live/7711/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",龙华偶像台
+http://104.160.190.80:8866/nimble_live/2361122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",龙华动画台
+http://104.160.190.80:8866/nimble_live/2311122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",龙华戏剧台
+http://104.160.190.80:8866/nimble_live/2371122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",龙华洋片台
+http://104.160.190.80:8866/nimble_live/2341122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",ELTA戏剧台
+http://104.160.190.80:8866/nimble_live/8811/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",ELTA综合台
+http://104.160.190.80:8866/nimble_live/9211/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",ELTA育乐台
+http://104.160.190.80:8866/nimble_live/911122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",ELTA体育台
+http://104.160.190.80:8866/nimble_live/2421122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",ASN
+http://104.160.190.80:8866/nimble_live/7311/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",BabyTV
+http://104.160.190.80:8866/nimble_live/10111/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",BabyATV
+http://104.160.190.80:8866/nimble_live/2261122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",BBC earth
+http://104.160.190.80:8866/nimble_live/1101122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",BBC lifestyle
+http://104.160.190.80:8866/nimble_live/1111122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",BBC
+http://104.160.190.80:8866/nimble_live/5411/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Catchplay电影台
+http://104.160.190.80:8866/nimble_live/851122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",CNBC
+http://104.160.190.80:8866/nimble_live/21911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",CinemaWorld
+http://104.160.190.80:8866/nimble_live/7511/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Cinemax
+http://104.160.190.80:8866/nimble_live/1841122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",CNN
+http://104.160.190.80:8866/nimble_live/7611/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",DIVA
+http://104.160.190.80:8866/nimble_live/1001122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",DMAX
+http://104.160.190.80:8866/nimble_live/2211122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",E! Entertainment
+http://104.160.190.80:8866/nimble_live/7411/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",EVE
+http://104.160.190.80:8866/nimble_live/2151122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Fashion TV
+http://104.160.190.80:8866/nimble_live/8311/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",FOX Crime
+http://104.160.190.80:8866/nimble_live/2041122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",FOX Family
+http://104.160.190.80:8866/nimble_live/2031122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",FOX HD
+http://104.160.190.80:8866/nimble_live/2051122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",fyi
+http://104.160.190.80:8866/nimble_live/1061122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",HBO Family
+http://104.160.190.80:8866/nimble_live/1871122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",HBO Hits
+http://104.160.190.80:8866/nimble_live/1851122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",HBO Signature
+http://104.160.190.80:8866/nimble_live/1861122aa/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",LUXE TV
+http://104.160.190.80:8866/nimble_live/10411/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",NHK
+http://104.160.190.80:8866/nimble_live/19811/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Smart TV
+http://104.160.190.80:8866/nimble_live/10911/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Star Movies HD
+http://104.160.190.80:8866/nimble_live/2451122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",StarWorld
+http://104.160.190.80:8866/nimble_live/1911122/playlist.m3u8
+#EXTINF:-1 group-title="【台湾XTV】",Travel Channel
+http://104.160.190.80:8866/nimble_live/2101122/playlist.m3u8
+
 
 #EXTINF:-1 group-title="新韩国",올래 쇼핑엔T
 http://121.140.181.215:9981/stream/channelid/990314530
