@@ -617,209 +617,146 @@ http://104.160.190.80:8866/nimble_live/2101122/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="【台湾好】",客家電視台
-https://58ad68d0b6c8d.streamlock.net/ios/-hakkatv_live---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",A-Line巨星挑戰賽
-https://58ada6ee80845.streamlock.net/live/aline_720p_1200k/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",發現台灣好音樂
-https://59cd93792daf3.streamlock.net/live/twglive_720p_1200k/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",SBN全球財經台
-https://58ada6ee80845.streamlock.net/ios/-sbn-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",拳電視
-https://58ada6ee80845.streamlock.net/ios/-boxing-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",台視無線台
-https://58ada6ee80845.streamlock.net/ios/-Ttvhd-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",台視新聞台
-https://58ada6ee80845.streamlock.net/ios/-ttvNews-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",台視綜合台
-https://58ada6ee80845.streamlock.net/ios/-ttvcomplex---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",台視財經台
-https://58ada6ee80845.streamlock.net/ios/-ttvmoney---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",非凡商業台
-https://58ada6ee80845.streamlock.net/ios/-ustv-bIz---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",非凡新聞台
-https://58ada6ee80845.streamlock.net/ios/-ustv-nEws---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",TVBS
-https://58ada6ee80845.streamlock.net/ios/-tvBs---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",TVBS-N
-https://58ada6ee80845.streamlock.net/ios/-tvbsnewS---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",華視無線台
-https://58ada6ee80845.streamlock.net/ios/-cts---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",華視新聞資訊台
-https://58ad68d0b6c8d.streamlock.net/ios/-Ctsnews---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",中視菁采台
-https://58ada6ee80845.streamlock.net/ios/-ctvhd---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",中視新聞台
-https://58ada6ee80845.streamlock.net/ios/-ctvnewS-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",中天新聞台
-https://58ada6ee80845.streamlock.net/ios/-ctiNews---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",中天綜合台
-https://58ada6ee80845.streamlock.net/ios/-ctigeNner---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",中視無線台(HD)
-https://58ada6ee80845.streamlock.net/ios/-ctv---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",中視經典台
-https://58ada6ee80845.streamlock.net/ios/-ctvclassic-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",東森亞洲衛視台
+#EXTINF:-1 group-title="【台湾好】",時代影像電影台	
+https://58ada6ee80845.streamlock.net/ios/-timesimage-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",國際電影台	
+https://58ada6ee80845.streamlock.net/ios/-intlmovie---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",哈Hot!電影台	
+https://58ad68d0b6c8d.streamlock.net/ios/-hamovie---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",八大綜合台	
+https://58ad68d0b6c8d.streamlock.net/ios/-gtv---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",東森亞洲衛視台	
 https://58ad68d0b6c8d.streamlock.net/ios/-enttv---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",東森亞洲新聞台
-https://58ada6ee80845.streamlock.net/ios/-entasinews---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",中華財經台
+#EXTINF:-1 group-title="【台湾好】",中視新聞台	
+https://58ada6ee80845.streamlock.net/ios/-ctvnewS---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",中視無線台	
+https://58ada6ee80845.streamlock.net/ios/-ctv---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",民視HD		
+https://58ada6ee80845.streamlock.net/ios/-ftvWirElesse-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",民視旅遊台	
+https://58ad68d0b6c8d.streamlock.net/ios/-ftvtravel---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",民視綜藝台	
+https://58ad68d0b6c8d.streamlock.net/ios/-ftvshow---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",民視戲劇台	
+https://58ad68d0b6c8d.streamlock.net/ios/-ftvdrama---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",民視第一台	
+https://58ad68d0b6c8d.streamlock.net/ios/-Ftvtransportation---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",民視新聞台HD	
+https://58ada6ee80845.streamlock.net/ios/-ftvNews-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",民視台灣台HD	
+https://58ad68d0b6c8d.streamlock.net/ios/-fourseason---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",台視HD		
+https://58ada6ee80845.streamlock.net/ios/-Ttvhd---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",台視綜合HD	
+https://58ada6ee80845.streamlock.net/ios/-ttvcomplex---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",台視財經HD	
+https://58ada6ee80845.streamlock.net/ios/-ttvmoneY---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",台視新聞HD	
+https://58ada6ee80845.streamlock.net/ios/-TtvNews-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",中天新聞HD	
+https://58ada6ee80845.streamlock.net/ios/-ctiNeWs---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",中天綜合	
+https://58ada6ee80845.streamlock.net/ios/-ctIgeNner---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",華視無線台	
+https://58ada6ee80845.streamlock.net/ios/-cts---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",華視新聞資訊台	
+https://58ad68d0b6c8d.streamlock.net/ios/-Ctsnews---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",非凡旅遊	
+https://58ada6ee80845.streamlock.net/ios/-ustvtravel-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",非凡商業台	
+https://58ada6ee80845.streamlock.net/ios/-ustv-bIz---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",非凡美食台	
+https://58ada6ee80845.streamlock.net/ios/-ustvfood---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",靖天國際台	
+https://58ada6ee80845.streamlock.net/ios/-familyFun---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",靖天綜合台	
+https://58ada6ee80845.streamlock.net/ios/-goldentvgenner-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",靖天卡通台	
+https://58ada6ee80845.streamlock.net/ios/-goldentvcartoon-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",靖天戲劇台	
+https://58ada6ee80845.streamlock.net/ios/-goldentvdrama---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",靖天育樂台	
+https://58ada6ee80845.streamlock.net/ios/-goldentvrecreation---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",靖天資訊台	
+https://58ada6ee80845.streamlock.net/ios/-goldentvinfo---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",靖天日本台	
+https://58ada6ee80845.streamlock.net/ios/-goldentvJapan---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",中華財經台	
 https://58ada6ee80845.streamlock.net/ios/-cstv-0832/playlist.m3u8
 #EXTINF:-1 group-title="【台湾好】",靖洋卡通台Nice Bingo
 https://58ada6ee80845.streamlock.net/ios/-bingo---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",靖天卡通台
-https://58ada6ee80845.streamlock.net/ios/-goldentvcartoon-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",KLT-靖天國際台
-https://58ada6ee80845.streamlock.net/ios/-familyFun---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",靖天戲劇台
-https://58ada6ee80845.streamlock.net/ios/-goldentvdrama---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",靖天育樂台
-https://58ada6ee80845.streamlock.net/ios/-goldentvrecreation---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",靖天綜合台
-https://58ada6ee80845.streamlock.net/ios/-goldentvgenner-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",靖天資訊台
-https://58ada6ee80845.streamlock.net/ios/-goldentvinfo---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",靖天日本台
-https://58ada6ee80845.streamlock.net/ios/-goldentvjapan---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",靖洋戲劇台
+#EXTINF:-1 group-title="【台湾好】",靖洋戲劇台	
 https://58ada6ee80845.streamlock.net/ios/-jydrama-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",Nice TV
-https://58ada6ee80845.streamlock.net/ios/-nice---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",VTV4
+#EXTINF:-1 group-title="【台湾好】",VTV4		
 https://58ada6ee80845.streamlock.net/ios/-vtv4-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",i-Fun動漫台
+#EXTINF:-1 group-title="【台湾好】",Nice TV		
+https://58ada6ee80845.streamlock.net/ios/-nice---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",i-Fun動漫一台	
 https://58ad68d0b6c8d.streamlock.net/ios/-ifun---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",CN卡通頻道
-https://58ad68d0b6c8d.streamlock.net/ios/-cncorcoon---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",ifun動漫2台(HD)
+#EXTINF:-1 group-title="【台湾好】",i-Fun動漫二台	
 https://58ada6ee80845.streamlock.net/ios/-Ifun2-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",華研音樂台
+#EXTINF:-1 group-title="【台湾好】",CN卡通頻道	
+https://58ad68d0b6c8d.streamlock.net/ios/-cncoRcoon---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",華研音樂台	
 https://58ad68d0b6c8d.streamlock.net/ios/-himmusic---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",風潮綜合台
-https://58ada6ee80845.streamlock.net/ios/-windcomp-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",台灣好音樂
-https://58ada6ee80845.streamlock.net/ios/-twgoodmusic-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",台灣原創現場
-https://58ada6ee80845.streamlock.net/ios/-twmusic-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",華研娛樂台	
+https://58ad68d0b6c8d.streamlock.net/ios/-himvariety---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",動靜音樂台	
+https://58ada6ee80845.streamlock.net/ios/-dongin-0832/playlist.m3u8
 #EXTINF:-1 group-title="【台湾好】",發現音樂演唱直播
 https://58ada6ee80845.streamlock.net/ios/-livemusic-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",發現音樂MV
+#EXTINF:-1 group-title="【台湾好】",發現音樂MV	
 https://58ada6ee80845.streamlock.net/ios/-stonemusic-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",華夏星勢力
+#EXTINF:-1 group-title="【台湾好】",華夏星勢力	
 https://58ada6ee80845.streamlock.net/ios/-chinastar-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",華研娛樂台
-https://58ad68d0b6c8d.streamlock.net/ios/-himvariety---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",轟天牛音樂帝國
+#EXTINF:-1 group-title="【台湾好】",台灣好音樂	
+https://58ada6ee80845.streamlock.net/ios/-twgoodmusic-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",台灣原創現場	
+https://58ada6ee80845.streamlock.net/ios/-twmusic-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",風潮綜合台	
+https://58ada6ee80845.streamlock.net/ios/-windcomp-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",風潮音樂台	
+https://58ada6ee80845.streamlock.net/ios/-windmusic-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",轟天牛音樂帝國	
 https://58ada6ee80845.streamlock.net/ios/-bull-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",半島電視台
+#EXTINF:-1 group-title="【台湾好】",半島電視台	
 https://58ad68d0b6c8d.streamlock.net/ios/-aljazeeranews---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",CNN國際新聞台
-https://58ad68d0b6c8d.streamlock.net/ios/-cnnnews---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",CNN頭條新聞台
+#EXTINF:-1 group-title="【台湾好】",CNN國際新聞台	
+https://58ad68d0b6c8d.streamlock.net/ios/-Cnnnews---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",CNN頭條新聞台	
 https://58ad68d0b6c8d.streamlock.net/ios/-cnninews---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",時代影像電影台
-https://58ada6ee80845.streamlock.net/ios/-timesimage-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",E Entertainment
+#EXTINF:-1 group-title="【台湾好】",E Entertainment	
 https://58ad68d0b6c8d.streamlock.net/ios/-echannel---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",香港衛視
-https://58ada6ee80845.streamlock.net/ios/-hks-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",大愛電視台
-https://58ad68d0b6c8d.streamlock.net/ios/-biglove---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",民視台灣台
-https://58ad68d0b6c8d.streamlock.net/ios/-fourseason---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",原住民族電視台
+#EXTINF:-1 group-title="【台湾好】",原住民族電視台	
 https://58ada6ee80845.streamlock.net/ios/-titv-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",國際電影台
-https://58ada6ee80845.streamlock.net/ios/-intlmovie---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",非凡美食台
-https://58ada6ee80845.streamlock.net/ios/-ustvfood---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",mens uno
+#EXTINF:-1 group-title="【台湾好】",大愛電視台	
+https://58ad68d0b6c8d.streamlock.net/ios/-biglove---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",mens uno	
 https://58ada6ee80845.streamlock.net/ios/-mensuno-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",豬哥亮歌廳秀
-https://58ad68d0b6c8d.streamlock.net/ios/-pigshow---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",八大綜藝台
-https://58ad68d0b6c8d.streamlock.net/ios/-gtv---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",哈Hot!電影台
-https://58ad68d0b6c8d.streamlock.net/ios/-hamovie---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",民視戲劇台
-https://58ad68d0b6c8d.streamlock.net/ios/-ftvdrama---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",民視旅遊台
-https://58ad68d0b6c8d.streamlock.net/ios/-ftvtravel---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",民視綜藝台
-https://58ad68d0b6c8d.streamlock.net/ios/-ftvshow---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",車訊TV
+#EXTINF:-1 group-title="【台湾好】",豬哥亮歌廳秀	
+https://58ad68d0b6c8d.streamlock.net/ios/-pigShow---0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",車訊TV		
 https://58ada6ee80845.streamlock.net/ios/-carnews-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",ELLE TV
+#EXTINF:-1 group-title="【台湾好】",ELLE TV		
 https://58ada6ee80845.streamlock.net/ios/-elle-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",非凡旅遊
-https://58ada6ee80845.streamlock.net/ios/-ustvtravel-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",音樂健身房
+#EXTINF:-1 group-title="【台湾好】",音樂健身房	
 https://58ada6ee80845.streamlock.net/ios/-mysports-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",寶島神明聽
-https://58ada6ee80845.streamlock.net/ios/-temple-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",春晚-歷年
-https://58ada6ee80845.streamlock.net/ios/-springeve-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",承影Play TV
-https://58ada6ee80845.streamlock.net/ios/-ChiengYin-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",正妹讚出來
-https://58ada6ee80845.streamlock.net/ios/-hottie-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",之計財經台
-https://58ada6ee80845.streamlock.net/ios/-winner-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",靜心瑜珈
-https://58ada6ee80845.streamlock.net/ios/-ttyyoga-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",Usexy
+#EXTINF:-1 group-title="【台湾好】",Usexy		
 https://58ada6ee80845.streamlock.net/ios/-usexy-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",雷斯利 TV
+#EXTINF:-1 group-title="【台湾好】",雷斯利 T	
 https://58ada6ee80845.streamlock.net/ios/-leslytv-0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",美人好事集
+#EXTINF:-1 group-title="【台湾好】",靜心瑜珈	
+https://58ada6ee80845.streamlock.net/ios/-ttyyoga-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",正妹讚出來	
+https://58ada6ee80845.streamlock.net/ios/-hottie-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",春晚-歷年	
+https://58ada6ee80845.streamlock.net/ios/-springeve-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",承影Play TV	
+https://58ada6ee80845.streamlock.net/ios/-ChiengYin-0832/playlist.m3u8
+#EXTINF:-1 group-title="【台湾好】",美人好事集	
 https://58ada6ee80845.streamlock.net/ios/-yubeauty---0832/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",A-Line 音樂台
-https://58adfaa9eadac.streamlock.net/aline/A-Linefm--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",A-Line989
-https://58ada6ee80845.streamlock.net/radio_fm_ios/A-Line989--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",A-Line987
-https://58ada6ee80845.streamlock.net/radio_fm_ios/A-Line987--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",青春線上1065
-https://58adfaa9eadac.streamlock.net/aline/A-Line1065--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",青春線上991
-https://58ada6ee80845.streamlock.net/radio_fm_ios/A-Line991--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",青春線上939
-https://58ada6ee80845.streamlock.net/radio_fm_ios/A-Line939--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",亞洲衛星流行電台
-https://58ada6ee80845.streamlock.net/radio_fm_ios/asiafm--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",亞洲飛揚調頻
-https://58ada6ee80845.streamlock.net/radio_fm_ios/asia_flyradiofm895--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",亞洲亞太電台
-https://58ada6ee80845.streamlock.net/radio_fm_ios/asiafm923--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",亞洲FM927電台
-https://58ada6ee80845.streamlock.net/radio_fm_ios/asiafm927--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",大千電台
-https://58ada6ee80845.streamlock.net/radio_fm_ios/superfm991--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",寶島新聲
-https://58ada6ee80845.streamlock.net/radio_fm_ios/superfm985--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",希望之聲
-https://58ada6ee80845.streamlock.net/radio_fm_ios/superfm905--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",快樂全景電台
-https://58ada6ee80845.streamlock.net/radio_fm_ios/happyradio893--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",快樂快樂電台
-https://58ada6ee80845.streamlock.net/radio_fm_ios/happyradio975--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",快樂望春風電台
-https://58ada6ee80845.streamlock.net/radio_fm_ios/happyradio895--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",快樂歡樂電台
-https://58ada6ee80845.streamlock.net/radio_fm_ios/happyradio983--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",快樂澎湖廣播
-https://58ada6ee80845.streamlock.net/radio_fm_ios/happyradio967--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",城市廣播網-台北
-https://58ada6ee80845.streamlock.net/radio_fm_ios/cityfm901--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",城市廣播網-台中
-https://58ada6ee80845.streamlock.net/radio_fm_ios/cityfm929--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",城市廣播網-台南
-https://58ada6ee80845.streamlock.net/radio_fm_ios/cityfm971--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",城市廣播網-竹苗
-https://58ada6ee80845.streamlock.net/radio_fm_ios/cityfm983--/playlist.m3u8
-#EXTINF:-1 group-title="【台湾好】",快樂麥克風
-https://58ada6ee80845.streamlock.net/radio_fm_ios/happymirophone--/playlist.m3u8
-
+#EXTINF:-1 group-title="【台湾好】",博斯運動	
+https://58ada6ee80845.streamlock.net/ios/-boxing-0832/playlist.m3u8
 
 
 
