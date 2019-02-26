@@ -1,300 +1,253 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="日本频道",NHK_General_TV
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",NHK_Educational_TV
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd02.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Nippon_TV
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",TBS_Television
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd04.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Fuji_TV
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",TV_Asahi
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",TV_Tokyo
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Tokyo_MX
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",NHK_BS1
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs01.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",BS_NTV
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",BS_Asahi
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",BS-TBS
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",BS_Fuji
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",BS_Japan
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",WOWOW_Prime
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",WOWOW_Live
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",WOWOW_Cinema
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Star_Channel_1
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Star_Channel_2
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Star_Channel_3
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",BS_12_TwellV
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",NHK_BS_Premium
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs14.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",GAORA SPORTS
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs01.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",GREEN
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs02.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Golf_Network
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",J_Sports_1
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",J_Sports_2
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",J_Sports_3
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Samurai_Fighting_TV
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",J_Sports_4
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs09.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Movie_Plus
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Eisei_Gekijo
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs11.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Kids_Station
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Discovery_Channel
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",History
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs14.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Music_Japan
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",CS219
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Nihon_Eiga_TV
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
-#EXTINF:-1 group-title="日本频道",Disney_Channel
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="GoodTV",goodtv兒少频道
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv光明神
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv神乐经典
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch4-2.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv美食旅游
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv圣经门徒
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv人间道
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv上帝圣经
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch8-2.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv神爱世人
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch7-2.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv神鬼论
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch10-2.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv幸福家庭
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv音乐河
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch5-2.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv真理台
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 group-title="GoodTV",goodtv综合台
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
-
-
-#EXTINF:-1 group-title="日本纳加",FOX-extra
-vjms://122.155.180.8:8500:3502/live/cid=97
-#EXTINF:-1 group-title="日本纳加",HBO family
-vjms://122.155.180.8:8500:3502/live/cid=181
-#EXTINF:-1 group-title="日本纳加",CNBC
-vjms://122.155.180.8:8500:3502/live/cid=98
-#EXTINF:-1 group-title="日本纳加",Nat Geo
-vjms://122.155.180.8:8500:3502/live/cid=115
-#EXTINF:-1 group-title="日本纳加",Discovery
-vjms://122.155.180.8:8500:3502/live/cid=397
-#EXTINF:-1 group-title="日本纳加",Discovery Science
-vjms://122.155.180.8:8500:3502/live/cid=457
-#EXTINF:-1 group-title="日本纳加",Discovery HDWORLD
-vjms://122.155.180.8:8500:3502/live/cid=440
-#EXTINF:-1 group-title="日本纳加",Disney
-vjms://122.155.180.8:8500:3502/live/cid=361
-#EXTINF:-1 group-title="日本纳加",Cartoon network
-vjms://122.155.180.8:8500:3502/live/cid=422
-#EXTINF:-1 group-title="日本纳加",HBOSignature
-vjms://122.155.180.8:8500:3502/live/cid=236
-#EXTINF:-1 group-title="日本纳加",HBOHits
-vjms://122.155.180.8:8500:3502/live/cid=238
-#EXTINF:-1 group-title="日本纳加",HBOHD
-vjms://122.155.180.8:8500:3502/live/cid=261
-#EXTINF:-1 group-title="日本纳加",NatGeo Wild
-vjms://122.155.180.8:8500:3502/live/cid=263
-#EXTINF:-1 group-title="日本纳加",BBC
-vjms://122.155.180.8:8500:3502/live/cid=418
-#EXTINF:-1 group-title="日本纳加",CNN
-vjms://122.155.180.8:8500:3502/live/cid=428
-#EXTINF:-1 group-title="日本纳加",AXN
-vjms://122.155.180.8:8500:3502/live/cid=102
-#EXTINF:-1 group-title="日本纳加",AXN电影
-vjms://122.155.180.8:8500/live/cid=102
-#EXTINF:-1 group-title="日本纳加",BBC新闻
-vjms://122.155.180.8:8500/live/cid=418
-#EXTINF:-1 group-title="日本纳加",CNN新闻
-vjms://122.155.180.8:8500/live/cid=428
-#EXTINF:-1 group-title="日本纳加",CN卡通
-vjms://122.155.180.8:8500/live/cid=422
-#EXTINF:-1 group-title="日本纳加",FOX3体育
-vjms://122.155.180.8:8500/live/cid=95
-#EXTINF:-1 group-title="日本纳加",FOX新闻
-vjms://122.155.180.8:8500/live/cid=97
-#EXTINF:-1 group-title="日本纳加",CNBC新闻
-vjms://122.155.180.8:8500/live/cid=98
-#EXTINF:-1 group-title="日本纳加",HBO HD
-vjms://122.155.180.8:8500/live/cid=261
-#EXTINF:-1 group-title="日本纳加",HBO
-vjms://122.155.180.8:8500/live/cid=236
-#EXTINF:-1 group-title="日本纳加",HBO强档
-vjms://122.155.180.8:8500/live/cid=238
-#EXTINF:-1 group-title="日本纳加",HBO温馨
-vjms://122.155.180.8:8500/live/cid=181
-#EXTINF:-1 group-title="日本纳加",国家地理HD
-vjms://122.155.180.8:8500/live/cid=115
-#EXTINF:-1 group-title="日本纳加",国家地理野生
-vjms://122.155.180.8:8500/live/cid=263
-#EXTINF:-1 group-title="日本纳加",探索科学
-vjms://122.155.180.8:8500/live/cid=457
-#EXTINF:-1 group-title="日本纳加",探索频道
-vjms://122.155.180.8:8500/live/cid=397
-#EXTINF:-1 group-title="日本纳加",迪士尼卡通
-vjms://122.155.180.8:8500/live/cid=361
-#EXTINF:-1 group-title="日本纳加",探索世界
-vjms://122.155.180.8:8500/live/cid=440
-
-
-
-
-#EXTINF:-1 group-title="新韩国",ANI PLUS HD
-http://121.140.181.215:9981/stream/channelid/262970129
-#EXTINF:-1 group-title="新韩国",DISNEY
-http://121.140.181.215:9981/stream/channelid/1647108021
-#EXTINF:-1 group-title="新韩国",EBS U
-http://121.140.181.215:9981/stream/channelid/1693964153
-#EXTINF:-1 group-title="新韩国",eve nt TV
-http://121.140.181.215:9981/stream/channelid/1355140472
-#EXTINF:-1 group-title="新韩国",FTV HD
-http://121.140.181.215:9981/stream/channelid/2055186790
-#EXTINF:-1 group-title="新韩国",HEOR
-http://121.140.181.215:9981/stream/channelid/1230482614
-#EXTINF:-1 group-title="新韩国",KBSN SPORTS
-http://121.140.181.215:9981/stream/channelid/1205711406
-#EXTINF:-1 group-title="新韩国",M net
-http://121.140.181.215:9981/stream/channelid/326830374
-#EXTINF:-1 group-title="新韩国",MBC every
-http://121.140.181.215:9981/stream/channelid/559995548
-#EXTINF:-1 group-title="新韩国",MBC MUSIC
-http://121.140.181.215:9981/stream/channelid/1941504723
-#EXTINF:-1 group-title="新韩国",MBC SPORTS+
-http://121.140.181.215:9981/stream/channelid/263588633
-#EXTINF:-1 group-title="新韩国",MTN
-http://121.140.181.215:9981/stream/channelid/1797059421
-#EXTINF:-1 group-title="新韩国",OBS
-http://121.140.181.215:9981/stream/channelid/2092663514
-#EXTINF:-1 group-title="新韩国",OBS W
-http://121.140.181.215:9981/stream/channelid/1298881540
-#EXTINF:-1 group-title="新韩国",OGN
-http://121.140.181.215:9981/stream/channelid/438734215
-#EXTINF:-1 group-title="新韩国",ONSTYLE
-http://121.140.181.215:9981/stream/channelid/1948277880
-#EXTINF:-1 group-title="新韩国",OTVN
-http://121.140.181.215:9981/stream/channelid/1760319951
-#EXTINF:-1 group-title="新韩国",SKY CNT
-http://121.140.181.215:9981/stream/channelid/1425059254
-#EXTINF:-1 group-title="新韩国",sky sports
-http://121.140.181.215:9981/stream/channelid/776362414
-#EXTINF:-1 group-title="新韩国",sky UHD
-http://121.140.181.215:9981/stream/channelid/415378706
-#EXTINF:-1 group-title="新韩国",sky UHD
-http://121.140.181.215:9981/stream/channelid/1417852030
-#EXTINF:-1 group-title="新韩国",SPO TV
-http://121.140.181.215:9981/stream/channelid/868124087
-#EXTINF:-1 group-title="新韩国",X TV
-http://121.140.181.215:9981/stream/channelid/695816056
-#EXTINF:-1 group-title="新韩国",바둑 TV
-http://121.140.181.215:9981/stream/channelid/229240105
-#EXTINF:-1 group-title="新韩国",법률방송
-http://121.140.181.215:9981/stream/channelid/47423425
-#EXTINF:-1 group-title="新韩国",올래 Arte HD
-http://121.140.181.215:9981/stream/channelid/908661244
-#EXTINF:-1 group-title="新韩国",올래 BBC
-http://121.140.181.215:9981/stream/channelid/1337498368
-#EXTINF:-1 group-title="新韩国",올래 CMC HD
-http://121.140.181.215:9981/stream/channelid/1376626713
-#EXTINF:-1 group-title="新韩国",올래 C채널
-http://121.140.181.215:9981/stream/channelid/997053113
-#EXTINF:-1 group-title="新韩国",올래 EBS1
-http://121.140.181.215:9981/stream/channelid/1424108962
-#EXTINF:-1 group-title="新韩国",올래 GTV HD
-http://121.140.181.215:9981/stream/channelid/110260636
-#EXTINF:-1 group-title="新韩国",올래 JTBC
-http://121.140.181.215:9981/stream/channelid/25751828
-#EXTINF:-1 group-title="新韩国",올래 KBS1
-http://121.140.181.215:9981/stream/channelid/624923121
-#EXTINF:-1 group-title="新韩国",올래 KBS2
-http://121.140.181.215:9981/stream/channelid/1929672019
-#EXTINF:-1 group-title="新韩国",올래 Korea TV
-http://121.140.181.215:9981/stream/channelid/1349869566
-#EXTINF:-1 group-title="新韩国",올래 MBC
-http://121.140.181.215:9981/stream/channelid/201662697
-#EXTINF:-1 group-title="新韩国",올래 MBN
-http://121.140.181.215:9981/stream/channelid/155520742
-#EXTINF:-1 group-title="新韩国",올래 POLARIS
-http://121.140.181.215:9981/stream/channelid/329523887
-#EXTINF:-1 group-title="新韩国",올래 REAL TV
-http://121.140.181.215:9981/stream/channelid/682350834
-#EXTINF:-1 group-title="新韩国",올래 SBS
-http://121.140.181.215:9981/stream/channelid/203485414
-#EXTINF:-1 group-title="新韩国",올래 SPOTV GAMES
-http://121.140.181.215:9981/stream/channelid/122059159
-#EXTINF:-1 group-title="新韩国",올래 TOMATO TV
-http://121.140.181.215:9981/stream/channelid/153428430
-#EXTINF:-1 group-title="新韩国",올래 TRENDY
-http://121.140.181.215:9981/stream/channelid/1481822718
-#EXTINF:-1 group-title="新韩国",올래 TV 조선
-http://121.140.181.215:9981/stream/channelid/235249417
-#EXTINF:-1 group-title="新韩国",올래 YTN
-http://121.140.181.215:9981/stream/channelid/826891306
-#EXTINF:-1 group-title="新韩国",올래 쇼핑엔T
-http://121.140.181.215:9981/stream/channelid/990314530
-#EXTINF:-1 group-title="新韩国",올래 스카이 힐링
-http://121.140.181.215:9981/stream/channelid/2045786928
-#EXTINF:-1 group-title="新韩国",올래 연합뉴스 TV
-http://121.140.181.215:9981/stream/channelid/868211851
-#EXTINF:-1 group-title="新韩国",올래 영화소개
-http://121.140.181.215:9981/stream/channelid/2049198976
-#EXTINF:-1 group-title="新韩国",올래 채널 퓨 HD
-http://121.140.181.215:9981/stream/channelid/920558085
-#EXTINF:-1 group-title="新韩国",올래 채널A
-http://121.140.181.215:9981/stream/channelid/566191205
-#EXTINF:-1 group-title="新韩国",이데일리TV
-http://121.140.181.215:9981/stream/channelid/1959769371
-#EXTINF:-1 group-title="新韩国",햇터 방송
-http://121.140.181.215:9981/stream/channelid/91612531
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="国内",CCTV 1FHD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227962/10000100000000060000000003735605_0.smil
+#EXTINF:-1 group-title="国内",CCTV 1FHD
+rtsp://118.122.175.90/PLTV/88888893/224/3221226889/10000100000000060000000000622347_0.smil
+#EXTINF:-1 group-title="国内",CCTV 1FHD
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226889/10000100000000060000000000622347_0.smil
+#EXTINF:-1 group-title="国内",CCTV 2FHD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227983/10000100000000060000000003751359_0.smil
+#EXTINF:-1 group-title="国内",CCTV 2FHD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227983/10000100000000060000000003751359_0.smil
+#EXTINF:-1 group-title="国内",CCTV 2FHD
+rtsp://118.122.175.90/PLTV/88888893/224/3221226816/10000100000000060000000001366243_0.smil
+#EXTINF:-1 group-title="国内",CCTV 3FHD
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226816/10000100000000060000000001366243_0.smil
+#EXTINF:-1 group-title="国内",CCTV 4HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227928/10000100000000060000000003751404_0.smil
+#EXTINF:-1 group-title="国内",CCTV 5FHD
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
+#EXTINF:-1 group-title="国内",CCTV 5FHD
+rtsp://118.122.175.90/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
+#EXTINF:-1 group-title="国内",CCTV 5+FHD
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221227235/10000100000000060000000001394440_0.smil
+#EXTINF:-1 group-title="国内",CCTV 6FHD
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226820/10000100000000060000000001366343_0.smil
+#EXTINF:-1 group-title="国内",CCTV 6FHD
+rtsp://118.122.175.90/PLTV/88888893/224/3221226820/10000100000000060000000001366343_0.smil
+#EXTINF:-1 group-title="国内",CCTV 7FHD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227989/10000100000000060000000003751413_0.smil
+#EXTINF:-1 group-title="国内",CCTV 7FHD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227989/10000100000000060000000003751413_0.smil
+#EXTINF:-1 group-title="国内",CCTV 7FHD
+rtsp://118.122.175.87:554/PLTV/88888888/224/3221226129/00000100000000060000000000035155_0.smil
+#EXTINF:-1 group-title="国内",CCTV 8FHD
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226818/10000100000000060000000001366245_0.smil
+#EXTINF:-1 group-title="国内",CCTV 8FHD
+rtsp://118.122.175.90/PLTV/88888893/224/3221226818/10000100000000060000000001366245_0.smil
+#EXTINF:-1 group-title="国内",CCTV 9FHD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227993/10000100000000060000000003751454_0.smil
+#EXTINF:-1 group-title="国内",CCTV 9FHD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227993/10000100000000060000000003751454_0.smil
+#EXTINF:-1 group-title="国内",CCTV 10FHD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227995/10000100000000060000000003751458_0.smil
+#EXTINF:-1 group-title="国内",CCTV 10FHD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227995/10000100000000060000000003751458_0.smil
+#EXTINF:-1 group-title="国内",CCTV 12FHD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227986/10000100000000060000000003751507_0.smil
+#EXTINF:-1 group-title="国内",CCTV 12FHD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227986/10000100000000060000000003751507_0.smil
+#EXTINF:-1 group-title="国内",CCTV 14FHD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227992/10000100000000060000000003751527_0.smil
+#EXTINF:-1 group-title="国内",CCTV 14FHD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227992/10000100000000060000000003751527_0.smil
+#EXTINF:-1 group-title="国内",河北卫视高清
+rtsp://118.122.175.90/PLTV/88888888/224/3221228435/585951204.smil
+#EXTINF:-1 group-title="国内",贵州卫视高清
+rtsp://118.122.175.90/PLTV/88888888/224/3221228407/585951205.smil
+#EXTINF:-1 group-title="国内",重庆卫视高清
+rtsp://118.122.175.90/PLTV/88888896/224/3221228005/10000100000000060000000003751248_0.smil
+#EXTINF:-1 group-title="国内",重庆卫视高清
+rtsp://118.122.175.90/PLTV/88888896/224/3221227947/10000100000000060000000003734394_0.smil
+#EXTINF:-1 group-title="国内",峨眉电影HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227951/10000100000000060000000003709052_0.smil
+#EXTINF:-1 group-title="国内",湖南卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227953/10000100000000060000000003734332_0.smil
+#EXTINF:-1 group-title="国内",江苏卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227959/10000100000000060000000003734295_0.smil
+#EXTINF:-1 group-title="国内",浙江卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227968/10000100000000060000000003734350_0.smil
+#EXTINF:-1 group-title="国内",东方卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227922/10000100000000060000000003734364_0.smil
+#EXTINF:-1 group-title="国内",北京卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227987/10000100000000060000000003734368_0.smil
+#EXTINF:-1 group-title="国内",深圳卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227965/10000100000000060000000003734360_0.smil
+#EXTINF:-1 group-title="国内",江西卫视HD
+rtsp://118.122.175.90/PLTV/88888888/224/3221228430/585951199.smil
+#EXTINF:-1 group-title="国内",四川卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227965/10000100000000060000000003734360_0.smil
+#EXTINF:-1 group-title="国内",四川卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227981/10000100000000060000000003732199_0.smil
+#EXTINF:-1 group-title="国内",天津卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227956/10000100000000060000000003734376_0.smil
+#EXTINF:-1 group-title="国内",湖北卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227974/10000100000000060000000003734390_0.smil
+#EXTINF:-1 group-title="国内",广东卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227971/10000100000000060000000003742736_0.smil
+#EXTINF:-1 group-title="国内",山东卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227980/10000100000000060000000003734383_0.smil
+#EXTINF:-1 group-title="国内",黑龙江卫视HD
+rtsp://118.122.175.90/PLTV/88888896/224/3221227977/10000100000000060000000003743094_0.smil
+#EXTINF:-1 group-title="国内",四川三套HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227904/10000100000000060000000003706213_0.smi
+#EXTINF:-1 group-title="国内",湖南卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227953/10000100000000060000000003734332_0.smil
+#EXTINF:-1 group-title="国内",江苏卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227959/10000100000000060000000003734295_0.smil
+#EXTINF:-1 group-title="国内",浙江卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227968/10000100000000060000000003734350_0.smil
+#EXTINF:-1 group-title="国内",东方卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227922/10000100000000060000000003734364_0.smil
+#EXTINF:-1 group-title="国内",北京卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227987/10000100000000060000000003734368_0.smil
+#EXTINF:-1 group-title="国内",深圳卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227965/10000100000000060000000003734360_0.smil
+#EXTINF:-1 group-title="国内",深圳卫视HD
+rtsp://118.122.175.87:554/PLTV/88888896/224/3221227965/10000100000000060000000003734360_0.smil
+#EXTINF:-1 group-title="国内",天津卫视FHD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227956/10000100000000060000000003734376_0.smil
+#EXTINF:-1 group-title="国内",湖北卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227974/10000100000000060000000003734390_0.smil
+#EXTINF:-1 group-title="国内",广东卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227971/10000100000000060000000003742736_0.smil
+#EXTINF:-1 group-title="国内",山东卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227980/10000100000000060000000003734383_0.smil
+#EXTINF:-1 group-title="国内",黑龙江卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227977/10000100000000060000000003743094_0.smil
+#EXTINF:-1 group-title="国内",四川卫视HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227981/10000100000000060000000003732199_0.smil
+#EXTINF:-1 group-title="国内",四川卫视HD
+rtsp://118.122.175.87:554/PLTV/88888896/224/3221227981/10000100000000060000000003732199_0.smil
+#EXTINF:-1 group-title="国内",四川文化旅游HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227905/10000100000000060000000003706211_0.smil
+#EXTINF:-1 group-title="国内",四川文化旅游HD
+rtsp://118.122.175.87:554/PLTV/88888896/224/3221227905/10000100000000060000000003706211_0.smil
+#EXTINF:-1 group-title="国内",四川经济HD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227904/10000100000000060000000003706213_0.smil
+#EXTINF:-1 group-title="国内",四川经济HD
+rtsp://118.122.175.87:554/PLTV/88888896/224/3221227904/10000100000000060000000003706213_0.smil
+#EXTINF:-1 group-title="国内",直播室17-FHD
+rtsp://118.122.175.92:554/PLTV/88888896/224/3221227947/10000100000000060000000003734394_0.smil
+#EXTINF:-1 group-title="国内",超级体育1
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226218/10000100000000060000000000223609_0.smil
+#EXTINF:-1 group-title="国内",超级体育1
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226218/10000100000000060000000000223609_0.smil
+#EXTINF:-1 group-title="国内",超级体育2
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226687/10000100000000060000000000223610_0.smil
+#EXTINF:-1 group-title="国内",超级体育2
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226687/10000100000000060000000000223610_0.smil
+#EXTINF:-1 group-title="国内",超级体育3
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226220/10000100000000060000000000223611_0.smil
+#EXTINF:-1 group-title="国内",超级体育3
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226220/10000100000000060000000000223611_0.smil
+#EXTINF:-1 group-title="国内",超级体育4
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226689/10000100000000060000000000223612_0.smil
+#EXTINF:-1 group-title="国内",超级体育4
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226689/10000100000000060000000000223612_0.smil
+#EXTINF:-1 group-title="国内",超级体育5
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226222/10000100000000060000000000223613_0.smil
+#EXTINF:-1 group-title="国内",超级体育5
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226222/10000100000000060000000000223613_0.smil
+#EXTINF:-1 group-title="国内",超级体育6
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226691/10000100000000060000000000223614_0.smil
+#EXTINF:-1 group-title="国内",超级体育6
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226691/10000100000000060000000000223614_0.smil
+#EXTINF:-1 group-title="国内",超级体育7
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226224/10000100000000060000000000223615_0.smil
+#EXTINF:-1 group-title="国内",超级体育7
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226224/10000100000000060000000000223615_0.smil
+#EXTINF:-1 group-title="国内",超级体育8
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221226709/10000100000000060000000000291473_0.smil
+#EXTINF:-1 group-title="国内",超级体育8
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226709/10000100000000060000000000291473_0.smil
+#EXTINF:-1 group-title="国内",超级体育9
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221227026/10000100000000060000000003216415_0.smil
+#EXTINF:-1 group-title="国内",超级体育9
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221227026/10000100000000060000000003216415_0.smil
+#EXTINF:-1 group-title="国内",超级体育10
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221227451/10000100000000060000000003216416_0.smil
+#EXTINF:-1 group-title="国内",超级体育10
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221227451/10000100000000060000000003216416_0.smil
+#EXTINF:-1 group-title="国内",超级体育11
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221227028/10000100000000060000000003216417_0.smil
+#EXTINF:-1 group-title="国内",超级体育11
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221227028/10000100000000060000000003216417_0.smil
+#EXTINF:-1 group-title="国内",超级体育12
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221227453/10000100000000060000000003216418_0.smil
+#EXTINF:-1 group-title="国内",超级体育12
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221227453/10000100000000060000000003216418_0.smil
+#EXTINF:-1 group-title="国内",超级体育13
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221227030/10000100000000060000000003216419_0.smil
+#EXTINF:-1 group-title="国内",超级体育13
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221227030/10000100000000060000000003216419_0.smil
+#EXTINF:-1 group-title="国内",超级体育14
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221227032/10000100000000060000000003216420_0.smil
+#EXTINF:-1 group-title="国内",超级体育14
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221227032/10000100000000060000000003216420_0.smil
+#EXTINF:-1 group-title="国内",超级体育15
+rtsp://118.122.175.92:554/PLTV/88888893/224/3221227455/10000100000000060000000003216421_0.smi
+#EXTINF:-1 group-title="国内",超级体育15l
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221227455/10000100000000060000000003216421_0.smil
+#EXTINF:-1 group-title="国内",CCTV 1高清
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226889/10000100000000060000000000622347_0.smil
+#EXTINF:-1 group-title="国内",CCTV 1高清
+rtsp://1.58.127.199/PLTV/88888888/224/3221225667/10000100000000060000000000191198_0.smil
+#EXTINF:-1 group-title="国内",CCTV 2高清
+rtsp://118.122.175.87:554/PLTV/88888888/224/3221226325/00000100000000060000000000035261_0.smil
+#EXTINF:-1 group-title="国内",CCTV 3高清
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226816/10000100000000060000000001366243_0.smil
+#EXTINF:-1 group-title="国内",CCTV 4高清
+rtsp://118.122.175.87:554/PLTV/88888888/224/3221226127/00000100000000060000000000035154_0.smil
+#EXTINF:-1 group-title="国内",CCTV 5高清
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
+#EXTINF:-1 group-title="国内",CCTV 6高清
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226820/10000100000000060000000001366343_0.smil
+#EXTINF:-1 group-title="国内",CCTV 7高清
+rtsp://118.122.175.87:554/PLTV/88888888/224/3221226129/00000100000000060000000000035155_0.smil
+#EXTINF:-1 group-title="国内",CCTV 7高清
+rtsp://1.58.127.233/PLTV/88888888/224/3221225697/10000100000000060000000000197829_0.smil
+#EXTINF:-1 group-title="国内",CCTV 8高清
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221226818/10000100000000060000000001366245_0.smil
+#EXTINF:-1 group-title="国内",CCTV 9高清
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221227177/10000100000000060000000001157269_0.smil
+#EXTINF:-1 group-title="国内",CCTV 10高清
+rtsp://118.122.175.87:554/PLTV/88888888/224/3221226135/00000100000000060000000000035159_0.smil
+#EXTINF:-1 group-title="国内",CCTV 10高清
+rtsp://1.58.127.233/PLTV/88888888/224/3221225647/10000100000000060000000000189159_0.smil
+#EXTINF:-1 group-title="国内",CCTV 11高清
+rtsp://118.122.175.87:554/PLTV/88888893/224/3221227151/10000100000000060000000001098363_0.smil
+#EXTINF:-1 group-title="国内",CCTV 12高清
+rtsp://118.122.175.87:554/PLTV/88888888/224/3221226133/00000100000000060000000000035158_0.smil
+#EXTINF:-1 group-title="国内",CCTV 12高清
+rtsp://1.58.127.233/PLTV/88888888/224/3221225625/10000100000000060000000000186154_0.smil
+#EXTINF:-1 group-title="国内",CCTV 13高清
+rtsp://118.122.175.87:554/PLTV/88888888/224/3221226283/00000100000000060000000000035237_0.smil
+#EXTINF:-1 group-title="国内",CCTV 14高清
+rtsp://118.122.175.87:554/PLTV/88888888/224/3221226285/00000100000000060000000000035238_0.smil
+#EXTINF:-1 group-title="国内",CCTV 14高清
+rtsp://1.58.127.233/PLTV/88888888/224/3221225698/10000100000000060000000000197897_0.smil
+#EXTINF:-1 group-title="国内",CCTV 15高清
+rtsp://118.122.175.87:554/PLTV/88888888/224/3221226287/00000100000000060000000000035239_0.smil
+#EXTINF:-1 group-title="国内",湖南卫视高清
+rtsp://118.122.175.87:554/PLTV/88888896/224/3221227953/10000100000000060000000003734332_0.smil
+#EXTINF:-1 group-title="国内",湖南卫视高清
+rtsp://1.58.127.200/PLTV/88888888/224/3221225661/10000100000000060000000000191222_0.smil
+#EXTINF:-1 group-title="国内",湖南卫视高清
+rtsp://1.58.127.233/PLTV/88888888/224/3221225616/10000100000000060000000000185916_0.smil
+#EXTINF:-1 group-title="国内",江苏卫视高清
+rtsp://118.122.175.87:554/PLTV/88888896/224/3221227959/10000100000000060000000003734295_0.smil
+#EXTINF:-1 group-title="国内",江苏卫视高清
+rtsp://1.58.127.233/PLTV/88888888/224/3221225668/10000100000000060000000000191197_0.smil
+#EXTINF:-1 group-title="国内",浙江卫视高清
+rtsp://118.122.175.87:554/PLTV/88888896/224/3221227968/10000100000000060000000003734350_0.smil
+#EXTINF:-1 group-title="国内",浙江卫视高清
+rtsp://1.58.127.204/PLTV/88888888/224/3221225669/10000100000000060000000000191196_0.smil
+#EXTINF:-1 group-title="国内",浙江卫视高清
+rtsp://1.58.127.233/PLTV/88888888/224/3221225617/10000100000000060000000000185920_0.smil
+#EXTINF:-1 group-title="国内",东方卫视高清
+rtsp://118.122.175.87:554/PLTV/88888896/224/3221227922/10000100000000060000000003734364_0.smil
+#EXTINF:-1 group-title="国内",东方卫视高清
+rtsp://1.58.127.207/PLTV/88888888/224/3221225670/10000100000000060000000000191193_0.smil
+#EXTINF:-1 group-title="国内",北京卫视高清
