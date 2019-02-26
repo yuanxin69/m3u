@@ -1,253 +1,268 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="国内",CCTV 1FHD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227962/10000100000000060000000003735605_0.smil
-#EXTINF:-1 group-title="国内",CCTV 1FHD
-rtsp://118.122.175.90/PLTV/88888893/224/3221226889/10000100000000060000000000622347_0.smil
-#EXTINF:-1 group-title="国内",CCTV 1FHD
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226889/10000100000000060000000000622347_0.smil
-#EXTINF:-1 group-title="国内",CCTV 2FHD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227983/10000100000000060000000003751359_0.smil
-#EXTINF:-1 group-title="国内",CCTV 2FHD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227983/10000100000000060000000003751359_0.smil
-#EXTINF:-1 group-title="国内",CCTV 2FHD
-rtsp://118.122.175.90/PLTV/88888893/224/3221226816/10000100000000060000000001366243_0.smil
-#EXTINF:-1 group-title="国内",CCTV 3FHD
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226816/10000100000000060000000001366243_0.smil
-#EXTINF:-1 group-title="国内",CCTV 4HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227928/10000100000000060000000003751404_0.smil
-#EXTINF:-1 group-title="国内",CCTV 5FHD
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
-#EXTINF:-1 group-title="国内",CCTV 5FHD
-rtsp://118.122.175.90/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
-#EXTINF:-1 group-title="国内",CCTV 5+FHD
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221227235/10000100000000060000000001394440_0.smil
-#EXTINF:-1 group-title="国内",CCTV 6FHD
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226820/10000100000000060000000001366343_0.smil
-#EXTINF:-1 group-title="国内",CCTV 6FHD
-rtsp://118.122.175.90/PLTV/88888893/224/3221226820/10000100000000060000000001366343_0.smil
-#EXTINF:-1 group-title="国内",CCTV 7FHD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227989/10000100000000060000000003751413_0.smil
-#EXTINF:-1 group-title="国内",CCTV 7FHD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227989/10000100000000060000000003751413_0.smil
-#EXTINF:-1 group-title="国内",CCTV 7FHD
-rtsp://118.122.175.87:554/PLTV/88888888/224/3221226129/00000100000000060000000000035155_0.smil
-#EXTINF:-1 group-title="国内",CCTV 8FHD
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226818/10000100000000060000000001366245_0.smil
-#EXTINF:-1 group-title="国内",CCTV 8FHD
-rtsp://118.122.175.90/PLTV/88888893/224/3221226818/10000100000000060000000001366245_0.smil
-#EXTINF:-1 group-title="国内",CCTV 9FHD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227993/10000100000000060000000003751454_0.smil
-#EXTINF:-1 group-title="国内",CCTV 9FHD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227993/10000100000000060000000003751454_0.smil
-#EXTINF:-1 group-title="国内",CCTV 10FHD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227995/10000100000000060000000003751458_0.smil
-#EXTINF:-1 group-title="国内",CCTV 10FHD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227995/10000100000000060000000003751458_0.smil
-#EXTINF:-1 group-title="国内",CCTV 12FHD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227986/10000100000000060000000003751507_0.smil
-#EXTINF:-1 group-title="国内",CCTV 12FHD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227986/10000100000000060000000003751507_0.smil
-#EXTINF:-1 group-title="国内",CCTV 14FHD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227992/10000100000000060000000003751527_0.smil
-#EXTINF:-1 group-title="国内",CCTV 14FHD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227992/10000100000000060000000003751527_0.smil
-#EXTINF:-1 group-title="国内",河北卫视高清
-rtsp://118.122.175.90/PLTV/88888888/224/3221228435/585951204.smil
-#EXTINF:-1 group-title="国内",贵州卫视高清
-rtsp://118.122.175.90/PLTV/88888888/224/3221228407/585951205.smil
-#EXTINF:-1 group-title="国内",重庆卫视高清
-rtsp://118.122.175.90/PLTV/88888896/224/3221228005/10000100000000060000000003751248_0.smil
-#EXTINF:-1 group-title="国内",重庆卫视高清
-rtsp://118.122.175.90/PLTV/88888896/224/3221227947/10000100000000060000000003734394_0.smil
-#EXTINF:-1 group-title="国内",峨眉电影HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227951/10000100000000060000000003709052_0.smil
-#EXTINF:-1 group-title="国内",湖南卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227953/10000100000000060000000003734332_0.smil
-#EXTINF:-1 group-title="国内",江苏卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227959/10000100000000060000000003734295_0.smil
-#EXTINF:-1 group-title="国内",浙江卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227968/10000100000000060000000003734350_0.smil
-#EXTINF:-1 group-title="国内",东方卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227922/10000100000000060000000003734364_0.smil
-#EXTINF:-1 group-title="国内",北京卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227987/10000100000000060000000003734368_0.smil
-#EXTINF:-1 group-title="国内",深圳卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227965/10000100000000060000000003734360_0.smil
-#EXTINF:-1 group-title="国内",江西卫视HD
-rtsp://118.122.175.90/PLTV/88888888/224/3221228430/585951199.smil
-#EXTINF:-1 group-title="国内",四川卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227965/10000100000000060000000003734360_0.smil
-#EXTINF:-1 group-title="国内",四川卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227981/10000100000000060000000003732199_0.smil
-#EXTINF:-1 group-title="国内",天津卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227956/10000100000000060000000003734376_0.smil
-#EXTINF:-1 group-title="国内",湖北卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227974/10000100000000060000000003734390_0.smil
-#EXTINF:-1 group-title="国内",广东卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227971/10000100000000060000000003742736_0.smil
-#EXTINF:-1 group-title="国内",山东卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227980/10000100000000060000000003734383_0.smil
-#EXTINF:-1 group-title="国内",黑龙江卫视HD
-rtsp://118.122.175.90/PLTV/88888896/224/3221227977/10000100000000060000000003743094_0.smil
-#EXTINF:-1 group-title="国内",四川三套HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227904/10000100000000060000000003706213_0.smi
-#EXTINF:-1 group-title="国内",湖南卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227953/10000100000000060000000003734332_0.smil
-#EXTINF:-1 group-title="国内",江苏卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227959/10000100000000060000000003734295_0.smil
-#EXTINF:-1 group-title="国内",浙江卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227968/10000100000000060000000003734350_0.smil
-#EXTINF:-1 group-title="国内",东方卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227922/10000100000000060000000003734364_0.smil
-#EXTINF:-1 group-title="国内",北京卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227987/10000100000000060000000003734368_0.smil
-#EXTINF:-1 group-title="国内",深圳卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227965/10000100000000060000000003734360_0.smil
-#EXTINF:-1 group-title="国内",深圳卫视HD
-rtsp://118.122.175.87:554/PLTV/88888896/224/3221227965/10000100000000060000000003734360_0.smil
-#EXTINF:-1 group-title="国内",天津卫视FHD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227956/10000100000000060000000003734376_0.smil
-#EXTINF:-1 group-title="国内",湖北卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227974/10000100000000060000000003734390_0.smil
-#EXTINF:-1 group-title="国内",广东卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227971/10000100000000060000000003742736_0.smil
-#EXTINF:-1 group-title="国内",山东卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227980/10000100000000060000000003734383_0.smil
-#EXTINF:-1 group-title="国内",黑龙江卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227977/10000100000000060000000003743094_0.smil
-#EXTINF:-1 group-title="国内",四川卫视HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227981/10000100000000060000000003732199_0.smil
-#EXTINF:-1 group-title="国内",四川卫视HD
-rtsp://118.122.175.87:554/PLTV/88888896/224/3221227981/10000100000000060000000003732199_0.smil
-#EXTINF:-1 group-title="国内",四川文化旅游HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227905/10000100000000060000000003706211_0.smil
-#EXTINF:-1 group-title="国内",四川文化旅游HD
-rtsp://118.122.175.87:554/PLTV/88888896/224/3221227905/10000100000000060000000003706211_0.smil
-#EXTINF:-1 group-title="国内",四川经济HD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227904/10000100000000060000000003706213_0.smil
-#EXTINF:-1 group-title="国内",四川经济HD
-rtsp://118.122.175.87:554/PLTV/88888896/224/3221227904/10000100000000060000000003706213_0.smil
-#EXTINF:-1 group-title="国内",直播室17-FHD
-rtsp://118.122.175.92:554/PLTV/88888896/224/3221227947/10000100000000060000000003734394_0.smil
-#EXTINF:-1 group-title="国内",超级体育1
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226218/10000100000000060000000000223609_0.smil
-#EXTINF:-1 group-title="国内",超级体育1
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226218/10000100000000060000000000223609_0.smil
-#EXTINF:-1 group-title="国内",超级体育2
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226687/10000100000000060000000000223610_0.smil
-#EXTINF:-1 group-title="国内",超级体育2
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226687/10000100000000060000000000223610_0.smil
-#EXTINF:-1 group-title="国内",超级体育3
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226220/10000100000000060000000000223611_0.smil
-#EXTINF:-1 group-title="国内",超级体育3
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226220/10000100000000060000000000223611_0.smil
-#EXTINF:-1 group-title="国内",超级体育4
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226689/10000100000000060000000000223612_0.smil
-#EXTINF:-1 group-title="国内",超级体育4
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226689/10000100000000060000000000223612_0.smil
-#EXTINF:-1 group-title="国内",超级体育5
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226222/10000100000000060000000000223613_0.smil
-#EXTINF:-1 group-title="国内",超级体育5
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226222/10000100000000060000000000223613_0.smil
-#EXTINF:-1 group-title="国内",超级体育6
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226691/10000100000000060000000000223614_0.smil
-#EXTINF:-1 group-title="国内",超级体育6
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226691/10000100000000060000000000223614_0.smil
-#EXTINF:-1 group-title="国内",超级体育7
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226224/10000100000000060000000000223615_0.smil
-#EXTINF:-1 group-title="国内",超级体育7
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226224/10000100000000060000000000223615_0.smil
-#EXTINF:-1 group-title="国内",超级体育8
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221226709/10000100000000060000000000291473_0.smil
-#EXTINF:-1 group-title="国内",超级体育8
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226709/10000100000000060000000000291473_0.smil
-#EXTINF:-1 group-title="国内",超级体育9
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221227026/10000100000000060000000003216415_0.smil
-#EXTINF:-1 group-title="国内",超级体育9
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221227026/10000100000000060000000003216415_0.smil
-#EXTINF:-1 group-title="国内",超级体育10
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221227451/10000100000000060000000003216416_0.smil
-#EXTINF:-1 group-title="国内",超级体育10
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221227451/10000100000000060000000003216416_0.smil
-#EXTINF:-1 group-title="国内",超级体育11
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221227028/10000100000000060000000003216417_0.smil
-#EXTINF:-1 group-title="国内",超级体育11
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221227028/10000100000000060000000003216417_0.smil
-#EXTINF:-1 group-title="国内",超级体育12
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221227453/10000100000000060000000003216418_0.smil
-#EXTINF:-1 group-title="国内",超级体育12
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221227453/10000100000000060000000003216418_0.smil
-#EXTINF:-1 group-title="国内",超级体育13
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221227030/10000100000000060000000003216419_0.smil
-#EXTINF:-1 group-title="国内",超级体育13
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221227030/10000100000000060000000003216419_0.smil
-#EXTINF:-1 group-title="国内",超级体育14
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221227032/10000100000000060000000003216420_0.smil
-#EXTINF:-1 group-title="国内",超级体育14
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221227032/10000100000000060000000003216420_0.smil
-#EXTINF:-1 group-title="国内",超级体育15
-rtsp://118.122.175.92:554/PLTV/88888893/224/3221227455/10000100000000060000000003216421_0.smi
-#EXTINF:-1 group-title="国内",超级体育15l
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221227455/10000100000000060000000003216421_0.smil
-#EXTINF:-1 group-title="国内",CCTV 1高清
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226889/10000100000000060000000000622347_0.smil
-#EXTINF:-1 group-title="国内",CCTV 1高清
-rtsp://1.58.127.199/PLTV/88888888/224/3221225667/10000100000000060000000000191198_0.smil
-#EXTINF:-1 group-title="国内",CCTV 2高清
-rtsp://118.122.175.87:554/PLTV/88888888/224/3221226325/00000100000000060000000000035261_0.smil
-#EXTINF:-1 group-title="国内",CCTV 3高清
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226816/10000100000000060000000001366243_0.smil
-#EXTINF:-1 group-title="国内",CCTV 4高清
-rtsp://118.122.175.87:554/PLTV/88888888/224/3221226127/00000100000000060000000000035154_0.smil
-#EXTINF:-1 group-title="国内",CCTV 5高清
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
-#EXTINF:-1 group-title="国内",CCTV 6高清
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226820/10000100000000060000000001366343_0.smil
-#EXTINF:-1 group-title="国内",CCTV 7高清
-rtsp://118.122.175.87:554/PLTV/88888888/224/3221226129/00000100000000060000000000035155_0.smil
-#EXTINF:-1 group-title="国内",CCTV 7高清
-rtsp://1.58.127.233/PLTV/88888888/224/3221225697/10000100000000060000000000197829_0.smil
-#EXTINF:-1 group-title="国内",CCTV 8高清
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221226818/10000100000000060000000001366245_0.smil
-#EXTINF:-1 group-title="国内",CCTV 9高清
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221227177/10000100000000060000000001157269_0.smil
-#EXTINF:-1 group-title="国内",CCTV 10高清
-rtsp://118.122.175.87:554/PLTV/88888888/224/3221226135/00000100000000060000000000035159_0.smil
-#EXTINF:-1 group-title="国内",CCTV 10高清
-rtsp://1.58.127.233/PLTV/88888888/224/3221225647/10000100000000060000000000189159_0.smil
-#EXTINF:-1 group-title="国内",CCTV 11高清
-rtsp://118.122.175.87:554/PLTV/88888893/224/3221227151/10000100000000060000000001098363_0.smil
-#EXTINF:-1 group-title="国内",CCTV 12高清
-rtsp://118.122.175.87:554/PLTV/88888888/224/3221226133/00000100000000060000000000035158_0.smil
-#EXTINF:-1 group-title="国内",CCTV 12高清
-rtsp://1.58.127.233/PLTV/88888888/224/3221225625/10000100000000060000000000186154_0.smil
-#EXTINF:-1 group-title="国内",CCTV 13高清
-rtsp://118.122.175.87:554/PLTV/88888888/224/3221226283/00000100000000060000000000035237_0.smil
-#EXTINF:-1 group-title="国内",CCTV 14高清
-rtsp://118.122.175.87:554/PLTV/88888888/224/3221226285/00000100000000060000000000035238_0.smil
-#EXTINF:-1 group-title="国内",CCTV 14高清
-rtsp://1.58.127.233/PLTV/88888888/224/3221225698/10000100000000060000000000197897_0.smil
-#EXTINF:-1 group-title="国内",CCTV 15高清
-rtsp://118.122.175.87:554/PLTV/88888888/224/3221226287/00000100000000060000000000035239_0.smil
-#EXTINF:-1 group-title="国内",湖南卫视高清
-rtsp://118.122.175.87:554/PLTV/88888896/224/3221227953/10000100000000060000000003734332_0.smil
-#EXTINF:-1 group-title="国内",湖南卫视高清
-rtsp://1.58.127.200/PLTV/88888888/224/3221225661/10000100000000060000000000191222_0.smil
-#EXTINF:-1 group-title="国内",湖南卫视高清
-rtsp://1.58.127.233/PLTV/88888888/224/3221225616/10000100000000060000000000185916_0.smil
-#EXTINF:-1 group-title="国内",江苏卫视高清
-rtsp://118.122.175.87:554/PLTV/88888896/224/3221227959/10000100000000060000000003734295_0.smil
-#EXTINF:-1 group-title="国内",江苏卫视高清
-rtsp://1.58.127.233/PLTV/88888888/224/3221225668/10000100000000060000000000191197_0.smil
-#EXTINF:-1 group-title="国内",浙江卫视高清
-rtsp://118.122.175.87:554/PLTV/88888896/224/3221227968/10000100000000060000000003734350_0.smil
-#EXTINF:-1 group-title="国内",浙江卫视高清
-rtsp://1.58.127.204/PLTV/88888888/224/3221225669/10000100000000060000000000191196_0.smil
-#EXTINF:-1 group-title="国内",浙江卫视高清
-rtsp://1.58.127.233/PLTV/88888888/224/3221225617/10000100000000060000000000185920_0.smil
-#EXTINF:-1 group-title="国内",东方卫视高清
-rtsp://118.122.175.87:554/PLTV/88888896/224/3221227922/10000100000000060000000003734364_0.smil
-#EXTINF:-1 group-title="国内",东方卫视高清
-rtsp://1.58.127.207/PLTV/88888888/224/3221225670/10000100000000060000000000191193_0.smil
-#EXTINF:-1 group-title="国内",北京卫视高清
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",e娱乐
+http://dlhls.live.cnlive.com:1935/cdn/eyule/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",i综艺
+http://dlhls.live.cnlive.com:1935/cdn/izongyi/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",JUSTMINTV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",JUSTMINTV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",JUSTMINTV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv上海纪实
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225769/3.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",NewTV健康有约
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225545/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv全纪实
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/3.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv动作电影
+http://183.207.249.15/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv动画王国
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",NewTV动画王国FHD
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",NewTV家庭剧场
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv家庭剧场
+http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv惊悚悬疑
+http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",NewTV搏击
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226656/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",NewTV搏击
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv明星大片
+http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",NewTV明星大片FHD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",NewTV海外剧场
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225547/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",NewTV潮妈辣婆
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226983/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv精品体育
+http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv精品大剧
+http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",NewTV精品大剧FHD
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv精品电影
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",NewTV精品电影FHD
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv精品记录
+http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",NewTV精品记录FHD
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv都市剧场
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225754/3.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",Newtv金牌综艺
+http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",SDETV
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",TVB-财经资讯台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",TVS2
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",鳳凰資訊2
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",东森新闻
+http://ax.micaesoft.com/YMitv/YMITV_CN_DSnew.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",中天新聞
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",中天新闻
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",亞洲新聞
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",人間衛視
+http://61.216.177.73/sta/ch1865016.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",优视频道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",信吉HD
+http://61.216.177.73/sta/ch1865002.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰中文
+http://117.169.120.217:8080/live/fhchinese/.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰中文 HD
+http://223.82.250.72/live/fhchinese/1.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰中文（HD）
+http://223.110.243.158/PLTV/3/224/3221226922/1.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰中文HD
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰中文HD
+http://223.82.250.72/ysten-bussiness/live/fhchinese/1.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰中文台超清
+http://223.110.243.146/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰卫视中文台
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰卫视中文台
+http://hbzx.chinashadt.com:2036/zhibo/zx2.stream/chunklist_w851016188.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰卫视资讯台
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰资讯
+http://117.169.120.209:8080/live/fhzixun/.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰资讯
+http://117.169.120.217:8080/live/fhzixun/.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰资讯
+http://183.251.61.198/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰资讯 HD
+http://223.82.250.72/live/fhzixun/1.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰资讯（HD）
+http://223.110.243.158/PLTV/3/224/3221226923/1.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰资讯（HD）
+http://223.110.243.158/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰资讯HD
+http://223.82.250.72/ysten-bussiness/live/fhzixun/1.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰资讯HD
+http://live.fengshows.com/live/PIN_500k/index.m3u8?ts=1534293674089&token=4b6d42d1074cfe540adbcbe0c1c34126
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰资讯台
+http://live.italkdd.com/cds160/hls/channel002/channel002_2000.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰香港
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰香港
+http://live.fengshows.com/live/PHK_500k/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰香港
+http://live.fengshows.com/live/PHK_500k/index.m3u8?ts=&token=
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰香港（HD）
+http://223.110.243.158/PLTV/3/224/3221226975/1.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰香港（HD）
+http://223.110.243.158/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰香港HD
+http://223.82.250.72/ysten-bussiness/live/fhhongkong/1.m3u8凤凰香港HD
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰香港台超清
+http://223.110.243.146/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰香港高清
+http://223.82.250.72/live/fhhongkong/1.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凱亞電視
+http://61.216.177.73/sta/ch1865003.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",卡塔尔半岛台
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",卫视中文台
+http://119.59.125.74/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",台湾-壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",台湾-民视新闻
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",唯心电视台wxtv
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",壹新聿
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",壹新闻
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",天良HD
+http://61.216.177.73/sta/ch1865001.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",奇妙电视台
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",好消息台1
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",好消息台2
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",好消息台3
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",客家電視
+http://61.216.177.73/sta/ch1865024.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",富立HD
+http://61.216.177.73/sta/ch1865022.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",意大利 VIBEE TV
+http://139.59.166.48:8081/live/live3/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",探索科学
+http://122.155.180.8:5021/live/457
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",新加坡卫视中文台
+http://159.65.5.234/29a09591a6604ff3b798cd7ef809e4bd.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",星卫电影台
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",東森購物1
+http://61.216.177.73/sta/ch1865020.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",東森購物2
+http://61.216.177.73/sta/ch1865018.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",東森購物3
+http://61.216.177.73/sta/ch1865019.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",東森購物4
+http://61.216.177.73/sta/ch1865017.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",東森購物5
+http://61.216.177.73/sta/ch1865021.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",民视
+http://ax.micaesoft.com/YMitv/YMITV_CN_MS.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",民视新闻
+http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视体育
+http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视体育
+http://103.233.191.135:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视体育
+http://103.233.191.136:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视卫星
+http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视卫星
+http://103.233.191.135:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视卫星
+http://103.233.191.136:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视卫星『标清』
+http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视卫星『标清』
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视澳门
+http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视澳门
+http://103.233.191.135:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视澳门『标清』
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视资讯
+http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视资讯
+http://103.233.191.136:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视资讯『标清』
+http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视高清
+http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视高清
+http://103.233.191.135:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视高清
+http://103.233.191.136:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳视高清『超清』
+http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳門Macau
+http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳门卫视
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳门卫视（赛马）2
+http://mjcao-001.wecast.hk:1935/live/480x360chinese/chunklist_w760796776.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳门澳视
+http://103.233.191.136:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳门莲花
+http://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1998934325.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳门资讯
+http://103.233.191.135:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳门资讯
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",環球電影頻道
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",生命電視
+http://61.216.177.73/sta/ch1865007.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",电音DJ SE7EN MUSIC 音乐频道
+http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_61157635_5292797.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",第1财经
+http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",索尼电影
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",翡翠台jade
+http://123.207.42.38/tvb.php?type=jade
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",香港电影频道
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",鳳凰中文2
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
