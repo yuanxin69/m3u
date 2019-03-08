@@ -1,0 +1,289 @@
+{
+
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+
+	"title": "频道杂集1",
+
+
+
+	"channels": [
+
+		
+
+		{
+
+			"name":"HBO",
+
+			"url": "http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8"
+
+		},
+
+		{
+
+			"name":"新视觉",
+
+			"url": "http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/xsjhd/2300000/live.m3u8"
+
+		},
+
+		
+
+		{
+
+			"name":"RED BULL TV FHD",
+
+			"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"
+
+		},
+
+		{
+
+			"name":"RED BULL HD",
+
+			"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+
+		},
+
+		{
+
+			"name":"RED BULL SD",
+
+			"url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8"
+
+		},
+
+
+
+		{
+
+			"name":"上海纪实",
+
+			"url": "http://hw-stream.kksmg.com/hls/channel1061/index.m3u8"
+
+		},
+
+		{
+
+			"name":"艺术人文",
+
+			"url": "http://hw-stream.kksmg.com/hls/channel1071/index.m3u8"
+
+		},
+
+		{
+
+			"name":"上海外语",
+
+			"url": "http://hw-stream.kksmg.com/hls/channel1081/index.m3u8"
+
+		},
+
+		{
+
+			"name":"上海都市",
+
+			"url": "http://live-stream.kksmg.com/hls/ylpde66e9037_7bf15f94aa8a107352bc28c6/playlist.m3u8"
+
+		},
+
+		{
+
+			"name":"上海新闻",
+
+			"url": "http://live-stream.kksmg.com/hls/stv7af3c4ee_5ed4462f9ba057dadf59f2e3/playlist.m3u8"
+
+		},
+
+		{
+
+			"name":"TVS1经济科教",
+
+			"url": "http://gdlive.grtn.cn/newtvs1/hd/live.m3u8"
+
+		},
+
+		{
+
+			"name":"TVS2南方卫视",
+
+			"url": "http://gdlive.grtn.cn/newtvs2/sd/live.m3u8"
+
+		},
+
+		{
+
+			"name":"TVS3广东综艺",
+
+			"url": "http://stream1.grtn.cn/4K/sd/live.m3u8"
+
+		},
+
+		{
+
+			"name":"TVS4广东影视",
+
+			"url": "http://gdlive.grtn.cn/newtvs4/sd/live.m3u8"
+
+		},
+
+		{
+
+			"name":"TVS5广东少儿",
+
+			"url": "http://gdlive.grtn.cn/newtvs5/sd/live.m3u8"
+
+		},
+
+		{
+
+			"name":"杭州1",
+
+			"url": "http://125.210.152.20:9090/live/HZZH.m3u8"
+
+		},
+
+		{
+
+			"name":"杭州2",
+
+			"url": "http://125.210.152.20:9090/live/XHMZ.m3u8"
+
+		},
+
+		{
+
+			"name":"杭州3",
+
+			"url": "http://125.210.152.20:9090/live/HZSH.m3u8"
+
+		},
+
+		{
+
+			"name":"杭州4",
+
+			"url": "http://125.210.152.20:9090/live/HZYS.m3u8"
+
+		},
+
+		{
+
+			"name":"杭州5",
+
+			"url": "http://125.210.152.20:9090/live/HZSE.m3u8"
+
+		},
+
+		{
+
+			"name":"杭州6",
+
+			"url": "http://125.210.152.20:9090/live/HZFC.m3u8"
+
+		},
+
+		
+
+		{
+
+			"name":"Newtv动作电影",
+
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8"
+
+		},
+
+		{
+
+			"name":"Newtv动画王国",
+
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8"
+
+		},
+
+		{
+
+			"name":"Newtv古装剧场",
+
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8"
+
+		},
+
+		{
+
+			"name":"Newtv明星大片",
+
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8"
+
+		},
+
+		{
+
+			"name":"Newtv惊悚悬疑",
+
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8"
+
+		},
+
+		{
+
+			"name":"Newtv金牌综艺",
+
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8"
+
+		},
+
+		{
+
+			"name":"Newtv精品电影",
+
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8"
+
+		},
+
+		{
+
+			"name":"Newtv爱情喜剧",
+
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8"
+
+		},
+
+		{
+
+			"name":"Newtv海外剧场",
+
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8"
+
+		},
+
+		{
+
+			"name":"Newtv精品体育",
+
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8"
+
+		},
+
+		{
+
+			"name":"Newtv精品记录",
+
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8"
+
+		}
+
+		
+
+
+
+
+
+		
+
+
+
+	]
+
+
+
+}
