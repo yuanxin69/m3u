@@ -1,0 +1,67 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="电视台",HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1 group-title="电视台",新视觉
+http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/xsjhd/2300000/live.m3u8
+#EXTINF:-1 group-title="电视台",RED BULL TV FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="电视台",RED BULL HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="电视台",RED BULL SD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="电视台",上海纪实
+http://hw-stream.kksmg.com/hls/channel1061/index.m3u8
+#EXTINF:-1 group-title="电视台",艺术人文
+http://hw-stream.kksmg.com/hls/channel1071/index.m3u8
+#EXTINF:-1 group-title="电视台",上海外语
+http://hw-stream.kksmg.com/hls/channel1081/index.m3u8
+#EXTINF:-1 group-title="电视台",上海都市
+http://live-stream.kksmg.com/hls/ylpde66e9037_7bf15f94aa8a107352bc28c6/playlist.m3u8
+#EXTINF:-1 group-title="电视台",上海新闻
+http://live-stream.kksmg.com/hls/stv7af3c4ee_5ed4462f9ba057dadf59f2e3/playlist.m3u8
+#EXTINF:-1 group-title="电视台",TVS1经济科教
+http://gdlive.grtn.cn/newtvs1/hd/live.m3u8
+#EXTINF:-1 group-title="电视台",TVS2南方卫视
+http://gdlive.grtn.cn/newtvs2/sd/live.m3u8
+#EXTINF:-1 group-title="电视台",TVS3广东综艺
+http://stream1.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 group-title="电视台",TVS4广东影视
+http://gdlive.grtn.cn/newtvs4/sd/live.m3u8
+#EXTINF:-1 group-title="电视台",TVS5广东少儿
+http://gdlive.grtn.cn/newtvs5/sd/live.m3u8
+#EXTINF:-1 group-title="电视台",杭州1
+http://125.210.152.20:9090/live/HZZH.m3u8
+#EXTINF:-1 group-title="电视台",杭州2
+http://125.210.152.20:9090/live/XHMZ.m3u8
+#EXTINF:-1 group-title="电视台",杭州3
+http://125.210.152.20:9090/live/HZSH.m3u8
+#EXTINF:-1 group-title="电视台",杭州4
+http://125.210.152.20:9090/live/HZYS.m3u8
+#EXTINF:-1 group-title="电视台",杭州5
+http://125.210.152.20:9090/live/HZSE.m3u8
+#EXTINF:-1 group-title="电视台",杭州6
+http://125.210.152.20:9090/live/HZFC.m3u8
+#EXTINF:-1 group-title="电视台",Newtv动作电影
+http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="电视台",Newtv动画王国
+http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="电视台",Newtv古装剧场
+http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 group-title="电视台",Newtv明星大片
+http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="电视台",Newtv惊悚悬疑
+http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="电视台",Newtv金牌综艺
+http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="电视台",Newtv精品电影
+http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 group-title="电视台",Newtv爱情喜剧
+http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="电视台",Newtv海外剧场
+http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="电视台",Newtv精品体育
+http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="电视台",Newtv精品记录
+http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
