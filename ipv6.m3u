@@ -1,4 +1,6 @@
-＃EXTM3U
+#EXTM3U
+
+
 #EXTINF:-1 group-title="IPV6",CCTV-1综合---高清
 http://[2001:da8:500d:4::102]/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="IPV6",CCTV-2财经---高清
