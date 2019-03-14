@@ -1,0 +1,161 @@
+＃EXTM3U
+#EXTINF:-1 group-title="IPV6",CCTV-1综合---高清
+http://[2001:da8:500d:4::102]/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-2财经---高清
+http://[2001:da8:500d:4::102]/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-3综艺---高清
+http://[2001:da8:500d:4::102]/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-4中文国际---高清
+http://[2001:da8:500d:4::102]/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-5体育---高清
+http://[2001:da8:500d:4::102]/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-5+体育---高清
+http://[2001:da8:500d:4::102]/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-6电影---高清
+http://[2001:da8:500d:4::102]/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-7军事农业---高清
+http://[2001:da8:500d:4::102]/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-8电视剧---高清
+http://[2001:da8:500d:4::102]/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-9纪录---高清
+http://[2001:da8:500d:4::102]/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-10科教---高清
+http://[2001:da8:500d:4::102]/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-11戏曲---标清
+http://[2001:da8:500d:4::102]/hls/cctv11.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-12社会与法---高清
+http://[2001:da8:500d:4::102]/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-13新闻---标清
+http://[2001:da8:500d:4::102]/hls/cctv13.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-14少儿---高清
+http://[2001:da8:500d:4::102]/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="IPV6",CCTV-15音乐---标清
+http://[2001:da8:500d:4::102]/hls/cctv15.m3u8
+#EXTINF:-1 group-title="IPV6",CHC电影---高清
+http://[2001:da8:500d:4::102]/hls/chchd.m3u8
+#EXTINF:-1 group-title="IPV6",北京卫视---高清
+http://[2001:da8:500d:4::102]/hls/btv1hd.m3u8
+#EXTINF:-1 group-title="IPV6",北京文艺---高清
+http://[2001:da8:500d:4::102]/hls/btv2hd.m3u8
+#EXTINF:-1 group-title="IPV6",北京体育---高清
+http://[2001:da8:500d:4::102]/hls/btv6hd.m3u8
+#EXTINF:-1 group-title="IPV6",北京纪实---高清
+http://[2001:da8:500d:4::102]/hls/btv11hd.m3u8
+#EXTINF:-1 group-title="IPV6",北京影视---高清
+http://[2001:da8:500d:4::102]/hls/btv4hd.m3u8
+#EXTINF:-1 group-title="IPV6",北京新闻---高清
+http://[2001:da8:500d:4::102]/hls/btv9hd.m3u8
+#EXTINF:-1 group-title="IPV6",北京科教---标清
+http://[2001:da8:500d:4::102]/hls/btv3.m3u8
+#EXTINF:-1 group-title="IPV6",北京财经---标清
+http://[2001:da8:500d:4::102]/hls/btv5.m3u8
+#EXTINF:-1 group-title="IPV6",北京生活---标清
+http://[2001:da8:500d:4::102]/hls/btv7.m3u8
+#EXTINF:-1 group-title="IPV6",北京青年---标清
+http://[2001:da8:500d:4::102]/hls/btv8.m3u8
+#EXTINF:-1 group-title="IPV6",湖南卫视---高清
+http://[2001:da8:500d:4::102]/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="IPV6",浙江卫视---高清
+http://[2001:da8:500d:4::102]/hls/zjhd.m3u8
+#EXTINF:-1 group-title="IPV6",江苏卫视---高清
+http://[2001:da8:500d:4::102]/hls/jshd.m3u8
+#EXTINF:-1 group-title="IPV6",东方卫视---高清
+http://[2001:da8:500d:4::102]/hls/dfhd.m3u8
+#EXTINF:-1 group-title="IPV6",黑龙江卫视---高清
+http://[2001:da8:500d:4::102]/hls/ahhd.m3u8
+#EXTINF:-1 group-title="IPV6",辽宁卫视---高清
+http://[2001:da8:500d:4::102]/hls/hljhd.m3u8
+#EXTINF:-1 group-title="IPV6",深圳卫视---高清
+http://[2001:da8:500d:4::102]/hls/szhd.m3u8
+#EXTINF:-1 group-title="IPV6",广东卫视---高清
+http://[2001:da8:500d:4::102]/hls/gdhd.m3u8
+#EXTINF:-1 group-title="IPV6",天津卫视---高清
+http://[2001:da8:500d:4::102]/hls/tjhd.m3u8
+#EXTINF:-1 group-title="IPV6",湖北卫视---高清
+http://[2001:da8:500d:4::102]/hls/hbhd.m3u8
+#EXTINF:-1 group-title="IPV6",山东卫视---高清
+http://[2001:da8:500d:4::102]/hls/sdhd.m3u8
+#EXTINF:-1 group-title="IPV6",重庆卫视---高清
+http://[2001:da8:500d:4::102]/hls/cqhd.m3u8
+#EXTINF:-1 group-title="IPV6",上海纪实---高清
+http://[2001:da8:500d:4::102]/hls/docuchina.m3u8
+#EXTINF:-1 group-title="IPV6",金鹰纪实---高清
+http://[2001:da8:500d:4::102]/hls/gedocu.m3u8
+#EXTINF:-1 group-title="IPV6",福建东南卫视---高清
+http://[2001:da8:500d:4::102]/hls/dnhd.m3u8
+#EXTINF:-1 group-title="IPV6",四川卫视---高清
+http://[2001:da8:500d:4::102]/hls/schd.m3u8
+#EXTINF:-1 group-title="IPV6",河北卫视---高清
+http://[2001:da8:500d:4::102]/hls/hebhd.m3u8
+#EXTINF:-1 group-title="IPV6",江西卫视---高清
+http://[2001:da8:500d:4::102]/hls/jxhd.m3u8
+#EXTINF:-1 group-title="IPV6",西藏卫视---标清
+http://[2001:da8:500d:4::102]/hls/xztv.m3u8
+#EXTINF:-1 group-title="IPV6",内蒙古卫视---标清
+http://[2001:da8:500d:4::102]/hls/nmtv.m3u8
+#EXTINF:-1 group-title="IPV6",青海卫视---标清
+http://[2001:da8:500d:4::102]/hls/qhtv.m3u8
+#EXTINF:-1 group-title="IPV6",山西卫视---标清
+http://[2001:da8:500d:4::102]/hls/sxrtv.m3u8
+#EXTINF:-1 group-title="IPV6",厦门卫视---标清
+http://[2001:da8:500d:4::102]/hls/xmtv.m3u8
+#EXTINF:-1 group-title="IPV6",新疆卫视---标清
+http://[2001:da8:500d:4::102]/hls/xjtv.m3u8
+#EXTINF:-1 group-title="IPV6",贵州卫视---标清
+http://[2001:da8:500d:4::102]/hls/gztv.m3u8
+#EXTINF:-1 group-title="IPV6",宁夏卫视---标清
+http://[2001:da8:500d:4::102]/hls/nxtv.m3u8
+#EXTINF:-1 group-title="IPV6",甘肃卫视---标清
+http://[2001:da8:500d:4::102]/hls/gstv.m3u8
+#EXTINF:-1 group-title="IPV6",兵团卫视---标清
+http://[2001:da8:500d:4::102]/hls/bttv.m3u8
+#EXTINF:-1 group-title="IPV6",延边卫视---标清
+http://[2001:da8:500d:4::102]/hls/ybtv.m3u8
+#EXTINF:-1 group-title="IPV6",旅游卫视---标清
+http://[2001:da8:500d:4::102]/hls/lytv.m3u8
+#EXTINF:-1 group-title="IPV6",CHC家庭影院---标清
+http://[2001:da8:500d:4::102]/hls/chctv.m3u8
+#EXTINF:-1 group-title="IPV6",CHC动作电影---标清
+http://[2001:da8:500d:4::102]/hls/chcatv.m3u8
+#EXTINF:-1 group-title="IPV6",金鹰卡通---标清
+http://[2001:da8:500d:4::102]/hls/jykttv.m3u8
+#EXTINF:-1 group-title="IPV6",中国教育电视台1---标清
+http://[2001:da8:500d:4::102]/hls/cetv1.m3u8
+#EXTINF:-1 group-title="IPV6",中国教育电视台3---标清
+http://[2001:da8:500d:4::102]/hls/cetv3.m3u8
+#EXTINF:-1 group-title="IPV6",中国教育电视台4---标清
+http://[2001:da8:500d:4::102]/hls/cetv4.m3u8
+#EXTINF:-1 group-title="IPV6",山东教育电视台---标清
+http://[2001:da8:500d:4::102]/hls/sdetv.m3u8
+#EXTINF:-1 group-title="IPV6",第一剧场---标清
+http://[2001:da8:500d:4::102]/hls/dyjctv.m3u8
+#EXTINF:-1 group-title="IPV6",风云剧场---标清
+http://[2001:da8:500d:4::102]/hls/fyjctv.m3u8
+#EXTINF:-1 group-title="IPV6",风云音乐---标清
+http://[2001:da8:500d:4::102]/hls/fyyytv.m3u8
+#EXTINF:-1 group-title="IPV6",风云足球---标清
+http://[2001:da8:500d:4::102]/hls/fyzqtv.m3u8
+#EXTINF:-1 group-title="IPV6",怀旧剧场---标清
+http://[2001:da8:500d:4::102]/hls/hjjctv.m3u8
+#EXTINF:-1 group-title="IPV6",世界地理---标清
+http://[2001:da8:500d:4::102]/hls/sjdltv.m3u8
+#EXTINF:-1 group-title="IPV6",国防军事---标清
+http://[2001:da8:500d:4::102]/hls/gfjstv.m3u8
+#EXTINF:-1 group-title="IPV6",全纪实---高清
+http://[2001:da8:500d:4::102]/hls/documentaryhd.m3u8
+#EXTINF:-1 group-title="IPV6",凤凰中文
+http://[2001:da8:500d:4::102]/hls/fhzw.m3u8
+#EXTINF:-1 group-title="IPV6",凤凰资讯
+http://[2001:da8:500d:4::102]/hls/fhzx.m3u8
+#EXTINF:-1 group-title="IPV6",凤凰电影
+http://[2001:da8:500d:4::102]/hls/fhdy.m3u8
+#EXTINF:-1 group-title="IPV6",Discovery
+http://[2001:da8:500d:4::102]/hls/discovery.m3u8
+#EXTINF:-1 group-title="IPV6",国家地理
+http://[2001:da8:500d:4::102]/hls/natlgeo.m3u8
+#EXTINF:-1 group-title="IPV6",Channel V
+http://[2001:da8:500d:4::102]/hls/channelv.m3u8
+#EXTINF:-1 group-title="IPV6",星空卫视
+http://[2001:da8:500d:4::102]/hls/startv.m3u8
+#EXTINF:-1 group-title="IPV6",Star Sports
+http://[2001:da8:500d:4::102]/hls/starsports.m3u8
